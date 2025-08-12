@@ -2,8 +2,8 @@ name: Grab EPG
 
 on:
   schedule:
-    - cron: "0 0,12 * * *" # Run at 00:00 UTC and 12:00 UTC
-  workflow_dispatch:       # Allow manual run
+    - cron: "0 0,12 * * *" # Twice daily (00:00 and 12:00 UTC)
+  workflow_dispatch:       # Allow manual trigger from GitHub UI
 
 jobs:
   grab:
@@ -33,7 +33,7 @@ jobs:
       - name: Run grabber with custom channels
         run: |
           cd epg-org
-          npm run grab --- --channels=../custom.channels.xml --maxConnections=10 --days=2 --gzip
+          npm run grab --- --channels=../epg/custom.channels.xml --maxConnections=10 --days=2 --gzip
           cp guide.xml ../guide.xml
           cp guide.xml.gz ../guide.xml.gz
 
