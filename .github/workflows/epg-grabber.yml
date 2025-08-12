@@ -3,7 +3,7 @@ name: Grab EPG
 on:
   schedule:
     - cron: "0 0,12 * * *" # Twice daily (00:00 and 12:00 UTC)
-  workflow_dispatch:       # Allow manual trigger from GitHub UI
+  workflow_dispatch:       # Allow manual trigger
 
 jobs:
   grab:
@@ -19,7 +19,7 @@ jobs:
           node-version: 20
 
       - name: Install Git
-        run: sudo apt-get update && sudo apt-get install -y git
+        run: sudo apt-get update && sudo apt-get install -y git python3 python3-pip
 
       - name: Clone EPG repo
         run: |
@@ -36,6 +36,10 @@ jobs:
           npm run grab --- --channels=../epg/custom.channels.xml --maxConnections=10 --days=2 --gzip
           cp guide.xml ../guide.xml
           cp guide.xml.gz ../guide.xml.gz
+
+      - name: Clean EPG file
+        run: |
+          python3 scripts/clean_epg.py
 
       - name: Commit and push EPG
         run: |
