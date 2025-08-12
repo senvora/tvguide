@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="tataplay.com" lang="en" xmltv_id="IndiaToday.in" site_id="1">INDIA TODAY</channel>
-  <channel site="jiotv.com" lang="en" xmltv_id="" site_id="146">History TV18 HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="" site_id="595">Star Gold Select HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="159098">SONY MAX HD</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="SamsungTVPlus/in#INBD21000016Y">The Movie Club</channel>
+  <channel site="content.astro.com.my" lang="ms" xmltv_id="" site_id="490">Zee Cinema</channel>
+  <channel site="sky.com" lang="en" xmltv_id="SkySportsCricket.uk@HD" site_id="4081">SkySpCricket HD</channel> 
+  <channel site="foxsports.com.au" lang="en" xmltv_id="FoxCricket.au" site_id="14">FOX Cricket</channel>  
 </channels>
