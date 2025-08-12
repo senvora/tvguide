@@ -35,8 +35,8 @@ jobs:
       - name: Run grabber with custom channels
         run: |
           cd epg-org
-          # Calculate UTC midnight for IST
-          START_UTC=$(date -u -d "$(date +'%Y-%m-%d') 00:00 Asia/Kolkata" +'%Y%m%d%H%M')
+          # Get IST midnight (today) in UTC as YYYYMMDDHHMM
+          START_UTC=$(TZ=Asia/Kolkata date +"%Y-%m-%d 00:00:00" | TZ=UTC date -f - +"%Y%m%d%H%M")
           npm run grab --- \
             --channels=../epg/custom.channels.xml \
             --maxConnections=10 \
