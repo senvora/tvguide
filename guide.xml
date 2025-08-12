@@ -1,160 +1,1014 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20250812">
-<channel id="595"><display-name>Star Gold Select HD</display-name><url>https://tataplay.com</url></channel>
-<channel id="159098"><display-name>SONY MAX HD</display-name><url>https://dishtv.in</url></channel>
-<channel id="SamsungTVPlus/in#INBD21000016Y"><display-name>The Movie Club</display-name><url>https://i.mjh.nz</url></channel>
-<channel id="490"><display-name>Zee Cinema</display-name><url>https://content.astro.com.my</url></channel>
-<channel id="SkySportsCricket.uk@HD"><display-name>SkySpCricket HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png"/><url>https://sky.com</url></channel>
-<channel id="FoxCricket.au"><display-name>FOX Cricket</display-name><icon src="https://i.imgur.com/V8hb6tJ.png"/><url>https://foxsports.com.au</url></channel>
-<programme start="20250811160000 +0000" stop="20250811190000 +0000" channel="490"><title lang="ms">Salaam Venky</title><desc lang="ms">Sujata, an ideal mother, who battled the most challenging situations one can ever face with a smile.</desc><category lang="ms">Drama</category><rating system="LPF"><value>U</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X846513.jpg</image></programme>
-<programme start="20250811190000 +0000" stop="20250811220000 +0000" channel="490"><title lang="ms">Army</title><desc lang="ms">Newly-wed Arjun, an army man, is brutally killed by Naagraj, a gangster. His wife, Geeta, determined to avenge her husband, raises an army of dedicated young men to kill Naagraj.</desc><category lang="ms">Action</category><rating system="LPF"><value>13</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X908334.jpg</image></programme>
-<programme start="20250811220000 +0000" stop="20250812010000 +0000" channel="490"><title lang="ms">Ek Vivaah... Aisa Bhi</title><desc lang="ms">A middle class girl, who lives with her family, falls in love with a rich boy. On the day of her engagement her father dies. In order to take care of her siblings, she must sacrifice her love.</desc><category lang="ms">Romance</category><rating system="LPF"><value>U</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X734330.jpg</image></programme>
-<programme start="20250812010000 +0000" stop="20250812040000 +0000" channel="490"><title lang="ms">Saheb Biwi Aur Gangster 3</title><desc lang="ms">Aditya returns from jail and tries to reclaim his political legacy. On meeting London-based gangster Uday, the war for the survival of the richest and the shrewdest begins.</desc><category lang="ms">Action</category><rating system="LPF"><value>18</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X738817.jpg</image></programme>
-<programme start="20250812040000 +0000" stop="20250812070000 +0000" channel="490"><title lang="ms">Behen Hogi Teri</title><desc lang="ms">Neighbours Gattu and Binniy are in love. But according to their localty, girls from the neighbourhood are to be considered sisters. How will their love story hold up?</desc><category lang="ms">Romance</category><rating system="LPF"><value>13</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X729767.jpg</image></programme>
-<programme start="20250812070000 +0000" stop="20250812100000 +0000" channel="490"><title lang="ms">Fitoor</title><desc lang="ms">Modern adaptation of Charles Dickens&apos; Great Expectations; a poor but talented boy falls in love with a girl from an affluent family.</desc><category lang="ms">Romance</category><rating system="LPF"><value>13</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X738811.jpg</image></programme>
-<programme start="20250812100000 +0000" stop="20250812130000 +0000" channel="490"><title lang="ms">Daddy</title><desc lang="ms">Arun Gawli, a young man, is forced to turn to crime for making a livelihood. However, what starts with a simple &apos;matka&apos; gambling ring, soon turns into a full-fledged criminal network.</desc><category lang="ms">Action</category><rating system="LPF"><value>18</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X742188.jpg</image></programme>
-<programme start="20250812130000 +0000" stop="20250812160000 +0000" channel="490"><title lang="ms">Batti Gul Meter Chalu</title><desc lang="ms">The life of three friends takes a tragic turn due to an inflated electricity bill, which leads to a courtroom drama and social awakening.</desc><category lang="ms">Drama</category><rating system="LPF"><value>13</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X743014.jpg</image></programme>
-<programme start="20250812160000 +0000" stop="20250812190000 +0000" channel="490"><title lang="ms">Saheb Biwi Aur Gangster 3</title><desc lang="ms">Aditya returns from jail and tries to reclaim his political legacy. On meeting London-based gangster Uday, the war for the survival of the richest and the shrewdest begins.</desc><category lang="ms">Action</category><rating system="LPF"><value>18</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X738817.jpg</image></programme>
-<programme start="20250812190000 +0000" stop="20250812220000 +0000" channel="490"><title lang="ms">Behen Hogi Teri</title><desc lang="ms">Neighbours Gattu and Binniy are in love. But according to their localty, girls from the neighbourhood are to be considered sisters. How will their love story hold up?</desc><category lang="ms">Romance</category><rating system="LPF"><value>13</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X729767.jpg</image></programme>
-<programme start="20250812220000 +0000" stop="20250813010000 +0000" channel="490"><title lang="ms">Fitoor</title><desc lang="ms">Modern adaptation of Charles Dickens&apos; Great Expectations; a poor but talented boy falls in love with a girl from an affluent family.</desc><category lang="ms">Romance</category><rating system="LPF"><value>13</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X738811.jpg</image></programme>
-<programme start="20250813010000 +0000" stop="20250813040000 +0000" channel="490"><title lang="ms">Daddy</title><desc lang="ms">Arun Gawli, a young man, is forced to turn to crime for making a livelihood. However, what starts with a simple &apos;matka&apos; gambling ring, soon turns into a full-fledged criminal network.</desc><category lang="ms">Action</category><rating system="LPF"><value>18</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X742188.jpg</image></programme>
-<programme start="20250813040000 +0000" stop="20250813070000 +0000" channel="490"><title lang="ms">Batti Gul Meter Chalu</title><desc lang="ms">The life of three friends takes a tragic turn due to an inflated electricity bill, which leads to a courtroom drama and social awakening.</desc><category lang="ms">Drama</category><rating system="LPF"><value>13</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X743014.jpg</image></programme>
-<programme start="20250813070000 +0000" stop="20250813100000 +0000" channel="490"><title lang="ms">Baaghi: Rebels in Love</title><desc lang="ms">A martial artist faces his biggest test when he has to travel to Bangkok to rescue the woman he loves from the clutches of his romantic rival.</desc><category lang="ms">Action</category><rating system="LPF"><value>18</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X725979.jpg</image></programme>
-<programme start="20250813100000 +0000" stop="20250813130000 +0000" channel="490"><title lang="ms">Wedding Pullav</title><desc lang="ms">Karan and Anushka are best friends. When Karan marries Riya, Anushka is going to marry Jay. Do fate and love have a twist in store for them?</desc><category lang="ms">Romance</category><rating system="LPF"><value>13</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X729713.jpg</image></programme>
-<programme start="20250813130000 +0000" stop="20250813160000 +0000" channel="490"><title lang="ms">Badla</title><desc lang="ms">When a woman is accused of killing her lover, a renowned lawyer is hired -- but the more they try to untangle the truth, the more convoluted it becomes.</desc><category lang="ms">Thriller</category><rating system="LPF"><value>13</value></rating><image>https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X725965.jpg</image></programme>
-<programme start="20250811204900 +0000" stop="20250811222100 +0000" channel="595"><title lang="en">Bioscopewala</title><desc lang="en">A woman meets her late dad&apos;s friend, who ran the Bioscope show she loved as a kid. Love and cinema connect India and Afghanistan in this story.</desc><icon src="http://ttpl.tmsimg.com/assets/p15920628_b_h8_ac.jpg?lock=1280x720"/></programme>
-<programme start="20250811222100 +0000" stop="20250811225700 +0000" channel="595"><title lang="en">Filler</title><desc lang="en">Filler</desc><icon src="http://ttpl.tmsimg.com/assets/p9162875_b_h8_ae.jpg?lock=1280x720"/></programme>
-<programme start="20250811225700 +0000" stop="20250812010200 +0000" channel="595"><title lang="en">Helicopter Eela</title><desc lang="en">Eela Raiturkar, an aspiring singer, gives up on her career after her husband abandons her and their son, Vivaan. However, years later, he encourages his mother to pursue her dream.</desc><icon src="http://ttpl.tmsimg.com/assets/p16093035_v_h8_aa.jpg?lock=1280x720"/></programme>
-<programme start="20250812010200 +0000" stop="20250812030600 +0000" channel="595"><title lang="en">Hum Tum Shabana</title><desc lang="en">Rishi and Karthik fall head over heels for Shabana, a participant in a beauty pageant. However, they are soon horrified to find out that her uncle is a dreaded gangster.</desc><icon src="http://ttpl.tmsimg.com/assets/p8914010_v_h10_aa.jpg?lock=1280x720"/></programme>
-<programme start="20250812030600 +0000" stop="20250812045300 +0000" channel="595"><title lang="en">Gurgaon</title><desc lang="en">Preet, the daughter of a real estate tycoon, is abducted by her own brother, Nikki. As her family tries to track her whereabouts, many secrets unravel and things take a nasty turn for them all.</desc><icon src="http://ttpl.tmsimg.com/assets/p15322804_v_h10_aa.jpg?lock=1280x720"/></programme>
-<programme start="20250812045300 +0000" stop="20250812071400 +0000" channel="595"><title lang="en">Kaabil</title><desc lang="en">Rohan, a visually impaired man, marries Supriya, the love of his life. Their happiness is tarnished when Supriya commits suicide after being raped by influential bandits.</desc><icon src="http://ttpl.tmsimg.com/assets/p13728886_v_h10_aa.jpg?lock=1280x720"/></programme>
-<programme start="20250812071400 +0000" stop="20250812092900 +0000" channel="595"><title lang="en">The Zoya Factor</title><desc lang="en">Zoya, who becomes the lucky charm of the Indian cricket team, is forced to choose between her career as a mascot or Nikhil, the love of her life and the captain of the Indian team.</desc><icon src="http://ttpl.tmsimg.com/assets/p16952777_v_h8_ab.jpg?lock=1280x720"/></programme>
-<programme start="20250812092900 +0000" stop="20250812112600 +0000" channel="595"><title lang="en">Satta</title><desc lang="en">Anuradha relocates to Mumbai and marries Vivek, an aspiring politician. However, complications arise when he is arrested for murder and she has to take his place in the upcoming elections.</desc><icon src="http://ttpl.tmsimg.com/assets/p28529970_v_h10_aa.jpg?lock=1280x720"/></programme>
-<programme start="20250812112600 +0000" stop="20250812133000 +0000" channel="595"><title lang="en">India&apos;s Most Wanted</title><desc lang="en">As a nod to the proverb fortune favours the brave, a ragtag team of heroes takes it upon themselves to apprehend one of India&apos;s most dreaded enemies.</desc><icon src="http://ttpl.tmsimg.com/assets/p16887791_v_h10_aa.jpg?lock=1280x720"/></programme>
-<programme start="20250812133000 +0000" stop="20250812153000 +0000" channel="595"><title lang="en">Ugly Aur Pagli</title><desc lang="en">Kabir&apos;s life takes a turn when he meets a quirky girl, Kuhu. However, what he fails to realise is that she is fighting boredom by trying to transform him into her obnoxious equal.</desc><icon src="http://ttpl.tmsimg.com/assets/p186990_v_h11_aa.jpg?lock=1280x720"/></programme>
-<programme start="20250812153000 +0000" stop="20250812182700 +0000" channel="595"><title lang="en">Mohenjo Daro</title><desc lang="en">Sarman, a poor farmer, arrives in Mohenjo Daro, a city ruled by the tyrant Maham. He learns about the history that his family shares with Maham and devises a plan to take revenge on him.</desc><icon src="http://ttpl.tmsimg.com/assets/p13115381_v_h10_ab.jpg?lock=1280x720"/></programme>
-<programme start="20250812182700 +0000" stop="20250812202300 +0000" channel="595"><title lang="en">Hate Story 3</title><desc lang="en">Aditya Dewan, a successful businessman, faces a dilemma upon the arrival of Saurav which disrupts his life as revenge comes knocking at his door.</desc><icon src="http://ttpl.tmsimg.com/assets/p12579828_v_h10_ab.jpg?lock=1280x720"/></programme>
-<programme start="20250812183000 +0000" stop="20250812213000 +0000" channel="595"><title lang="en">Movie</title><desc lang="en">Movie</desc><icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/></programme>
-<programme start="20250812213000 +0000" stop="20250813003000 +0000" channel="595"><title lang="en">Movie</title><desc lang="en">Movie</desc><icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/></programme>
-<programme start="20250813003000 +0000" stop="20250813033000 +0000" channel="595"><title lang="en">Movie</title><desc lang="en">Movie</desc><icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/></programme>
-<programme start="20250813033000 +0000" stop="20250813063000 +0000" channel="595"><title lang="en">Movie</title><desc lang="en">Movie</desc><icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/></programme>
-<programme start="20250813063000 +0000" stop="20250813093000 +0000" channel="595"><title lang="en">Movie</title><desc lang="en">Movie</desc><icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/></programme>
-<programme start="20250813093000 +0000" stop="20250813123000 +0000" channel="595"><title lang="en">Movie</title><desc lang="en">Movie</desc><icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/></programme>
-<programme start="20250813123000 +0000" stop="20250813153000 +0000" channel="595"><title lang="en">Movie</title><desc lang="en">Movie</desc><icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/></programme>
-<programme start="20250813153000 +0000" stop="20250813183000 +0000" channel="595"><title lang="en">Movie</title><desc lang="en">Movie</desc><icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/></programme>
-<programme start="20250812004600 +0000" stop="20250812021900 +0000" channel="159098"><title lang="en">Venom</title><title lang="hi">वेनोम</title><title lang="ta">வெனோம்</title><title lang="mr">वेनम</title><desc lang="en">A group of friends find themselves running for their very lives from Ray Sawyer, a reanimated corpse possessed by 13 evil souls, who has vicious plans for them.</desc><desc lang="ta">13 தீய ஆன்மாக்களால் புத்துயிர் பெற்ற பிணமான ரே சாயரிடமிருந்து ஒரு நண்பர்கள் குழு தங்கள் உயிரைக் காப்பாற்றிக் கொள்கிறது.</desc><credits><director>Jim Gillespie</director><actor>Agnes Bruckner</actor><actor>Jonathan Jackson</actor><actor>Laura Ramsey</actor><actor>D.J. Cotrona</actor><actor>Rick Cramer</actor><actor>Meagan Good</actor><actor>Bijou Phillips</actor><actor>Pawel Szadja</actor><actor>Davetta Sherwood</actor><actor>Stacey Travis</actor><actor>Marcus Lyle Brown</actor><actor>James Pickens Jr.</actor><actor>Method Man</actor><actor>Deborah Duke</actor><producer>Scott Faye</producer><producer>Karen Lauder</producer><producer>Kevin Williamson</producer></credits><date>20050101</date><category lang="en">Film</category><category lang="hi">फ़िल्म</category><category lang="ta">??????????</category><category lang="te">సినిమా</category><category lang="mr">चित्रपट</category><image>https://dtil.tmsimg.com/assets/p90285_v_h8_ac.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p90285_v_h9_ac.jpg?lock=880x660"/></programme>
-<programme start="20250812021900 +0000" stop="20250812060000 +0000" channel="159098"><title lang="en">Batla House</title><title lang="hi">बाटला हाउज</title><title lang="ta">பாட்லா ஹவுஸ்</title><title lang="te">బట్ల హౌస్</title><title lang="mr">बाटला हाऊस</title><desc lang="en">A police inspector and his team engage in a violent encounter with suspected terrorists. However, the deadly shootout receives nationwide criticism questioning its legitimacy.</desc><desc lang="hi">एक पुलिस इंस्पेक्टर और उसकी टीम, संदिग्ध आतंकवादियों के साथ हिंसक मुठभेड़ में शामिल हो जाती है। हालाँकि, घातक गोलीबारी, देश भर में आलोचना फैलाती है और इसकी वैधता पर सवाल उठते हैं।</desc><credits><director>Nikkhil Advani</director><actor>Mrunal Thakur</actor><actor>Nora Fatehi</actor><actor>John Abraham</actor><actor>Anil George</actor><actor>Rajesh Sharma</actor><actor>Sonam Arora</actor><actor>Sahidur Rahaman</actor><actor>Ravi Kishan</actor><actor>Amruta Sant</actor><actor>Kranti Prakash Jha</actor><producer>John Abraham</producer><producer>Monisha Advani</producer><producer>Madhu Bhojwani</producer><producer>Bhushan Kumar</producer><producer>Krishan Kumar</producer><producer>Sandeep Leyzell</producer></credits><date>20190101</date><category lang="en">Film</category><category lang="hi">फ़िल्म</category><category lang="ta">??????????</category><category lang="te">సినిమా</category><category lang="mr">चित्रपट</category><image>https://dtil.tmsimg.com/assets/p17230529_b_h8_aa.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p17230529_b_h9_aa.jpg?lock=880x660"/></programme>
-<programme start="20250812060000 +0000" stop="20250812090000 +0000" channel="159098"><title lang="en">Movie</title><title lang="hi">मूवी</title><title lang="ta">மூவி</title><title lang="te">మూవీ</title><title lang="mr">मूव्ही</title><desc lang="en">This is TV Show - Entertainment Category</desc><date>20000101</date><category lang="en">TV Show</category><category lang="hi">टीवी कार्यक्रम</category><category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category><category lang="te">టీవీ కార్య‌క్ర‌మం</category><category lang="mr">टीव्ही कार्यक्रम</category><image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"/></programme>
-<programme start="20250812090000 +0000" stop="20250812120000 +0000" channel="159098"><title lang="en">Movie</title><title lang="hi">मूवी</title><title lang="ta">மூவி</title><title lang="te">మూవీ</title><title lang="mr">मूव्ही</title><desc lang="en">This is TV Show - Entertainment Category</desc><date>20000101</date><category lang="en">TV Show</category><category lang="hi">टीवी कार्यक्रम</category><category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category><category lang="te">టీవీ కార్య‌క్ర‌మం</category><category lang="mr">टीव्ही कार्यक्रम</category><image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"/></programme>
-<programme start="20250812120000 +0000" stop="20250812150000 +0000" channel="159098"><title lang="en">Movie</title><title lang="hi">मूवी</title><title lang="ta">மூவி</title><title lang="te">మూవీ</title><title lang="mr">मूव्ही</title><desc lang="en">This is TV Show - Entertainment Category</desc><date>20000101</date><category lang="en">TV Show</category><category lang="hi">टीवी कार्यक्रम</category><category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category><category lang="te">టీవీ కార్య‌క్ర‌మం</category><category lang="mr">टीव्ही कार्यक्रम</category><image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"/></programme>
-<programme start="20250812150000 +0000" stop="20250812180000 +0000" channel="159098"><title lang="en">Movie</title><title lang="hi">मूवी</title><title lang="ta">மூவி</title><title lang="te">మూవీ</title><title lang="mr">मूव्ही</title><desc lang="en">This is TV Show - Entertainment Category</desc><date>20000101</date><category lang="en">TV Show</category><category lang="hi">टीवी कार्यक्रम</category><category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category><category lang="te">టీవీ కార్య‌క్ర‌మం</category><category lang="mr">टीव्ही कार्यक्रम</category><image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"/></programme>
-<programme start="20250812180000 +0000" stop="20250812210000 +0000" channel="159098"><title lang="en">Movie</title><title lang="hi">मूवी</title><title lang="ta">மூவி</title><title lang="te">మూవీ</title><title lang="mr">मूव्ही</title><desc lang="en">This is TV Show - Entertainment Category</desc><date>20000101</date><category lang="en">TV Show</category><category lang="hi">टीवी कार्यक्रम</category><category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category><category lang="te">టీవీ కార్య‌క్ర‌మం</category><category lang="mr">टीव्ही कार्यक्रम</category><image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"/></programme>
-<programme start="20250812210000 +0000" stop="20250813000000 +0000" channel="159098"><title lang="en">Movie</title><title lang="hi">मूवी</title><title lang="ta">மூவி</title><title lang="te">మూవీ</title><title lang="mr">मूव्ही</title><desc lang="en">This is TV Show - Entertainment Category</desc><date>20000101</date><category lang="en">TV Show</category><category lang="hi">टीवी कार्यक्रम</category><category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category><category lang="te">టీవీ కార్య‌క్ర‌మం</category><category lang="mr">टीव्ही कार्यक्रम</category><image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"/></programme>
-<programme start="20250813000000 +0000" stop="20250813030000 +0000" channel="159098"><title lang="en">Movie</title><title lang="hi">मूवी</title><title lang="ta">மூவி</title><title lang="te">మూవీ</title><title lang="mr">मूव्ही</title><desc lang="en">This is TV Show - Entertainment Category</desc><date>20000101</date><category lang="en">TV Show</category><category lang="hi">टीवी कार्यक्रम</category><category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category><category lang="te">టీవీ కార్య‌క్ర‌మం</category><category lang="mr">टीव्ही कार्यक्रम</category><image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"/></programme>
-<programme start="20250813030000 +0000" stop="20250813060000 +0000" channel="159098"><title lang="en">Movie</title><title lang="hi">मूवी</title><title lang="ta">மூவி</title><title lang="te">మూవీ</title><title lang="mr">मूव्ही</title><desc lang="en">This is TV Show - Entertainment Category</desc><date>20000101</date><category lang="en">TV Show</category><category lang="hi">टीवी कार्यक्रम</category><category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category><category lang="te">టీవీ కార్య‌క్ర‌మం</category><category lang="mr">टीव्ही कार्यक्रम</category><image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"/></programme>
-<programme start="20250813060000 +0000" stop="20250813090000 +0000" channel="159098"><title lang="en">Movie</title><title lang="hi">मूवी</title><title lang="ta">மூவி</title><title lang="te">మూవీ</title><title lang="mr">मूव्ही</title><desc lang="en">This is TV Show - Entertainment Category</desc><date>20000101</date><category lang="en">TV Show</category><category lang="hi">टीवी कार्यक्रम</category><category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category><category lang="te">టీవీ కార్య‌క్ర‌మం</category><category lang="mr">टीव्ही कार्यक्रम</category><image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"/></programme>
-<programme start="20250813090000 +0000" stop="20250813120000 +0000" channel="159098"><title lang="en">Movie</title><title lang="hi">मूवी</title><title lang="ta">மூவி</title><title lang="te">మూవీ</title><title lang="mr">मूव्ही</title><desc lang="en">This is TV Show - Entertainment Category</desc><date>20000101</date><category lang="en">TV Show</category><category lang="hi">टीवी कार्यक्रम</category><category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category><category lang="te">టీవీ కార్య‌క్ర‌మం</category><category lang="mr">टीव्ही कार्यक्रम</category><image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"/></programme>
-<programme start="20250813120000 +0000" stop="20250813150000 +0000" channel="159098"><title lang="en">Movie</title><title lang="hi">मूवी</title><title lang="ta">மூவி</title><title lang="te">మూవీ</title><title lang="mr">मूव्ही</title><desc lang="en">This is TV Show - Entertainment Category</desc><date>20000101</date><category lang="en">TV Show</category><category lang="hi">टीवी कार्यक्रम</category><category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category><category lang="te">టీవీ కార్య‌క్ర‌మం</category><category lang="mr">टीव्ही कार्यक्रम</category><image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"/></programme>
-<programme start="20250813150000 +0000" stop="20250813180000 +0000" channel="159098"><title lang="en">Movie</title><title lang="hi">मूवी</title><title lang="ta">மூவி</title><title lang="te">మూవీ</title><title lang="mr">मूव्ही</title><desc lang="en">This is TV Show - Entertainment Category</desc><date>20000101</date><category lang="en">TV Show</category><category lang="hi">टीवी कार्यक्रम</category><category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category><category lang="te">టీవీ కార్య‌క్ర‌మం</category><category lang="mr">टीव्ही कार्यक्रम</category><image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"/></programme>
-<programme start="20250813180000 +0000" stop="20250813210000 +0000" channel="159098"><title lang="en">Movie</title><title lang="hi">मूवी</title><title lang="ta">மூவி</title><title lang="te">మూవీ</title><title lang="mr">मूव्ही</title><desc lang="en">This is TV Show - Entertainment Category</desc><date>20000101</date><category lang="en">TV Show</category><category lang="hi">टीवी कार्यक्रम</category><category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category><category lang="te">టీవీ కార్య‌క్ర‌మం</category><category lang="mr">टीव्ही कार्यक्रम</category><image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"/></programme>
-<programme start="20250813210000 +0000" stop="20250814000000 +0000" channel="159098"><title lang="en">Movie</title><title lang="hi">मूवी</title><title lang="ta">மூவி</title><title lang="te">మూవీ</title><title lang="mr">मूव्ही</title><desc lang="en">This is TV Show - Entertainment Category</desc><date>20000101</date><category lang="en">TV Show</category><category lang="hi">टीवी कार्यक्रम</category><category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category><category lang="te">టీవీ కార్య‌క్ర‌మం</category><category lang="mr">टीव्ही कार्यक्रम</category><image>https://dtil.tmsimg.com/assets/p809737_b_h8_af.jpg?lock=1280x720</image><icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"/></programme>
-<programme start="20250811170000 +0000" stop="20250811204500 +0000" channel="FoxCricket.au"><title lang="en">Hundred</title><sub-title lang="en">Originals v Spirit</sub-title><desc lang="en">The Manchester Originals&apos; bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250811204500 +0000" stop="20250811234500 +0000" channel="FoxCricket.au"><title lang="en">T20 AUS v SA</title><sub-title lang="en">Game 1</sub-title><desc lang="en">Australia&apos;s impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250811234500 +0000" stop="20250812000500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">TRM v NSM</sub-title><desc lang="en">Northern Superchargers travel to take on Trent Rockets and Marcus Stoinis&apos;s bowling attack.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812000500 +0000" stop="20250812002500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Women&apos;s Mini</title><sub-title lang="en">TRW v NSW</sub-title><desc lang="en">Ashleigh Gardner and Alana King test Annabel Sutherland in Nottingham as Rockets face Superchargers.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812002500 +0000" stop="20250812004500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">TRM v NSM</sub-title><desc lang="en">Northern Superchargers travel to take on Trent Rockets and Marcus Stoinis&apos;s bowling attack.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812004500 +0000" stop="20250812014500 +0000" channel="FoxCricket.au"><title lang="en">T20 AUS v SA</title><sub-title lang="en">Game 1</sub-title><desc lang="en">Australia&apos;s impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812014500 +0000" stop="20250812020500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">MOM v LSM</sub-title><desc lang="en">The Manchester Originals&apos; bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812020500 +0000" stop="20250812022500 +0000" channel="FoxCricket.au"><title lang="en">T20 Mini AUS v SA</title><sub-title lang="en">Game 1</sub-title><desc lang="en">Australia&apos;s impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812022500 +0000" stop="20250812024500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">MOM v LSM</sub-title><desc lang="en">The Manchester Originals&apos; bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812024500 +0000" stop="20250812034500 +0000" channel="FoxCricket.au"><title lang="en">T20 AUS v SA</title><sub-title lang="en">Game 1</sub-title><desc lang="en">Australia&apos;s impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812034500 +0000" stop="20250812040500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">MOM v LSM</sub-title><desc lang="en">The Manchester Originals&apos; bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812040500 +0000" stop="20250812042500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Women&apos;s Mini</title><sub-title lang="en">MOW v LSW</sub-title><desc lang="en">Beth Mooney and Sophie Ecclestone face London Spirit&amp;#8217;s powerhouse Grace Harris in Manchester.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812042500 +0000" stop="20250812044500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">MOM v LSM</sub-title><desc lang="en">The Manchester Originals&apos; bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812044500 +0000" stop="20250812054500 +0000" channel="FoxCricket.au"><title lang="en">T20 AUS v SA</title><sub-title lang="en">Game 1</sub-title><desc lang="en">Australia&apos;s impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812054500 +0000" stop="20250812060500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">MOM v LSM</sub-title><desc lang="en">The Manchester Originals&apos; bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812060500 +0000" stop="20250812062500 +0000" channel="FoxCricket.au"><title lang="en">T20 Mini AUS v SA</title><sub-title lang="en">Game 1</sub-title><desc lang="en">Australia&apos;s impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812062500 +0000" stop="20250812064500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">MOM v LSM</sub-title><desc lang="en">The Manchester Originals&apos; bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812064500 +0000" stop="20250812074500 +0000" channel="FoxCricket.au"><title lang="en">T20 AUS v SA</title><sub-title lang="en">Game 1</sub-title><desc lang="en">Australia&apos;s impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812074500 +0000" stop="20250812080500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">MOM v LSM</sub-title><desc lang="en">The Manchester Originals&apos; bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812080500 +0000" stop="20250812082500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Women&apos;s Mini</title><sub-title lang="en">MOW v LSW</sub-title><desc lang="en">Beth Mooney and Sophie Ecclestone face London Spirit&amp;#8217;s powerhouse Grace Harris in Manchester.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812082500 +0000" stop="20250812084500 +0000" channel="FoxCricket.au"><title lang="en">T20 Mini AUS v SA</title><sub-title lang="en">Game 1</sub-title><desc lang="en">Australia&apos;s impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812084500 +0000" stop="20250812091500 +0000" channel="FoxCricket.au"><title lang="en">Pre Game</title><sub-title lang="en">AUS v SA</sub-title><desc lang="en">Don&apos;t miss a moment of the Australia vs. South Africa series. The best team in cricket has all the highlights, previews, and analysis.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812091500 +0000" stop="20250812104500 +0000" channel="FoxCricket.au"><title lang="en">T20 AUS v SA</title><sub-title lang="en">Game 2 IN1</sub-title><desc lang="en">With Tim David&apos;s fantastic performance securing a 1-0 series lead, Australia aims to extend its winning streak to 10 consecutive T20 victories.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812104500 +0000" stop="20250812110500 +0000" channel="FoxCricket.au"><title lang="en">The Big Break</title><sub-title lang="en">AUS v SA</sub-title><desc lang="en">The game may be taking a break, but we&apos;re not. Keep watching for exclusive interviews, an analysis of team strategies, highlights, and more.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812110500 +0000" stop="20250812123500 +0000" channel="FoxCricket.au"><title lang="en">T20 AUS v SA</title><sub-title lang="en">Game 2 IN2</sub-title><desc lang="en">Game 2: With Tim David&apos;s fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812123500 +0000" stop="20250812130000 +0000" channel="FoxCricket.au"><title lang="en">Post Game</title><sub-title lang="en">AUS v SA</sub-title><desc lang="en">Join the Fox Cricket team for the best review from the day of cricket with this Post Game show.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812130000 +0000" stop="20250812132000 +0000" channel="FoxCricket.au"><title lang="en">T20 Mini AUS v SA</title><sub-title lang="en">Game 1</sub-title><desc lang="en">Australia&apos;s impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812132000 +0000" stop="20250812134500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">MOM v LSM</sub-title><desc lang="en">The Manchester Originals&apos; bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812134500 +0000" stop="20250812170000 +0000" channel="FoxCricket.au"><title lang="en">Hundred W</title><sub-title lang="en">Phoenix v Invincibles</sub-title><desc lang="en">Australian blockbuster takes center stage in Birmingham as Ellyse Perry&apos;s Phoenix go head-to-head with Meg Lanning&apos;s Oval Invincibles.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812170000 +0000" stop="20250812203500 +0000" channel="FoxCricket.au"><title lang="en">Hundred</title><sub-title lang="en">Phoenix v Invincibles</sub-title><desc lang="en">The battle at Edgbaston will see the Birmingham Phoenix&apos;s Liam Livingstone go head-to-head with a tough Oval Invincibles side that includes Australian bowler Jason Behrendorff.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812203500 +0000" stop="20250812205500 +0000" channel="FoxCricket.au"><title lang="en">T20 Mini AUS v SA</title><sub-title lang="en">Game 1</sub-title><desc lang="en">Australia&apos;s impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812205500 +0000" stop="20250812211500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">TRM v NSM</sub-title><desc lang="en">Northern Superchargers travel to take on Trent Rockets and Marcus Stoinis&apos;s bowling attack.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812211500 +0000" stop="20250812221500 +0000" channel="FoxCricket.au"><title lang="en">T20 AUS v SA</title><sub-title lang="en">Game 2</sub-title><desc lang="en">Game 2: With Tim David&apos;s fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812221500 +0000" stop="20250812223500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">MOM v LSM</sub-title><desc lang="en">The Manchester Originals&apos; bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812223500 +0000" stop="20250812225500 +0000" channel="FoxCricket.au"><title lang="en">T20 Mini AUS v SA</title><sub-title lang="en">Game 2</sub-title><desc lang="en">Game 2: With Tim David&apos;s fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812225500 +0000" stop="20250812231500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Women&apos;s Mini</title><sub-title lang="en">MOW v LSW</sub-title><desc lang="en">Beth Mooney and Sophie Ecclestone face London Spirit&amp;#8217;s powerhouse Grace Harris in Manchester.</desc><category lang="en">Sport</category></programme>
-<programme start="20250812231500 +0000" stop="20250813001500 +0000" channel="FoxCricket.au"><title lang="en">T20 AUS v SA</title><sub-title lang="en">Game 2</sub-title><desc lang="en">Game 2: With Tim David&apos;s fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250813001500 +0000" stop="20250813003500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">MOM v LSM</sub-title><desc lang="en">The Manchester Originals&apos; bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc><category lang="en">Sport</category></programme>
-<programme start="20250813003500 +0000" stop="20250813005500 +0000" channel="FoxCricket.au"><title lang="en">T20 Mini AUS v SA</title><sub-title lang="en">Game 2</sub-title><desc lang="en">Game 2: With Tim David&apos;s fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250813005500 +0000" stop="20250813011500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Women&apos;s Mini</title><sub-title lang="en">MOW v LSW</sub-title><desc lang="en">Beth Mooney and Sophie Ecclestone face London Spirit&amp;#8217;s powerhouse Grace Harris in Manchester.</desc><category lang="en">Sport</category></programme>
-<programme start="20250813011500 +0000" stop="20250813013500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">BPM v OIM</sub-title><desc lang="en">The battle at Edgbaston will see the Birmingham Phoenix&apos;s Liam Livingstone go head-to-head with a tough Oval Invincibles side that includes Australian bowler Jason Behrendorff.</desc><category lang="en">Sport</category></programme>
-<programme start="20250813013500 +0000" stop="20250813015500 +0000" channel="FoxCricket.au"><title lang="en">T20 Mini AUS v SA</title><sub-title lang="en">Game 2</sub-title><desc lang="en">Game 2: With Tim David&apos;s fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250813015500 +0000" stop="20250813021500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Women&apos;s Mini</title><sub-title lang="en">BPW v OIW</sub-title><desc lang="en">Australian blockbuster takes center stage in Birmingham as Ellyse Perry&apos;s Phoenix go head-to-head with Meg Lanning&apos;s Oval Invincibles.</desc><category lang="en">Sport</category></programme>
-<programme start="20250813021500 +0000" stop="20250813031500 +0000" channel="FoxCricket.au"><title lang="en">T20 AUS v SA</title><sub-title lang="en">Game 2</sub-title><desc lang="en">Game 2: With Tim David&apos;s fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250813031500 +0000" stop="20250813033500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">BPM v OIM</sub-title><desc lang="en">The battle at Edgbaston will see the Birmingham Phoenix&apos;s Liam Livingstone go head-to-head with a tough Oval Invincibles side that includes Australian bowler Jason Behrendorff.</desc><category lang="en">Sport</category></programme>
-<programme start="20250813033500 +0000" stop="20250813035500 +0000" channel="FoxCricket.au"><title lang="en">T20 Mini AUS v SA</title><sub-title lang="en">Game 2</sub-title><desc lang="en">Game 2: With Tim David&apos;s fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250813035500 +0000" stop="20250813041500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Women&apos;s Mini</title><sub-title lang="en">BPW v OIW</sub-title><desc lang="en">Australian blockbuster takes center stage in Birmingham as Ellyse Perry&apos;s Phoenix go head-to-head with Meg Lanning&apos;s Oval Invincibles.</desc><category lang="en">Sport</category></programme>
-<programme start="20250813041500 +0000" stop="20250813051500 +0000" channel="FoxCricket.au"><title lang="en">T20 AUS v SA</title><sub-title lang="en">Game 2</sub-title><desc lang="en">Game 2: With Tim David&apos;s fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250813051500 +0000" stop="20250813053500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">BPM v OIM</sub-title><desc lang="en">The battle at Edgbaston will see the Birmingham Phoenix&apos;s Liam Livingstone go head-to-head with a tough Oval Invincibles side that includes Australian bowler Jason Behrendorff.</desc><category lang="en">Sport</category></programme>
-<programme start="20250813053500 +0000" stop="20250813055500 +0000" channel="FoxCricket.au"><title lang="en">T20 Mini AUS v SA</title><sub-title lang="en">Game 2</sub-title><desc lang="en">Game 2: With Tim David&apos;s fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250813055500 +0000" stop="20250813061500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Women&apos;s Mini</title><sub-title lang="en">BPW v OIW</sub-title><desc lang="en">Australian blockbuster takes center stage in Birmingham as Ellyse Perry&apos;s Phoenix go head-to-head with Meg Lanning&apos;s Oval Invincibles.</desc><category lang="en">Sport</category></programme>
-<programme start="20250813061500 +0000" stop="20250813091500 +0000" channel="FoxCricket.au"><title lang="en">T20 AUS v SA</title><sub-title lang="en">Game 2</sub-title><desc lang="en">Game 2: With Tim David&apos;s fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250813091500 +0000" stop="20250813093500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Mini</title><sub-title lang="en">BPM v OIM</sub-title><desc lang="en">The battle at Edgbaston will see the Birmingham Phoenix&apos;s Liam Livingstone go head-to-head with a tough Oval Invincibles side that includes Australian bowler Jason Behrendorff.</desc><category lang="en">Sport</category></programme>
-<programme start="20250813093500 +0000" stop="20250813095500 +0000" channel="FoxCricket.au"><title lang="en">T20 Mini AUS v SA</title><sub-title lang="en">Game 2</sub-title><desc lang="en">Game 2: With Tim David&apos;s fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250813095500 +0000" stop="20250813101500 +0000" channel="FoxCricket.au"><title lang="en">The Hundred Women&apos;s Mini</title><sub-title lang="en">BPW v OIW</sub-title><desc lang="en">Australian blockbuster takes center stage in Birmingham as Ellyse Perry&apos;s Phoenix go head-to-head with Meg Lanning&apos;s Oval Invincibles.</desc><category lang="en">Sport</category></programme>
-<programme start="20250813101500 +0000" stop="20250813133000 +0000" channel="FoxCricket.au"><title lang="en">Hundred W</title><sub-title lang="en">Brave v Superchargers</sub-title><desc lang="en">Southern Brave with Sophie Devine, take on Annabel Sutherland&apos;s Superchargers at The Rose Bowl.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250813133000 +0000" stop="20250813170000 +0000" channel="FoxCricket.au"><title lang="en">Hundred</title><sub-title lang="en">Brave v Superchargers</sub-title><desc lang="en">Southern Brave&apos;s Utilita Bowl fortress will be put to the test by the Northern Superchargers.</desc><category lang="en">Cricket</category></programme>
-<programme start="20250812003000 +0000" stop="20250812004500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M9 Hlts</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Manchester Originals and London Spirit. (11.08)</desc><image>https://images.metadata.sky.com/pd-image/79945cd3-3e7d-48a2-bfcd-078371b54221/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/79945cd3-3e7d-48a2-bfcd-078371b54221/16-9/640"/></programme>
-<programme start="20250812004500 +0000" stop="20250812010000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Women&apos;s - M8 Hlts</title><desc lang="en">In the Women&apos;s Hundred, Trent Rockets face Northern Superchargers at Trent Bridge. Superchargers captain Hollie Armitage hit 34* en route to a 47-run win over Welsh Fire previously. (10.08)</desc><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num><image>https://images.metadata.sky.com/pd-image/16d37d18-ab0e-49fc-a123-85dd99d1f459/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/16d37d18-ab0e-49fc-a123-85dd99d1f459/16-9/640"/></programme>
-<programme start="20250812010000 +0000" stop="20250812043000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">The Hundred</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Manchester Originals and London Spirit. Can the Originals turn their poor form around after two thrashings in a row?</desc><image>https://images.metadata.sky.com/pd-image/625b4f50-62d0-4bda-9b2a-3e07c29a8cc0/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/625b4f50-62d0-4bda-9b2a-3e07c29a8cc0/16-9/640"/></programme>
-<programme start="20250812043000 +0000" stop="20250812044500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M7 Hlts</title><desc lang="en">Out to go one better this season, 2024 Men&apos;s Hundred runners-up Southern Brave bid to add a second win in as many games, taking on Trent Boult and Birmingham Phoenix. (10.08)</desc><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num><image>https://images.metadata.sky.com/pd-image/7a4c608d-76ed-4dce-b2f4-10d99ee87425/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/7a4c608d-76ed-4dce-b2f4-10d99ee87425/16-9/640"/></programme>
-<programme start="20250812044500 +0000" stop="20250812050000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Women&apos;s - M7 Hlts</title><desc lang="en">In the Women&apos;s Hundred, Georgia Adams&apos; Southern Brave - who got off to a winning start in their opening game - compete with Ellyse Perry&apos;s Birmingham Phoenix in Southampton. (10.08)</desc><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num><image>https://images.metadata.sky.com/pd-image/5057d4b9-c132-4bf2-814d-13f9f967f001/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/5057d4b9-c132-4bf2-814d-13f9f967f001/16-9/640"/></programme>
-<programme start="20250812050000 +0000" stop="20250812081500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">The Hundred</title><desc lang="en">In the Women&apos;s Hundred, Manchester Originals compete with London Spirit. Both sides played out nail-biting thrillers over the weekend, winning their matches in the last ball.</desc><image>https://images.metadata.sky.com/pd-image/79758f5a-dd05-4f0d-aa60-87848ea0219e/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/79758f5a-dd05-4f0d-aa60-87848ea0219e/16-9/640"/></programme>
-<programme start="20250812081500 +0000" stop="20250812083000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M7 Hlts</title><desc lang="en">Out to go one better this season, 2024 Men&apos;s Hundred runners-up Southern Brave bid to add a second win in as many games, taking on Trent Boult and Birmingham Phoenix. (10.08)</desc><image>https://images.metadata.sky.com/pd-image/3a7c7f91-88c1-4e03-b5c3-439483084520/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/3a7c7f91-88c1-4e03-b5c3-439483084520/16-9/640"/></programme>
-<programme start="20250812083000 +0000" stop="20250812084500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M5 Hlts</title><desc lang="en">Back-to-back Men&apos;s Hundred champions Oval Invincibles are back in action at the Oval, as Rashid Khan and co take on Jimmy Anderson and the Manchester Originals. (09.08)</desc><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num><image>https://images.metadata.sky.com/pd-image/5e86fce4-18b3-4d87-9eb5-2e06ef2c6d6b/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/5e86fce4-18b3-4d87-9eb5-2e06ef2c6d6b/16-9/640"/></programme>
-<programme start="20250812084500 +0000" stop="20250812090000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M6 Hlts</title><desc lang="en">Steve Smith and Welsh Fire attempt to pick themselves up after defeat to the Superchargers, taking on David Warner and the London Spirit - who also faltered in their opener. (09.08)</desc><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num><image>https://images.metadata.sky.com/pd-image/1f924f22-752d-4110-8c19-b8ec9ac4924e/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/1f924f22-752d-4110-8c19-b8ec9ac4924e/16-9/640"/></programme>
-<programme start="20250812090000 +0000" stop="20250812123000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">The Hundred</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Manchester Originals and London Spirit. Can the Originals turn their poor form around after two thrashings in a row?</desc><image>https://images.metadata.sky.com/pd-image/625b4f50-62d0-4bda-9b2a-3e07c29a8cc0/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/625b4f50-62d0-4bda-9b2a-3e07c29a8cc0/16-9/640"/></programme>
-<programme start="20250812123000 +0000" stop="20250812124500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M9 Hlts</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Manchester Originals and London Spirit. (11.08)</desc><image>https://images.metadata.sky.com/pd-image/79945cd3-3e7d-48a2-bfcd-078371b54221/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/79945cd3-3e7d-48a2-bfcd-078371b54221/16-9/640"/></programme>
-<programme start="20250812124500 +0000" stop="20250812130000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Women&apos;s - M9 Hlts</title><desc lang="en">In the Women&apos;s Hundred, Manchester Originals compete with London Spirit. (11.08)</desc><image>https://images.metadata.sky.com/pd-image/9a2c94e4-18cc-46f2-84e8-7019c4bbe30b/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/9a2c94e4-18cc-46f2-84e8-7019c4bbe30b/16-9/640"/></programme>
-<programme start="20250812130000 +0000" stop="20250812131500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Women&apos;s - M7 Hlts</title><desc lang="en">In the Women&apos;s Hundred, Georgia Adams&apos; Southern Brave - who got off to a winning start in their opening game - compete with Ellyse Perry&apos;s Birmingham Phoenix in Southampton. (10.08)</desc><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num><image>https://images.metadata.sky.com/pd-image/5057d4b9-c132-4bf2-814d-13f9f967f001/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/5057d4b9-c132-4bf2-814d-13f9f967f001/16-9/640"/></programme>
-<programme start="20250812131500 +0000" stop="20250812133000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M9 Hlts</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Manchester Originals and London Spirit. (11.08)</desc><image>https://images.metadata.sky.com/pd-image/79945cd3-3e7d-48a2-bfcd-078371b54221/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/79945cd3-3e7d-48a2-bfcd-078371b54221/16-9/640"/></programme>
-<programme start="20250812133000 +0000" stop="20250812134500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Women&apos;s - M7 Hlts</title><desc lang="en">In the Women&apos;s Hundred, Georgia Adams&apos; Southern Brave - who got off to a winning start in their opening game - compete with Ellyse Perry&apos;s Birmingham Phoenix in Southampton. (10.08)</desc><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num><image>https://images.metadata.sky.com/pd-image/5057d4b9-c132-4bf2-814d-13f9f967f001/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/5057d4b9-c132-4bf2-814d-13f9f967f001/16-9/640"/></programme>
-<programme start="20250812134500 +0000" stop="20250812170000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">Live The Hundred</title><desc lang="en">In the Women&apos;s Hundred, Birmingham Phoenix compete with Oval Invincibles.</desc><image>https://images.metadata.sky.com/pd-image/b4992dd6-3c8a-4f36-92cc-fde6bf8da4e4/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/b4992dd6-3c8a-4f36-92cc-fde6bf8da4e4/16-9/640"/></programme>
-<programme start="20250812170000 +0000" stop="20250812203000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">Live The Hundred</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Birmingham Phoenix and Oval Invincibles.</desc><image>https://images.metadata.sky.com/pd-image/4afae09e-55f5-46d9-986e-42eed6e9ef2c/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/4afae09e-55f5-46d9-986e-42eed6e9ef2c/16-9/640"/></programme>
-<programme start="20250812203000 +0000" stop="20250812204500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M10 Hlts</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Birmingham Phoenix and Oval Invincibles. (12.08)</desc><image>https://images.metadata.sky.com/pd-image/627046af-be15-4fb4-bf43-e2d5f74a8c70/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/627046af-be15-4fb4-bf43-e2d5f74a8c70/16-9/640"/></programme>
-<programme start="20250812204500 +0000" stop="20250812210000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Women&apos;s - M10 Hlts</title><desc lang="en">In the Women&apos;s Hundred, Birmingham Phoenix compete with Oval Invincibles. (12.08)</desc><image>https://images.metadata.sky.com/pd-image/2aaab45e-cb82-4a2b-97b6-2e8cbfe17938/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/2aaab45e-cb82-4a2b-97b6-2e8cbfe17938/16-9/640"/></programme>
-<programme start="20250812210000 +0000" stop="20250812211500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M10 Hlts</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Birmingham Phoenix and Oval Invincibles. (12.08)</desc><image>https://images.metadata.sky.com/pd-image/627046af-be15-4fb4-bf43-e2d5f74a8c70/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/627046af-be15-4fb4-bf43-e2d5f74a8c70/16-9/640"/></programme>
-<programme start="20250812211500 +0000" stop="20250813003000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">The Hundred</title><desc lang="en">In the Women&apos;s Hundred, Birmingham Phoenix compete with Oval Invincibles.</desc><image>https://images.metadata.sky.com/pd-image/7d2a7903-134d-4660-8508-44aeacc1920a/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/7d2a7903-134d-4660-8508-44aeacc1920a/16-9/640"/></programme>
-<programme start="20250813003000 +0000" stop="20250813004500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M10 Hlts</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Birmingham Phoenix and Oval Invincibles. (12.08)</desc><image>https://images.metadata.sky.com/pd-image/627046af-be15-4fb4-bf43-e2d5f74a8c70/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/627046af-be15-4fb4-bf43-e2d5f74a8c70/16-9/640"/></programme>
-<programme start="20250813004500 +0000" stop="20250813010000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Women&apos;s - M9 Hlts</title><desc lang="en">In the Women&apos;s Hundred, Manchester Originals compete with London Spirit. (11.08)</desc><image>https://images.metadata.sky.com/pd-image/9a2c94e4-18cc-46f2-84e8-7019c4bbe30b/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/9a2c94e4-18cc-46f2-84e8-7019c4bbe30b/16-9/640"/></programme>
-<programme start="20250813010000 +0000" stop="20250813043000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">The Hundred</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Birmingham Phoenix and Oval Invincibles.</desc><image>https://images.metadata.sky.com/pd-image/6c7044f7-84cf-43d5-8d90-38ba362fe6f4/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/6c7044f7-84cf-43d5-8d90-38ba362fe6f4/16-9/640"/></programme>
-<programme start="20250813043000 +0000" stop="20250813044500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M9 Hlts</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Manchester Originals and London Spirit. (11.08)</desc><image>https://images.metadata.sky.com/pd-image/79945cd3-3e7d-48a2-bfcd-078371b54221/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/79945cd3-3e7d-48a2-bfcd-078371b54221/16-9/640"/></programme>
-<programme start="20250813044500 +0000" stop="20250813050000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Women&apos;s - M9 Hlts</title><desc lang="en">In the Women&apos;s Hundred, Manchester Originals compete with London Spirit. (11.08)</desc><image>https://images.metadata.sky.com/pd-image/9a2c94e4-18cc-46f2-84e8-7019c4bbe30b/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/9a2c94e4-18cc-46f2-84e8-7019c4bbe30b/16-9/640"/></programme>
-<programme start="20250813050000 +0000" stop="20250813081500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">The Hundred</title><desc lang="en">In the Women&apos;s Hundred, Birmingham Phoenix compete with Oval Invincibles.</desc><image>https://images.metadata.sky.com/pd-image/7d2a7903-134d-4660-8508-44aeacc1920a/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/7d2a7903-134d-4660-8508-44aeacc1920a/16-9/640"/></programme>
-<programme start="20250813081500 +0000" stop="20250813083000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M5 Hlts</title><desc lang="en">Back-to-back Men&apos;s Hundred champions Oval Invincibles are back in action at the Oval, as Rashid Khan and co take on Jimmy Anderson and the Manchester Originals. (09.08)</desc><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num><image>https://images.metadata.sky.com/pd-image/5e86fce4-18b3-4d87-9eb5-2e06ef2c6d6b/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/5e86fce4-18b3-4d87-9eb5-2e06ef2c6d6b/16-9/640"/></programme>
-<programme start="20250813083000 +0000" stop="20250813084500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Women&apos;s - M7 Hlts</title><desc lang="en">In the Women&apos;s Hundred, Georgia Adams&apos; Southern Brave - who got off to a winning start in their opening game - compete with Ellyse Perry&apos;s Birmingham Phoenix in Southampton. (10.08)</desc><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num><image>https://images.metadata.sky.com/pd-image/5057d4b9-c132-4bf2-814d-13f9f967f001/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/5057d4b9-c132-4bf2-814d-13f9f967f001/16-9/640"/></programme>
-<programme start="20250813084500 +0000" stop="20250813090000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M8 Hlts</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Trent Rockets and Northern Superchargers. England stars Zak Crawley and Harry Brook propelled the Superchargers to victory on Thursday. (10.08)</desc><image>https://images.metadata.sky.com/pd-image/27a76103-d141-4c6b-a19f-4e2210295c65/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/27a76103-d141-4c6b-a19f-4e2210295c65/16-9/640"/></programme>
-<programme start="20250813090000 +0000" stop="20250813091500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Women&apos;s - M8 Hlts</title><desc lang="en">In the Women&apos;s Hundred, Trent Rockets face Northern Superchargers at Trent Bridge. Superchargers captain Hollie Armitage hit 34* en route to a 47-run win over Welsh Fire previously. (10.08)</desc><image>https://images.metadata.sky.com/pd-image/512cfc52-5f4a-41bd-9e61-4ba8b3ba45b3/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/512cfc52-5f4a-41bd-9e61-4ba8b3ba45b3/16-9/640"/></programme>
-<programme start="20250813091500 +0000" stop="20250813093000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M10 Hlts</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Birmingham Phoenix and Oval Invincibles. (12.08)</desc><image>https://images.metadata.sky.com/pd-image/627046af-be15-4fb4-bf43-e2d5f74a8c70/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/627046af-be15-4fb4-bf43-e2d5f74a8c70/16-9/640"/></programme>
-<programme start="20250813093000 +0000" stop="20250813094500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M6 Hlts</title><desc lang="en">Steve Smith and Welsh Fire attempt to pick themselves up after defeat to the Superchargers, taking on David Warner and the London Spirit - who also faltered in their opener. (09.08)</desc><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num><image>https://images.metadata.sky.com/pd-image/1f924f22-752d-4110-8c19-b8ec9ac4924e/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/1f924f22-752d-4110-8c19-b8ec9ac4924e/16-9/640"/></programme>
-<programme start="20250813094500 +0000" stop="20250813100000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Women&apos;s - M10 Hlts</title><desc lang="en">In the Women&apos;s Hundred, Birmingham Phoenix compete with Oval Invincibles. (12.08)</desc><image>https://images.metadata.sky.com/pd-image/2aaab45e-cb82-4a2b-97b6-2e8cbfe17938/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/2aaab45e-cb82-4a2b-97b6-2e8cbfe17938/16-9/640"/></programme>
-<programme start="20250813100000 +0000" stop="20250813101500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M10 Hlts</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Birmingham Phoenix and Oval Invincibles. (12.08)</desc><image>https://images.metadata.sky.com/pd-image/627046af-be15-4fb4-bf43-e2d5f74a8c70/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/627046af-be15-4fb4-bf43-e2d5f74a8c70/16-9/640"/></programme>
-<programme start="20250813101500 +0000" stop="20250813133000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">Live The Hundred</title><desc lang="en">In the Women&apos;s Hundred, Southern Brave compete with Northern Superchargers.</desc><image>https://images.metadata.sky.com/pd-image/617bbfb0-ae30-4fd3-b08e-d5fcce0600a1/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/617bbfb0-ae30-4fd3-b08e-d5fcce0600a1/16-9/640"/></programme>
-<programme start="20250813133000 +0000" stop="20250813170000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">Live The Hundred</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Southern Brave and Northern Superchargers.</desc><image>https://images.metadata.sky.com/pd-image/c759e9f2-1e42-4c6a-a4ad-50a43af6661e/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/c759e9f2-1e42-4c6a-a4ad-50a43af6661e/16-9/640"/></programme>
-<programme start="20250813170000 +0000" stop="20250813203000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">Live The Hundred</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Welsh Fire and Manchester Originals.</desc><image>https://images.metadata.sky.com/pd-image/fe2c98d7-f547-43ae-9e9b-45e655740e8b/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/fe2c98d7-f547-43ae-9e9b-45e655740e8b/16-9/640"/></programme>
-<programme start="20250813203000 +0000" stop="20250813204500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M11 Hlts</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Southern Brave and Northern Superchargers. (13.08)</desc><image>https://images.metadata.sky.com/pd-image/ae9a26b7-9f5c-46b9-aa88-2a52e1f7d1d9/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/ae9a26b7-9f5c-46b9-aa88-2a52e1f7d1d9/16-9/640"/></programme>
-<programme start="20250813204500 +0000" stop="20250813210000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Women&apos;s - M11 Hlts</title><desc lang="en">In the Women&apos;s Hundred, Southern Brave compete with Northern Superchargers. (13.08)</desc><image>https://images.metadata.sky.com/pd-image/5b3f5d22-7520-4ccb-8dcf-caf91f44995f/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/5b3f5d22-7520-4ccb-8dcf-caf91f44995f/16-9/640"/></programme>
-<programme start="20250813210000 +0000" stop="20250813211500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Men&apos;s - M12 Hlts</title><desc lang="en">A match from the 2025 Men&apos;s Hundred between Welsh Fire and Manchester Originals. (13.08)</desc><image>https://images.metadata.sky.com/pd-image/61423e74-8c60-4180-9e95-e6cdcb507f52/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/61423e74-8c60-4180-9e95-e6cdcb507f52/16-9/640"/></programme>
-<programme start="20250813211500 +0000" stop="20250813213000 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">THE HUNDRED Women&apos;s - M12 Hlts</title><desc lang="en">In the Women&apos;s Hundred, Welsh Fire compete with Manchester Originals. (13.08)</desc><image>https://images.metadata.sky.com/pd-image/902462d0-c53d-48b7-95d7-07f873b774c4/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/902462d0-c53d-48b7-95d7-07f873b774c4/16-9/640"/></programme>
-<programme start="20250813213000 +0000" stop="20250814004500 +0000" channel="SkySportsCricket.uk@HD"><title lang="en">The Hundred</title><desc lang="en">In the Women&apos;s Hundred, Southern Brave compete with Northern Superchargers.</desc><image>https://images.metadata.sky.com/pd-image/5808c600-a9b2-4a43-afa0-57f3ac91dbef/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/5808c600-a9b2-4a43-afa0-57f3ac91dbef/16-9/640"/></programme>
+<?xml version="1.0" encoding="utf-8"?>
+<tv date="20250812">
+  
+
+  <channel id="595">
+    <display-name>Star Gold Select HD</display-name>
+    <url>https://tataplay.com</url>
+  </channel>
+  
+
+  <channel id="159098">
+    <display-name>SONY MAX HD</display-name>
+    <url>https://dishtv.in</url>
+  </channel>
+  
+
+  <channel id="490">
+    <display-name>Zee Cinema</display-name>
+    <url>https://content.astro.com.my</url>
+  </channel>
+  
+
+  <channel id="SkySportsCricket.uk@HD">
+    <display-name>SkySpCricket HD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png"/>
+    <url>https://sky.com</url>
+  </channel>
+  
+
+  <channel id="FoxCricket.au">
+    <display-name>FOX Cricket</display-name>
+    <icon src="https://i.imgur.com/V8hb6tJ.png"/>
+    <url>https://foxsports.com.au</url>
+  </channel>
+  
+
+  <programme start="20250811160000 +0000" stop="20250811190000 +0000" channel="490">
+    <title lang="ms">Salaam Venky</title>
+    <desc lang="ms">Sujata, an ideal mother, who battled the most challenging situations one can ever face with a smile.</desc>
+  </programme>
+  
+
+  <programme start="20250811190000 +0000" stop="20250811220000 +0000" channel="490">
+    <title lang="ms">Army</title>
+    <desc lang="ms">Newly-wed Arjun, an army man, is brutally killed by Naagraj, a gangster. His wife, Geeta, determined to avenge her husband, raises an army of dedicated young men to kill Naagraj.</desc>
+  </programme>
+  
+
+  <programme start="20250811220000 +0000" stop="20250812010000 +0000" channel="490">
+    <title lang="ms">Ek Vivaah... Aisa Bhi</title>
+    <desc lang="ms">A middle class girl, who lives with her family, falls in love with a rich boy. On the day of her engagement her father dies. In order to take care of her siblings, she must sacrifice her love.</desc>
+  </programme>
+  
+
+  <programme start="20250812010000 +0000" stop="20250812040000 +0000" channel="490">
+    <title lang="ms">Saheb Biwi Aur Gangster 3</title>
+    <desc lang="ms">Aditya returns from jail and tries to reclaim his political legacy. On meeting London-based gangster Uday, the war for the survival of the richest and the shrewdest begins.</desc>
+  </programme>
+  
+
+  <programme start="20250812040000 +0000" stop="20250812070000 +0000" channel="490">
+    <title lang="ms">Behen Hogi Teri</title>
+    <desc lang="ms">Neighbours Gattu and Binniy are in love. But according to their localty, girls from the neighbourhood are to be considered sisters. How will their love story hold up?</desc>
+  </programme>
+  
+
+  <programme start="20250812070000 +0000" stop="20250812100000 +0000" channel="490">
+    <title lang="ms">Fitoor</title>
+    <desc lang="ms">Modern adaptation of Charles Dickens' Great Expectations; a poor but talented boy falls in love with a girl from an affluent family.</desc>
+  </programme>
+  
+
+  <programme start="20250812100000 +0000" stop="20250812130000 +0000" channel="490">
+    <title lang="ms">Daddy</title>
+    <desc lang="ms">Arun Gawli, a young man, is forced to turn to crime for making a livelihood. However, what starts with a simple 'matka' gambling ring, soon turns into a full-fledged criminal network.</desc>
+  </programme>
+  
+
+  <programme start="20250812130000 +0000" stop="20250812160000 +0000" channel="490">
+    <title lang="ms">Batti Gul Meter Chalu</title>
+    <desc lang="ms">The life of three friends takes a tragic turn due to an inflated electricity bill, which leads to a courtroom drama and social awakening.</desc>
+  </programme>
+  
+
+  <programme start="20250812160000 +0000" stop="20250812190000 +0000" channel="490">
+    <title lang="ms">Saheb Biwi Aur Gangster 3</title>
+    <desc lang="ms">Aditya returns from jail and tries to reclaim his political legacy. On meeting London-based gangster Uday, the war for the survival of the richest and the shrewdest begins.</desc>
+  </programme>
+  
+
+  <programme start="20250812190000 +0000" stop="20250812220000 +0000" channel="490">
+    <title lang="ms">Behen Hogi Teri</title>
+    <desc lang="ms">Neighbours Gattu and Binniy are in love. But according to their localty, girls from the neighbourhood are to be considered sisters. How will their love story hold up?</desc>
+  </programme>
+  
+
+  <programme start="20250812220000 +0000" stop="20250813010000 +0000" channel="490">
+    <title lang="ms">Fitoor</title>
+    <desc lang="ms">Modern adaptation of Charles Dickens' Great Expectations; a poor but talented boy falls in love with a girl from an affluent family.</desc>
+  </programme>
+  
+
+  <programme start="20250813010000 +0000" stop="20250813040000 +0000" channel="490">
+    <title lang="ms">Daddy</title>
+    <desc lang="ms">Arun Gawli, a young man, is forced to turn to crime for making a livelihood. However, what starts with a simple 'matka' gambling ring, soon turns into a full-fledged criminal network.</desc>
+  </programme>
+  
+
+  <programme start="20250813040000 +0000" stop="20250813070000 +0000" channel="490">
+    <title lang="ms">Batti Gul Meter Chalu</title>
+    <desc lang="ms">The life of three friends takes a tragic turn due to an inflated electricity bill, which leads to a courtroom drama and social awakening.</desc>
+  </programme>
+  
+
+  <programme start="20250813070000 +0000" stop="20250813100000 +0000" channel="490">
+    <title lang="ms">Baaghi: Rebels in Love</title>
+    <desc lang="ms">A martial artist faces his biggest test when he has to travel to Bangkok to rescue the woman he loves from the clutches of his romantic rival.</desc>
+  </programme>
+  
+
+  <programme start="20250813100000 +0000" stop="20250813130000 +0000" channel="490">
+    <title lang="ms">Wedding Pullav</title>
+    <desc lang="ms">Karan and Anushka are best friends. When Karan marries Riya, Anushka is going to marry Jay. Do fate and love have a twist in store for them?</desc>
+  </programme>
+  
+
+  <programme start="20250813130000 +0000" stop="20250813160000 +0000" channel="490">
+    <title lang="ms">Badla</title>
+    <desc lang="ms">When a woman is accused of killing her lover, a renowned lawyer is hired -- but the more they try to untangle the truth, the more convoluted it becomes.</desc>
+  </programme>
+  
+
+  <programme start="20250811204900 +0000" stop="20250811222100 +0000" channel="595">
+    <title lang="en">Bioscopewala</title>
+    <desc lang="en">A woman meets her late dad's friend, who ran the Bioscope show she loved as a kid. Love and cinema connect India and Afghanistan in this story.</desc>
+  </programme>
+  
+
+  <programme start="20250811222100 +0000" stop="20250811225700 +0000" channel="595">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+  </programme>
+  
+
+  <programme start="20250811225700 +0000" stop="20250812010200 +0000" channel="595">
+    <title lang="en">Helicopter Eela</title>
+    <desc lang="en">Eela Raiturkar, an aspiring singer, gives up on her career after her husband abandons her and their son, Vivaan. However, years later, he encourages his mother to pursue her dream.</desc>
+  </programme>
+  
+
+  <programme start="20250812010200 +0000" stop="20250812030600 +0000" channel="595">
+    <title lang="en">Hum Tum Shabana</title>
+    <desc lang="en">Rishi and Karthik fall head over heels for Shabana, a participant in a beauty pageant. However, they are soon horrified to find out that her uncle is a dreaded gangster.</desc>
+  </programme>
+  
+
+  <programme start="20250812030600 +0000" stop="20250812045300 +0000" channel="595">
+    <title lang="en">Gurgaon</title>
+    <desc lang="en">Preet, the daughter of a real estate tycoon, is abducted by her own brother, Nikki. As her family tries to track her whereabouts, many secrets unravel and things take a nasty turn for them all.</desc>
+  </programme>
+  
+
+  <programme start="20250812045300 +0000" stop="20250812071400 +0000" channel="595">
+    <title lang="en">Kaabil</title>
+    <desc lang="en">Rohan, a visually impaired man, marries Supriya, the love of his life. Their happiness is tarnished when Supriya commits suicide after being raped by influential bandits.</desc>
+  </programme>
+  
+
+  <programme start="20250812071400 +0000" stop="20250812092900 +0000" channel="595">
+    <title lang="en">The Zoya Factor</title>
+    <desc lang="en">Zoya, who becomes the lucky charm of the Indian cricket team, is forced to choose between her career as a mascot or Nikhil, the love of her life and the captain of the Indian team.</desc>
+  </programme>
+  
+
+  <programme start="20250812092900 +0000" stop="20250812112600 +0000" channel="595">
+    <title lang="en">Satta</title>
+    <desc lang="en">Anuradha relocates to Mumbai and marries Vivek, an aspiring politician. However, complications arise when he is arrested for murder and she has to take his place in the upcoming elections.</desc>
+  </programme>
+  
+
+  <programme start="20250812112600 +0000" stop="20250812133000 +0000" channel="595">
+    <title lang="en">India's Most Wanted</title>
+    <desc lang="en">As a nod to the proverb fortune favours the brave, a ragtag team of heroes takes it upon themselves to apprehend one of India's most dreaded enemies.</desc>
+  </programme>
+  
+
+  <programme start="20250812133000 +0000" stop="20250812153000 +0000" channel="595">
+    <title lang="en">Ugly Aur Pagli</title>
+    <desc lang="en">Kabir's life takes a turn when he meets a quirky girl, Kuhu. However, what he fails to realise is that she is fighting boredom by trying to transform him into her obnoxious equal.</desc>
+  </programme>
+  
+
+  <programme start="20250812153000 +0000" stop="20250812182700 +0000" channel="595">
+    <title lang="en">Mohenjo Daro</title>
+    <desc lang="en">Sarman, a poor farmer, arrives in Mohenjo Daro, a city ruled by the tyrant Maham. He learns about the history that his family shares with Maham and devises a plan to take revenge on him.</desc>
+  </programme>
+  
+
+  <programme start="20250812182700 +0000" stop="20250812202300 +0000" channel="595">
+    <title lang="en">Hate Story 3</title>
+    <desc lang="en">Aditya Dewan, a successful businessman, faces a dilemma upon the arrival of Saurav which disrupts his life as revenge comes knocking at his door.</desc>
+  </programme>
+  
+
+  <programme start="20250812183000 +0000" stop="20250812213000 +0000" channel="595">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  
+
+  <programme start="20250812213000 +0000" stop="20250813003000 +0000" channel="595">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  
+
+  <programme start="20250813003000 +0000" stop="20250813033000 +0000" channel="595">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  
+
+  <programme start="20250813033000 +0000" stop="20250813063000 +0000" channel="595">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  
+
+  <programme start="20250813063000 +0000" stop="20250813093000 +0000" channel="595">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  
+
+  <programme start="20250813093000 +0000" stop="20250813123000 +0000" channel="595">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  
+
+  <programme start="20250813123000 +0000" stop="20250813153000 +0000" channel="595">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  
+
+  <programme start="20250813153000 +0000" stop="20250813183000 +0000" channel="595">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  
+
+  <programme start="20250812004600 +0000" stop="20250812021900 +0000" channel="159098">
+    <title lang="en">Venom</title>
+    <title lang="hi">वेनोम</title>
+    <title lang="ta">வெனோம்</title>
+    <title lang="mr">वेनम</title>
+    <desc lang="en">A group of friends find themselves running for their very lives from Ray Sawyer, a reanimated corpse possessed by 13 evil souls, who has vicious plans for them.</desc>
+    <desc lang="ta">13 தீய ஆன்மாக்களால் புத்துயிர் பெற்ற பிணமான ரே சாயரிடமிருந்து ஒரு நண்பர்கள் குழு தங்கள் உயிரைக் காப்பாற்றிக் கொள்கிறது.</desc>
+  </programme>
+  
+
+  <programme start="20250812021900 +0000" stop="20250812060000 +0000" channel="159098">
+    <title lang="en">Batla House</title>
+    <title lang="hi">बाटला हाउज</title>
+    <title lang="ta">பாட்லா ஹவுஸ்</title>
+    <title lang="te">బట్ల హౌస్</title>
+    <title lang="mr">बाटला हाऊस</title>
+    <desc lang="en">A police inspector and his team engage in a violent encounter with suspected terrorists. However, the deadly shootout receives nationwide criticism questioning its legitimacy.</desc>
+    <desc lang="hi">एक पुलिस इंस्पेक्टर और उसकी टीम, संदिग्ध आतंकवादियों के साथ हिंसक मुठभेड़ में शामिल हो जाती है। हालाँकि, घातक गोलीबारी, देश भर में आलोचना फैलाती है और इसकी वैधता पर सवाल उठते हैं।</desc>
+  </programme>
+  
+
+  <programme start="20250812060000 +0000" stop="20250812090000 +0000" channel="159098">
+    <title lang="en">Movie</title>
+    <title lang="hi">मूवी</title>
+    <title lang="ta">மூவி</title>
+    <title lang="te">మూవీ</title>
+    <title lang="mr">मूव्ही</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  
+
+  <programme start="20250812090000 +0000" stop="20250812120000 +0000" channel="159098">
+    <title lang="en">Movie</title>
+    <title lang="hi">मूवी</title>
+    <title lang="ta">மூவி</title>
+    <title lang="te">మూవీ</title>
+    <title lang="mr">मूव्ही</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  
+
+  <programme start="20250812120000 +0000" stop="20250812150000 +0000" channel="159098">
+    <title lang="en">Movie</title>
+    <title lang="hi">मूवी</title>
+    <title lang="ta">மூவி</title>
+    <title lang="te">మూవీ</title>
+    <title lang="mr">मूव्ही</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  
+
+  <programme start="20250812150000 +0000" stop="20250812180000 +0000" channel="159098">
+    <title lang="en">Movie</title>
+    <title lang="hi">मूवी</title>
+    <title lang="ta">மூவி</title>
+    <title lang="te">మూవీ</title>
+    <title lang="mr">मूव्ही</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  
+
+  <programme start="20250812180000 +0000" stop="20250812210000 +0000" channel="159098">
+    <title lang="en">Movie</title>
+    <title lang="hi">मूवी</title>
+    <title lang="ta">மூவி</title>
+    <title lang="te">మూవీ</title>
+    <title lang="mr">मूव्ही</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  
+
+  <programme start="20250812210000 +0000" stop="20250813000000 +0000" channel="159098">
+    <title lang="en">Movie</title>
+    <title lang="hi">मूवी</title>
+    <title lang="ta">மூவி</title>
+    <title lang="te">మూవీ</title>
+    <title lang="mr">मूव्ही</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  
+
+  <programme start="20250813000000 +0000" stop="20250813030000 +0000" channel="159098">
+    <title lang="en">Movie</title>
+    <title lang="hi">मूवी</title>
+    <title lang="ta">மூவி</title>
+    <title lang="te">మూవీ</title>
+    <title lang="mr">मूव्ही</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  
+
+  <programme start="20250813030000 +0000" stop="20250813060000 +0000" channel="159098">
+    <title lang="en">Movie</title>
+    <title lang="hi">मूवी</title>
+    <title lang="ta">மூவி</title>
+    <title lang="te">మూవీ</title>
+    <title lang="mr">मूव्ही</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  
+
+  <programme start="20250813060000 +0000" stop="20250813090000 +0000" channel="159098">
+    <title lang="en">Movie</title>
+    <title lang="hi">मूवी</title>
+    <title lang="ta">மூவி</title>
+    <title lang="te">మూవీ</title>
+    <title lang="mr">मूव्ही</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  
+
+  <programme start="20250813090000 +0000" stop="20250813120000 +0000" channel="159098">
+    <title lang="en">Movie</title>
+    <title lang="hi">मूवी</title>
+    <title lang="ta">மூவி</title>
+    <title lang="te">మూవీ</title>
+    <title lang="mr">मूव्ही</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  
+
+  <programme start="20250813120000 +0000" stop="20250813150000 +0000" channel="159098">
+    <title lang="en">Movie</title>
+    <title lang="hi">मूवी</title>
+    <title lang="ta">மூவி</title>
+    <title lang="te">మూవీ</title>
+    <title lang="mr">मूव्ही</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  
+
+  <programme start="20250813150000 +0000" stop="20250813180000 +0000" channel="159098">
+    <title lang="en">Movie</title>
+    <title lang="hi">मूवी</title>
+    <title lang="ta">மூவி</title>
+    <title lang="te">మూవీ</title>
+    <title lang="mr">मूव्ही</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  
+
+  <programme start="20250813180000 +0000" stop="20250813210000 +0000" channel="159098">
+    <title lang="en">Movie</title>
+    <title lang="hi">मूवी</title>
+    <title lang="ta">மூவி</title>
+    <title lang="te">మూవీ</title>
+    <title lang="mr">मूव्ही</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  
+
+  <programme start="20250813210000 +0000" stop="20250814000000 +0000" channel="159098">
+    <title lang="en">Movie</title>
+    <title lang="hi">मूवी</title>
+    <title lang="ta">மூவி</title>
+    <title lang="te">మూవీ</title>
+    <title lang="mr">मूव्ही</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  
+
+  <programme start="20250811170000 +0000" stop="20250811204500 +0000" channel="FoxCricket.au">
+    <title lang="en">Hundred</title>
+    <desc lang="en">The Manchester Originals' bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc>
+  </programme>
+  
+
+  <programme start="20250811204500 +0000" stop="20250811234500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
+  </programme>
+  
+
+  <programme start="20250811234500 +0000" stop="20250812000500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">Northern Superchargers travel to take on Trent Rockets and Marcus Stoinis's bowling attack.</desc>
+  </programme>
+  
+
+  <programme start="20250812000500 +0000" stop="20250812002500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Ashleigh Gardner and Alana King test Annabel Sutherland in Nottingham as Rockets face Superchargers.</desc>
+  </programme>
+  
+
+  <programme start="20250812002500 +0000" stop="20250812004500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">Northern Superchargers travel to take on Trent Rockets and Marcus Stoinis's bowling attack.</desc>
+  </programme>
+  
+
+  <programme start="20250812004500 +0000" stop="20250812014500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
+  </programme>
+  
+
+  <programme start="20250812014500 +0000" stop="20250812020500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The Manchester Originals' bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc>
+  </programme>
+  
+
+  <programme start="20250812020500 +0000" stop="20250812022500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 Mini AUS v SA</title>
+    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
+  </programme>
+  
+
+  <programme start="20250812022500 +0000" stop="20250812024500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The Manchester Originals' bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc>
+  </programme>
+  
+
+  <programme start="20250812024500 +0000" stop="20250812034500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
+  </programme>
+  
+
+  <programme start="20250812034500 +0000" stop="20250812040500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The Manchester Originals' bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc>
+  </programme>
+  
+
+  <programme start="20250812040500 +0000" stop="20250812042500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Beth Mooney and Sophie Ecclestone face London Spirit&amp;#8217;s powerhouse Grace Harris in Manchester.</desc>
+  </programme>
+  
+
+  <programme start="20250812042500 +0000" stop="20250812044500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The Manchester Originals' bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc>
+  </programme>
+  
+
+  <programme start="20250812044500 +0000" stop="20250812054500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
+  </programme>
+  
+
+  <programme start="20250812054500 +0000" stop="20250812060500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The Manchester Originals' bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc>
+  </programme>
+  
+
+  <programme start="20250812060500 +0000" stop="20250812062500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 Mini AUS v SA</title>
+    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
+  </programme>
+  
+
+  <programme start="20250812062500 +0000" stop="20250812064500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The Manchester Originals' bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc>
+  </programme>
+  
+
+  <programme start="20250812064500 +0000" stop="20250812074500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
+  </programme>
+  
+
+  <programme start="20250812074500 +0000" stop="20250812080500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The Manchester Originals' bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc>
+  </programme>
+  
+
+  <programme start="20250812080500 +0000" stop="20250812082500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Beth Mooney and Sophie Ecclestone face London Spirit&amp;#8217;s powerhouse Grace Harris in Manchester.</desc>
+  </programme>
+  
+
+  <programme start="20250812082500 +0000" stop="20250812084500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 Mini AUS v SA</title>
+    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
+  </programme>
+  
+
+  <programme start="20250812084500 +0000" stop="20250812091500 +0000" channel="FoxCricket.au">
+    <title lang="en">Pre Game</title>
+    <desc lang="en">Don't miss a moment of the Australia vs. South Africa series. The best team in cricket has all the highlights, previews, and analysis.</desc>
+  </programme>
+  
+
+  <programme start="20250812091500 +0000" stop="20250812104500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">With Tim David's fantastic performance securing a 1-0 series lead, Australia aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  </programme>
+  
+
+  <programme start="20250812104500 +0000" stop="20250812110500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Big Break</title>
+    <desc lang="en">The game may be taking a break, but we're not. Keep watching for exclusive interviews, an analysis of team strategies, highlights, and more.</desc>
+  </programme>
+  
+
+  <programme start="20250812110500 +0000" stop="20250812123500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  </programme>
+  
+
+  <programme start="20250812123500 +0000" stop="20250812130000 +0000" channel="FoxCricket.au">
+    <title lang="en">Post Game</title>
+    <desc lang="en">Join the Fox Cricket team for the best review from the day of cricket with this Post Game show.</desc>
+  </programme>
+  
+
+  <programme start="20250812130000 +0000" stop="20250812132000 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 Mini AUS v SA</title>
+    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
+  </programme>
+  
+
+  <programme start="20250812132000 +0000" stop="20250812134500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The Manchester Originals' bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc>
+  </programme>
+  
+
+  <programme start="20250812134500 +0000" stop="20250812170000 +0000" channel="FoxCricket.au">
+    <title lang="en">Hundred W</title>
+    <desc lang="en">Australian blockbuster takes center stage in Birmingham as Ellyse Perry's Phoenix go head-to-head with Meg Lanning's Oval Invincibles.</desc>
+  </programme>
+  
+
+  <programme start="20250812170000 +0000" stop="20250812203500 +0000" channel="FoxCricket.au">
+    <title lang="en">Hundred</title>
+    <desc lang="en">The battle at Edgbaston will see the Birmingham Phoenix's Liam Livingstone go head-to-head with a tough Oval Invincibles side that includes Australian bowler Jason Behrendorff.</desc>
+  </programme>
+  
+
+  <programme start="20250812203500 +0000" stop="20250812205500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 Mini AUS v SA</title>
+    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
+  </programme>
+  
+
+  <programme start="20250812205500 +0000" stop="20250812211500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">Northern Superchargers travel to take on Trent Rockets and Marcus Stoinis's bowling attack.</desc>
+  </programme>
+  
+
+  <programme start="20250812211500 +0000" stop="20250812221500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  </programme>
+  
+
+  <programme start="20250812221500 +0000" stop="20250812223500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The Manchester Originals' bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc>
+  </programme>
+  
+
+  <programme start="20250812223500 +0000" stop="20250812225500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 Mini AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  </programme>
+  
+
+  <programme start="20250812225500 +0000" stop="20250812231500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Beth Mooney and Sophie Ecclestone face London Spirit&amp;#8217;s powerhouse Grace Harris in Manchester.</desc>
+  </programme>
+  
+
+  <programme start="20250812231500 +0000" stop="20250813001500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  </programme>
+  
+
+  <programme start="20250813001500 +0000" stop="20250813003500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The Manchester Originals' bowlers will have their work cut out for them against London Spirit who will be looking to David Warner for an explosive start.</desc>
+  </programme>
+  
+
+  <programme start="20250813003500 +0000" stop="20250813005500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 Mini AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  </programme>
+  
+
+  <programme start="20250813005500 +0000" stop="20250813011500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Beth Mooney and Sophie Ecclestone face London Spirit&amp;#8217;s powerhouse Grace Harris in Manchester.</desc>
+  </programme>
+  
+
+  <programme start="20250813011500 +0000" stop="20250813013500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The battle at Edgbaston will see the Birmingham Phoenix's Liam Livingstone go head-to-head with a tough Oval Invincibles side that includes Australian bowler Jason Behrendorff.</desc>
+  </programme>
+  
+
+  <programme start="20250813013500 +0000" stop="20250813015500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 Mini AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  </programme>
+  
+
+  <programme start="20250813015500 +0000" stop="20250813021500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Australian blockbuster takes center stage in Birmingham as Ellyse Perry's Phoenix go head-to-head with Meg Lanning's Oval Invincibles.</desc>
+  </programme>
+  
+
+  <programme start="20250813021500 +0000" stop="20250813031500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  </programme>
+  
+
+  <programme start="20250813031500 +0000" stop="20250813033500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The battle at Edgbaston will see the Birmingham Phoenix's Liam Livingstone go head-to-head with a tough Oval Invincibles side that includes Australian bowler Jason Behrendorff.</desc>
+  </programme>
+  
+
+  <programme start="20250813033500 +0000" stop="20250813035500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 Mini AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  </programme>
+  
+
+  <programme start="20250813035500 +0000" stop="20250813041500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Australian blockbuster takes center stage in Birmingham as Ellyse Perry's Phoenix go head-to-head with Meg Lanning's Oval Invincibles.</desc>
+  </programme>
+  
+
+  <programme start="20250813041500 +0000" stop="20250813051500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  </programme>
+  
+
+  <programme start="20250813051500 +0000" stop="20250813053500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The battle at Edgbaston will see the Birmingham Phoenix's Liam Livingstone go head-to-head with a tough Oval Invincibles side that includes Australian bowler Jason Behrendorff.</desc>
+  </programme>
+  
+
+  <programme start="20250813053500 +0000" stop="20250813055500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 Mini AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  </programme>
+  
+
+  <programme start="20250813055500 +0000" stop="20250813061500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Australian blockbuster takes center stage in Birmingham as Ellyse Perry's Phoenix go head-to-head with Meg Lanning's Oval Invincibles.</desc>
+  </programme>
+  
+
+  <programme start="20250813061500 +0000" stop="20250813091500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  </programme>
+  
+
+  <programme start="20250813091500 +0000" stop="20250813093500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The battle at Edgbaston will see the Birmingham Phoenix's Liam Livingstone go head-to-head with a tough Oval Invincibles side that includes Australian bowler Jason Behrendorff.</desc>
+  </programme>
+  
+
+  <programme start="20250813093500 +0000" stop="20250813095500 +0000" channel="FoxCricket.au">
+    <title lang="en">T20 Mini AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  </programme>
+  
+
+  <programme start="20250813095500 +0000" stop="20250813101500 +0000" channel="FoxCricket.au">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Australian blockbuster takes center stage in Birmingham as Ellyse Perry's Phoenix go head-to-head with Meg Lanning's Oval Invincibles.</desc>
+  </programme>
+  
+
+  <programme start="20250813101500 +0000" stop="20250813133000 +0000" channel="FoxCricket.au">
+    <title lang="en">Hundred W</title>
+    <desc lang="en">Southern Brave with Sophie Devine, take on Annabel Sutherland's Superchargers at The Rose Bowl.</desc>
+  </programme>
+  
+
+  <programme start="20250813133000 +0000" stop="20250813170000 +0000" channel="FoxCricket.au">
+    <title lang="en">Hundred</title>
+    <desc lang="en">Southern Brave's Utilita Bowl fortress will be put to the test by the Northern Superchargers.</desc>
+  </programme>
+  
+
+  <programme start="20250812003000 +0000" stop="20250812004500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M9 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Manchester Originals and London Spirit. (11.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812004500 +0000" stop="20250812010000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Women's - M8 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Trent Rockets face Northern Superchargers at Trent Bridge. Superchargers captain Hollie Armitage hit 34* en route to a 47-run win over Welsh Fire previously. (10.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812010000 +0000" stop="20250812043000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Manchester Originals and London Spirit. Can the Originals turn their poor form around after two thrashings in a row?</desc>
+  </programme>
+  
+
+  <programme start="20250812043000 +0000" stop="20250812044500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M7 Hlts</title>
+    <desc lang="en">Out to go one better this season, 2024 Men's Hundred runners-up Southern Brave bid to add a second win in as many games, taking on Trent Boult and Birmingham Phoenix. (10.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812044500 +0000" stop="20250812050000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Women's - M7 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Georgia Adams' Southern Brave - who got off to a winning start in their opening game - compete with Ellyse Perry's Birmingham Phoenix in Southampton. (10.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812050000 +0000" stop="20250812081500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the Women's Hundred, Manchester Originals compete with London Spirit. Both sides played out nail-biting thrillers over the weekend, winning their matches in the last ball.</desc>
+  </programme>
+  
+
+  <programme start="20250812081500 +0000" stop="20250812083000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M7 Hlts</title>
+    <desc lang="en">Out to go one better this season, 2024 Men's Hundred runners-up Southern Brave bid to add a second win in as many games, taking on Trent Boult and Birmingham Phoenix. (10.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812083000 +0000" stop="20250812084500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M5 Hlts</title>
+    <desc lang="en">Back-to-back Men's Hundred champions Oval Invincibles are back in action at the Oval, as Rashid Khan and co take on Jimmy Anderson and the Manchester Originals. (09.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812084500 +0000" stop="20250812090000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M6 Hlts</title>
+    <desc lang="en">Steve Smith and Welsh Fire attempt to pick themselves up after defeat to the Superchargers, taking on David Warner and the London Spirit - who also faltered in their opener. (09.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812090000 +0000" stop="20250812123000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Manchester Originals and London Spirit. Can the Originals turn their poor form around after two thrashings in a row?</desc>
+  </programme>
+  
+
+  <programme start="20250812123000 +0000" stop="20250812124500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M9 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Manchester Originals and London Spirit. (11.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812124500 +0000" stop="20250812130000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Women's - M9 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Manchester Originals compete with London Spirit. (11.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812130000 +0000" stop="20250812131500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Women's - M7 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Georgia Adams' Southern Brave - who got off to a winning start in their opening game - compete with Ellyse Perry's Birmingham Phoenix in Southampton. (10.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812131500 +0000" stop="20250812133000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M9 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Manchester Originals and London Spirit. (11.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812133000 +0000" stop="20250812134500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Women's - M7 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Georgia Adams' Southern Brave - who got off to a winning start in their opening game - compete with Ellyse Perry's Birmingham Phoenix in Southampton. (10.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812134500 +0000" stop="20250812170000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">In the Women's Hundred, Birmingham Phoenix compete with Oval Invincibles.</desc>
+  </programme>
+  
+
+  <programme start="20250812170000 +0000" stop="20250812203000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Birmingham Phoenix and Oval Invincibles.</desc>
+  </programme>
+  
+
+  <programme start="20250812203000 +0000" stop="20250812204500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M10 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Birmingham Phoenix and Oval Invincibles. (12.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812204500 +0000" stop="20250812210000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Women's - M10 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Birmingham Phoenix compete with Oval Invincibles. (12.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812210000 +0000" stop="20250812211500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M10 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Birmingham Phoenix and Oval Invincibles. (12.08)</desc>
+  </programme>
+  
+
+  <programme start="20250812211500 +0000" stop="20250813003000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the Women's Hundred, Birmingham Phoenix compete with Oval Invincibles.</desc>
+  </programme>
+  
+
+  <programme start="20250813003000 +0000" stop="20250813004500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M10 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Birmingham Phoenix and Oval Invincibles. (12.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813004500 +0000" stop="20250813010000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Women's - M9 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Manchester Originals compete with London Spirit. (11.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813010000 +0000" stop="20250813043000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Birmingham Phoenix and Oval Invincibles.</desc>
+  </programme>
+  
+
+  <programme start="20250813043000 +0000" stop="20250813044500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M9 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Manchester Originals and London Spirit. (11.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813044500 +0000" stop="20250813050000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Women's - M9 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Manchester Originals compete with London Spirit. (11.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813050000 +0000" stop="20250813081500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the Women's Hundred, Birmingham Phoenix compete with Oval Invincibles.</desc>
+  </programme>
+  
+
+  <programme start="20250813081500 +0000" stop="20250813083000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M5 Hlts</title>
+    <desc lang="en">Back-to-back Men's Hundred champions Oval Invincibles are back in action at the Oval, as Rashid Khan and co take on Jimmy Anderson and the Manchester Originals. (09.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813083000 +0000" stop="20250813084500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Women's - M7 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Georgia Adams' Southern Brave - who got off to a winning start in their opening game - compete with Ellyse Perry's Birmingham Phoenix in Southampton. (10.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813084500 +0000" stop="20250813090000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M8 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Trent Rockets and Northern Superchargers. England stars Zak Crawley and Harry Brook propelled the Superchargers to victory on Thursday. (10.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813090000 +0000" stop="20250813091500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Women's - M8 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Trent Rockets face Northern Superchargers at Trent Bridge. Superchargers captain Hollie Armitage hit 34* en route to a 47-run win over Welsh Fire previously. (10.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813091500 +0000" stop="20250813093000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M10 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Birmingham Phoenix and Oval Invincibles. (12.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813093000 +0000" stop="20250813094500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M6 Hlts</title>
+    <desc lang="en">Steve Smith and Welsh Fire attempt to pick themselves up after defeat to the Superchargers, taking on David Warner and the London Spirit - who also faltered in their opener. (09.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813094500 +0000" stop="20250813100000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Women's - M10 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Birmingham Phoenix compete with Oval Invincibles. (12.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813100000 +0000" stop="20250813101500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M10 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Birmingham Phoenix and Oval Invincibles. (12.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813101500 +0000" stop="20250813133000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">In the Women's Hundred, Southern Brave compete with Northern Superchargers.</desc>
+  </programme>
+  
+
+  <programme start="20250813133000 +0000" stop="20250813170000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Southern Brave and Northern Superchargers.</desc>
+  </programme>
+  
+
+  <programme start="20250813170000 +0000" stop="20250813203000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Welsh Fire and Manchester Originals.</desc>
+  </programme>
+  
+
+  <programme start="20250813203000 +0000" stop="20250813204500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M11 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Southern Brave and Northern Superchargers. (13.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813204500 +0000" stop="20250813210000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Women's - M11 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Southern Brave compete with Northern Superchargers. (13.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813210000 +0000" stop="20250813211500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Men's - M12 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Welsh Fire and Manchester Originals. (13.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813211500 +0000" stop="20250813213000 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">THE HUNDRED Women's - M12 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Welsh Fire compete with Manchester Originals. (13.08)</desc>
+  </programme>
+  
+
+  <programme start="20250813213000 +0000" stop="20250814004500 +0000" channel="SkySportsCricket.uk@HD">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the Women's Hundred, Southern Brave compete with Northern Superchargers.</desc>
+  </programme>
+  
+
 </tv>
