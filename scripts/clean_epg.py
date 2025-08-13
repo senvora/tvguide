@@ -1,8 +1,10 @@
 import xml.etree.ElementTree as ET
-from xml.dom import minidom
+import gzip
+import shutil
 
-input_file = "guide.xml"
-output_file = "guide.xml"
+input_file = "epg.xml"
+output_file = "epg.xml"
+gzip_file = "epg.xml.gz"
 
 # Parse XML
 tree = ET.parse(input_file)
@@ -20,13 +22,12 @@ for programme in root.findall('programme'):
         if element is not None and (element.text is None or element.text.strip() == ""):
             programme.remove(element)
 
-# Pretty print
-xml_str = ET.tostring(root, encoding="utf-8")
-parsed = minidom.parseString(xml_str)
-pretty_xml_as_str = parsed.toprettyxml(indent="  ", encoding="utf-8")
+# Write minified XML (no spaces or line breaks)
+tree.write(output_file, encoding="utf-8", xml_declaration=True, method="xml")
 
-# Save
-with open(output_file, "wb") as f:
-    f.write(pretty_xml_as_str)
+# Create gzipped version
+with open(output_file, "rb") as f_in:
+    with gzip.open(gzip_file, "wb") as f_out:
+        shutil.copyfileobj(f_in, f_out)
 
-print(f"Cleaned EPG saved to {output_file}")
+print(f"Minified and cleaned EPG saved to {output_file} and {gzip_file}")
