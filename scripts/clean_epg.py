@@ -23,12 +23,17 @@ for programme in root.findall('programme'):
         if element is not None and (element.text is None or element.text.strip() == ""):
             programme.remove(element)
 
-# Pretty print XML (with line breaks and indentation)
+# Pretty print XML with indentation
 xml_str = ET.tostring(root, encoding="utf-8")
 parsed = minidom.parseString(xml_str)
 pretty_xml_as_str = parsed.toprettyxml(indent="  ", encoding="utf-8")
 
-# Save readable XML
+# Remove ALL blank lines (between channel, programme, etc.)
+pretty_xml_as_str = b"\n".join(
+    line for line in pretty_xml_as_str.splitlines() if line.strip()
+)
+
+# Save cleaned XML
 with open(output_file, "wb") as f:
     f.write(pretty_xml_as_str)
 
