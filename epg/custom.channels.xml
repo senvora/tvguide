@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="tataplay.com" lang="en" xmltv_id="stargoldselecthd.in" site_id="595">Star Gold Select HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="sonymaxhd.in" site_id="159098">Sony Max HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="stargoldselecthd.tataplay" site_id="595">Star Gold Select HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="andxplorhd.tataplay" site_id="1183">&amp;Xplor HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="zeetvhd.tataplay" site_id="63">Zee TV HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="sonymaxhd.dishtv" site_id="159098">Sony Max HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="cineplexhd.dishtv" site_id="158147">Colors Cineplex HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="starplushd.dishtv" site_id="10000000006010000">STAR PLUS HD</channel>
   <channel site="content.astro.com.my" lang="ms" xmltv_id="zeecinema.my" site_id="490">Zee Cinema</channel>
   <channel site="sky.com" lang="en" xmltv_id="skysportscrickethd.uk" site_id="4081">Sky Sp Cricket HD</channel> 
   <channel site="foxsports.com.au" lang="en" xmltv_id="foxcricket.au" site_id="14">Fox Cricket</channel>  
