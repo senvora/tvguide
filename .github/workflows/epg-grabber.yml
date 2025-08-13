@@ -2,9 +2,8 @@ name: Grab EPG
 
 on:
   schedule:
-    # Runs twice daily at 00:00 and 12:00 IST
-    - cron: "30 18,6 * * *" # 00:00 IST = 18:30 UTC previous day, 12:00 IST = 06:30 UTC
-  workflow_dispatch:
+    - cron: "0 0,12 * * *" # Twice daily (00:00 and 12:00 UTC)
+  workflow_dispatch:       # Allow manual trigger
 
 jobs:
   grab:
@@ -19,15 +18,14 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y git python3 python3-pip xmlstarlet
+      - name: Install Git & Python
+        run: sudo apt-get update && sudo apt-get install -y git python3 python3-pip
 
       - name: Clone EPG repo
-        run: git clone --depth 1 -b master https://github.com/iptv-org/epg.git epg-org
+        run: |
+          git clone --depth 1 -b master https://github.com/iptv-org/epg.git epg-org
 
-      - name: Install EPG grabber dependencies
+      - name: Install dependencies
         run: |
           cd epg-org
           npm install
@@ -35,38 +33,18 @@ jobs:
       - name: Run grabber with custom channels
         run: |
           cd epg-org
-          # Get IST midnight (today) in UTC as YYYYMMDDHHMM
-          START_UTC=$(TZ=Asia/Kolkata date +"%Y-%m-%d 00:00:00" | TZ=UTC date -f - +"%Y%m%d%H%M")
-          npm run grab --- \
-            --channels=../epg/custom.channels.xml \
-            --maxConnections=10 \
-            --days=2 \
-            --start=$START_UTC \
-            --gzip
+          npm run grab --- --channels=../epg/custom.channels.xml --maxConnections=10 --days=2 --gzip
           cp guide.xml ../epg.xml
           cp guide.xml.gz ../epg.xml.gz
 
-      - name: Clean EPG XML
+      - name: Clean EPG file
         run: |
-          # Remove everything except <title> and <desc>
-          xmlstarlet ed \
-            -d '//programme/*[not(self::title or self::desc)]' \
-            epg.xml > epg_step1.xml
-
-          # If multiple title/desc exist, keep only English
-          xmlstarlet ed \
-            -d '//programme[count(title) > 1]/title[@lang!="en"]' \
-            -d '//programme[count(desc) > 1]/desc[@lang!="en"]' \
-            epg_step1.xml > epg_step2.xml
-
-          # Remove blank lines and compact
-          xmllint --noblanks epg_step2.xml > epg.xml
-          rm epg_step1.xml epg_step2.xml
+          python3 scripts/clean_epg.py
 
       - name: Commit and push EPG
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add epg.xml epg.xml.gz
-          git commit -m "Update EPG ($(date -u +"%Y-%m-%d %H:%M:%S UTC"))" || echo "No changes to commit"
+          git commit -m "Update EPG ($(date -u +"%Y-%m-%d %H:%M:%S"))" || echo "No changes to commit"
           git push
