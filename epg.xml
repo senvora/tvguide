@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv date="20250813000000 +0530">
+<tv date="20250813">
   <channel id="stargoldselecthd.in">
     <display-name>Star Gold Select HD</display-name>
     <url>https://tataplay.com</url>
@@ -416,6 +416,22 @@
     <title lang="en">Live The Hundred</title>
     <desc lang="en">A match from the 2025 Men's Hundred between London Spirit and Trent Rockets.</desc>
   </programme>
+  <programme start="20250815020000 +0530" stop="20250815021500 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Men's - M13 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between London Spirit and Trent Rockets. (14.08)</desc>
+  </programme>
+  <programme start="20250815021500 +0530" stop="20250815023000 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Women's - M13 Hlts</title>
+    <desc lang="en">In the Women's Hundred, London Spirit compete with Trent Rockets. (14.08)</desc>
+  </programme>
+  <programme start="20250815023000 +0530" stop="20250815024500 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Men's - M13 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between London Spirit and Trent Rockets. (14.08)</desc>
+  </programme>
+  <programme start="20250815024500 +0530" stop="20250815060000 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the Women's Hundred, London Spirit compete with Trent Rockets.</desc>
+  </programme>
   <programme start="20250813064800 +0530" stop="20250813085200 +0530" channel="sonymaxhd.in">
     <title lang="en">Haseen Dillruba</title>
     <desc lang="en">When Rani's husband is found dead, she becomes the prime suspect. Subsequently, the investigation uncovers hidden truths about their marriage.</desc>
@@ -477,6 +493,10 @@
     <desc lang="en">This is TV Show - Entertainment Category</desc>
   </programme>
   <programme start="20250814233000 +0530" stop="20250815023000 +0530" channel="sonymaxhd.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  </programme>
+  <programme start="20250815023000 +0530" stop="20250815053000 +0530" channel="sonymaxhd.in">
     <title lang="en">Movie</title>
     <desc lang="en">This is TV Show - Entertainment Category</desc>
   </programme>
