@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv date="20250814">
+<tv date="20250815">
   <channel id="stargoldselecthd.tataplay">
     <display-name>Star Gold Select HD</display-name>
     <url>https://tataplay.com</url>
@@ -36,50 +36,6 @@
     <display-name>Fox Cricket</display-name>
     <url>https://foxsports.com.au</url>
   </channel>
-  <programme start="20250814021900 +0530" stop="20250814044000 +0530" channel="andxplorhd.tataplay">
-    <title lang="en">Akaash Vani</title>
-    <desc lang="en">Akaash and Vani love each other but she is forced to marry Ravi, an abusive man.</desc>
-  </programme>
-  <programme start="20250814044000 +0530" stop="20250814064900 +0530" channel="andxplorhd.tataplay">
-    <title lang="en">Joggers' Park</title>
-    <desc lang="en">Chaos erupt when former judge Jyotin Chatterjee falls for Jenny, a young woman.</desc>
-  </programme>
-  <programme start="20250814064900 +0530" stop="20250814081400 +0530" channel="andxplorhd.tataplay">
-    <title lang="en">The Last Color</title>
-    <desc lang="en">A young tightrope walker befriends a widow who wishes to play Holi but cannot do so..</desc>
-  </programme>
-  <programme start="20250814081400 +0530" stop="20250814103900 +0530" channel="andxplorhd.tataplay">
-    <title lang="en">Daddy</title>
-    <desc lang="en">Arun Gawli becomes one of India's most notable gangsters before he ventures into politics.</desc>
-  </programme>
-  <programme start="20250814103900 +0530" stop="20250814123000 +0530" channel="andxplorhd.tataplay">
-    <title lang="en">Poorna</title>
-    <desc lang="en">Poorna Malavath, a 13-year-old girl from Telangana, becomes the youngest female in history to climb and reach the summit of Mount Everest.</desc>
-  </programme>
-  <programme start="20250814123000 +0530" stop="20250814143300 +0530" channel="andxplorhd.tataplay">
-    <title lang="en">Attack</title>
-    <desc lang="en">Arjun participates in an experiment to defend the nation from terrorists and seek revenge.</desc>
-  </programme>
-  <programme start="20250814143300 +0530" stop="20250814164400 +0530" channel="andxplorhd.tataplay">
-    <title lang="en">Vicky Donor</title>
-    <desc lang="en">Vicky works as a sperm donor for Dr Baldev Chaddha and boosts the clinic's success.</desc>
-  </programme>
-  <programme start="20250814164400 +0530" stop="20250814184800 +0530" channel="andxplorhd.tataplay">
-    <title lang="en">Judgementall Hai Kya</title>
-    <desc lang="en">Bobby rents out a portion of her house to a young couple but is suspicious of the man.</desc>
-  </programme>
-  <programme start="20250814184800 +0530" stop="20250814210200 +0530" channel="andxplorhd.tataplay">
-    <title lang="en">Happy Bhag Jayegi</title>
-    <desc lang="en">An Indian runaway bride mistakenly arrives at the home of a Pakistani politician.</desc>
-  </programme>
-  <programme start="20250814210200 +0530" stop="20250814230400 +0530" channel="andxplorhd.tataplay">
-    <title lang="en">Bareilly Ki Barfi</title>
-    <desc lang="en">After reading a book that reflects her life, Bitti sets out to find its author.</desc>
-  </programme>
-  <programme start="20250814230400 +0530" stop="20250815010900 +0530" channel="andxplorhd.tataplay">
-    <title lang="en">Badlapur</title>
-    <desc lang="en">An ordinary man's hunger for revenge gradually turns him into a cold-blooded murderer.</desc>
-  </programme>
   <programme start="20250815010900 +0530" stop="20250815030900 +0530" channel="andxplorhd.tataplay">
     <title lang="en">Lost</title>
     <desc lang="en">A journalist tries to uncover the truth behind the disappearance of a young activist.</desc>
@@ -124,49 +80,53 @@
     <title lang="en">Swatantra Veer Savarkar</title>
     <desc lang="en">Vinayak Damodar Savarkar joins India's freedom struggle and faces severe incidents.</desc>
   </programme>
-  <programme start="20250814061100 +0530" stop="20250814075200 +0530" channel="cineplexhd.dishtv">
-    <title lang="en">Dedh Bigha Zameen</title>
-    <desc lang="en">A man decides to sell his land to get his sister married, but obstacles arise when a powerful political figure opposes him.</desc>
+  <programme start="20250816020000 +0530" stop="20250816031500 +0530" channel="andxplorhd.tataplay">
+    <title lang="en">U-Turn</title>
+    <desc lang="en">While investigating accidents on a flyover, an intern journalist is accused of murder.</desc>
   </programme>
-  <programme start="20250814075200 +0530" stop="20250814095300 +0530" channel="cineplexhd.dishtv">
-    <title lang="en">Darling 2</title>
-    <desc lang="en">Five friends on a holiday in Valparai find their getaway turning eerie when they sense the haunting presence of a friend who recently died by suicide.</desc>
+  <programme start="20250816031500 +0530" stop="20250816043700 +0530" channel="andxplorhd.tataplay">
+    <title lang="en">Sniff</title>
+    <desc lang="en">A laboratory accident enhances Sunny's olfactory abilities and he turns into a superhero.</desc>
   </programme>
-  <programme start="20250814095300 +0530" stop="20250814113000 +0530" channel="cineplexhd.dishtv">
-    <title lang="en">Fool N Final</title>
-    <desc lang="en">A heist to find a precious diamond goes hilariously wrong when the group of thieves decide to escape the clutches of their leader.</desc>
+  <programme start="20250816043700 +0530" stop="20250816063700 +0530" channel="andxplorhd.tataplay">
+    <title lang="en">Madaari</title>
+    <desc lang="en">Nirmal kidnaps the son of the home minister and forces the government to meet his demands.</desc>
   </programme>
-  <programme start="20250814113000 +0530" stop="20250814143000 +0530" channel="cineplexhd.dishtv">
-    <title lang="en">Fool N Final</title>
-    <desc lang="en">A heist to find a precious diamond goes hilariously wrong when the group of thieves decide to escape the clutches of their leader.</desc>
+  <programme start="20250816063700 +0530" stop="20250816090200 +0530" channel="andxplorhd.tataplay">
+    <title lang="en">Chalo Dilli</title>
+    <desc lang="en">Stuck with an unsophisticated fellow traveller for hours after missing a flight, a high-society woman wends her way through diverse Indian neighbourhoods to reach Delhi.</desc>
   </programme>
-  <programme start="20250814143000 +0530" stop="20250814173000 +0530" channel="cineplexhd.dishtv">
-    <title lang="en">Ruslaan</title>
-    <desc lang="en">Ruslaan, a terrorist's son, undergoes a major life change when an anti-terrorism officer adopts him. Determined to fix his bad reputation, Ruslaan becomes an intelligence agent.</desc>
+  <programme start="20250816090200 +0530" stop="20250816113700 +0530" channel="andxplorhd.tataplay">
+    <title lang="en">Gold</title>
+    <desc lang="en">Tapan Das, a passionate team manager with a penchant for alcohol, embarks a ragtag group of hockey players on an ambitious quest for independent India's first Olympic gold medal.</desc>
   </programme>
-  <programme start="20250814173000 +0530" stop="20250814203000 +0530" channel="cineplexhd.dishtv">
-    <title lang="en">Gatta Kusthi</title>
-    <desc lang="en">Veera has a preconceived set of criteria for what he wants in a bride. However, he ends up unexpectedly marrying a woman who is the complete opposite of his expectations.</desc>
+  <programme start="20250816113700 +0530" stop="20250816143100 +0530" channel="andxplorhd.tataplay">
+    <title lang="en">Dil Dhadakne Do</title>
+    <desc lang="en">Kamal and Neelam's loving facade hides their strained marriage.</desc>
   </programme>
-  <programme start="20250814203000 +0530" stop="20250814223000 +0530" channel="cineplexhd.dishtv">
-    <title lang="en">Liger - Saala Crossbreed</title>
-    <desc lang="en">A talented young MMA fighter trains hard to rise up the ranks. However, his goals are hindered when his lover is kidnapped.</desc>
+  <programme start="20250816143100 +0530" stop="20250816163800 +0530" channel="andxplorhd.tataplay">
+    <title lang="en">Mili</title>
+    <desc lang="en">Mili, a young woman, accidentally gets stuck in a walk-in freezer at her workplace. Racing against time, she must find a way to survive.</desc>
   </programme>
-  <programme start="20250814223000 +0530" stop="20250815013000 +0530" channel="cineplexhd.dishtv">
-    <title lang="en">Rocketry: The Nambi Effect</title>
-    <desc lang="en">The life of Nambi Narayanan is full of struggles and accomplishments as an aerospace engineer. However, he faces his biggest challenge while working at ISRO when the world accuses him of treason.</desc>
+  <programme start="20250816163800 +0530" stop="20250816185800 +0530" channel="andxplorhd.tataplay">
+    <title lang="en">Uri: The Surgical Strike</title>
+    <desc lang="en">The Indian Army retaliates against militants who attacked an army base in Uri in 2016.</desc>
   </programme>
-  <programme start="20250815013000 +0530" stop="20250815040000 +0530" channel="cineplexhd.dishtv">
-    <title lang="en">Saindhav</title>
-    <desc lang="en">A man with a traumatic past is compelled to encounter an crime boss so that he can rescue his daughter from a health problem.</desc>
+  <programme start="20250816185800 +0530" stop="20250816210000 +0530" channel="andxplorhd.tataplay">
+    <title lang="en">Khaali Peeli</title>
+    <desc lang="en">Pooja and Blackie reunite after she bravely escapes from a brothel.</desc>
   </programme>
-  <programme start="20250815040000 +0530" stop="20250815060000 +0530" channel="cineplexhd.dishtv">
-    <title lang="en">Mardaani 2</title>
-    <desc lang="en">A twenty-one-year-old psychopath has an affinity towards raping and murdering young woman. But, a cop, Shivani Shivaji Roy, is on his heels as she tries to bring him to justice.</desc>
+  <programme start="20250816210000 +0530" stop="20250816232100 +0530" channel="andxplorhd.tataplay">
+    <title lang="en">Raazi</title>
+    <desc lang="en">A Kashmiri woman walks the tightrope between marriage and duty to protect her motherland.</desc>
   </programme>
-  <programme start="20250815060000 +0530" stop="20250815080000 +0530" channel="cineplexhd.dishtv">
-    <title lang="en">A Wednesday!</title>
-    <desc lang="en">Prakash Rathod, a retired police commissioner recounts the most memorable case of his career wherein he was informed about a bomb scare in Mumbai by an ordinary commoner.</desc>
+  <programme start="20250816232100 +0530" stop="20250817020000 +0530" channel="andxplorhd.tataplay">
+    <title lang="en">Nil Battey Sannata</title>
+    <desc lang="en">When Apeksha loses her interest in studies, her mother rejoins school to motivate her.</desc>
+  </programme>
+  <programme start="20250815065600 +0530" stop="20250815080000 +0530" channel="cineplexhd.dishtv">
+    <title lang="en">The Adventures of Srimannarayana</title>
+    <desc lang="en">A corrupt policeman finds a new purpose when he sets off on a chaotic search for a missing treasure. However, two brothers and a troupe become major obstacles in his meandering adventure.</desc>
   </programme>
   <programme start="20250815080000 +0530" stop="20250815093000 +0530" channel="cineplexhd.dishtv">
     <title lang="en">Dove</title>
@@ -204,137 +164,45 @@
     <title lang="en">Fidaa</title>
     <desc lang="en">An NRI medical student falls in love with a vivacious woman. However, they face challenges in their relationship due to their differences in personalities.</desc>
   </programme>
-  <programme start="20250813223000 +0530" stop="20250814021500 +0530" channel="foxcricket.au">
-    <title lang="en">Hundred</title>
-    <desc lang="en">All eyes will be on Australian star Steve Smith as Welsh Fire battles the Manchester Originals at home.</desc>
+  <programme start="20250816060000 +0530" stop="20250816080000 +0530" channel="cineplexhd.dishtv">
+    <title lang="en">Madras Cafe</title>
+    <desc lang="en">Vikram, an Indian intelligence agent who visits Sri Lanka on a secret mission, finds himself embroiled in a civil war and a conspiracy to kill the former prime minister of India.</desc>
   </programme>
-  <programme start="20250814021500 +0530" stop="20250814023500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">The battle at Edgbaston will see the Birmingham Phoenix's Liam Livingstone go head-to-head with a tough Oval Invincibles side that includes Australian bowler Jason Behrendorff.</desc>
+  <programme start="20250816080000 +0530" stop="20250816093000 +0530" channel="cineplexhd.dishtv">
+    <title lang="en">Satya Gang</title>
+    <desc lang="en">Satya and Raj, who are orphans, own a garage and make a living out of it. However, their lives turn tragic when a notorious gang commit numerous murders and make them the culprits.</desc>
   </programme>
-  <programme start="20250814023500 +0530" stop="20250814025500 +0530" channel="foxcricket.au">
-    <title lang="en">T20 Mini AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  <programme start="20250816093000 +0530" stop="20250816113000 +0530" channel="cineplexhd.dishtv">
+    <title lang="en">Bhoot</title>
+    <desc lang="en">Swati and Vishal move into a new flat that is haunted by the spirit of its previous tenant. Later, Vishal observes a sudden shift in Swati's behaviour.</desc>
   </programme>
-  <programme start="20250814025500 +0530" stop="20250814031500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Women's Mini</title>
-    <desc lang="en">Australian blockbuster takes center stage in Birmingham as Ellyse Perry's Phoenix go head-to-head with Meg Lanning's Oval Invincibles.</desc>
+  <programme start="20250816113000 +0530" stop="20250816143000 +0530" channel="cineplexhd.dishtv">
+    <title lang="en">Aiyyaa</title>
+    <desc lang="en">Meenakshi is a drama queen who falls in love with Surya, a Tamil actor. Although she is engaged to another person, she still dreams of getting married to Surya.</desc>
   </programme>
-  <programme start="20250814031500 +0530" stop="20250814041500 +0530" channel="foxcricket.au">
-    <title lang="en">T20 AUS v SA</title>
-    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
+  <programme start="20250816143000 +0530" stop="20250816173000 +0530" channel="cineplexhd.dishtv">
+    <title lang="en">Agneepath</title>
+    <desc lang="en">When his father is wrongfully murdered by Kancha Cheena, a ruthless crime lord, Vijay grows up and embarks on a path of revenge by befriending Rauf Lala, a local kingpin.</desc>
   </programme>
-  <programme start="20250814041500 +0530" stop="20250814051500 +0530" channel="foxcricket.au">
-    <title lang="en">T20 AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  <programme start="20250816173000 +0530" stop="20250816203000 +0530" channel="cineplexhd.dishtv">
+    <title lang="en">Aavesham</title>
+    <desc lang="en">Three boys move into a hostel to pursue engineering, where they clash with seniors. To get revenge, they befriend a gangster.</desc>
   </programme>
-  <programme start="20250814051500 +0530" stop="20250814053500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">The battle at Edgbaston will see the Birmingham Phoenix's Liam Livingstone go head-to-head with a tough Oval Invincibles side that includes Australian bowler Jason Behrendorff.</desc>
+  <programme start="20250816203000 +0530" stop="20250816223000 +0530" channel="cineplexhd.dishtv">
+    <title lang="en">Hungama</title>
+    <desc lang="en">A millionaire businessman living in a village decides to move to the city with his wife. However, things take a comical turn as a case of mistaken identity causes chaos in their lives.</desc>
   </programme>
-  <programme start="20250814053500 +0530" stop="20250814055500 +0530" channel="foxcricket.au">
-    <title lang="en">T20 Mini AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
+  <programme start="20250816223000 +0530" stop="20250817013000 +0530" channel="cineplexhd.dishtv">
+    <title lang="en">Guardian</title>
+    <desc lang="en">An unavenged woman returns from the dead to terrify and terrorise those who tormented her when she was alive.</desc>
   </programme>
-  <programme start="20250814055500 +0530" stop="20250814061500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Women's Mini</title>
-    <desc lang="en">Australian blockbuster takes center stage in Birmingham as Ellyse Perry's Phoenix go head-to-head with Meg Lanning's Oval Invincibles.</desc>
+  <programme start="20250817013000 +0530" stop="20250817040000 +0530" channel="cineplexhd.dishtv">
+    <title lang="en">Harom Hara</title>
+    <desc lang="en">Subrahmanyam loses his job and enters into illegal arms trade to become a notorious dealer.</desc>
   </programme>
-  <programme start="20250814061500 +0530" stop="20250814063500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">Southern Brave's Utilita Bowl fortress will be put to the test by the Northern Superchargers.</desc>
-  </programme>
-  <programme start="20250814063500 +0530" stop="20250814065500 +0530" channel="foxcricket.au">
-    <title lang="en">T20 Mini AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
-  </programme>
-  <programme start="20250814065500 +0530" stop="20250814071500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Women's Mini</title>
-    <desc lang="en">Southern Brave with Sophie Devine, take on Annabel Sutherland's Superchargers at The Rose Bowl.</desc>
-  </programme>
-  <programme start="20250814071500 +0530" stop="20250814101500 +0530" channel="foxcricket.au">
-    <title lang="en">T20 AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
-  </programme>
-  <programme start="20250814101500 +0530" stop="20250814103500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">All eyes will be on Australian star Steve Smith as Welsh Fire battles the Manchester Originals at home.</desc>
-  </programme>
-  <programme start="20250814103500 +0530" stop="20250814105500 +0530" channel="foxcricket.au">
-    <title lang="en">T20 Mini AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
-  </programme>
-  <programme start="20250814105500 +0530" stop="20250814111500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Women's Mini</title>
-    <desc lang="en">Jess Jonassen's Welsh Fire light up Sophia Garden against Beth Mooney's Manchester Originals.</desc>
-  </programme>
-  <programme start="20250814111500 +0530" stop="20250814113500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">Southern Brave's Utilita Bowl fortress will be put to the test by the Northern Superchargers.</desc>
-  </programme>
-  <programme start="20250814113500 +0530" stop="20250814115500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Women's Mini</title>
-    <desc lang="en">Southern Brave with Sophie Devine, take on Annabel Sutherland's Superchargers at The Rose Bowl.</desc>
-  </programme>
-  <programme start="20250814115500 +0530" stop="20250814121500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">Southern Brave's Utilita Bowl fortress will be put to the test by the Northern Superchargers.</desc>
-  </programme>
-  <programme start="20250814121500 +0530" stop="20250814131500 +0530" channel="foxcricket.au">
-    <title lang="en">T20 AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
-  </programme>
-  <programme start="20250814131500 +0530" stop="20250814133500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">All eyes will be on Australian star Steve Smith as Welsh Fire battles the Manchester Originals at home.</desc>
-  </programme>
-  <programme start="20250814133500 +0530" stop="20250814135500 +0530" channel="foxcricket.au">
-    <title lang="en">T20 Mini AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
-  </programme>
-  <programme start="20250814135500 +0530" stop="20250814141500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Women's Mini</title>
-    <desc lang="en">Jess Jonassen's Welsh Fire light up Sophia Garden against Beth Mooney's Manchester Originals.</desc>
-  </programme>
-  <programme start="20250814141500 +0530" stop="20250814151500 +0530" channel="foxcricket.au">
-    <title lang="en">T20 AUS v SA</title>
-    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
-  </programme>
-  <programme start="20250814151500 +0530" stop="20250814161500 +0530" channel="foxcricket.au">
-    <title lang="en">T20 AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
-  </programme>
-  <programme start="20250814161500 +0530" stop="20250814163500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">Southern Brave's Utilita Bowl fortress will be put to the test by the Northern Superchargers.</desc>
-  </programme>
-  <programme start="20250814163500 +0530" stop="20250814165500 +0530" channel="foxcricket.au">
-    <title lang="en">T20 Mini AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
-  </programme>
-  <programme start="20250814165500 +0530" stop="20250814171500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Women's Mini</title>
-    <desc lang="en">Southern Brave with Sophie Devine, take on Annabel Sutherland's Superchargers at The Rose Bowl.</desc>
-  </programme>
-  <programme start="20250814171500 +0530" stop="20250814181500 +0530" channel="foxcricket.au">
-    <title lang="en">T20 AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
-  </programme>
-  <programme start="20250814181500 +0530" stop="20250814183500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">All eyes will be on Australian star Steve Smith as Welsh Fire battles the Manchester Originals at home.</desc>
-  </programme>
-  <programme start="20250814183500 +0530" stop="20250814185500 +0530" channel="foxcricket.au">
-    <title lang="en">T20 Mini AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
-  </programme>
-  <programme start="20250814185500 +0530" stop="20250814191500 +0530" channel="foxcricket.au">
-    <title lang="en">The Hundred Women's Mini</title>
-    <desc lang="en">Jess Jonassen's Welsh Fire light up Sophia Garden against Beth Mooney's Manchester Originals.</desc>
-  </programme>
-  <programme start="20250814191500 +0530" stop="20250814223000 +0530" channel="foxcricket.au">
-    <title lang="en">Hundred W</title>
-    <desc lang="en">Grace Harris's London Spirit take on the spin of Ash Gardner and Alana King&amp;#8217;s Trent Rockets at the historic Lords.</desc>
+  <programme start="20250817040000 +0530" stop="20250817060000 +0530" channel="cineplexhd.dishtv">
+    <title lang="en">Mission 118</title>
+    <desc lang="en">An investigative journalist has nightmares about a young woman's murder and tries to uncover whether his dreams have any connection to reality.</desc>
   </programme>
   <programme start="20250814223000 +0530" stop="20250815021500 +0530" channel="foxcricket.au">
     <title lang="en">Hundred</title>
@@ -440,85 +308,81 @@
     <title lang="en">Hundred W</title>
     <desc lang="en">Annabel Sutherland and Georgia Wareham clash with an Ellyse Perry-led Birmingham Phoenix. Both pushing for a top-half spot.</desc>
   </programme>
-  <programme start="20250814061500 +0530" stop="20250814063000 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">THE HUNDRED Men's - M10 Hlts</title>
-    <desc lang="en">The back-to-back reigning Men's Hundred champions Oval Invincibles travel to Liam Livingstone's winless Phoenix. Sam Billings' side have two wins from two in their 2025 defence. (12.08)</desc>
+  <programme start="20250815223000 +0530" stop="20250816021500 +0530" channel="foxcricket.au">
+    <title lang="en">Hundred</title>
+    <desc lang="en">The Northern Superchargers face a challenge against Birmingham Phoenix's Ben Duckett and Trent Boult at Headingley.</desc>
   </programme>
-  <programme start="20250814063000 +0530" stop="20250814100000 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">The Hundred</title>
-    <desc lang="en">Off to the perfect start in 2025, last year's runners-up Southern Brave - skippered by James Vince - take on Harry Brook's Northern Superchargers in Southampton at the Rose Bowl.</desc>
+  <programme start="20250816021500 +0530" stop="20250816032500 +0530" channel="foxcricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
   </programme>
-  <programme start="20250814100000 +0530" stop="20250814101500 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">THE HUNDRED Men's - M10 Hlts</title>
-    <desc lang="en">The back-to-back reigning Men's Hundred champions Oval Invincibles travel to Liam Livingstone's winless Phoenix. Sam Billings' side have two wins from two in their 2025 defence. (12.08)</desc>
+  <programme start="20250816032500 +0530" stop="20250816042500 +0530" channel="foxcricket.au">
+    <title lang="en">T20: 2006 SA v AUS</title>
+    <desc lang="en">Johannesburg, Feb 24th, 2006. After a comfortable win against South Africa in their first T20I match ever in Brisbane the previous year, Ricky Ponting leads an all-star team in their first T20I match on South African soil.</desc>
   </programme>
-  <programme start="20250814101500 +0530" stop="20250814103000 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">THE HUNDRED Women's - M10 Hlts</title>
-    <desc lang="en">After falling short again, the Invincibles go to Birmingham on the back of consecutive defeats. Ellyse Perry's Phoenix also target a return to form after defeat to Southern Brave. (12.08)</desc>
+  <programme start="20250816042500 +0530" stop="20250816083500 +0530" channel="foxcricket.au">
+    <title lang="en">CPL</title>
+    <desc lang="en">Game 2: St Kitts and Nevis face the formidable Amazon Warriors, who boast top players like Imran Tahir and Shai Hope.</desc>
   </programme>
-  <programme start="20250814103000 +0530" stop="20250814134500 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">The Hundred</title>
-    <desc lang="en">In the Women's Hundred, Welsh Fire take on Manchester Originals. Tammy Beaumont's Welsh Fire are still looking to get off the mark after consecutive defeats to start the new campaign.</desc>
+  <programme start="20250816083500 +0530" stop="20250816085500 +0530" channel="foxcricket.au">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Annabel Sutherland and Georgia Wareham clash with an Ellyse Perry-led Birmingham Phoenix. Both pushing for a top-half spot.</desc>
   </programme>
-  <programme start="20250814134500 +0530" stop="20250814140000 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">THE HUNDRED Women's - M7 Hlts</title>
-    <desc lang="en">In the Women's Hundred, Georgia Adams' Southern Brave - who got off to a winning start in their opening game - compete with Ellyse Perry's Birmingham Phoenix in Southampton. (10.08)</desc>
+  <programme start="20250816085500 +0530" stop="20250816091500 +0530" channel="foxcricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The Northern Superchargers face a challenge against Birmingham Phoenix's Ben Duckett and Trent Boult at Headingley.</desc>
   </programme>
-  <programme start="20250814140000 +0530" stop="20250814141500 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">THE HUNDRED Men's - M11 Hlts</title>
-    <desc lang="en">Off to the perfect start in 2025, last year's runners-up Southern Brave - skippered by James Vince - take on Harry Brook's Northern Superchargers in Southampton at the Rose Bowl. (13.08)</desc>
+  <programme start="20250816091500 +0530" stop="20250816101500 +0530" channel="foxcricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
   </programme>
-  <programme start="20250814141500 +0530" stop="20250814143000 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">THE HUNDRED Women's - M11 Hlts</title>
-    <desc lang="en">Two from two, the in-form Southern Brave host the equally impressive Northern Superchargers in the Women's Hundred. Whose perfect start to the campaign will end at the Rose Bowl? (13.08)</desc>
+  <programme start="20250816101500 +0530" stop="20250816111500 +0530" channel="foxcricket.au">
+    <title lang="en">T20 Classic</title>
+    <desc lang="en">With the 3-match series tied at 1-1, Captain Aaron Finch&amp;#8217;s men bring the series down to the wire in Sydney.</desc>
   </programme>
-  <programme start="20250814143000 +0530" stop="20250814180000 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">The Hundred</title>
-    <desc lang="en">Jos Buttler and the Originals go in search of a second win of the season in Cardiff against Jonny Bairstow's winless Welsh Fire. Bairstow smacked 86 runs in defeat to London Spirit.</desc>
+  <programme start="20250816111500 +0530" stop="20250816113500 +0530" channel="foxcricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The Northern Superchargers face a challenge against Birmingham Phoenix's Ben Duckett and Trent Boult at Headingley.</desc>
   </programme>
-  <programme start="20250814180000 +0530" stop="20250814181500 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">THE HUNDRED Men's - M12 Hlts</title>
-    <desc lang="en">Jos Buttler and the Originals go in search of a second win of the season in Cardiff against Jonny Bairstow's winless Welsh Fire. Bairstow smacked 86 runs in defeat to London Spirit. (13.08)</desc>
+  <programme start="20250816113500 +0530" stop="20250816115500 +0530" channel="foxcricket.au">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Annabel Sutherland and Georgia Wareham clash with an Ellyse Perry-led Birmingham Phoenix. Both pushing for a top-half spot.</desc>
   </programme>
-  <programme start="20250814181500 +0530" stop="20250814183000 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">THE HUNDRED Women's - M12 Hlts</title>
-    <desc lang="en">In the Women's Hundred, Welsh Fire take on Manchester Originals. Tammy Beaumont's Welsh Fire are still looking to get off the mark after consecutive defeats to start the campaign. (13.08)</desc>
+  <programme start="20250816115500 +0530" stop="20250816121500 +0530" channel="foxcricket.au">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">The Northern Superchargers face a challenge against Birmingham Phoenix's Ben Duckett and Trent Boult at Headingley.</desc>
   </programme>
-  <programme start="20250814183000 +0530" stop="20250814184500 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">THE HUNDRED Men's - M10 Hlts</title>
-    <desc lang="en">The back-to-back reigning Men's Hundred champions Oval Invincibles travel to Liam Livingstone's winless Phoenix. Sam Billings' side have two wins from two in their 2025 defence. (12.08)</desc>
+  <programme start="20250816121500 +0530" stop="20250816131500 +0530" channel="foxcricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
   </programme>
-  <programme start="20250814184500 +0530" stop="20250814190000 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">THE HUNDRED Men's - M11 Hlts</title>
-    <desc lang="en">Off to the perfect start in 2025, last year's runners-up Southern Brave - skippered by James Vince - take on Harry Brook's Northern Superchargers in Southampton at the Rose Bowl. (13.08)</desc>
+  <programme start="20250816131500 +0530" stop="20250816141500 +0530" channel="foxcricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
   </programme>
-  <programme start="20250814190000 +0530" stop="20250814191500 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">THE HUNDRED Women's - M11 Hlts</title>
-    <desc lang="en">Two from two, the in-form Southern Brave host the equally impressive Northern Superchargers in the Women's Hundred. Whose perfect start to the campaign will end at the Rose Bowl? (13.08)</desc>
+  <programme start="20250816141500 +0530" stop="20250816144500 +0530" channel="foxcricket.au">
+    <title lang="en">Pre Game</title>
+    <desc lang="en">Don't miss a moment of the Australia vs. South Africa series. The best team in cricket has all the highlights, previews, and analysis.</desc>
   </programme>
-  <programme start="20250814191500 +0530" stop="20250814223000 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">Live The Hundred</title>
-    <desc lang="en">Ashleigh Gardner's Trent Rockets venture to the home of cricket in pursuit of a first Women's Hundred win of 2025, taking on Charlie Dean's unbeaten London Spirit.</desc>
+  <programme start="20250816144500 +0530" stop="20250816161500 +0530" channel="foxcricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Mitchell Marsh&amp;#8217;s Australia faces a series-decider clash in Cairns after a Brevis-inspired South Africa leveled the series.</desc>
   </programme>
-  <programme start="20250814223000 +0530" stop="20250815020000 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">Live The Hundred</title>
-    <desc lang="en">Two games in to the new campaign, Joe Root and the Trent Rockets take an unbeaten start to Lord's for a contest with David Warner and London Spirit, who come from defeat.</desc>
+  <programme start="20250816161500 +0530" stop="20250816163500 +0530" channel="foxcricket.au">
+    <title lang="en">The Big Break</title>
+    <desc lang="en">The game may be taking a break, but we're not. Keep watching for exclusive interviews, an analysis of team strategies, highlights, and more.</desc>
   </programme>
-  <programme start="20250815020000 +0530" stop="20250815021500 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">THE HUNDRED Men's - M13 Hlts</title>
-    <desc lang="en">Two games in to the new campaign, Joe Root and the Trent Rockets take an unbeaten start to Lord's for a contest with David Warner and London Spirit, who come from defeat. (14.08)</desc>
+  <programme start="20250816163500 +0530" stop="20250816180500 +0530" channel="foxcricket.au">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Mitchell Marsh&amp;#8217;s Australia faces a series-decider clash in Cairns after a Brevis-inspired South Africa leveled the series.</desc>
   </programme>
-  <programme start="20250815021500 +0530" stop="20250815023000 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">THE HUNDRED Women's - M13 Hlts</title>
-    <desc lang="en">Ashleigh Gardner's Trent Rockets venture to the home of cricket in pursuit of a first Women's Hundred win of 2025, taking on Charlie Dean's unbeaten London Spirit. (14.08)</desc>
+  <programme start="20250816180500 +0530" stop="20250816183000 +0530" channel="foxcricket.au">
+    <title lang="en">Post Game</title>
+    <desc lang="en">Join the Fox Cricket team for the best review from the day of cricket with this Post Game show.</desc>
   </programme>
-  <programme start="20250815023000 +0530" stop="20250815024500 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">THE HUNDRED Men's - M13 Hlts</title>
-    <desc lang="en">Two games in to the new campaign, Joe Root and the Trent Rockets take an unbeaten start to Lord's for a contest with David Warner and London Spirit, who come from defeat. (14.08)</desc>
-  </programme>
-  <programme start="20250815024500 +0530" stop="20250815060000 +0530" channel="skysportscrickethd.uk">
-    <title lang="en">The Hundred</title>
-    <desc lang="en">Ashleigh Gardner's Trent Rockets venture to the home of cricket in pursuit of a first Women's Hundred win of 2025, taking on Charlie Dean's unbeaten London Spirit.</desc>
+  <programme start="20250816183000 +0530" stop="20250816220000 +0530" channel="foxcricket.au">
+    <title lang="en">Hundred</title>
+    <desc lang="en">Joe Root's Trent Rockets face a tough test against a powerful Southern Brave squad that includes Australian Hilton Cartwright.</desc>
   </programme>
   <programme start="20250815060000 +0530" stop="20250815061501 +0530" channel="skysportscrickethd.uk">
     <title lang="en">THE HUNDRED Men's - M11 Hlts</title>
@@ -604,45 +468,97 @@
     <title lang="en">The Hundred</title>
     <desc lang="en">In the Women's Hundred, Northern Superchargers compete with Birmingham Phoenix.</desc>
   </programme>
-  <programme start="20250814065800 +0530" stop="20250814090500 +0530" channel="sonymaxhd.dishtv">
-    <title lang="en">Saaya</title>
-    <desc lang="en">Akash and Maya, two doctors, are happily married and expecting a baby. However, things take a turn when Maya's bus crashes and she is believed to be dead.</desc>
+  <programme start="20250816060000 +0530" stop="20250816061500 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Men's - M13 Hlts</title>
+    <desc lang="en">Two games in to the new campaign, Joe Root and the Trent Rockets take an unbeaten start to Lord's for a contest with David Warner and London Spirit, who come from defeat. (14.08)</desc>
   </programme>
-  <programme start="20250814090500 +0530" stop="20250814113000 +0530" channel="sonymaxhd.dishtv">
-    <title lang="en">Resident Evil: Extinction</title>
-    <desc lang="en">During a zombie apocalypse engineered by the Umbrella Corporation, Alice and a group of survivors journey across the country in search of supplies and a safe place.</desc>
+  <programme start="20250816061500 +0530" stop="20250816063000 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Women's - M13 Hlts</title>
+    <desc lang="en">Ashleigh Gardner's Trent Rockets venture to the home of cricket in pursuit of a first Women's Hundred win of 2025, taking on Charlie Dean's unbeaten London Spirit. (14.08)</desc>
   </programme>
-  <programme start="20250814113000 +0530" stop="20250814143000 +0530" channel="sonymaxhd.dishtv">
-    <title lang="en">Movie</title>
-    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  <programme start="20250816063000 +0530" stop="20250816100000 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Northern Superchargers and Birmingham Phoenix.</desc>
   </programme>
-  <programme start="20250814143000 +0530" stop="20250814173000 +0530" channel="sonymaxhd.dishtv">
-    <title lang="en">Movie</title>
-    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  <programme start="20250816100000 +0530" stop="20250816101500 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Men's - M13 Hlts</title>
+    <desc lang="en">Two games in to the new campaign, Joe Root and the Trent Rockets take an unbeaten start to Lord's for a contest with David Warner and London Spirit, who come from defeat. (14.08)</desc>
   </programme>
-  <programme start="20250814173000 +0530" stop="20250814203000 +0530" channel="sonymaxhd.dishtv">
-    <title lang="en">Movie</title>
-    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  <programme start="20250816101500 +0530" stop="20250816103000 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Women's - M13 Hlts</title>
+    <desc lang="en">Ashleigh Gardner's Trent Rockets venture to the home of cricket in pursuit of a first Women's Hundred win of 2025, taking on Charlie Dean's unbeaten London Spirit. (14.08)</desc>
   </programme>
-  <programme start="20250814203000 +0530" stop="20250814233000 +0530" channel="sonymaxhd.dishtv">
-    <title lang="en">Movie</title>
-    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  <programme start="20250816103000 +0530" stop="20250816134500 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the Women's Hundred, Northern Superchargers compete with Birmingham Phoenix.</desc>
   </programme>
-  <programme start="20250814233000 +0530" stop="20250815023000 +0530" channel="sonymaxhd.dishtv">
-    <title lang="en">Movie</title>
-    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  <programme start="20250816134500 +0530" stop="20250816140000 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Men's - M13 Hlts</title>
+    <desc lang="en">Two games in to the new campaign, Joe Root and the Trent Rockets take an unbeaten start to Lord's for a contest with David Warner and London Spirit, who come from defeat. (14.08)</desc>
   </programme>
-  <programme start="20250815023000 +0530" stop="20250815053000 +0530" channel="sonymaxhd.dishtv">
-    <title lang="en">Movie</title>
-    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  <programme start="20250816140000 +0530" stop="20250816141500 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Men's - M13 Hlts</title>
+    <desc lang="en">Two games in to the new campaign, Joe Root and the Trent Rockets take an unbeaten start to Lord's for a contest with David Warner and London Spirit, who come from defeat. (14.08)</desc>
   </programme>
-  <programme start="20250815053000 +0530" stop="20250815083000 +0530" channel="sonymaxhd.dishtv">
-    <title lang="en">Movie</title>
-    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  <programme start="20250816141500 +0530" stop="20250816143000 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Women's - M13 Hlts</title>
+    <desc lang="en">Ashleigh Gardner's Trent Rockets venture to the home of cricket in pursuit of a first Women's Hundred win of 2025, taking on Charlie Dean's unbeaten London Spirit. (14.08)</desc>
   </programme>
-  <programme start="20250815083000 +0530" stop="20250815113000 +0530" channel="sonymaxhd.dishtv">
-    <title lang="en">Movie</title>
-    <desc lang="en">This is TV Show - Entertainment Category</desc>
+  <programme start="20250816143000 +0530" stop="20250816144500 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Men's - M10 Hlts</title>
+    <desc lang="en">The back-to-back reigning Men's Hundred champions Oval Invincibles travel to Liam Livingstone's winless Phoenix. Sam Billings' side have two wins from two in their 2025 defence. (12.08)</desc>
+  </programme>
+  <programme start="20250816144500 +0530" stop="20250816150000 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Men's - M14 Hlts</title>
+    <desc lang="en">A match from the 2025 Men's Hundred between Northern Superchargers and Birmingham Phoenix. (15.08)</desc>
+  </programme>
+  <programme start="20250816150000 +0530" stop="20250816151500 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Women's - M14 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Northern Superchargers compete with Birmingham Phoenix. (15.08)</desc>
+  </programme>
+  <programme start="20250816151500 +0530" stop="20250816183000 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">In the Women's Hundred, Trent Rockets take on Southern Brave.</desc>
+  </programme>
+  <programme start="20250816183000 +0530" stop="20250816220000 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">In the Men's Hundred, Trent Rockets face Southern Brave.</desc>
+  </programme>
+  <programme start="20250816220000 +0530" stop="20250817013000 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">In the Men's Hundred, Oval Invincibles take on Welsh Fire.</desc>
+  </programme>
+  <programme start="20250817013000 +0530" stop="20250817014500 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Men's - M15 Hlts</title>
+    <desc lang="en">In the Men's Hundred, Trent Rockets face Southern Brave. (16.08)</desc>
+  </programme>
+  <programme start="20250817014500 +0530" stop="20250817020000 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Women's - M15 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Trent Rockets take on Southern Brave. (16.08)</desc>
+  </programme>
+  <programme start="20250817020000 +0530" stop="20250817021500 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Men's - M16 Hlts</title>
+    <desc lang="en">In the Men's Hundred, Oval Invincibles take on Welsh Fire. (16.08)</desc>
+  </programme>
+  <programme start="20250817021500 +0530" stop="20250817023000 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Women's - M16 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Oval Invincibles take on Welsh Fire. (16.08)</desc>
+  </programme>
+  <programme start="20250817023000 +0530" stop="20250817024500 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">THE HUNDRED Men's - M15 Hlts</title>
+    <desc lang="en">In the Men's Hundred, Trent Rockets face Southern Brave. (16.08)</desc>
+  </programme>
+  <programme start="20250817024500 +0530" stop="20250817055000 +0530" channel="skysportscrickethd.uk">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the Women's Hundred, Oval Invincibles take on Welsh Fire. (16.08)</desc>
+  </programme>
+  <programme start="20250815064900 +0530" stop="20250815090300 +0530" channel="sonymaxhd.dishtv">
+    <title lang="en">Major</title>
+    <desc lang="en">Major Sandeep Unnikrishnan faces his biggest battle when he joins the task force to save the occupants at the Taj Hotel attacked by a terrorist group.</desc>
+  </programme>
+  <programme start="20250815090300 +0530" stop="20250815113000 +0530" channel="sonymaxhd.dishtv">
+    <title lang="en">Lake Placid vs. Anaconda</title>
+    <desc lang="en">A genetically modified anaconda and a giant crocodile escape captivity and enter a nearby lake. When the two massive creatures fight, the sheriff tries to prevent the town from being destroyed.</desc>
   </programme>
   <programme start="20250815113000 +0530" stop="20250815143000 +0530" channel="sonymaxhd.dishtv">
     <title lang="en">Movie</title>
@@ -668,54 +584,37 @@
     <title lang="en">Movie</title>
     <desc lang="en">This is TV Show - Entertainment Category</desc>
   </programme>
-  <programme start="20250814014500 +0530" stop="20250814043300 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Jeans</title>
-    <desc lang="en">Madhumita and Vishwanathan fall in love with each other but his father disapproves of the relationship as he wants his twin sons to marry two identical twins.</desc>
+  <programme start="20250816053000 +0530" stop="20250816083000 +0530" channel="sonymaxhd.dishtv">
+    <title lang="en">Movie</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
   </programme>
-  <programme start="20250814043300 +0530" stop="20250814043900 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
+  <programme start="20250816083000 +0530" stop="20250816113000 +0530" channel="sonymaxhd.dishtv">
+    <title lang="en">Movie</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
   </programme>
-  <programme start="20250814043900 +0530" stop="20250814065400 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Bunty Aur Babli 2</title>
-    <desc lang="en">The retired con couple Bunty and Babli are forced to rejoin the business to thwart the attempts of a young duo that robs people with their trademark sigil and bring them to justice.</desc>
+  <programme start="20250816113000 +0530" stop="20250816143000 +0530" channel="sonymaxhd.dishtv">
+    <title lang="en">Movie</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
   </programme>
-  <programme start="20250814065400 +0530" stop="20250814085700 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Neerja</title>
-    <desc lang="en">In an extraordinary display of valour, resilience, and compassion, 22-year-old flight purser Neerja Bhanot puts her life on the line to save hundreds of passengers from hijackers.</desc>
+  <programme start="20250816143000 +0530" stop="20250816173000 +0530" channel="sonymaxhd.dishtv">
+    <title lang="en">Movie</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
   </programme>
-  <programme start="20250814085700 +0530" stop="20250814111100 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Aisha</title>
-    <desc lang="en">Aisha, who enjoys playing Cupid despite her friend Arjun's disapproval, finds a new target, Shefali. However, her meddling ultimately damages her own relationships with close friends.</desc>
+  <programme start="20250816173000 +0530" stop="20250816203000 +0530" channel="sonymaxhd.dishtv">
+    <title lang="en">Movie</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
   </programme>
-  <programme start="20250814090000 +0530" stop="20250814120000 +0530" channel="stargoldselecthd.tataplay"/>
-  <programme start="20250814111100 +0530" stop="20250814130000 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Sarkar</title>
-    <desc lang="en">An NRI businessman returns home and discovers about the malpractice of fraudulent voting. However, when he decides to investigate, two corrupt politicians strive to block his path.</desc>
+  <programme start="20250816203000 +0530" stop="20250816233000 +0530" channel="sonymaxhd.dishtv">
+    <title lang="en">Movie</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
   </programme>
-  <programme start="20250814130000 +0530" stop="20250814145900 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Indoo Ki Jawani</title>
-    <desc lang="en">Indoo's one-night stand plans hit a snag after she discovers her charming partner's nationality and starts suspecting him of being a wanted terrorist.</desc>
+  <programme start="20250816233000 +0530" stop="20250817023000 +0530" channel="sonymaxhd.dishtv">
+    <title lang="en">Movie</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
   </programme>
-  <programme start="20250814145900 +0530" stop="20250814164400 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Masaan</title>
-    <desc lang="en">In Varanasi, Devi struggles to shake off the social stigma of pre-marital sexual relations. Meanwhile, lovers Deepak and Shalu attempt to transcend the restrictions of their casteist society.</desc>
-  </programme>
-  <programme start="20250814164400 +0530" stop="20250814182900 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Aachari Baa</title>
-    <desc lang="en">An old Gujarati grandma brings her family closer by making pickles, sharing love and tasty treats with everyone in her neighborhood.</desc>
-  </programme>
-  <programme start="20250814182900 +0530" stop="20250814210000 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Patiala House</title>
-    <desc lang="en">Gattu nearly abandons his dreams of becoming a cricket player for the England team as his father does not agree with him.</desc>
-  </programme>
-  <programme start="20250814210000 +0530" stop="20250814233900 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Barfi!</title>
-    <desc lang="en">Barfi, a hearing and speech-impaired man, scores a second chance at love when he falls for Jhilmil, an autistic girl. However, things get complicated when Shruti, his first love, returns to his life.</desc>
-  </programme>
-  <programme start="20250814233900 +0530" stop="20250815015600 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Bunty Aur Babli 2</title>
-    <desc lang="en">The retired con couple Bunty and Babli are forced to rejoin the business to thwart the attempts of a young duo that robs people with their trademark sigil and bring them to justice.</desc>
+  <programme start="20250817023000 +0530" stop="20250817053000 +0530" channel="sonymaxhd.dishtv">
+    <title lang="en">Movie</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
   </programme>
   <programme start="20250815015600 +0530" stop="20250815030000 +0530" channel="stargoldselecthd.tataplay">
     <title lang="en">Kuku Mathur Ki Jhand Ho Gayi</title>
@@ -761,37 +660,53 @@
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
   </programme>
-  <programme start="20250813213000 +0530" stop="20250814003000 +0530" channel="zeecinema.my">
-    <title lang="ms">Daddy</title>
-    <desc lang="ms">Arun Gawli, a young man, is forced to turn to crime for making a livelihood. However, what starts with a simple 'matka' gambling ring, soon turns into a full-fledged criminal network.</desc>
+  <programme start="20250816011300 +0530" stop="20250816032000 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
   </programme>
-  <programme start="20250814003000 +0530" stop="20250814033000 +0530" channel="zeecinema.my">
-    <title lang="ms">Batti Gul Meter Chalu</title>
-    <desc lang="ms">The life of three friends takes a tragic turn due to an inflated electricity bill, which leads to a courtroom drama and social awakening.</desc>
+  <programme start="20250816032000 +0530" stop="20250816044400 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
   </programme>
-  <programme start="20250814033000 +0530" stop="20250814063000 +0530" channel="zeecinema.my">
-    <title lang="ms">Baaghi: Rebels in Love</title>
-    <desc lang="ms">A martial artist faces his biggest test when he has to travel to Bangkok to rescue the woman he loves from the clutches of his romantic rival.</desc>
+  <programme start="20250816044400 +0530" stop="20250816052400 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
   </programme>
-  <programme start="20250814063000 +0530" stop="20250814093000 +0530" channel="zeecinema.my">
-    <title lang="ms">Wedding Pullav</title>
-    <desc lang="ms">Karan and Anushka are best friends. When Karan marries Riya, Anushka is going to marry Jay. Do fate and love have a twist in store for them?</desc>
+  <programme start="20250816052400 +0530" stop="20250816065000 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
   </programme>
-  <programme start="20250814093000 +0530" stop="20250814123000 +0530" channel="zeecinema.my">
-    <title lang="ms">Badla</title>
-    <desc lang="ms">When a woman is accused of killing her lover, a renowned lawyer is hired -- but the more they try to untangle the truth, the more convoluted it becomes.</desc>
+  <programme start="20250816065000 +0530" stop="20250816083900 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
   </programme>
-  <programme start="20250814123000 +0530" stop="20250814153000 +0530" channel="zeecinema.my">
-    <title lang="ms">Pralay: the Destroyer</title>
-    <desc lang="ms">When a criminal gang slaughters an entire family, the baby survives. He is taken in by a family and the forces of nature work together to bring him face to face with the gang again when he grows up.</desc>
+  <programme start="20250816083900 +0530" stop="20250816104600 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
   </programme>
-  <programme start="20250814153000 +0530" stop="20250814183000 +0530" channel="zeecinema.my">
-    <title lang="ms">Baar Baar Dekho</title>
-    <desc lang="ms">The highs and lows of a romantic relationship are examined through flashbacks and flash-forwards.</desc>
+  <programme start="20250816104600 +0530" stop="20250816133300 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
   </programme>
-  <programme start="20250814183000 +0530" stop="20250814213000 +0530" channel="zeecinema.my">
-    <title lang="ms">Saand Ki Aankh</title>
-    <desc lang="ms">This biographical movie narrates the story of Chandro and Prakashi Tomar, who defied ageism and patriarchy to take up shooting in their 60s.</desc>
+  <programme start="20250816133300 +0530" stop="20250816161000 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250816161000 +0530" stop="20250816184500 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250816184500 +0530" stop="20250816210000 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250816210000 +0530" stop="20250816235600 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250816235600 +0530" stop="20250817014800 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
   </programme>
   <programme start="20250814213000 +0530" stop="20250815003000 +0530" channel="zeecinema.my">
     <title lang="ms">Wedding Pullav</title>
@@ -825,257 +740,37 @@
     <title lang="ms">Dabangg 2</title>
     <desc lang="ms">Chulbul Pandey, a wayward policeman, kills the brother of a crooked politician. In retribution, the politician sends his henchmen to attack Chulbul's wife which leaves Chulbul infuriated.</desc>
   </programme>
-  <programme start="20250814000000 +0530" stop="20250814002800 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Devansh delivers a harsh ultimatum, banishing Vasudha from his life. Devastated, she vows to honour his wish, promising to disappear entirely for his happiness. S01 E291.</desc>
+  <programme start="20250815213000 +0530" stop="20250816003000 +0530" channel="zeecinema.my">
+    <title lang="ms">Baar Baar Dekho</title>
+    <desc lang="ms">The highs and lows of a romantic relationship are examined through flashbacks and flash-forwards.</desc>
   </programme>
-  <programme start="20250814002800 +0530" stop="20250814005500 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Kumkum Bhagya</title>
-    <desc lang="en">Pragya and Abhi find their lives entwined in a cruel twist of fate. However, despite their initial aversion towards one another, they fall in love and fight to be together against all odds. S01 E3153.</desc>
+  <programme start="20250816003000 +0530" stop="20250816033000 +0530" channel="zeecinema.my">
+    <title lang="ms">Saand Ki Aankh</title>
+    <desc lang="ms">This biographical movie narrates the story of Chandro and Prakashi Tomar, who defied ageism and patriarchy to take up shooting in their 60s.</desc>
   </programme>
-  <programme start="20250814005500 +0530" stop="20250814005900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jamai No. 1</title>
-    <desc lang="en">A devoted son-in-law navigates the complexities of married life in an attempt to maintain a balance in the family dynamics of his wife's household. S01 E233.</desc>
+  <programme start="20250816033000 +0530" stop="20250816063000 +0530" channel="zeecinema.my">
+    <title lang="ms">Rock on 2</title>
+    <desc lang="ms">Adi decides to host a grand charity concert along with the rest of the members of Magik, a rock band. However, the constant opposition from the local authorities creates hurdles in their pursuit.</desc>
   </programme>
-  <programme start="20250814005900 +0530" stop="20250814010000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
+  <programme start="20250816063000 +0530" stop="20250816093000 +0530" channel="zeecinema.my">
+    <title lang="ms">Zero</title>
+    <desc lang="ms">Through his relationships with two wildly different women, a vertically challenged bachelor with a larger-than-life persona must discover his purpose.</desc>
   </programme>
-  <programme start="20250814010000 +0530" stop="20250814011800 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jamai No. 1</title>
-    <desc lang="en">A devoted son-in-law navigates the complexities of married life in an attempt to maintain a balance in the family dynamics of his wife's household. S01 E233.</desc>
+  <programme start="20250816093000 +0530" stop="20250816123000 +0530" channel="zeecinema.my">
+    <title lang="ms">Dabangg 2</title>
+    <desc lang="ms">Chulbul Pandey, a wayward policeman, kills the brother of a crooked politician. In retribution, the politician sends his henchmen to attack Chulbul's wife which leaves Chulbul infuriated.</desc>
   </programme>
-  <programme start="20250814011800 +0530" stop="20250814014100 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jagriti - Ek Nayi Subah</title>
-    <desc lang="en">Suraj declares undying devotion to Jagriti. Later, he tenderly aids with her sari, vowing eternal support and companionship. S01 E334.</desc>
+  <programme start="20250816123000 +0530" stop="20250816153000 +0530" channel="zeecinema.my">
+    <title lang="ms">Dream Girl</title>
+    <desc lang="ms">Karamveer gets a job at a call centre due to his ability to talk in a woman's voice. He garners a big fan following but soon gets in trouble with his overzealous clients.</desc>
   </programme>
-  <programme start="20250814014100 +0530" stop="20250814020300 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Saru</title>
-    <desc lang="en">Ved discovers Gauri is making arrangements for Saru's wedding. Separately, Gauri informs her father, Sitaram, about seeing Chandrakant and Kamini at the temple. S01 E05.</desc>
+  <programme start="20250816153000 +0530" stop="20250816183000 +0530" channel="zeecinema.my">
+    <title lang="ms">Bachchhan Pandey</title>
+    <desc lang="ms">When a struggling filmmaker and actor set out to make a biography on one of the most dreaded gangsters, they have little idea about just how crazy and dangerous it's going to be.</desc>
   </programme>
-  <programme start="20250814020300 +0530" stop="20250814022800 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">Tum Se Tum Tak S01 E38.</desc>
-  </programme>
-  <programme start="20250814022800 +0530" stop="20250814025100 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Kumkum Bhagya</title>
-    <desc lang="en">Pragya and Abhi find their lives entwined in a cruel twist of fate. However, despite their initial aversion towards one another, they fall in love and fight to be together against all odds. S01 E3153.</desc>
-  </programme>
-  <programme start="20250814025100 +0530" stop="20250814031400 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jagriti - Ek Nayi Subah</title>
-    <desc lang="en">Suraj declares undying devotion to Jagriti. Later, he tenderly aids with her sari, vowing eternal support and companionship. S01 E334.</desc>
-  </programme>
-  <programme start="20250814031400 +0530" stop="20250814033600 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house. S01 E10.</desc>
-  </programme>
-  <programme start="20250814033600 +0530" stop="20250814040000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jaane Anjaane Hum Mile</title>
-    <desc lang="en">Raghav pressures Unnati to sign divorce papers. Further, he issues an ultimatum, threatening to leave if she refuses to comply. S01 E248.</desc>
-  </programme>
-  <programme start="20250814040000 +0530" stop="20250814042300 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Saru</title>
-    <desc lang="en">A kabaddi player with aspirations of becoming a district commissioner leaves Rajasthan for Mumbai to attend college, balancing her ambitions while fighting for her mother's rightful family status. S01 E92.</desc>
-  </programme>
-  <programme start="20250814042300 +0530" stop="20250814045000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jamai No. 1</title>
-    <desc lang="en">A devoted son-in-law navigates the complexities of married life in an attempt to maintain a balance in the family dynamics of his wife's household. S01 E233.</desc>
-  </programme>
-  <programme start="20250814045000 +0530" stop="20250814051400 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">Tum Se Tum Tak S01 E38.</desc>
-  </programme>
-  <programme start="20250814051400 +0530" stop="20250814053700 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jamai No. 1</title>
-    <desc lang="en">Neil plans Shashank and Riya's wedding and returns Riddhi's car, but Riddhi retaliates by burning it. Meanwhile, Kanchan sabotages Neil's career during a job interview. S01 E05.</desc>
-  </programme>
-  <programme start="20250814053700 +0530" stop="20250814060000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jagriti - Ek Nayi Subah</title>
-    <desc lang="en">Suraj declares undying devotion to Jagriti. Later, he tenderly aids with her sari, vowing eternal support and companionship. S01 E334.</desc>
-  </programme>
-  <programme start="20250814060000 +0530" stop="20250814063000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Kumkum Bhagya</title>
-    <desc lang="en">Pragya and Abhi find their lives entwined in a cruel twist of fate. However, despite their initial aversion towards one another, they fall in love and fight to be together against all odds. S01 E3153.</desc>
-  </programme>
-  <programme start="20250814063000 +0530" stop="20250814065900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Saru</title>
-    <desc lang="en">A kabaddi player with aspirations of becoming a district commissioner leaves Rajasthan for Mumbai to attend college, balancing her ambitions while fighting for her mother's rightful family status. S01 E92.</desc>
-  </programme>
-  <programme start="20250814065900 +0530" stop="20250814070000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
-  </programme>
-  <programme start="20250814070000 +0530" stop="20250814075900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Chhoriyan Chali Gaon</title>
-    <desc lang="en">Famous female celebrities and television personalities leave their luxurious lifestyles and modern comforts behind to experience rural life and the challenges it brings in an Indian village. S01 E11.</desc>
-  </programme>
-  <programme start="20250814075900 +0530" stop="20250814080000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
-  </programme>
-  <programme start="20250814080000 +0530" stop="20250814083000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">Tum Se Tum Tak S01 E38.</desc>
-  </programme>
-  <programme start="20250814083000 +0530" stop="20250814085900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jaane Anjaane Hum Mile</title>
-    <desc lang="en">Raghav pressures Unnati to sign divorce papers. Further, he issues an ultimatum, threatening to leave if she refuses to comply. S01 E248.</desc>
-  </programme>
-  <programme start="20250814085900 +0530" stop="20250814090000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
-  </programme>
-  <programme start="20250814090000 +0530" stop="20250814093000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Devansh delivers a harsh ultimatum, banishing Vasudha from his life. Devastated, she vows to honour his wish, promising to disappear entirely for his happiness. S01 E291.</desc>
-  </programme>
-  <programme start="20250814093000 +0530" stop="20250814095900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">Tum Se Tum Tak S01 E38.</desc>
-  </programme>
-  <programme start="20250814095900 +0530" stop="20250814100000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
-  </programme>
-  <programme start="20250814100000 +0530" stop="20250814103000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Saru</title>
-    <desc lang="en">A kabaddi player with aspirations of becoming a district commissioner leaves Rajasthan for Mumbai to attend college, balancing her ambitions while fighting for her mother's rightful family status. S01 E92.</desc>
-  </programme>
-  <programme start="20250814103000 +0530" stop="20250814105900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jaane Anjaane Hum Mile</title>
-    <desc lang="en">Raghav pressures Unnati to sign divorce papers. Further, he issues an ultimatum, threatening to leave if she refuses to comply. S01 E248.</desc>
-  </programme>
-  <programme start="20250814105900 +0530" stop="20250814110000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
-  </programme>
-  <programme start="20250814110000 +0530" stop="20250814113000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Devansh delivers a harsh ultimatum, banishing Vasudha from his life. Devastated, she vows to honour his wish, promising to disappear entirely for his happiness. S01 E291.</desc>
-  </programme>
-  <programme start="20250814113000 +0530" stop="20250814115900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">Tum Se Tum Tak S01 E38.</desc>
-  </programme>
-  <programme start="20250814115900 +0530" stop="20250814120000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
-  </programme>
-  <programme start="20250814120000 +0530" stop="20250814125900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Chhoriyan Chali Gaon</title>
-    <desc lang="en">Famous female celebrities and television personalities leave their luxurious lifestyles and modern comforts behind to experience rural life and the challenges it brings in an Indian village. S01 E11.</desc>
-  </programme>
-  <programme start="20250814125900 +0530" stop="20250814130000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
-  </programme>
-  <programme start="20250814130000 +0530" stop="20250814133000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Saru</title>
-    <desc lang="en">A kabaddi player with aspirations of becoming a district commissioner leaves Rajasthan for Mumbai to attend college, balancing her ambitions while fighting for her mother's rightful family status. S01 E92.</desc>
-  </programme>
-  <programme start="20250814133000 +0530" stop="20250814135900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">Tum Se Tum Tak S01 E38.</desc>
-  </programme>
-  <programme start="20250814135900 +0530" stop="20250814140000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
-  </programme>
-  <programme start="20250814140000 +0530" stop="20250814143000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jaane Anjaane Hum Mile</title>
-    <desc lang="en">Raghav pressures Unnati to sign divorce papers. Further, he issues an ultimatum, threatening to leave if she refuses to comply. S01 E248.</desc>
-  </programme>
-  <programme start="20250814143000 +0530" stop="20250814145900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jagriti - Ek Nayi Subah</title>
-    <desc lang="en">Suraj declares undying devotion to Jagriti. Later, he tenderly aids with her sari, vowing eternal support and companionship. S01 E334.</desc>
-  </programme>
-  <programme start="20250814145900 +0530" stop="20250814150000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
-  </programme>
-  <programme start="20250814150000 +0530" stop="20250814153000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Devansh delivers a harsh ultimatum, banishing Vasudha from his life. Devastated, she vows to honour his wish, promising to disappear entirely for his happiness. S01 E291.</desc>
-  </programme>
-  <programme start="20250814153000 +0530" stop="20250814155900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jamai No. 1</title>
-    <desc lang="en">A devoted son-in-law navigates the complexities of married life in an attempt to maintain a balance in the family dynamics of his wife's household. S01 E233.</desc>
-  </programme>
-  <programme start="20250814155900 +0530" stop="20250814160000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
-  </programme>
-  <programme start="20250814160000 +0530" stop="20250814165900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Chhoriyan Chali Gaon</title>
-    <desc lang="en">Famous female celebrities and television personalities leave their luxurious lifestyles and modern comforts behind to experience rural life and the challenges it brings in an Indian village. S01 E11.</desc>
-  </programme>
-  <programme start="20250814165900 +0530" stop="20250814170000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
-  </programme>
-  <programme start="20250814170000 +0530" stop="20250814173000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Devansh delivers a harsh ultimatum, banishing Vasudha from his life. Devastated, she vows to honour his wish, promising to disappear entirely for his happiness. S01 E291.</desc>
-  </programme>
-  <programme start="20250814173000 +0530" stop="20250814175900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">Tum Se Tum Tak S01 E38.</desc>
-  </programme>
-  <programme start="20250814175900 +0530" stop="20250814180000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
-  </programme>
-  <programme start="20250814180000 +0530" stop="20250814183000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jagriti - Ek Nayi Subah</title>
-    <desc lang="en">Suraj declares undying devotion to Jagriti. Later, he tenderly aids with her sari, vowing eternal support and companionship. S01 E334.</desc>
-  </programme>
-  <programme start="20250814183000 +0530" stop="20250814190000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jaane Anjaane Hum Mile</title>
-    <desc lang="en">Raghav pressures Unnati to sign divorce papers. Further, he issues an ultimatum, threatening to leave if she refuses to comply. S01 E248.</desc>
-  </programme>
-  <programme start="20250814190000 +0530" stop="20250814193000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jamai No. 1</title>
-    <desc lang="en">A devoted son-in-law navigates the complexities of married life in an attempt to maintain a balance in the family dynamics of his wife's household. S01 E234.</desc>
-  </programme>
-  <programme start="20250814193000 +0530" stop="20250814200000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Saru</title>
-    <desc lang="en">A kabaddi player with aspirations of becoming a district commissioner leaves Rajasthan for Mumbai to attend college, balancing her ambitions while fighting for her mother's rightful family status. S01 E93.</desc>
-  </programme>
-  <programme start="20250814200000 +0530" stop="20250814203000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jaane Anjaane Hum Mile</title>
-    <desc lang="en">Reet, a career-oriented woman, finds it difficult to deal with the societal pressures of marriage alongside navigating her life as a journalist. S01 E249.</desc>
-  </programme>
-  <programme start="20250814203000 +0530" stop="20250814210000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">Tum Se Tum Tak S01 E39.</desc>
-  </programme>
-  <programme start="20250814210000 +0530" stop="20250814213000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Kumkum Bhagya</title>
-    <desc lang="en">Pragya and Abhi find their lives entwined in a cruel twist of fate. However, despite their initial aversion towards one another, they fall in love and fight to be together against all odds. S01 E3154.</desc>
-  </programme>
-  <programme start="20250814213000 +0530" stop="20250814222900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Chhoriyan Chali Gaon</title>
-    <desc lang="en">Famous female celebrities and television personalities leave their luxurious lifestyles and modern comforts behind to experience rural life and the challenges it brings in an Indian village. S01 E12.</desc>
-  </programme>
-  <programme start="20250814222900 +0530" stop="20250814223000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
-  </programme>
-  <programme start="20250814223000 +0530" stop="20250814230000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house. S01 E292.</desc>
-  </programme>
-  <programme start="20250814230000 +0530" stop="20250814233000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jagriti - Ek Nayi Subah</title>
-    <desc lang="en">A young girl raises her voice against the prejudices leading to unfair societal conventions of labelling her community as undesirables. S01 E335.</desc>
-  </programme>
-  <programme start="20250814233000 +0530" stop="20250814235900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Saru</title>
-    <desc lang="en">A kabaddi player with aspirations of becoming a district commissioner leaves Rajasthan for Mumbai to attend college, balancing her ambitions while fighting for her mother's rightful family status. S01 E93.</desc>
-  </programme>
-  <programme start="20250814235900 +0530" stop="20250815000000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Ek Nazar</title>
-    <desc lang="en">Check out this awesome compilation of trailers for the hottest upcoming movies and music videos! Get a sneak peek at what's coming soon and add them to your must-watch list!</desc>
+  <programme start="20250816183000 +0530" stop="20250816213000 +0530" channel="zeecinema.my">
+    <title lang="ms">Raid</title>
+    <desc lang="ms">Prabhakaran, a man from Chennai, takes an oath to eradicate wrongdoers in society. However. he faces many struggles and problems from his enemies.</desc>
   </programme>
   <programme start="20250815000000 +0530" stop="20250815002900 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Vasudha</title>
@@ -1322,6 +1017,246 @@
     <desc lang="en">A kabaddi player with aspirations of becoming a district commissioner leaves Rajasthan for Mumbai to attend college, balancing her ambitions while fighting for her mother's rightful family status. S01 E94.</desc>
   </programme>
   <programme start="20250815235900 +0530" stop="20250816000000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816000000 +0530" stop="20250816002900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Vasudha</title>
+    <desc lang="en">Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house. S01 E293.</desc>
+  </programme>
+  <programme start="20250816002900 +0530" stop="20250816003000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816003000 +0530" stop="20250816005900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Pragya and Abhi find their lives entwined in a cruel twist of fate. However, despite their initial aversion towards one another, they fall in love and fight to be together against all odds. S01 E3155.</desc>
+  </programme>
+  <programme start="20250816005900 +0530" stop="20250816010000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816010000 +0530" stop="20250816013000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jamai No. 1</title>
+    <desc lang="en">A devoted son-in-law navigates the complexities of married life in an attempt to maintain a balance in the family dynamics of his wife's household. S01 E235.</desc>
+  </programme>
+  <programme start="20250816013000 +0530" stop="20250816020000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jagriti - Ek Nayi Subah</title>
+    <desc lang="en">A young girl raises her voice against the prejudices leading to unfair societal conventions of labelling her community as undesirables. S01 E336.</desc>
+  </programme>
+  <programme start="20250816020000 +0530" stop="20250816023000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Tum Se Tum Tak</title>
+    <desc lang="en">Tum Se Tum Tak S01 E40.</desc>
+  </programme>
+  <programme start="20250816023000 +0530" stop="20250816030000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Pragya and Abhi find their lives entwined in a cruel twist of fate. However, despite their initial aversion towards one another, they fall in love and fight to be together against all odds. S01 E3155.</desc>
+  </programme>
+  <programme start="20250816030000 +0530" stop="20250816033000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jagriti - Ek Nayi Subah</title>
+    <desc lang="en">A young girl raises her voice against the prejudices leading to unfair societal conventions of labelling her community as undesirables. S01 E336.</desc>
+  </programme>
+  <programme start="20250816033000 +0530" stop="20250816040000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jaane Anjaane Hum Mile</title>
+    <desc lang="en">Reet, a career-oriented woman, finds it difficult to deal with the societal pressures of marriage alongside navigating her life as a journalist. S01 E250.</desc>
+  </programme>
+  <programme start="20250816040000 +0530" stop="20250816043000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Saru</title>
+    <desc lang="en">A kabaddi player with aspirations of becoming a district commissioner leaves Rajasthan for Mumbai to attend college, balancing her ambitions while fighting for her mother's rightful family status. S01 E94.</desc>
+  </programme>
+  <programme start="20250816043000 +0530" stop="20250816050000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jamai No. 1</title>
+    <desc lang="en">A devoted son-in-law navigates the complexities of married life in an attempt to maintain a balance in the family dynamics of his wife's household. S01 E235.</desc>
+  </programme>
+  <programme start="20250816050000 +0530" stop="20250816053000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Tum Se Tum Tak</title>
+    <desc lang="en">Tum Se Tum Tak S01 E40.</desc>
+  </programme>
+  <programme start="20250816053000 +0530" stop="20250816060000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jagriti - Ek Nayi Subah</title>
+    <desc lang="en">A young girl raises her voice against the prejudices leading to unfair societal conventions of labelling her community as undesirables. S01 E336.</desc>
+  </programme>
+  <programme start="20250816060000 +0530" stop="20250816063000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Pragya and Abhi find their lives entwined in a cruel twist of fate. However, despite their initial aversion towards one another, they fall in love and fight to be together against all odds. S01 E3155.</desc>
+  </programme>
+  <programme start="20250816063000 +0530" stop="20250816065900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Saru</title>
+    <desc lang="en">A kabaddi player with aspirations of becoming a district commissioner leaves Rajasthan for Mumbai to attend college, balancing her ambitions while fighting for her mother's rightful family status. S01 E94.</desc>
+  </programme>
+  <programme start="20250816065900 +0530" stop="20250816070000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816070000 +0530" stop="20250816075900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Chhoriyaan Chali Gaaon</title>
+    <desc lang="en">Chhoriyaan Chali Gaaon S01 E13.</desc>
+  </programme>
+  <programme start="20250816075900 +0530" stop="20250816080000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816080000 +0530" stop="20250816083000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Tum Se Tum Tak</title>
+    <desc lang="en">Tum Se Tum Tak S01 E40.</desc>
+  </programme>
+  <programme start="20250816083000 +0530" stop="20250816085900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jaane Anjaane Hum Mile</title>
+    <desc lang="en">Reet, a career-oriented woman, finds it difficult to deal with the societal pressures of marriage alongside navigating her life as a journalist. S01 E250.</desc>
+  </programme>
+  <programme start="20250816085900 +0530" stop="20250816090000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816090000 +0530" stop="20250816093000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Vasudha</title>
+    <desc lang="en">Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house. S01 E293.</desc>
+  </programme>
+  <programme start="20250816093000 +0530" stop="20250816095900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Tum Se Tum Tak</title>
+    <desc lang="en">Tum Se Tum Tak S01 E40.</desc>
+  </programme>
+  <programme start="20250816095900 +0530" stop="20250816100000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816100000 +0530" stop="20250816103000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Saru</title>
+    <desc lang="en">A kabaddi player with aspirations of becoming a district commissioner leaves Rajasthan for Mumbai to attend college, balancing her ambitions while fighting for her mother's rightful family status. S01 E94.</desc>
+  </programme>
+  <programme start="20250816103000 +0530" stop="20250816105900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jaane Anjaane Hum Mile</title>
+    <desc lang="en">Reet, a career-oriented woman, finds it difficult to deal with the societal pressures of marriage alongside navigating her life as a journalist. S01 E250.</desc>
+  </programme>
+  <programme start="20250816105900 +0530" stop="20250816110000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816110000 +0530" stop="20250816113000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Vasudha</title>
+    <desc lang="en">Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house. S01 E293.</desc>
+  </programme>
+  <programme start="20250816113000 +0530" stop="20250816115900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Tum Se Tum Tak</title>
+    <desc lang="en">Tum Se Tum Tak S01 E40.</desc>
+  </programme>
+  <programme start="20250816115900 +0530" stop="20250816120000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816120000 +0530" stop="20250816125900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Chhoriyaan Chali Gaaon</title>
+    <desc lang="en">Chhoriyaan Chali Gaaon S01 E13.</desc>
+  </programme>
+  <programme start="20250816125900 +0530" stop="20250816130000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816130000 +0530" stop="20250816133000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Saru</title>
+    <desc lang="en">A kabaddi player with aspirations of becoming a district commissioner leaves Rajasthan for Mumbai to attend college, balancing her ambitions while fighting for her mother's rightful family status. S01 E94.</desc>
+  </programme>
+  <programme start="20250816133000 +0530" stop="20250816135900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Tum Se Tum Tak</title>
+    <desc lang="en">Tum Se Tum Tak S01 E40.</desc>
+  </programme>
+  <programme start="20250816135900 +0530" stop="20250816140000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816140000 +0530" stop="20250816143000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jaane Anjaane Hum Mile</title>
+    <desc lang="en">Reet, a career-oriented woman, finds it difficult to deal with the societal pressures of marriage alongside navigating her life as a journalist. S01 E250.</desc>
+  </programme>
+  <programme start="20250816143000 +0530" stop="20250816145900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jagriti - Ek Nayi Subah</title>
+    <desc lang="en">A young girl raises her voice against the prejudices leading to unfair societal conventions of labelling her community as undesirables. S01 E336.</desc>
+  </programme>
+  <programme start="20250816145900 +0530" stop="20250816150000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816150000 +0530" stop="20250816153000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Vasudha</title>
+    <desc lang="en">Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house. S01 E293.</desc>
+  </programme>
+  <programme start="20250816153000 +0530" stop="20250816155900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jamai No. 1</title>
+    <desc lang="en">A devoted son-in-law navigates the complexities of married life in an attempt to maintain a balance in the family dynamics of his wife's household. S01 E235.</desc>
+  </programme>
+  <programme start="20250816155900 +0530" stop="20250816160000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816160000 +0530" stop="20250816165900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Chhoriyaan Chali Gaaon</title>
+    <desc lang="en">Chhoriyaan Chali Gaaon S01 E13.</desc>
+  </programme>
+  <programme start="20250816165900 +0530" stop="20250816170000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816170000 +0530" stop="20250816173000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Vasudha</title>
+    <desc lang="en">Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house. S01 E293.</desc>
+  </programme>
+  <programme start="20250816173000 +0530" stop="20250816175900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Tum Se Tum Tak</title>
+    <desc lang="en">Tum Se Tum Tak S01 E40.</desc>
+  </programme>
+  <programme start="20250816175900 +0530" stop="20250816180000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816180000 +0530" stop="20250816183000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jagriti - Ek Nayi Subah</title>
+    <desc lang="en">A young girl raises her voice against the prejudices leading to unfair societal conventions of labelling her community as undesirables. S01 E336.</desc>
+  </programme>
+  <programme start="20250816183000 +0530" stop="20250816190000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jaane Anjaane Hum Mile</title>
+    <desc lang="en">Reet, a career-oriented woman, finds it difficult to deal with the societal pressures of marriage alongside navigating her life as a journalist. S01 E250.</desc>
+  </programme>
+  <programme start="20250816190000 +0530" stop="20250816193000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jamai No. 1</title>
+    <desc lang="en">A devoted son-in-law navigates the complexities of married life in an attempt to maintain a balance in the family dynamics of his wife's household. S01 E236.</desc>
+  </programme>
+  <programme start="20250816193000 +0530" stop="20250816200000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Saru</title>
+    <desc lang="en">A kabaddi player with aspirations of becoming a district commissioner leaves Rajasthan for Mumbai to attend college, balancing her ambitions while fighting for her mother's rightful family status. S01 E95.</desc>
+  </programme>
+  <programme start="20250816200000 +0530" stop="20250816203000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jaane Anjaane Hum Mile</title>
+    <desc lang="en">Reet, a career-oriented woman, finds it difficult to deal with the societal pressures of marriage alongside navigating her life as a journalist. S01 E251.</desc>
+  </programme>
+  <programme start="20250816203000 +0530" stop="20250816210000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Tum Se Tum Tak</title>
+    <desc lang="en">Tum Se Tum Tak S01 E41.</desc>
+  </programme>
+  <programme start="20250816210000 +0530" stop="20250816213000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Pragya and Abhi find their lives entwined in a cruel twist of fate. However, despite their initial aversion towards one another, they fall in love and fight to be together against all odds. S01 E3156.</desc>
+  </programme>
+  <programme start="20250816213000 +0530" stop="20250816222900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Chhoriyaan Chali Gaaon</title>
+    <desc lang="en">Chhoriyaan Chali Gaaon S01 E14.</desc>
+  </programme>
+  <programme start="20250816222900 +0530" stop="20250816223000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">Ek Nazar</desc>
+  </programme>
+  <programme start="20250816223000 +0530" stop="20250816230000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Vasudha</title>
+    <desc lang="en">Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house. S01 E294.</desc>
+  </programme>
+  <programme start="20250816230000 +0530" stop="20250816233000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jagriti - Ek Nayi Subah</title>
+    <desc lang="en">A young girl raises her voice against the prejudices leading to unfair societal conventions of labelling her community as undesirables. S01 E337.</desc>
+  </programme>
+  <programme start="20250816233000 +0530" stop="20250816235900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Saru</title>
+    <desc lang="en">A kabaddi player with aspirations of becoming a district commissioner leaves Rajasthan for Mumbai to attend college, balancing her ambitions while fighting for her mother's rightful family status. S01 E95.</desc>
+  </programme>
+  <programme start="20250816235900 +0530" stop="20250817000000 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Ek Nazar</title>
     <desc lang="en">Ek Nazar</desc>
   </programme>
