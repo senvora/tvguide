@@ -48,51 +48,51 @@
     <title lang="en">Madaari</title>
     <desc lang="en">Nirmal kidnaps the son of the home minister and forces the government to meet his demands.</desc>
   </programme>
-  <programme start="20250816064600 +0530" stop="20250816090200 +0530" channel="andxplorhd.tataplay">
+  <programme start="20250816064600 +0530" stop="20250816085300 +0530" channel="andxplorhd.tataplay">
     <title lang="en">Chalo Dilli</title>
     <desc lang="en">Stuck with an unsophisticated fellow traveller for hours after missing a flight, a high-society woman wends her way through diverse Indian neighbourhoods to reach Delhi.</desc>
   </programme>
-  <programme start="20250816090200 +0530" stop="20250816113700 +0530" channel="andxplorhd.tataplay">
+  <programme start="20250816085300 +0530" stop="20250816113900 +0530" channel="andxplorhd.tataplay">
     <title lang="en">Gold</title>
     <desc lang="en">Tapan Das, a passionate team manager with a penchant for alcohol, embarks a ragtag group of hockey players on an ambitious quest for independent India's first Olympic gold medal.</desc>
   </programme>
-  <programme start="20250816113700 +0530" stop="20250816143100 +0530" channel="andxplorhd.tataplay">
+  <programme start="20250816113900 +0530" stop="20250816143800 +0530" channel="andxplorhd.tataplay">
     <title lang="en">Dil Dhadakne Do</title>
     <desc lang="en">Kamal and Neelam's loving facade hides their strained marriage.</desc>
   </programme>
-  <programme start="20250816143100 +0530" stop="20250816163800 +0530" channel="andxplorhd.tataplay">
+  <programme start="20250816143800 +0530" stop="20250816164500 +0530" channel="andxplorhd.tataplay">
     <title lang="en">Mili</title>
     <desc lang="en">Mili, a young woman, accidentally gets stuck in a walk-in freezer at her workplace. Racing against time, she must find a way to survive.</desc>
   </programme>
-  <programme start="20250816163800 +0530" stop="20250816185800 +0530" channel="andxplorhd.tataplay">
+  <programme start="20250816164500 +0530" stop="20250816190100 +0530" channel="andxplorhd.tataplay">
     <title lang="en">Uri: The Surgical Strike</title>
     <desc lang="en">The Indian Army retaliates against militants who attacked an army base in Uri in 2016.</desc>
   </programme>
-  <programme start="20250816185800 +0530" stop="20250816210000 +0530" channel="andxplorhd.tataplay">
+  <programme start="20250816190100 +0530" stop="20250816210100 +0530" channel="andxplorhd.tataplay">
     <title lang="en">Khaali Peeli</title>
     <desc lang="en">Pooja and Blackie reunite after she bravely escapes from a brothel.</desc>
   </programme>
-  <programme start="20250816210000 +0530" stop="20250816232100 +0530" channel="andxplorhd.tataplay">
+  <programme start="20250816210100 +0530" stop="20250816232000 +0530" channel="andxplorhd.tataplay">
     <title lang="en">Raazi</title>
     <desc lang="en">A Kashmiri woman walks the tightrope between marriage and duty to protect her motherland.</desc>
   </programme>
-  <programme start="20250816232100 +0530" stop="20250817020000 +0530" channel="andxplorhd.tataplay">
+  <programme start="20250816232000 +0530" stop="20250817010000 +0530" channel="andxplorhd.tataplay">
     <title lang="en">Nil Battey Sannata</title>
     <desc lang="en">When Apeksha loses her interest in studies, her mother rejoins school to motivate her.</desc>
   </programme>
-  <programme start="20250817020000 +0530" stop="20250817032900 +0530" channel="andxplorhd.tataplay">
+  <programme start="20250817010000 +0530" stop="20250817023800 +0530" channel="andxplorhd.tataplay">
     <title lang="en">Buddha in a Traffic Jam</title>
     <desc lang="en">A management student's social media success stirs idealogical conflicts.</desc>
   </programme>
-  <programme start="20250817032900 +0530" stop="20250817045100 +0530" channel="andxplorhd.tataplay">
+  <programme start="20250817023800 +0530" stop="20250817040200 +0530" channel="andxplorhd.tataplay">
     <title lang="en">The Last Color</title>
     <desc lang="en">A young tightrope walker befriends a widow who wishes to play Holi but cannot do so..</desc>
   </programme>
-  <programme start="20250817045100 +0530" stop="20250817070700 +0530" channel="andxplorhd.tataplay">
+  <programme start="20250817040200 +0530" stop="20250817062000 +0530" channel="andxplorhd.tataplay">
     <title lang="en">Saand Ki Aankh</title>
     <desc lang="en">Two determined women quietly train in sharpshooting and defy expectations.</desc>
   </programme>
-  <programme start="20250817070700 +0530" stop="20250817092700 +0530" channel="andxplorhd.tataplay">
+  <programme start="20250817062000 +0530" stop="20250817092700 +0530" channel="andxplorhd.tataplay">
     <title lang="en">Silence</title>
     <desc lang="en">A narcotics officer joins a special task force investigating a high-profile murder.</desc>
   </programme>
@@ -672,37 +672,53 @@
     <title lang="en">Xcuse Me</title>
     <desc lang="en">Two meddling friends Bantu and Chantu join a hotel management programme in Goa by pretending to be the owner's nephew and his friend. While training, they expose many employees and guests as frauds.</desc>
   </programme>
-  <programme start="20250817014800 +0530" stop="20250817030000 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20250817020300 +0530" stop="20250817033200 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Haraamkhor</title>
+    <desc lang="en">Trouble brews when Sandhya, a young girl pursued by two students, gets romantically involved with Shyam, their married teacher.</desc>
   </programme>
-  <programme start="20250817030000 +0530" stop="20250817060000 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20250817033200 +0530" stop="20250817051600 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Lamhaa</title>
+    <desc lang="en">Vikram, an Indian intelligence agent, is sent to Kashmir to investigate the people responsible for a host of extremist attacks. In his mission, he receives help from a young woman named Aziza.</desc>
   </programme>
-  <programme start="20250817060000 +0530" stop="20250817090000 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20250817051600 +0530" stop="20250817055000 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
   </programme>
-  <programme start="20250817090000 +0530" stop="20250817120000 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20250817055000 +0530" stop="20250817081100 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Hum Tum</title>
+    <desc lang="en">Karan and Rhea meet on a flight and end up hating each other at the end of their journey. Things change between them when they continue to bump into each other at different stages of their lives.</desc>
   </programme>
-  <programme start="20250817120000 +0530" stop="20250817150000 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20250817081100 +0530" stop="20250817095700 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Sarkar</title>
+    <desc lang="en">Subhash Nagre runs a parallel government in the city where he has a cult following. When his enemies plot to murder him, his son takes charge and stands up against them to protect him.</desc>
   </programme>
-  <programme start="20250817150000 +0530" stop="20250817180000 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20250817095700 +0530" stop="20250817120700 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Veerey Ki Wedding</title>
+    <desc lang="en">Veer and Geet fall in love and decide to marry but Veer messes up his first impression on Geet's father, causing further obstacles.</desc>
   </programme>
-  <programme start="20250817180000 +0530" stop="20250817210000 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20250817120700 +0530" stop="20250817142500 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Lucky - No Time For Love</title>
+    <desc lang="en">Lucky is molested by a Russian boy on her way to school but she escapes and hides in Aditya's car. When a terrorist attack breaks out, the two manage to escape and hide in an isolated graveyard.</desc>
   </programme>
-  <programme start="20250817210000 +0530" stop="20250818000000 +0530" channel="stargoldselecthd.tataplay">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20250817142500 +0530" stop="20250817161000 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Aachari Baa</title>
+    <desc lang="en">An old Gujarati grandma brings her family closer by making pickles, sharing love and tasty treats with everyone in her neighborhood.</desc>
+  </programme>
+  <programme start="20250817161000 +0530" stop="20250817185200 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Kyo Kii Main Jhuth Nahin Bolta</title>
+    <desc lang="en">Raj is a lawyer who finds great success with his countless fibs. However, when his son wishes for his father to stop lying, Raj is magically forced to speak the truth, which lands him in trouble.</desc>
+  </programme>
+  <programme start="20250817185200 +0530" stop="20250817210300 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">A Gentleman: Sundar, Susheel, Risky</title>
+    <desc lang="en">Gaurav, a young man living in Miami, USA, wishes to settle down and marry his girlfriend. However, his plans are put on hold when he travels to Mumbai and is mistaken for a spy.</desc>
+  </programme>
+  <programme start="20250817210300 +0530" stop="20250817233800 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Bachna Ae Haseeno</title>
+    <desc lang="en">Having broken two hearts in the past, Raj experiences a taste of his own medicine when his lady-love rejects his marriage proposal. Consequently, he decides to repent for his actions.</desc>
+  </programme>
+  <programme start="20250817233800 +0530" stop="20250818020100 +0530" channel="stargoldselecthd.tataplay">
+    <title lang="en">Humshakals</title>
+    <desc lang="en">Ashok and Kumar are best friends who live with Maamaji. Chaos ensues when Maamaji comes up with series of plans to take Ashok's wealth that accidentally expose them to two sets of lookalikes.</desc>
   </programme>
   <programme start="20250815213000 +0530" stop="20250816003000 +0530" channel="zeecinema.my">
     <title lang="ms">Baar Baar Dekho</title>
@@ -1036,39 +1052,47 @@
     <title lang="en">Jamai No. 1</title>
     <desc lang="en">A devoted son-in-law navigates the complexities of married life in an attempt to maintain a balance in the family dynamics of his wife's household. S01 E236.</desc>
   </programme>
-  <programme start="20250817013000 +0530" stop="20250817020000 +0530" channel="zeetvhd.tataplay">
+  <programme start="20250817013000 +0530" stop="20250817020400 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Jagriti - Ek Nayi Subah</title>
     <desc lang="en">A young girl raises her voice against the prejudices leading to unfair societal conventions of labelling her community as undesirables. S01 E337.</desc>
   </programme>
-  <programme start="20250817020000 +0530" stop="20250817023000 +0530" channel="zeetvhd.tataplay">
+  <programme start="20250817020400 +0530" stop="20250817022600 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Saru</title>
+    <desc lang="en">Ved discovers Gauri is making arrangements for Saru's wedding. Separately, Gauri informs her father, Sitaram, about seeing Chandrakant and Kamini at the temple. S01 E05.</desc>
+  </programme>
+  <programme start="20250817022600 +0530" stop="20250817025100 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Tum Se Tum Tak</title>
     <desc lang="en">Tum Se Tum Tak S01 E41.</desc>
   </programme>
-  <programme start="20250817023000 +0530" stop="20250817030000 +0530" channel="zeetvhd.tataplay">
+  <programme start="20250817025100 +0530" stop="20250817031400 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Kumkum Bhagya</title>
     <desc lang="en">Pragya and Abhi find their lives entwined in a cruel twist of fate. However, despite their initial aversion towards one another, they fall in love and fight to be together against all odds. S01 E3156.</desc>
   </programme>
-  <programme start="20250817030000 +0530" stop="20250817033000 +0530" channel="zeetvhd.tataplay">
+  <programme start="20250817031400 +0530" stop="20250817033600 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Jamai No. 1</title>
+    <desc lang="en">Neil plans Shashank and Riya's wedding and returns Riddhi's car, but Riddhi retaliates by burning it. Meanwhile, Kanchan sabotages Neil's career during a job interview. S01 E05.</desc>
+  </programme>
+  <programme start="20250817033600 +0530" stop="20250817040000 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Jagriti - Ek Nayi Subah</title>
     <desc lang="en">A young girl raises her voice against the prejudices leading to unfair societal conventions of labelling her community as undesirables. S01 E337.</desc>
   </programme>
-  <programme start="20250817033000 +0530" stop="20250817040000 +0530" channel="zeetvhd.tataplay">
+  <programme start="20250817040000 +0530" stop="20250817042300 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Jaane Anjaane Hum Mile</title>
     <desc lang="en">Reet, a career-oriented woman, finds it difficult to deal with the societal pressures of marriage alongside navigating her life as a journalist. S01 E251.</desc>
   </programme>
-  <programme start="20250817040000 +0530" stop="20250817043000 +0530" channel="zeetvhd.tataplay">
+  <programme start="20250817042300 +0530" stop="20250817044600 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Saru</title>
     <desc lang="en">A kabaddi player with aspirations of becoming a district commissioner leaves Rajasthan for Mumbai to attend college, balancing her ambitions while fighting for her mother's rightful family status. S01 E95.</desc>
   </programme>
-  <programme start="20250817043000 +0530" stop="20250817050000 +0530" channel="zeetvhd.tataplay">
+  <programme start="20250817044600 +0530" stop="20250817051300 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Jamai No. 1</title>
     <desc lang="en">A devoted son-in-law navigates the complexities of married life in an attempt to maintain a balance in the family dynamics of his wife's household. S01 E236.</desc>
   </programme>
-  <programme start="20250817050000 +0530" stop="20250817053000 +0530" channel="zeetvhd.tataplay">
+  <programme start="20250817051300 +0530" stop="20250817053800 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Tum Se Tum Tak</title>
     <desc lang="en">Tum Se Tum Tak S01 E41.</desc>
   </programme>
-  <programme start="20250817053000 +0530" stop="20250817060000 +0530" channel="zeetvhd.tataplay">
+  <programme start="20250817053800 +0530" stop="20250817060000 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Jagriti - Ek Nayi Subah</title>
     <desc lang="en">A young girl raises her voice against the prejudices leading to unfair societal conventions of labelling her community as undesirables. S01 E337.</desc>
   </programme>
@@ -1085,8 +1109,8 @@
     <desc lang="en">Ek Nazar</desc>
   </programme>
   <programme start="20250817070000 +0530" stop="20250817075900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Chhoriyaan Chali Gaaon</title>
-    <desc lang="en">Chhoriyaan Chali Gaaon S01 E14.</desc>
+    <title lang="en">Chhoriyan Chali Gaon</title>
+    <desc lang="en">Famous female celebrities and television personalities leave their luxurious lifestyles and modern comforts behind to experience rural life and the challenges it brings in an Indian village. S01 E14.</desc>
   </programme>
   <programme start="20250817075900 +0530" stop="20250817080000 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Ek Nazar</title>
@@ -1184,33 +1208,37 @@
     <title lang="en">Ek Nazar</title>
     <desc lang="en">Ek Nazar</desc>
   </programme>
-  <programme start="20250817160000 +0530" stop="20250817165900 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Chhoriyaan Chali Gaaon</title>
-    <desc lang="en">Chhoriyaan Chali Gaaon S01 E14.</desc>
+  <programme start="20250817160000 +0530" stop="20250817163000 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Tum Se Tum Tak</title>
+    <desc lang="en">Tum Se Tum Tak S01 E36.</desc>
+  </programme>
+  <programme start="20250817163000 +0530" stop="20250817165900 +0530" channel="zeetvhd.tataplay">
+    <title lang="en">Tum Se Tum Tak</title>
+    <desc lang="en">Tum Se Tum Tak S01 E37.</desc>
   </programme>
   <programme start="20250817165900 +0530" stop="20250817170000 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Ek Nazar</title>
     <desc lang="en">Ek Nazar</desc>
   </programme>
   <programme start="20250817170000 +0530" stop="20250817173000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house. S01 E294.</desc>
+    <title lang="en">Tum Se Tum Tak</title>
+    <desc lang="en">Tum Se Tum Tak S01 E38.</desc>
   </programme>
   <programme start="20250817173000 +0530" stop="20250817175900 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">Tum Se Tum Tak S01 E41.</desc>
+    <desc lang="en">Tum Se Tum Tak S01 E39.</desc>
   </programme>
   <programme start="20250817175900 +0530" stop="20250817180000 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Ek Nazar</title>
     <desc lang="en">Ek Nazar</desc>
   </programme>
   <programme start="20250817180000 +0530" stop="20250817183000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jagriti - Ek Nayi Subah</title>
-    <desc lang="en">A young girl raises her voice against the prejudices leading to unfair societal conventions of labelling her community as undesirables. S01 E337.</desc>
+    <title lang="en">Tum Se Tum Tak</title>
+    <desc lang="en">Anu finds herself in a spot of bother when Harshvardhan rejects her leave application. In the meantime, Aryavardhan finds out about the incident. S01 E40.</desc>
   </programme>
   <programme start="20250817183000 +0530" stop="20250817190000 +0530" channel="zeetvhd.tataplay">
-    <title lang="en">Jaane Anjaane Hum Mile</title>
-    <desc lang="en">Reet, a career-oriented woman, finds it difficult to deal with the societal pressures of marriage alongside navigating her life as a journalist. S01 E251.</desc>
+    <title lang="en">Tum Se Tum Tak</title>
+    <desc lang="en">Tum Se Tum Tak S01 E41.</desc>
   </programme>
   <programme start="20250817190000 +0530" stop="20250817193000 +0530" channel="zeetvhd.tataplay">
     <title lang="en">Jamai No. 1</title>
