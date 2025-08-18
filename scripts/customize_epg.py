@@ -7,9 +7,9 @@ from datetime import datetime, timedelta, timezone
 IST = timezone(timedelta(hours=5, minutes=30))
 UTC = timezone.utc
 
-input_file = "epg/tataplay.xml"
-output_file = "epg/tataplay.xml"
-gzip_file = "epg/tataplay.xml.gz"
+input_file = "epg/customize.xml"
+output_file = "epg/customize.xml"
+gzip_file = "epg/customize.xml.gz"
 
 # Parse XML
 tree = ET.parse(input_file)
