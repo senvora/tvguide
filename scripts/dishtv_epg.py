@@ -2,19 +2,17 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import gzip
 import shutil
-from datetime import datetime, timezone
-
-UTC = timezone.utc
+from datetime import datetime
 
 input_file = "epg/dishtv.xml"
 output_file = "epg/dishtv.xml"
 gzip_file = "epg/dishtv.xml.gz"
 
-# Helper: normalize to UTC with +0000
-def normalize_to_utc(dt_str):
+# Helper: just relabel to +0530 without shifting
+def relabel_as_ist(dt_str):
     try:
-        dt_utc = datetime.strptime(dt_str[:14], "%Y%m%d%H%M%S").replace(tzinfo=UTC)
-        return dt_utc.strftime("%Y%m%d%H%M%S +0000")
+        dt = datetime.strptime(dt_str[:14], "%Y%m%d%H%M%S")
+        return dt.strftime("%Y%m%d%H%M%S +0530")
     except ValueError:
         return dt_str
 
@@ -22,16 +20,16 @@ def normalize_to_utc(dt_str):
 tree = ET.parse(input_file)
 root = tree.getroot()
 
-# Convert <tv> date
+# Convert <tv> date (relabel only)
 if "date" in root.attrib:
-    root.set("date", normalize_to_utc(root.attrib["date"]))
+    root.set("date", relabel_as_ist(root.attrib["date"]))
 
 # Loop through all programme elements
 for programme in root.findall("programme"):
-    # Normalize start/stop attributes to UTC
+    # Relabel start/stop attributes to +0530
     for attr in ("start", "stop"):
         if attr in programme.attrib:
-            programme.set(attr, normalize_to_utc(programme.attrib[attr]))
+            programme.set(attr, relabel_as_ist(programme.attrib[attr]))
 
     # Keep only English titles if multiple exist
     titles = programme.findall("title")
