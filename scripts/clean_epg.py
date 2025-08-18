@@ -7,9 +7,9 @@ from datetime import datetime, timedelta, timezone
 IST = timezone(timedelta(hours=5, minutes=30))
 UTC = timezone.utc
 
-input_file = "epg.xml"
-output_file = "epg.xml"
-gzip_file = "epg.xml.gz"
+input_file = "epg/dishtv.xml"
+output_file = "epg/dishtv.xml"
+gzip_file = "epg/dishtv.xml.gz"
 
 # Parse XML
 tree = ET.parse(input_file)
