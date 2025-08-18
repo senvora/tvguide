@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv date="20250818">
+  <channel id="153">
+    <display-name>Aaj Tak</display-name>
+    <url>https://tataplay.com</url>
+  </channel>
+  <channel id="1072">
+    <display-name>Star Gold 2 HD</display-name>
+    <url>https://tataplay.com</url>
+  </channel>
+  <programme start="20250818000000 +0530" stop="20250818001000 +0530" channel="153">
+    <title lang="en">Non-Stop 100</title>
+    <desc lang="en">The host collates and presents some of the latest and most important news and updates from across the world in quick succession.</desc>
+  </programme>
+  <programme start="20250818001000 +0530" stop="20250818003000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250818003000 +0530" stop="20250818010000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250818010000 +0530" stop="20250818013000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250818013000 +0530" stop="20250818020000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250818020000 +0530" stop="20250818023000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250818023000 +0530" stop="20250818030000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250818030000 +0530" stop="20250818033000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250818033000 +0530" stop="20250818040000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250818040000 +0530" stop="20250818043000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250818043000 +0530" stop="20250818050000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250818050000 +0530" stop="20250818053000 +0530" channel="153">
+    <title lang="en">ADVT</title>
+    <desc lang="en">ADVT</desc>
+  </programme>
+  <programme start="20250818053000 +0530" stop="20250818055000 +0530" channel="153">
+    <title lang="en">ADVT</title>
+    <desc lang="en">ADVT</desc>
+  </programme>
+  <programme start="20250818055000 +0530" stop="20250818063000 +0530" channel="153">
+    <title lang="en">ADVT</title>
+    <desc lang="en">ADVT</desc>
+  </programme>
+  <programme start="20250818063000 +0530" stop="20250818063500 +0530" channel="153">
+    <title lang="en">5 Min 25 Khabar</title>
+    <desc lang="en">The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes.</desc>
+  </programme>
+  <programme start="20250818063500 +0530" stop="20250818070000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250818070000 +0530" stop="20250818070500 +0530" channel="153">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents the latest news and updates in areas like politics, crime, socio-economic issues and current affairs while highlighting the top stories of the day.</desc>
+  </programme>
+  <programme start="20250818070500 +0530" stop="20250818073000 +0530" channel="153">
+    <title lang="en">Bhagya Shailendra Pandey Ke Saath</title>
+    <desc lang="en">Shailendra Pandey, a learned astrologer, gives his predictions based on people's horoscopes and offers astrological solutions for leading a harmonious life.</desc>
+  </programme>
+  <programme start="20250818073000 +0530" stop="20250818080000 +0530" channel="153">
+    <title lang="en">100 Shahar 100 Khabar</title>
+    <desc lang="en">The host presents the latest political, social, economic and sports news updates and speaks about the recent developments in the country.</desc>
+  </programme>
+  <programme start="20250818080000 +0530" stop="20250818083000 +0530" channel="153">
+    <title lang="en">Khabrein Superfast</title>
+    <desc lang="en">The host presents the latest political, social, sports and economic news updates from around the world in quick succession.</desc>
+  </programme>
+  <programme start="20250818083000 +0530" stop="20250818085000 +0530" channel="153">
+    <title lang="en">Non-Stop 100</title>
+    <desc lang="en">The host collates and presents some of the latest and most important news and updates from across the world in quick succession.</desc>
+  </programme>
+  <programme start="20250818085000 +0530" stop="20250818090500 +0530" channel="153">
+    <title lang="en">Bhagya Chakra</title>
+    <desc lang="en">A renowned astrologer provides remedial measures for various problems people face based on their zodiac signs and the position of the planets.</desc>
+  </programme>
+  <programme start="20250818090500 +0530" stop="20250818092500 +0530" channel="153">
+    <title lang="en">9 Baj Gaye</title>
+    <desc lang="en">The host collates and presents the latest news updates and developments from around the country and other parts of the world.</desc>
+  </programme>
+  <programme start="20250818092500 +0530" stop="20250818094000 +0530" channel="153">
+    <title lang="en">100 Shahar 100 Khabar</title>
+    <desc lang="en">The host presents the latest political, social, economic and sports news updates and speaks about the recent developments in the country.</desc>
+  </programme>
+  <programme start="20250818094000 +0530" stop="20250818100000 +0530" channel="153">
+    <title lang="en">9 Baj Gaye</title>
+    <desc lang="en">The host collates and presents the latest news updates and developments from around the country and other parts of the world.</desc>
+  </programme>
+  <programme start="20250818100000 +0530" stop="20250818101000 +0530" channel="153">
+    <title lang="en">Aaj Subah</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+  </programme>
+  <programme start="20250818101000 +0530" stop="20250818103000 +0530" channel="153">
+    <title lang="en">Aaj Subah</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+  </programme>
+  <programme start="20250818103000 +0530" stop="20250818105500 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250818105500 +0530" stop="20250818111000 +0530" channel="153">
+    <title lang="en">Shatak Aajtak</title>
+    <desc lang="en">The host provides an insight into the top news stories and trending topics surrounding various socio-economic and political issues.</desc>
+  </programme>
+  <programme start="20250818111000 +0530" stop="20250818113000 +0530" channel="153">
+    <title lang="en">Ek Aur Ek Gyarah</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
+  </programme>
+  <programme start="20250818113000 +0530" stop="20250818113500 +0530" channel="153">
+    <title lang="en">Top 25</title>
+    <desc lang="en">The host presents the latest headlines about the social, economic and political issues of the day and provides updates on current events.</desc>
+  </programme>
+  <programme start="20250818113500 +0530" stop="20250818120000 +0530" channel="153">
+    <title lang="en">Ek Aur Ek Gyarah</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
+  </programme>
+  <programme start="20250818120000 +0530" stop="20250818121000 +0530" channel="153">
+    <title lang="en">10 Minute 50 Khabar</title>
+    <desc lang="en">The host presents the top 50 news stories that are relevant to the social, political and economical landscapes of the country.</desc>
+  </programme>
+  <programme start="20250818121000 +0530" stop="20250818123000 +0530" channel="153">
+    <title lang="en">Breaking News</title>
+    <desc lang="en">The host presents numerous top stories, latest happenings and significant updates from the national and international front.</desc>
+  </programme>
+  <programme start="20250818123000 +0530" stop="20250818130000 +0530" channel="153">
+    <title lang="en">Breaking News</title>
+    <desc lang="en">The host presents numerous top stories, latest happenings and significant updates from the national and international front.</desc>
+  </programme>
+  <programme start="20250818130000 +0530" stop="20250818131000 +0530" channel="153">
+    <title lang="en">Non-Stop 100</title>
+    <desc lang="en">The host collates and presents some of the latest and most important news and updates from across the world in quick succession.</desc>
+  </programme>
+  <programme start="20250818131000 +0530" stop="20250818140000 +0530" channel="153">
+    <title lang="en">Lunch Break</title>
+    <desc lang="en">The host presents the latest political, social, economic and sports news updates from speaks about the recent developments in the country.</desc>
+  </programme>
+  <programme start="20250818140000 +0530" stop="20250818143000 +0530" channel="153">
+    <title lang="en">Newsroom</title>
+    <desc lang="en">The host presents the latest social, economic and political news from around the world and provides information on relevant current events.</desc>
+  </programme>
+  <programme start="20250818143000 +0530" stop="20250818150000 +0530" channel="153">
+    <title lang="en">Newsroom</title>
+    <desc lang="en">The host presents the latest social, economic and political news from around the world and provides information on relevant current events.</desc>
+  </programme>
+  <programme start="20250818150000 +0530" stop="20250818151500 +0530" channel="153">
+    <title lang="en">Mera Gaon Mera Desh</title>
+    <desc lang="en">The host sheds light on the numerous top stories and latest happenings taking place in India, including social, political and economic issues.</desc>
+  </programme>
+  <programme start="20250818151500 +0530" stop="20250818153000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250818153000 +0530" stop="20250818160000 +0530" channel="153">
+    <title lang="en">Khabar Asardar</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.</desc>
+  </programme>
+  <programme start="20250818160000 +0530" stop="20250818163000 +0530" channel="153">
+    <title lang="en">Ranbhoomi</title>
+    <desc lang="en">The host presents the latest news and updates from war-torn places while shedding light on conflicts, offering viewers insight into global crises.</desc>
+  </programme>
+  <programme start="20250818163000 +0530" stop="20250818170000 +0530" channel="153">
+    <title lang="en">Ranbhoomi</title>
+    <desc lang="en">The host presents the latest news and updates from war-torn places while shedding light on conflicts, offering viewers insight into global crises.</desc>
+  </programme>
+  <programme start="20250818170000 +0530" stop="20250818173000 +0530" channel="153">
+    <title lang="en">Dangal</title>
+    <desc lang="en">The host interacts with a panel of experts with contradicting opinions who talk about current social and political issues in the country.</desc>
+  </programme>
+  <programme start="20250818173000 +0530" stop="20250818180000 +0530" channel="153">
+    <title lang="en">Dangal</title>
+    <desc lang="en">The host interacts with a panel of experts with contradicting opinions who talk about current social and political issues in the country.</desc>
+  </programme>
+  <programme start="20250818180000 +0530" stop="20250818190000 +0530" channel="153">
+    <title lang="en">Hallabol</title>
+    <desc lang="en">The host moderates a debate between personalities regarding the pressing social and political issues faced by the nation.</desc>
+  </programme>
+  <programme start="20250818190000 +0530" stop="20250818193000 +0530" channel="153">
+    <title lang="en">Shankhnad</title>
+    <desc lang="en">The host shares the latest developments and events on various issues of importance to the country and provides key insights.</desc>
+  </programme>
+  <programme start="20250818193000 +0530" stop="20250818195500 +0530" channel="153">
+    <title lang="en">Vishesh</title>
+    <desc lang="en">The host presents updates and developments from the world of sports, weather, international politics and economy.</desc>
+  </programme>
+  <programme start="20250818195500 +0530" stop="20250818200000 +0530" channel="153">
+    <title lang="en">Top 25</title>
+    <desc lang="en">The host presents the latest headlines about the social, economic and political issues of the day and provides updates on current events.</desc>
+  </programme>
+  <programme start="20250818200000 +0530" stop="20250818202500 +0530" channel="153">
+    <title lang="en">Khabardar</title>
+    <desc lang="en">The host presents the latest developments in the fields of politics, economics, society, sport and film, and examines top stories of the day.</desc>
+  </programme>
+  <programme start="20250818202500 +0530" stop="20250818205500 +0530" channel="153">
+    <title lang="en">Khabardar</title>
+    <desc lang="en">The host presents the latest developments in the fields of politics, economics, society, sport and film, and examines top stories of the day.</desc>
+  </programme>
+  <programme start="20250818205500 +0530" stop="20250818213000 +0530" channel="153">
+    <title lang="en">Black And White</title>
+    <desc lang="en">The host presents some of the most important news updates and developments pertaining to various social, political and economic issues.</desc>
+  </programme>
+  <programme start="20250818213000 +0530" stop="20250818220000 +0530" channel="153">
+    <title lang="en">Black And White</title>
+    <desc lang="en">The host presents some of the most important news updates and developments pertaining to various social, political and economic issues.</desc>
+  </programme>
+  <programme start="20250818220000 +0530" stop="20250818223000 +0530" channel="153">
+    <title lang="en">Dustak</title>
+    <desc lang="en">The host comprehensively analyses news stories and current events revolving around the trending social, economic and political issues.</desc>
+  </programme>
+  <programme start="20250818223000 +0530" stop="20250818230000 +0530" channel="153">
+    <title lang="en">Dustak</title>
+    <desc lang="en">The host comprehensively analyses news stories and current events revolving around the trending social, economic and political issues.</desc>
+  </programme>
+  <programme start="20250818230000 +0530" stop="20250818233000 +0530" channel="153">
+    <title lang="en">Vardaat</title>
+    <desc lang="en">The host takes a look at different kinds of crime-based stories from various urban and rural regions all across the country.</desc>
+  </programme>
+  <programme start="20250818233000 +0530" stop="20250818233500 +0530" channel="153">
+    <title lang="en">Mumbai Top 25</title>
+    <desc lang="en">The host presents information about the top 25 social, economic and political issues of the day in Mumbai and provides updates on current events.</desc>
+  </programme>
+  <programme start="20250818233500 +0530" stop="20250819000000 +0530" channel="153">
+    <title lang="en">Mumbai Metro</title>
+    <desc lang="en">The host presents the latest news updates and developments based on social, political, and economic issues from across Mumbai.</desc>
+  </programme>
+  <programme start="20250819000000 +0530" stop="20250819001000 +0530" channel="153">
+    <title lang="en">Non-Stop 100</title>
+    <desc lang="en">The host collates and presents some of the latest and most important news and updates from across the world in quick succession.</desc>
+  </programme>
+  <programme start="20250819001000 +0530" stop="20250819003000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250819003000 +0530" stop="20250819010000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250819010000 +0530" stop="20250819013000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250819013000 +0530" stop="20250819020000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250819020000 +0530" stop="20250819023000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250819023000 +0530" stop="20250819030000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250819030000 +0530" stop="20250819033000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250819033000 +0530" stop="20250819040000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250819040000 +0530" stop="20250819043000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250819043000 +0530" stop="20250819050000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250819050000 +0530" stop="20250819053000 +0530" channel="153">
+    <title lang="en">ADVT</title>
+    <desc lang="en">ADVT</desc>
+  </programme>
+  <programme start="20250819053000 +0530" stop="20250819055000 +0530" channel="153">
+    <title lang="en">ADVT</title>
+    <desc lang="en">ADVT</desc>
+  </programme>
+  <programme start="20250819055000 +0530" stop="20250819063000 +0530" channel="153">
+    <title lang="en">ADVT</title>
+    <desc lang="en">ADVT</desc>
+  </programme>
+  <programme start="20250819063000 +0530" stop="20250819063500 +0530" channel="153">
+    <title lang="en">5 Min 25 Khabar</title>
+    <desc lang="en">The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes.</desc>
+  </programme>
+  <programme start="20250819063500 +0530" stop="20250819070000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250819070000 +0530" stop="20250819070500 +0530" channel="153">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents the latest news and updates in areas like politics, crime, socio-economic issues and current affairs while highlighting the top stories of the day.</desc>
+  </programme>
+  <programme start="20250819070500 +0530" stop="20250819073000 +0530" channel="153">
+    <title lang="en">Bhagya Shailendra Pandey Ke Saath</title>
+    <desc lang="en">Shailendra Pandey, a learned astrologer, gives his predictions based on people's horoscopes and offers astrological solutions for leading a harmonious life.</desc>
+  </programme>
+  <programme start="20250819073000 +0530" stop="20250819080000 +0530" channel="153">
+    <title lang="en">100 Shahar 100 Khabar</title>
+    <desc lang="en">The host presents the latest political, social, economic and sports news updates and speaks about the recent developments in the country.</desc>
+  </programme>
+  <programme start="20250819080000 +0530" stop="20250819083000 +0530" channel="153">
+    <title lang="en">Khabrein Superfast</title>
+    <desc lang="en">The host presents the latest political, social, sports and economic news updates from around the world in quick succession.</desc>
+  </programme>
+  <programme start="20250819083000 +0530" stop="20250819085000 +0530" channel="153">
+    <title lang="en">Non-Stop 100</title>
+    <desc lang="en">The host collates and presents some of the latest and most important news and updates from across the world in quick succession.</desc>
+  </programme>
+  <programme start="20250819085000 +0530" stop="20250819090500 +0530" channel="153">
+    <title lang="en">Bhagya Chakra</title>
+    <desc lang="en">A renowned astrologer provides remedial measures for various problems people face based on their zodiac signs and the position of the planets.</desc>
+  </programme>
+  <programme start="20250819090500 +0530" stop="20250819092500 +0530" channel="153">
+    <title lang="en">9 Baj Gaye</title>
+    <desc lang="en">The host collates and presents the latest news updates and developments from around the country and other parts of the world.</desc>
+  </programme>
+  <programme start="20250819092500 +0530" stop="20250819094000 +0530" channel="153">
+    <title lang="en">100 Shahar 100 Khabar</title>
+    <desc lang="en">The host presents the latest political, social, economic and sports news updates and speaks about the recent developments in the country.</desc>
+  </programme>
+  <programme start="20250819094000 +0530" stop="20250819100000 +0530" channel="153">
+    <title lang="en">9 Baj Gaye</title>
+    <desc lang="en">The host collates and presents the latest news updates and developments from around the country and other parts of the world.</desc>
+  </programme>
+  <programme start="20250819100000 +0530" stop="20250819101000 +0530" channel="153">
+    <title lang="en">Aaj Subah</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+  </programme>
+  <programme start="20250819101000 +0530" stop="20250819103000 +0530" channel="153">
+    <title lang="en">Aaj Subah</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+  </programme>
+  <programme start="20250819103000 +0530" stop="20250819105500 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250819105500 +0530" stop="20250819111000 +0530" channel="153">
+    <title lang="en">Shatak Aajtak</title>
+    <desc lang="en">The host provides an insight into the top news stories and trending topics surrounding various socio-economic and political issues.</desc>
+  </programme>
+  <programme start="20250819111000 +0530" stop="20250819113000 +0530" channel="153">
+    <title lang="en">Ek Aur Ek Gyarah</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
+  </programme>
+  <programme start="20250819113000 +0530" stop="20250819113500 +0530" channel="153">
+    <title lang="en">Top 25</title>
+    <desc lang="en">The host presents the latest headlines about the social, economic and political issues of the day and provides updates on current events.</desc>
+  </programme>
+  <programme start="20250819113500 +0530" stop="20250819120000 +0530" channel="153">
+    <title lang="en">Ek Aur Ek Gyarah</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
+  </programme>
+  <programme start="20250819120000 +0530" stop="20250819121000 +0530" channel="153">
+    <title lang="en">10 Minute 50 Khabar</title>
+    <desc lang="en">The host presents the top 50 news stories that are relevant to the social, political and economical landscapes of the country.</desc>
+  </programme>
+  <programme start="20250819121000 +0530" stop="20250819123000 +0530" channel="153">
+    <title lang="en">Breaking News</title>
+    <desc lang="en">The host presents numerous top stories, latest happenings and significant updates from the national and international front.</desc>
+  </programme>
+  <programme start="20250819123000 +0530" stop="20250819130000 +0530" channel="153">
+    <title lang="en">Breaking News</title>
+    <desc lang="en">The host presents numerous top stories, latest happenings and significant updates from the national and international front.</desc>
+  </programme>
+  <programme start="20250819130000 +0530" stop="20250819131000 +0530" channel="153">
+    <title lang="en">Non-Stop 100</title>
+    <desc lang="en">The host collates and presents some of the latest and most important news and updates from across the world in quick succession.</desc>
+  </programme>
+  <programme start="20250819131000 +0530" stop="20250819140000 +0530" channel="153">
+    <title lang="en">Lunch Break</title>
+    <desc lang="en">The host presents the latest political, social, economic and sports news updates from speaks about the recent developments in the country.</desc>
+  </programme>
+  <programme start="20250819140000 +0530" stop="20250819143000 +0530" channel="153">
+    <title lang="en">Newsroom</title>
+    <desc lang="en">The host presents the latest social, economic and political news from around the world and provides information on relevant current events.</desc>
+  </programme>
+  <programme start="20250819143000 +0530" stop="20250819150000 +0530" channel="153">
+    <title lang="en">Newsroom</title>
+    <desc lang="en">The host presents the latest social, economic and political news from around the world and provides information on relevant current events.</desc>
+  </programme>
+  <programme start="20250819150000 +0530" stop="20250819151500 +0530" channel="153">
+    <title lang="en">Mera Gaon Mera Desh</title>
+    <desc lang="en">The host sheds light on the numerous top stories and latest happenings taking place in India, including social, political and economic issues.</desc>
+  </programme>
+  <programme start="20250819151500 +0530" stop="20250819153000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250819153000 +0530" stop="20250819160000 +0530" channel="153">
+    <title lang="en">Khabar Asardar</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.</desc>
+  </programme>
+  <programme start="20250819160000 +0530" stop="20250819163000 +0530" channel="153">
+    <title lang="en">Ranbhoomi</title>
+    <desc lang="en">The host presents the latest news and updates from war-torn places while shedding light on conflicts, offering viewers insight into global crises.</desc>
+  </programme>
+  <programme start="20250819163000 +0530" stop="20250819170000 +0530" channel="153">
+    <title lang="en">Ranbhoomi</title>
+    <desc lang="en">The host presents the latest news and updates from war-torn places while shedding light on conflicts, offering viewers insight into global crises.</desc>
+  </programme>
+  <programme start="20250819170000 +0530" stop="20250819173000 +0530" channel="153">
+    <title lang="en">Dangal</title>
+    <desc lang="en">The host interacts with a panel of experts with contradicting opinions who talk about current social and political issues in the country.</desc>
+  </programme>
+  <programme start="20250819173000 +0530" stop="20250819180000 +0530" channel="153">
+    <title lang="en">Dangal</title>
+    <desc lang="en">The host interacts with a panel of experts with contradicting opinions who talk about current social and political issues in the country.</desc>
+  </programme>
+  <programme start="20250819180000 +0530" stop="20250819190000 +0530" channel="153">
+    <title lang="en">Hallabol</title>
+    <desc lang="en">The host moderates a debate between personalities regarding the pressing social and political issues faced by the nation.</desc>
+  </programme>
+  <programme start="20250819190000 +0530" stop="20250819193000 +0530" channel="153">
+    <title lang="en">Shankhnad</title>
+    <desc lang="en">The host shares the latest developments and events on various issues of importance to the country and provides key insights.</desc>
+  </programme>
+  <programme start="20250819193000 +0530" stop="20250819195500 +0530" channel="153">
+    <title lang="en">Vishesh</title>
+    <desc lang="en">The host presents updates and developments from the world of sports, weather, international politics and economy.</desc>
+  </programme>
+  <programme start="20250819195500 +0530" stop="20250819200000 +0530" channel="153">
+    <title lang="en">Top 25</title>
+    <desc lang="en">The host presents the latest headlines about the social, economic and political issues of the day and provides updates on current events.</desc>
+  </programme>
+  <programme start="20250819200000 +0530" stop="20250819202500 +0530" channel="153">
+    <title lang="en">Khabardar</title>
+    <desc lang="en">The host presents the latest developments in the fields of politics, economics, society, sport and film, and examines top stories of the day.</desc>
+  </programme>
+  <programme start="20250819202500 +0530" stop="20250819205500 +0530" channel="153">
+    <title lang="en">Khabardar</title>
+    <desc lang="en">The host presents the latest developments in the fields of politics, economics, society, sport and film, and examines top stories of the day.</desc>
+  </programme>
+  <programme start="20250819205500 +0530" stop="20250819213000 +0530" channel="153">
+    <title lang="en">Black And White</title>
+    <desc lang="en">The host presents some of the most important news updates and developments pertaining to various social, political and economic issues.</desc>
+  </programme>
+  <programme start="20250819213000 +0530" stop="20250819220000 +0530" channel="153">
+    <title lang="en">Black And White</title>
+    <desc lang="en">The host presents some of the most important news updates and developments pertaining to various social, political and economic issues.</desc>
+  </programme>
+  <programme start="20250819220000 +0530" stop="20250819223000 +0530" channel="153">
+    <title lang="en">Dustak</title>
+    <desc lang="en">The host comprehensively analyses news stories and current events revolving around the trending social, economic and political issues.</desc>
+  </programme>
+  <programme start="20250819223000 +0530" stop="20250819230000 +0530" channel="153">
+    <title lang="en">Dustak</title>
+    <desc lang="en">The host comprehensively analyses news stories and current events revolving around the trending social, economic and political issues.</desc>
+  </programme>
+  <programme start="20250819230000 +0530" stop="20250819233000 +0530" channel="153">
+    <title lang="en">Vardaat</title>
+    <desc lang="en">The host takes a look at different kinds of crime-based stories from various urban and rural regions all across the country.</desc>
+  </programme>
+  <programme start="20250819233000 +0530" stop="20250819233500 +0530" channel="153">
+    <title lang="en">Mumbai Top 25</title>
+    <desc lang="en">The host presents information about the top 25 social, economic and political issues of the day in Mumbai and provides updates on current events.</desc>
+  </programme>
+  <programme start="20250819233500 +0530" stop="20250820000000 +0530" channel="153">
+    <title lang="en">Mumbai Metro</title>
+    <desc lang="en">The host presents the latest news updates and developments based on social, political, and economic issues from across Mumbai.</desc>
+  </programme>
+  <programme start="20250820000000 +0530" stop="20250820001000 +0530" channel="153">
+    <title lang="en">Non-Stop 100</title>
+    <desc lang="en">The host collates and presents some of the latest and most important news and updates from across the world in quick succession.</desc>
+  </programme>
+  <programme start="20250820001000 +0530" stop="20250820003000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250820003000 +0530" stop="20250820010000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250820010000 +0530" stop="20250820013000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250820013000 +0530" stop="20250820020000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250820020000 +0530" stop="20250820023000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250820023000 +0530" stop="20250820030000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250820030000 +0530" stop="20250820033000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250820033000 +0530" stop="20250820040000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250820040000 +0530" stop="20250820043000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250820043000 +0530" stop="20250820050000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250820050000 +0530" stop="20250820053000 +0530" channel="153">
+    <title lang="en">ADVT</title>
+    <desc lang="en">ADVT</desc>
+  </programme>
+  <programme start="20250820053000 +0530" stop="20250820055000 +0530" channel="153">
+    <title lang="en">ADVT</title>
+    <desc lang="en">ADVT</desc>
+  </programme>
+  <programme start="20250820055000 +0530" stop="20250820063000 +0530" channel="153">
+    <title lang="en">ADVT</title>
+    <desc lang="en">ADVT</desc>
+  </programme>
+  <programme start="20250820063000 +0530" stop="20250820063500 +0530" channel="153">
+    <title lang="en">5 Min 25 Khabar</title>
+    <desc lang="en">The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes.</desc>
+  </programme>
+  <programme start="20250820063500 +0530" stop="20250820070000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250820070000 +0530" stop="20250820070500 +0530" channel="153">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents the latest news and updates in areas like politics, crime, socio-economic issues and current affairs while highlighting the top stories of the day.</desc>
+  </programme>
+  <programme start="20250820070500 +0530" stop="20250820073000 +0530" channel="153">
+    <title lang="en">Bhagya Shailendra Pandey Ke Saath</title>
+    <desc lang="en">Shailendra Pandey, a learned astrologer, gives his predictions based on people's horoscopes and offers astrological solutions for leading a harmonious life.</desc>
+  </programme>
+  <programme start="20250820073000 +0530" stop="20250820080000 +0530" channel="153">
+    <title lang="en">100 Shahar 100 Khabar</title>
+    <desc lang="en">The host presents the latest political, social, economic and sports news updates and speaks about the recent developments in the country.</desc>
+  </programme>
+  <programme start="20250820080000 +0530" stop="20250820083000 +0530" channel="153">
+    <title lang="en">Khabrein Superfast</title>
+    <desc lang="en">The host presents the latest political, social, sports and economic news updates from around the world in quick succession.</desc>
+  </programme>
+  <programme start="20250820083000 +0530" stop="20250820085000 +0530" channel="153">
+    <title lang="en">Non-Stop 100</title>
+    <desc lang="en">The host collates and presents some of the latest and most important news and updates from across the world in quick succession.</desc>
+  </programme>
+  <programme start="20250820085000 +0530" stop="20250820090500 +0530" channel="153">
+    <title lang="en">Bhagya Chakra</title>
+    <desc lang="en">A renowned astrologer provides remedial measures for various problems people face based on their zodiac signs and the position of the planets.</desc>
+  </programme>
+  <programme start="20250820090500 +0530" stop="20250820092500 +0530" channel="153">
+    <title lang="en">9 Baj Gaye</title>
+    <desc lang="en">The host collates and presents the latest news updates and developments from around the country and other parts of the world.</desc>
+  </programme>
+  <programme start="20250820092500 +0530" stop="20250820094000 +0530" channel="153">
+    <title lang="en">100 Shahar 100 Khabar</title>
+    <desc lang="en">The host presents the latest political, social, economic and sports news updates and speaks about the recent developments in the country.</desc>
+  </programme>
+  <programme start="20250820094000 +0530" stop="20250820100000 +0530" channel="153">
+    <title lang="en">9 Baj Gaye</title>
+    <desc lang="en">The host collates and presents the latest news updates and developments from around the country and other parts of the world.</desc>
+  </programme>
+  <programme start="20250820100000 +0530" stop="20250820101000 +0530" channel="153">
+    <title lang="en">Aaj Subah</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+  </programme>
+  <programme start="20250820101000 +0530" stop="20250820103000 +0530" channel="153">
+    <title lang="en">Aaj Subah</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+  </programme>
+  <programme start="20250820103000 +0530" stop="20250820105500 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250820105500 +0530" stop="20250820111000 +0530" channel="153">
+    <title lang="en">Shatak Aajtak</title>
+    <desc lang="en">The host provides an insight into the top news stories and trending topics surrounding various socio-economic and political issues.</desc>
+  </programme>
+  <programme start="20250820111000 +0530" stop="20250820113000 +0530" channel="153">
+    <title lang="en">Ek Aur Ek Gyarah</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
+  </programme>
+  <programme start="20250820113000 +0530" stop="20250820113500 +0530" channel="153">
+    <title lang="en">Top 25</title>
+    <desc lang="en">The host presents the latest headlines about the social, economic and political issues of the day and provides updates on current events.</desc>
+  </programme>
+  <programme start="20250820113500 +0530" stop="20250820120000 +0530" channel="153">
+    <title lang="en">Ek Aur Ek Gyarah</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
+  </programme>
+  <programme start="20250820120000 +0530" stop="20250820121000 +0530" channel="153">
+    <title lang="en">10 Minute 50 Khabar</title>
+    <desc lang="en">The host presents the top 50 news stories that are relevant to the social, political and economical landscapes of the country.</desc>
+  </programme>
+  <programme start="20250820121000 +0530" stop="20250820123000 +0530" channel="153">
+    <title lang="en">Breaking News</title>
+    <desc lang="en">The host presents numerous top stories, latest happenings and significant updates from the national and international front.</desc>
+  </programme>
+  <programme start="20250820123000 +0530" stop="20250820130000 +0530" channel="153">
+    <title lang="en">Breaking News</title>
+    <desc lang="en">The host presents numerous top stories, latest happenings and significant updates from the national and international front.</desc>
+  </programme>
+  <programme start="20250820130000 +0530" stop="20250820131000 +0530" channel="153">
+    <title lang="en">Non-Stop 100</title>
+    <desc lang="en">The host collates and presents some of the latest and most important news and updates from across the world in quick succession.</desc>
+  </programme>
+  <programme start="20250820131000 +0530" stop="20250820140000 +0530" channel="153">
+    <title lang="en">Lunch Break</title>
+    <desc lang="en">The host presents the latest political, social, economic and sports news updates from speaks about the recent developments in the country.</desc>
+  </programme>
+  <programme start="20250820140000 +0530" stop="20250820143000 +0530" channel="153">
+    <title lang="en">Newsroom</title>
+    <desc lang="en">The host presents the latest social, economic and political news from around the world and provides information on relevant current events.</desc>
+  </programme>
+  <programme start="20250820143000 +0530" stop="20250820150000 +0530" channel="153">
+    <title lang="en">Newsroom</title>
+    <desc lang="en">The host presents the latest social, economic and political news from around the world and provides information on relevant current events.</desc>
+  </programme>
+  <programme start="20250820150000 +0530" stop="20250820151500 +0530" channel="153">
+    <title lang="en">Mera Gaon Mera Desh</title>
+    <desc lang="en">The host sheds light on the numerous top stories and latest happenings taking place in India, including social, political and economic issues.</desc>
+  </programme>
+  <programme start="20250820151500 +0530" stop="20250820153000 +0530" channel="153">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+  </programme>
+  <programme start="20250820153000 +0530" stop="20250820160000 +0530" channel="153">
+    <title lang="en">Khabar Asardar</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs.</desc>
+  </programme>
+  <programme start="20250820160000 +0530" stop="20250820163000 +0530" channel="153">
+    <title lang="en">Ranbhoomi</title>
+    <desc lang="en">The host presents the latest news and updates from war-torn places while shedding light on conflicts, offering viewers insight into global crises.</desc>
+  </programme>
+  <programme start="20250820163000 +0530" stop="20250820170000 +0530" channel="153">
+    <title lang="en">Ranbhoomi</title>
+    <desc lang="en">The host presents the latest news and updates from war-torn places while shedding light on conflicts, offering viewers insight into global crises.</desc>
+  </programme>
+  <programme start="20250820170000 +0530" stop="20250820173000 +0530" channel="153">
+    <title lang="en">Dangal</title>
+    <desc lang="en">The host interacts with a panel of experts with contradicting opinions who talk about current social and political issues in the country.</desc>
+  </programme>
+  <programme start="20250820173000 +0530" stop="20250820180000 +0530" channel="153">
+    <title lang="en">Dangal</title>
+    <desc lang="en">The host interacts with a panel of experts with contradicting opinions who talk about current social and political issues in the country.</desc>
+  </programme>
+  <programme start="20250820180000 +0530" stop="20250820190000 +0530" channel="153">
+    <title lang="en">Hallabol</title>
+    <desc lang="en">The host moderates a debate between personalities regarding the pressing social and political issues faced by the nation.</desc>
+  </programme>
+  <programme start="20250820190000 +0530" stop="20250820193000 +0530" channel="153">
+    <title lang="en">Shankhnad</title>
+    <desc lang="en">The host shares the latest developments and events on various issues of importance to the country and provides key insights.</desc>
+  </programme>
+  <programme start="20250820193000 +0530" stop="20250820195500 +0530" channel="153">
+    <title lang="en">Vishesh</title>
+    <desc lang="en">The host presents updates and developments from the world of sports, weather, international politics and economy.</desc>
+  </programme>
+  <programme start="20250820195500 +0530" stop="20250820200000 +0530" channel="153">
+    <title lang="en">Top 25</title>
+    <desc lang="en">The host presents the latest headlines about the social, economic and political issues of the day and provides updates on current events.</desc>
+  </programme>
+  <programme start="20250820200000 +0530" stop="20250820202500 +0530" channel="153">
+    <title lang="en">Khabardar</title>
+    <desc lang="en">The host presents the latest developments in the fields of politics, economics, society, sport and film, and examines top stories of the day.</desc>
+  </programme>
+  <programme start="20250820202500 +0530" stop="20250820205500 +0530" channel="153">
+    <title lang="en">Khabardar</title>
+    <desc lang="en">The host presents the latest developments in the fields of politics, economics, society, sport and film, and examines top stories of the day.</desc>
+  </programme>
+  <programme start="20250820205500 +0530" stop="20250820213000 +0530" channel="153">
+    <title lang="en">Black And White</title>
+    <desc lang="en">The host presents some of the most important news updates and developments pertaining to various social, political and economic issues.</desc>
+  </programme>
+  <programme start="20250820213000 +0530" stop="20250820220000 +0530" channel="153">
+    <title lang="en">Black And White</title>
+    <desc lang="en">The host presents some of the most important news updates and developments pertaining to various social, political and economic issues.</desc>
+  </programme>
+  <programme start="20250820220000 +0530" stop="20250820223000 +0530" channel="153">
+    <title lang="en">Dustak</title>
+    <desc lang="en">The host comprehensively analyses news stories and current events revolving around the trending social, economic and political issues.</desc>
+  </programme>
+  <programme start="20250820223000 +0530" stop="20250820230000 +0530" channel="153">
+    <title lang="en">Dustak</title>
+    <desc lang="en">The host comprehensively analyses news stories and current events revolving around the trending social, economic and political issues.</desc>
+  </programme>
+  <programme start="20250820230000 +0530" stop="20250820233000 +0530" channel="153">
+    <title lang="en">Vardaat</title>
+    <desc lang="en">The host takes a look at different kinds of crime-based stories from various urban and rural regions all across the country.</desc>
+  </programme>
+  <programme start="20250820233000 +0530" stop="20250820233500 +0530" channel="153">
+    <title lang="en">Mumbai Top 25</title>
+    <desc lang="en">The host presents information about the top 25 social, economic and political issues of the day in Mumbai and provides updates on current events.</desc>
+  </programme>
+  <programme start="20250820233500 +0530" stop="20250821000000 +0530" channel="153">
+    <title lang="en">Mumbai Metro</title>
+    <desc lang="en">The host presents the latest news updates and developments based on social, political, and economic issues from across Mumbai.</desc>
+  </programme>
+  <programme start="20250818012000 +0530" stop="20250818031700 +0530" channel="1072">
+    <title lang="en">Vadena</title>
+    <desc lang="en">Vadena</desc>
+  </programme>
+  <programme start="20250818031700 +0530" stop="20250818052300 +0530" channel="1072">
+    <title lang="en">Meri Taqat Meri Himmat</title>
+    <desc lang="en">A kickboxer falls in love with a social activist. She embarks on a quest to disclose the malpractices of a violent mafia who carries out operations to produce genetically modified crops.</desc>
+  </programme>
+  <programme start="20250818052300 +0530" stop="20250818072700 +0530" channel="1072">
+    <title lang="en">Pandigai</title>
+    <desc lang="en">Velu, a fearless yet impoverished fighter, rises to fame in an underground fight club. However, he seeks an escape from the violent life he's entangled in when he falls in love with a woman.</desc>
+  </programme>
+  <programme start="20250818072700 +0530" stop="20250818094300 +0530" channel="1072">
+    <title lang="en">Khuda Haafiz</title>
+    <desc lang="en">When a financial crisis leaves Sameer and Nargis jobless, they resort to taking up a job in the Middle East. But when Nargis goes missing on arrival, Sameer sets out on a bloody quest to find her.</desc>
+  </programme>
+  <programme start="20250818094300 +0530" stop="20250818114800 +0530" channel="1072">
+    <title lang="en">Selfie</title>
+    <desc lang="en">An ill-tempered engineering student becomes embroiled in an underground college admissions racket. Soon, he and his friends become the targets of gangsters and loan sharks.</desc>
+  </programme>
+  <programme start="20250818114800 +0530" stop="20250818140300 +0530" channel="1072">
+    <title lang="en">Big Brother</title>
+    <desc lang="en">A meek man, Devdhar, gets infuriated after a politician's son throws acid on his sister. However, his life changes when he kills the culprit, whose family later seeks revenge from Devdhar.</desc>
+  </programme>
+  <programme start="20250818140300 +0530" stop="20250818163400 +0530" channel="1072">
+    <title lang="en">Mujhse Dosti Karoge!</title>
+    <desc lang="en">Raj falls in love with Tina after their friendship blossoms via emails. However, he is unaware that Tina's best friend, Pooja, is the one writing these mails.</desc>
+  </programme>
+  <programme start="20250818163400 +0530" stop="20250818185500 +0530" channel="1072">
+    <title lang="en">Singham Returns</title>
+    <desc lang="en">Bajirao Singham, an honest police officer, encounters Babaji, a god-man with connections to high profile politicians, when he investigates the death of an officer from his team.</desc>
+  </programme>
+  <programme start="20250818185500 +0530" stop="20250818213600 +0530" channel="1072">
+    <title lang="en">Dilwale</title>
+    <desc lang="en">Despite the family rivalry, Raj and Meera fall in love other but a misunderstanding causes them to part ways. Years later, fate brings them together when their siblings fall for each other.</desc>
+  </programme>
+  <programme start="20250818213600 +0530" stop="20250818233500 +0530" channel="1072">
+    <title lang="en">Ragada</title>
+    <desc lang="en">Satya, a money-minded man, arrives in Hyderabad and starts working for a gangster, GK. However, he soon becomes the target of another gangster, Peddanna.</desc>
+  </programme>
+  <programme start="20250818233500 +0530" stop="20250819000000 +0530" channel="1072">
+    <title lang="en">De De Pyaar De</title>
+    <desc lang="en">When Ashish falls in love with Ayesha, a woman almost half his age, he introduces her to his ex-wife and children. However, their unacceptance threatens to ruin their relationship.</desc>
+  </programme>
+  <programme start="20250819000000 +0530" stop="20250819030000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250819030000 +0530" stop="20250819060000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250819060000 +0530" stop="20250819090000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250819090000 +0530" stop="20250819120000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250819120000 +0530" stop="20250819150000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250819150000 +0530" stop="20250819180000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250819180000 +0530" stop="20250819210000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250819210000 +0530" stop="20250820000000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250820000000 +0530" stop="20250820030000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250820030000 +0530" stop="20250820060000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250820060000 +0530" stop="20250820090000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250820090000 +0530" stop="20250820120000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250820120000 +0530" stop="20250820150000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250820150000 +0530" stop="20250820180000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250820180000 +0530" stop="20250820210000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+  <programme start="20250820210000 +0530" stop="20250821000000 +0530" channel="1072">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+  </programme>
+</tv>
