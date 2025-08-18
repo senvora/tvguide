@@ -33,7 +33,7 @@ jobs:
       - name: Run grabber with custom channels
         run: |
           cd epg-org
-          npm run grab --- --channels=../epg/custom.channels.xml --maxConnections=10 --days=2 --gzip
+          npm run grab --- --channels=../epg/custom.channels.xml --maxConnections=10 --days=3 --gzip
           cp guide.xml ../epg.xml
           cp guide.xml.gz ../epg.xml.gz
 
