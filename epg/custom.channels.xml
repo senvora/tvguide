@@ -1,12 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="tataplay.com" lang="en" xmltv_id="stargoldselecthd.tataplay" site_id="595">Star Gold Select HD</channel>
-  <channel site="tataplay.com" lang="en" xmltv_id="andxplorhd.tataplay" site_id="1183">&amp;Xplor HD</channel>
-  <channel site="tataplay.com" lang="en" xmltv_id="zeetvhd.tataplay" site_id="63">Zee TV HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="sonymaxhd.dishtv" site_id="159098">Sony Max HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="cineplexhd.dishtv" site_id="158147">Colors Cineplex HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="starplushd.dishtv" site_id="10000000006010000">STAR PLUS HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="indiatoday.in" site_id="1">INDIA TODAY</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="sanskar.in" site_id="43">Sanskar</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="theq.in" site_id="54">The Q</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="republictv.in" site_id="72">REPUBLIC TV</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="ndtvprofit.in" site_id="93">NDTV Profit Prime</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="indiatv.in" site_id="104">India TV</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="news18india.in" site_id="106">News18 India</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="romedynow.in" site_id="174">Romedy Now</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="ndtvindia.in" site_id="179">NDTV India</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="ndtv24x7.in" site_id="208">NDTV 24x7</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="mn+hd.in" site_id="210">MN+ HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="pogo.in" site_id="239">Pogo</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="wion.in" site_id="255">WION</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="disneyinternationalhd.in" site_id="265">Disney International HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="aasthabhajan.in" site_id="283">Aastha Bhajan</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="animalplanethd.in" site_id="287">Animal Planet HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="bharatsamachar.in" site_id="291">Bharat Samachar</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="ddnews.in" site_id="322">DD News</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="ddindia.in" site_id="324">DD India</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="Discoveryhdworld.in" site_id="341">Discovery HD World</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="zeezesthd.in" site_id="382">Zee Zest HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="tlchd.in" site_id="480">TLC HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="travelxphd.in" site_id="484">Travelxp HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="tataplaybollywoodpremiere.in" site_id="486">Tata Play Bollywood Premiere</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="zeecafehd.in" site_id="502">Zee Cafe HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="zeecinemahd" site_id="503">Zee Cinema HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="&amp;flix hd.in" site_id="506">&amp;Flix HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="andprivehd.in" site_id="530">&amp;Prive HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="stargoldselecthd.in" site_id="595">Star Gold Select HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="andxplorhd.in" site_id="1183">&amp;Xplor HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="zeetvhd.in" site_id="63">Zee TV HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="sonymaxhd.in" site_id="159098">Sony Max HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="cineplexhd.in" site_id="158147">Colors Cineplex HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="aajtak.in" site_id="10000000000720000">Aaj Tak</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="starplushd.in" site_id="10000000006010000">STAR PLUS HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="axnhd.my" site_id="131">AXN HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="boohd.my" site_id="251">BOO HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="cinemaxhd.my" site_id="337">CINEMAX HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="colorshindihd.my" site_id="365">Colors Hindi HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="hbohd.my" site_id="143">HBO HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="hbofamily.my" site_id="450">HBO Family</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="hbohit.my" site_id="449">HBO Hits</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="hitshd.my" site_id="179">HITS HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="hitsmovieshd.my" site_id="391">HITS Movies HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="showcase.my" site_id="454">SHOWCASE</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="warnertvhd.my" site_id="270">Warner TV HD</channel>
   <channel site="content.astro.com.my" lang="ms" xmltv_id="zeecinema.my" site_id="490">Zee Cinema</channel>
-  <channel site="sky.com" lang="en" xmltv_id="skysportscrickethd.uk" site_id="4081">Sky Sp Cricket HD</channel> 
-  <channel site="foxsports.com.au" lang="en" xmltv_id="foxcricket.au" site_id="14">Fox Cricket</channel>  
+  <channel site="sky.com" lang="en" xmltv_id="skysportscrickethd.uk" site_id="4081">SkySp Cricket HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="skysportsmaineventhd.uk" site_id="4002">SkySp Main Event HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="skysportsmixhd.uk" site_id="4090">SkySp Mix HD</channel>
+  <channel site="foxsports.com.au" lang="en" xmltv_id="foxcricket.au" site_id="14">Fox Cricket</channel>
+  <channel site="plex.tv" lang="pt" xmltv_id="willowsports.plex" site_id="5e20b730f2f8d5003d739db7-66fbf9cf128ab3f65b259bcb">Willow Sports</channel>
 </channels>
