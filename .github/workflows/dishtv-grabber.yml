@@ -1,0 +1,50 @@
+name: Dish TV Grabber
+
+on:
+  schedule:
+    - cron: "0 0,12 * * *" # Twice daily (00:00 and 12:00 UTC)
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Git & Python
+        run: sudo apt-get update && sudo apt-get install -y git python3 python3-pip
+
+      - name: Clone EPG repo
+        run: |
+          git clone --depth 1 -b master https://github.com/iptv-org/epg.git epg-org
+
+      - name: Install dependencies
+        run: |
+          cd epg-org
+          npm install
+
+      - name: Run grabber with custom channels
+        run: |
+          cd epg-org
+          npm run grab --- --channels=../sites/dishtv.xml --maxConnections=10 --days=3 --gzip
+          cp guide.xml ../dishtv.xml
+          cp guide.xml.gz ../dishtv.xml.gz
+
+      - name: Clean EPG file
+        run: |
+          python3 scripts/dishtv_epg.py
+
+      - name: Commit and push EPG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dishtv.xml dishtv.xml.gz
+          git commit -m "Update EPG ($(date -u +"%Y-%m-%d %H:%M:%S"))" || echo "No changes to commit"
+          git push
