@@ -25,7 +25,8 @@ if "date" in root.attrib:
     except ValueError:
         pass
 
-# Loop through all programme elements
+# Collect all programmes first
+programmes = []
 for programme in root.findall("programme"):
     # Convert start/stop attributes to IST
     for attr in ("start", "stop"):
@@ -52,7 +53,7 @@ for programme in root.findall("programme"):
             if d.attrib.get("lang") != "en":
                 programme.remove(d)
 
-    # Remove any other unwanted tags
+    # Remove unwanted tags
     for child in list(programme):
         if child.tag not in ("title", "desc"):
             programme.remove(child)
@@ -63,23 +64,41 @@ for programme in root.findall("programme"):
         if element is not None and (element.text is None or element.text.strip() == ""):
             programme.remove(element)
 
+    programmes.append(programme)
+
+# Remove old programmes
+for p in root.findall("programme"):
+    root.remove(p)
+
+# Sort programmes by channel, then start time
+def sort_key(p):
+    channel = p.attrib.get("channel", "").lower()
+    start = p.attrib.get("start", "")
+    return (channel, start)
+
+programmes.sort(key=sort_key)
+
+# Re-attach in sorted order
+for p in programmes:
+    root.append(p)
+
 # Pretty print XML with indentation
 xml_str = ET.tostring(root, encoding="utf-8")
 parsed = minidom.parseString(xml_str)
 pretty_xml_as_str = parsed.toprettyxml(indent="  ", encoding="utf-8")
 
-# Remove ALL blank lines
+# Remove blank lines
 pretty_xml_as_str = b"\n".join(
     line for line in pretty_xml_as_str.splitlines() if line.strip()
 )
 
-# Save cleaned XML
+# Save cleaned + sorted XML
 with open(output_file, "wb") as f:
     f.write(pretty_xml_as_str)
 
-# Create gzipped version
+# Save gzipped version
 with open(output_file, "rb") as f_in:
     with gzip.open(gzip_file, "wb") as f_out:
         shutil.copyfileobj(f_in, f_out)
 
-print(f"Cleaned EPG saved to {output_file} and {gzip_file}")
+print(f"Cleaned + sorted EPG saved to {output_file} and {gzip_file}")
