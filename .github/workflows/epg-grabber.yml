@@ -2,7 +2,7 @@ name: EPG Downloader & Grabber
 
 on:
   schedule:
-    - cron: '30 20 * * *' # 20:30 UTC / 02:00 IST
+    - cron: '45 21 * * *' # 21:45 UTC / 03:15 IST
   workflow_dispatch:
 
 jobs:
