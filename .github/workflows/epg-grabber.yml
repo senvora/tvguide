@@ -133,7 +133,7 @@ jobs:
       # -----------------------------
       - name: Commit & push updated EPG files
         run: |
-          git add epg/*.xml epg/*.xml.gz
+          git add epg/*.xml.gz
           git commit -m "EPG updated at ${{ env.current_date }} (IST)" || echo "No changes to commit"
           git pull --rebase origin main || true
           git push
