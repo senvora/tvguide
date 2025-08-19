@@ -80,21 +80,21 @@ jobs:
           path: epg/tataplay.xml
           if-no-files-found: ignore
 
-      - name: Grab Customize EPG
+      - name: Grab senvora EPG
         run: |
           cd epg-org
-          npm run grab -- --channels=../sites/customize.xml --maxConnections=10 --days=3 --gzip
+          npm run grab -- --channels=../sites/senvora.xml --maxConnections=10 --days=3 --gzip
           mkdir -p ../epg
-          cp guide.xml ../epg/customize.xml
-          cp guide.xml.gz ../epg/customize.xml.gz
+          cp guide.xml ../epg/senvora.xml
+          cp guide.xml.gz ../epg/senvora.xml.gz
           cd ..
-          python3 scripts/customize_epg.py
+          python3 scripts/senvora_epg.py
 
-      - name: Upload Customize EPG Artifact
+      - name: Upload senvora EPG Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: customize-epg
-          path: epg/customize.xml
+          name: senvora-epg
+          path: epg/senvora.xml
           if-no-files-found: ignore
 
       # -----------------------------
