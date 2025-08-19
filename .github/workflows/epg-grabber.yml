@@ -42,7 +42,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add epg/dishtv.xml epg/dishtv.xml.gz
-          git commit -m "Update DishTV EPG ($(date -u +"%Y-%m-%d %H:%M:%S"))" || echo "No changes to commit"
+          git commit -m "Update DishTV EPG ($(TZ='Asia/Kolkata' date +"%Y-%m-%d %H:%M:%S %Z"))" || echo "No changes to commit"
           git pull --rebase origin main || true
           git push
 
@@ -89,7 +89,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add epg/tataplay.xml epg/tataplay.xml.gz
-          git commit -m "Update TataPlay EPG ($(date -u +"%Y-%m-%d %H:%M:%S"))" || echo "No changes to commit"
+          git commit -m "Update TataPlay EPG ($(TZ='Asia/Kolkata' date +"%Y-%m-%d %H:%M:%S %Z"))" || echo "No changes to commit"
           git pull --rebase origin main || true
           git push
 
@@ -136,7 +136,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add epg/customize.xml epg/customize.xml.gz
-          git commit -m "Update Customize EPG ($(date -u +"%Y-%m-%d %H:%M:%S"))" || echo "No changes to commit"
+          git commit -m "Update Customize EPG ($(TZ='Asia/Kolkata' date +"%Y-%m-%d %H:%M:%S %Z"))" || echo "No changes to commit"
           git pull --rebase origin main || true
           git push
 
