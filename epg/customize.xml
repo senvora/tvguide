@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv date="20250818">
+<tv date="20250819">
   <channel id="14">
     <display-name>FOX Cricket</display-name>
     <url>https://foxsports.com.au</url>
@@ -88,130 +88,6 @@
     <display-name>WILLOW2</display-name>
     <url>https://zap2it.com</url>
   </channel>
-  <programme start="20250817220000 +0530" stop="20250818014500 +0530" channel="14">
-    <title lang="en">Hundred</title>
-    <desc lang="en">The Phoenix face London Spirit, who have David Warner and Ashton Turner in their ranks. Both teams need a win to stay in the play-offs hunt.</desc>
-  </programme>
-  <programme start="20250818014500 +0530" stop="20250818020500 +0530" channel="14">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">Joe Root's Trent Rockets face a tough test against a powerful Southern Brave squad that includes Australian Hilton Cartwright.</desc>
-  </programme>
-  <programme start="20250818020500 +0530" stop="20250818022500 +0530" channel="14">
-    <title lang="en">The Hundred Women's Mini</title>
-    <desc lang="en">League leaders Southern Brave face the Trent Rockets. Australian Ash Gardner and Alana King will look for a key victory at Trent Bridge.</desc>
-  </programme>
-  <programme start="20250818022500 +0530" stop="20250818032500 +0530" channel="14">
-    <title lang="en">T20 AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
-  </programme>
-  <programme start="20250818032500 +0530" stop="20250818042500 +0530" channel="14">
-    <title lang="en">T20 AUS v SA</title>
-    <desc lang="en">Mitchell Marsh&amp;#8217;s Australia faces a series-decider clash in Cairns after a Brevis-inspired South Africa leveled the series.</desc>
-  </programme>
-  <programme start="20250818042500 +0530" stop="20250818083500 +0530" channel="14">
-    <title lang="en">CPL</title>
-    <desc lang="en">Game 5: The Kings and their captain Matthew Forde travel to North Sound. The home side will hope for another strong showing from their star-studded line up.</desc>
-  </programme>
-  <programme start="20250818083500 +0530" stop="20250818085500 +0530" channel="14">
-    <title lang="en">The Hundred Women's Mini</title>
-    <desc lang="en">Ellyse Perry's Birmingham Phoenix, with a dominant record over London Spirit, aim to continue their winning ways at Edgbaston.</desc>
-  </programme>
-  <programme start="20250818085500 +0530" stop="20250818091500 +0530" channel="14">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">The Phoenix face London Spirit, who have David Warner and Ashton Turner in their ranks. Both teams need a win to stay in the play-offs hunt.</desc>
-  </programme>
-  <programme start="20250818091500 +0530" stop="20250818101500 +0530" channel="14">
-    <title lang="en">T20 AUS v SA</title>
-    <desc lang="en">Mitchell Marsh&amp;#8217;s Australia faces a series-decider clash in Cairns after a Brevis-inspired South Africa leveled the series.</desc>
-  </programme>
-  <programme start="20250818101500 +0530" stop="20250818103500 +0530" channel="14">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">The Northern Superchargers take on the Manchester Originals in a crucial north-west derby.</desc>
-  </programme>
-  <programme start="20250818103500 +0530" stop="20250818105500 +0530" channel="14">
-    <title lang="en">T20 Mini AUS v SA</title>
-    <desc lang="en">Mitchell Marsh&amp;#8217;s Australia faces a series-decider clash in Cairns after a Brevis-inspired South Africa leveled the series.</desc>
-  </programme>
-  <programme start="20250818105500 +0530" stop="20250818111500 +0530" channel="14">
-    <title lang="en">The Hundred Women's Mini</title>
-    <desc lang="en">Beth Mooney leads the Originals against Superchargers with Annabel Sutherland. The Superchargers will look to continue their impressive form.</desc>
-  </programme>
-  <programme start="20250818111500 +0530" stop="20250818113500 +0530" channel="14">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">Joe Root's Trent Rockets face a tough test against a powerful Southern Brave squad that includes Australian Hilton Cartwright.</desc>
-  </programme>
-  <programme start="20250818113500 +0530" stop="20250818115500 +0530" channel="14">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">All eyes will be on Steve Smith as his Welsh Fire travels to The Oval to face the defending champions, Oval Invincibles.</desc>
-  </programme>
-  <programme start="20250818115500 +0530" stop="20250818121500 +0530" channel="14">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">The Northern Superchargers take on the Manchester Originals in a crucial north-west derby.</desc>
-  </programme>
-  <programme start="20250818121500 +0530" stop="20250818123500 +0530" channel="14">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">The Phoenix face London Spirit, who have David Warner and Ashton Turner in their ranks. Both teams need a win to stay in the play-offs hunt.</desc>
-  </programme>
-  <programme start="20250818123500 +0530" stop="20250818125500 +0530" channel="14">
-    <title lang="en">T20 Mini AUS v SA</title>
-    <desc lang="en">Mitchell Marsh&amp;#8217;s Australia faces a series-decider clash in Cairns after a Brevis-inspired South Africa leveled the series.</desc>
-  </programme>
-  <programme start="20250818125500 +0530" stop="20250818131500 +0530" channel="14">
-    <title lang="en">The Hundred Women's Mini</title>
-    <desc lang="en">Ellyse Perry's Birmingham Phoenix, with a dominant record over London Spirit, aim to continue their winning ways at Edgbaston.</desc>
-  </programme>
-  <programme start="20250818131500 +0530" stop="20250818141500 +0530" channel="14">
-    <title lang="en">T20 AUS v SA</title>
-    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
-  </programme>
-  <programme start="20250818141500 +0530" stop="20250818151500 +0530" channel="14">
-    <title lang="en">T20 AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
-  </programme>
-  <programme start="20250818151500 +0530" stop="20250818161500 +0530" channel="14">
-    <title lang="en">T20 AUS v SA</title>
-    <desc lang="en">Mitchell Marsh&amp;#8217;s Australia faces a series-decider clash in Cairns after a Brevis-inspired South Africa leveled the series.</desc>
-  </programme>
-  <programme start="20250818161500 +0530" stop="20250818163500 +0530" channel="14">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">The Northern Superchargers take on the Manchester Originals in a crucial north-west derby.</desc>
-  </programme>
-  <programme start="20250818163500 +0530" stop="20250818165500 +0530" channel="14">
-    <title lang="en">T20 Mini AUS v SA</title>
-    <desc lang="en">Mitchell Marsh&amp;#8217;s Australia faces a series-decider clash in Cairns after a Brevis-inspired South Africa leveled the series.</desc>
-  </programme>
-  <programme start="20250818165500 +0530" stop="20250818171500 +0530" channel="14">
-    <title lang="en">The Hundred Women's Mini</title>
-    <desc lang="en">Beth Mooney leads the Originals against Superchargers with Annabel Sutherland. The Superchargers will look to continue their impressive form.</desc>
-  </programme>
-  <programme start="20250818171500 +0530" stop="20250818173500 +0530" channel="14">
-    <title lang="en">T20 Mini AUS v SA</title>
-    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
-  </programme>
-  <programme start="20250818173500 +0530" stop="20250818175500 +0530" channel="14">
-    <title lang="en">T20 Mini AUS v SA</title>
-    <desc lang="en">Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.</desc>
-  </programme>
-  <programme start="20250818175500 +0530" stop="20250818181500 +0530" channel="14">
-    <title lang="en">T20 Mini AUS v SA</title>
-    <desc lang="en">Mitchell Marsh&amp;#8217;s Australia faces a series-decider clash in Cairns after a Brevis-inspired South Africa leveled the series.</desc>
-  </programme>
-  <programme start="20250818181500 +0530" stop="20250818183500 +0530" channel="14">
-    <title lang="en">The Hundred Mini</title>
-    <desc lang="en">The Phoenix face London Spirit, who have David Warner and Ashton Turner in their ranks. Both teams need a win to stay in the play-offs hunt.</desc>
-  </programme>
-  <programme start="20250818183500 +0530" stop="20250818185500 +0530" channel="14">
-    <title lang="en">T20 Mini AUS v SA</title>
-    <desc lang="en">Mitchell Marsh&amp;#8217;s Australia faces a series-decider clash in Cairns after a Brevis-inspired South Africa leveled the series.</desc>
-  </programme>
-  <programme start="20250818185500 +0530" stop="20250818191500 +0530" channel="14">
-    <title lang="en">The Hundred Women's Mini</title>
-    <desc lang="en">Ellyse Perry's Birmingham Phoenix, with a dominant record over London Spirit, aim to continue their winning ways at Edgbaston.</desc>
-  </programme>
-  <programme start="20250818191500 +0530" stop="20250818223000 +0530" channel="14">
-    <title lang="en">Hundred W</title>
-    <desc lang="en">Defending champions Southern Brave face the Oval Invincibles. Meg Lanning and Amanda-Jade Wellington will try to disrupt their charge.</desc>
-  </programme>
   <programme start="20250818223000 +0530" stop="20250819021000 +0530" channel="14">
     <title lang="en">Hundred</title>
     <desc lang="en">Two of the competition's top teams clash. Jofra Archer's Southern Brave will try to overcome the defending champs, Oval Invincibles.</desc>
@@ -404,97 +280,121 @@
     <title lang="en">Hundred</title>
     <desc lang="en">Steve Smith's Welsh Fire will try to upset a strong Southern Brave side. The Brave will be looking to solidify their position in the Top 3.</desc>
   </programme>
-  <programme start="20250818053000 +0530" stop="20250818063000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">Game On with Grace Hayden</title>
+  <programme start="20250820223000 +0530" stop="20250821020500 +0530" channel="14">
+    <title lang="en">Hundred</title>
+    <desc lang="en">David Warner and Ashton Turner's London Spirit will need a big performance at Lord's against a determined Northern Superchargers side.</desc>
   </programme>
-  <programme start="20250818063000 +0530" stop="20250818073000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">The Hundred 2025: Phoenix vs Spirit - 18th Match</title>
-    <desc lang="pt">Cricket action and highlights from around the world.</desc>
+  <programme start="20250821020500 +0530" stop="20250821022500 +0530" channel="14">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">Two of the competition's top teams clash in a potential final preview. Jofra Archer's Southern Brave will try to overcome the defending champions, Oval Invincibles.</desc>
   </programme>
-  <programme start="20250818073000 +0530" stop="20250818083000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">The Hundred Women 2025: Phoenix vs Spirit - 18th Match</title>
-    <desc lang="pt">Cricket action and highlights from around the world.</desc>
+  <programme start="20250821022500 +0530" stop="20250821024500 +0530" channel="14">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Defending champions Southern Brave face the Oval Invincibles. Meg Lanning and Amanda-Jade Wellington will try to disrupt their charge.</desc>
   </programme>
-  <programme start="20250818083000 +0530" stop="20250818093000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">England vs India: 4th Test, Day 5</title>
-    <desc lang="pt">Cricket action and highlights from around the world.</desc>
+  <programme start="20250821024500 +0530" stop="20250821034500 +0530" channel="14">
+    <title lang="en">T20 AUS v SA</title>
+    <desc lang="en">Mitchell Marsh&amp;#8217;s Australia faces a series-decider clash in Cairns after a Brevis-inspired South Africa leveled the series.</desc>
   </programme>
-  <programme start="20250818093000 +0530" stop="20250818103000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">The Hundred Women 2025: Originals vs Superchargers - 17th Match</title>
-    <desc lang="pt">Cricket action and highlights from around the world.</desc>
+  <programme start="20250821034500 +0530" stop="20250821040500 +0530" channel="14">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">Marcus Stoinis and the Trent Rockets take on the Manchester Originals. Both sides are desperate for a win to push for a top-three position.</desc>
   </programme>
-  <programme start="20250818103000 +0530" stop="20250818113000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">The Hundred 2025: Phoenix vs Spirit - 18th Match</title>
-    <desc lang="pt">Cricket action and highlights from around the world.</desc>
+  <programme start="20250821040500 +0530" stop="20250821042500 +0530" channel="14">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Ash Gardner and Alana King will lead the Rockets against Originals, who have a lineup including Australians Beth Mooney and Sophie Ecclestone.</desc>
   </programme>
-  <programme start="20250818113000 +0530" stop="20250818123000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">The Hundred Women 2025: Phoenix vs Spirit - 18th Match</title>
-    <desc lang="pt">Cricket action and highlights from around the world.</desc>
+  <programme start="20250821042500 +0530" stop="20250821083500 +0530" channel="14">
+    <title lang="en">CPL</title>
+    <desc lang="en">Game 7: The Falcons face a stern test against Trinbago, who have their sights set on another title. Can the home team upset the tournament favorites?</desc>
   </programme>
-  <programme start="20250818123000 +0530" stop="20250818133000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">GSL 2025: Capitals vs Riders - 8th Match</title>
-    <desc lang="pt">Cricket action and highlights from around the world.</desc>
+  <programme start="20250821083500 +0530" stop="20250821085500 +0530" channel="14">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">Steve Smith's Welsh Fire will try to upset a strong Southern Brave side. The Brave will be looking to solidify their position in the Top 3.</desc>
   </programme>
-  <programme start="20250818133000 +0530" stop="20250818143000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">England Women vs West Indies Women: 2nd ODI</title>
-    <desc lang="pt">Highlights of the second Women's ODI match between England and West Indies.</desc>
+  <programme start="20250821085500 +0530" stop="20250821091500 +0530" channel="14">
+    <title lang="en">ODI Mini AUS v SA</title>
+    <desc lang="en">Mitchell Marsh leads Australia's one-day side against a new-look South Africa in Cairns for the first of three ODIs.</desc>
   </programme>
-  <programme start="20250818143000 +0530" stop="20250818153000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">T20 Blast Women 2025: Durham vs Surrey</title>
-    <desc lang="pt">Cricket action and highlights from around the world.</desc>
+  <programme start="20250821091500 +0530" stop="20250821093500 +0530" channel="14">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Australian Jess Jonassen's Welsh Fire hopes to turn their season around against a formidable Southern Brave side at Sophia Gardens.</desc>
   </programme>
-  <programme start="20250818153000 +0530" stop="20250818163000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">Zimbabwe T20I Tri - Series 2025: Series 2025 - New Zealand vs South Africa - Final</title>
-    <desc lang="pt">Cricket action and highlights from around the world.</desc>
+  <programme start="20250821093500 +0530" stop="20250821103500 +0530" channel="14">
+    <title lang="en">ODI AUS v SA</title>
+    <desc lang="en">Mitchell Marsh leads Australia's one-day side against a new-look South Africa in Cairns for the first of three ODIs.</desc>
   </programme>
-  <programme start="20250818163000 +0530" stop="20250818173000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">The Hundred Women 2025: Phoenix vs Spirit - 18th Match</title>
-    <desc lang="pt">Cricket action and highlights from around the world.</desc>
+  <programme start="20250821103500 +0530" stop="20250821105500 +0530" channel="14">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">David Warner and Ashton Turner's London Spirit will need a big performance at Lord's against a determined Northern Superchargers side.</desc>
   </programme>
-  <programme start="20250818173000 +0530" stop="20250818190000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">Countdown to the World Cup</title>
+  <programme start="20250821105500 +0530" stop="20250821111500 +0530" channel="14">
+    <title lang="en">ODI Mini AUS v SA</title>
+    <desc lang="en">Mitchell Marsh leads Australia's one-day side against a new-look South Africa in Cairns for the first of three ODIs.</desc>
   </programme>
-  <programme start="20250818190000 +0530" stop="20250818192000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">Cricket Filler</title>
-    <desc lang="pt">Filler cricket programming.</desc>
+  <programme start="20250821111500 +0530" stop="20250821113500 +0530" channel="14">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">London Spirit's Australian duo Grace Harris and Georgia Redmayne are up for a tough home match against Northern Superchargers at Lord's.</desc>
   </programme>
-  <programme start="20250818192000 +0530" stop="20250818193000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">The Hundred Women 2025: Brave vs Invincibles - 19th Match</title>
-    <desc lang="pt">A preview of an upcoming cricket match.</desc>
+  <programme start="20250821113500 +0530" stop="20250821123500 +0530" channel="14">
+    <title lang="en">ODI AUS v SA</title>
+    <desc lang="en">Mitchell Marsh leads Australia's one-day side against a new-look South Africa in Cairns for the first of three ODIs.</desc>
   </programme>
-  <programme start="20250818193000 +0530" stop="20250818220000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">Southern Brave vs. Oval Invincibles</title>
-    <desc lang="pt">Coverage of the women's professional 100-ball cricket tournament.</desc>
+  <programme start="20250821123500 +0530" stop="20250821125500 +0530" channel="14">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">Steve Smith's Welsh Fire will try to upset a strong Southern Brave side. The Brave will be looking to solidify their position in the Top 3.</desc>
   </programme>
-  <programme start="20250818220000 +0530" stop="20250818223000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">The Hundred Women 2025: Brave vs Invincibles - 19th Match</title>
-    <desc lang="pt">Action from cricket matches around the world.</desc>
+  <programme start="20250821125500 +0530" stop="20250821131500 +0530" channel="14">
+    <title lang="en">ODI Mini AUS v SA</title>
+    <desc lang="en">Mitchell Marsh leads Australia's one-day side against a new-look South Africa in Cairns for the first of three ODIs.</desc>
   </programme>
-  <programme start="20250818223000 +0530" stop="20250818230000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">Cricket Filler</title>
-    <desc lang="pt">Filler cricket programming.</desc>
+  <programme start="20250821131500 +0530" stop="20250821133500 +0530" channel="14">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Australian Jess Jonassen's Welsh Fire hopes to turn their season around against a formidable Southern Brave side at Sophia Gardens.</desc>
   </programme>
-  <programme start="20250818230000 +0530" stop="20250818233000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">The Hundred Women 2025: Phoenix vs Spirit - 18th Match</title>
-    <desc lang="pt">Cricket action and highlights from around the world.</desc>
+  <programme start="20250821133500 +0530" stop="20250821142500 +0530" channel="14">
+    <title lang="en">ODI Thrillers</title>
+    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.</desc>
   </programme>
-  <programme start="20250818233000 +0530" stop="20250819003000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">Game On with Grace Hayden</title>
+  <programme start="20250821142500 +0530" stop="20250821151500 +0530" channel="14">
+    <title lang="en">ODI Thrillers</title>
+    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.</desc>
   </programme>
-  <programme start="20250819003000 +0530" stop="20250819023000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">England Women vs India Women - 2nd T20I</title>
-    <desc lang="pt">Cricket action and highlights from around the world.</desc>
+  <programme start="20250821151500 +0530" stop="20250821161500 +0530" channel="14">
+    <title lang="en">ODI AUS v SA</title>
+    <desc lang="en">Mitchell Marsh leads Australia's one-day side against a new-look South Africa in Cairns for the first of three ODIs.</desc>
   </programme>
-  <programme start="20250819023000 +0530" stop="20250819033000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">England vs India: 4th Test, Day 3</title>
-    <desc lang="pt">Cricket action and highlights from around the world.</desc>
+  <programme start="20250821161500 +0530" stop="20250821163500 +0530" channel="14">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">Steve Smith's Welsh Fire will try to upset a strong Southern Brave side. The Brave will be looking to solidify their position in the Top 3.</desc>
   </programme>
-  <programme start="20250819033000 +0530" stop="20250819043000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">The Hundred Women 2025: Brave vs Invincibles - 19th Match</title>
-    <desc lang="pt">Cricket action and highlights from around the world.</desc>
+  <programme start="20250821163500 +0530" stop="20250821165500 +0530" channel="14">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">David Warner and Ashton Turner's London Spirit will need a big performance at Lord's against a determined Northern Superchargers side.</desc>
   </programme>
-  <programme start="20250819043000 +0530" stop="20250819053000 +0530" channel="66fbf9cf128ab3f65b259bcb">
-    <title lang="pt">Game On with Grace Hayden</title>
+  <programme start="20250821165500 +0530" stop="20250821171500 +0530" channel="14">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">Australian Jess Jonassen's Welsh Fire hopes to turn their season around against a formidable Southern Brave side at Sophia Gardens.</desc>
+  </programme>
+  <programme start="20250821171500 +0530" stop="20250821173500 +0530" channel="14">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">David Warner and Ashton Turner's London Spirit will need a big performance at Lord's against a determined Northern Superchargers side.</desc>
+  </programme>
+  <programme start="20250821173500 +0530" stop="20250821175500 +0530" channel="14">
+    <title lang="en">The Hundred Mini</title>
+    <desc lang="en">Steve Smith's Welsh Fire will try to upset a strong Southern Brave side. The Brave will be looking to solidify their position in the Top 3.</desc>
+  </programme>
+  <programme start="20250821175500 +0530" stop="20250821181500 +0530" channel="14">
+    <title lang="en">The Hundred Women's Mini</title>
+    <desc lang="en">London Spirit's Australian duo Grace Harris and Georgia Redmayne are up for a tough home match against Northern Superchargers at Lord's.</desc>
+  </programme>
+  <programme start="20250821181500 +0530" stop="20250821191500 +0530" channel="14">
+    <title lang="en">ODI AUS v SA</title>
+    <desc lang="en">Mitchell Marsh leads Australia's one-day side against a new-look South Africa in Cairns for the first of three ODIs.</desc>
+  </programme>
+  <programme start="20250821191500 +0530" stop="20250821223000 +0530" channel="14">
+    <title lang="en">Hundred W</title>
+    <desc lang="en">Meg Lanning&amp;#8217;s Invincibles face a tough Trent Rockets side featuring Australian spin duo Ash Gardner and Alana King.</desc>
   </programme>
   <programme start="20250819053000 +0530" stop="20250819063000 +0530" channel="66fbf9cf128ab3f65b259bcb">
     <title lang="pt">The Hundred Women 2025: Brave vs Invincibles - 19th Match</title>
@@ -699,109 +599,106 @@
     <title lang="pt">The Hundred Women 2025: Fire vs Brave - 21st Match</title>
     <desc lang="pt">Cricket action and highlights from around the world.</desc>
   </programme>
-  <programme start="20250818074500 +0530" stop="20250818081500 +0530" channel="3625">
-    <title lang="en">MLB Plays of the Week</title>
-    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
+  <programme start="20250821053000 +0530" stop="20250821063000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">The Hundred Women 2025: Spirit vs Superchargers - 22nd Match</title>
+    <desc lang="pt">Cricket action and highlights from around the world.</desc>
   </programme>
-  <programme start="20250818081500 +0530" stop="20250818083000 +0530" channel="3625">
-    <title lang="en">TNT Sports Reload</title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
+  <programme start="20250821063000 +0530" stop="20250821073000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">England vs India: 4th Test, Day 5</title>
+    <desc lang="pt">Cricket action and highlights from around the world.</desc>
   </programme>
-  <programme start="20250818083000 +0530" stop="20250818093000 +0530" channel="3625">
-    <title lang="en">Inside Serie A: Season Preview</title>
-    <desc lang="en">We preview the 2025/26 Serie A season, as Antonio Conte looks to lead Napoli to another Scudetto. And, there are new eras at Chivu's Inter, Tudor's Juventus and Allegri's Milan.</desc>
+  <programme start="20250821073000 +0530" stop="20250821083000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">Game On with Grace Hayden</title>
   </programme>
-  <programme start="20250818093000 +0530" stop="20250818103000 +0530" channel="3625">
-    <title lang="en">Australia v South Africa - 3rd T20</title>
-    <desc lang="en">Action from the third T20 between Australia and South Africa at Cazalys Stadium in Cairns. Can the Proteas upset the Aussies against and win this series-deciding contest?</desc>
+  <programme start="20250821083000 +0530" stop="20250821093000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">The Hundred Women 2025: Fire vs Brave - 21st Match</title>
+    <desc lang="pt">Cricket action and highlights from around the world.</desc>
   </programme>
-  <programme start="20250818103000 +0530" stop="20250818110000 +0530" channel="3625">
-    <title lang="en">The Big Interview: Sean Longstaff</title>
-    <desc lang="en">Sean Longstaff discusses his near decade spell at Newcastle United, winning the EFL Cup with his boyhood club, and his decision to take on an exciting new project at Leeds United.</desc>
+  <programme start="20250821093000 +0530" stop="20250821110000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">Countdown to the World Cup</title>
   </programme>
-  <programme start="20250818110000 +0530" stop="20250818113000 +0530" channel="3625">
-    <title lang="en">Premier League Stories</title>
-    <desc lang="en">Following Arne Slot's title-winning first season at Anfield, we explore Liverpool's rich legacy of managerial transitions.</desc>
+  <programme start="20250821110000 +0530" stop="20250821113000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">Zimbabwe vs New Zealand - 1st Test</title>
+    <desc lang="pt">Day 3.</desc>
   </programme>
-  <programme start="20250818113000 +0530" stop="20250818121500 +0530" channel="3625">
-    <title lang="en">The Premier League Breakdown Show</title>
-    <desc lang="en">Who will win the league? Who will be the best signing of the summer? Joe Cole, Peter Crouch and Owen Hargreaves debate all things Premier League in this 2025/26 pre-season special.</desc>
+  <programme start="20250821113000 +0530" stop="20250821123000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">GSL 2025: Capitals vs Riders - 8th Match</title>
+    <desc lang="pt">Cricket action and highlights from around the world.</desc>
   </programme>
-  <programme start="20250818121500 +0530" stop="20250818123000 +0530" channel="3625">
-    <title lang="en">Training Day</title>
-    <desc lang="en">Former pros Shay Given and Steve Sidwell spend the day training with Newcastle United's academy. How will Sidwell handle a high-intensity pre-season experience?</desc>
+  <programme start="20250821123000 +0530" stop="20250821133000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">England Women vs West Indies Women: 3rd ODI</title>
+    <desc lang="pt">Highlights of the third Women's ODI match between England and West Indies.</desc>
   </programme>
-  <programme start="20250818123000 +0530" stop="20250818140000 +0530" channel="3625">
-    <title lang="en">PL:Aston Villa v Newcastle United</title>
-    <desc lang="en">Action from the opening weekend of the 2025/26 Premier League season, as Unai Emery's Aston Villa host Eddie Howe's Newcastle United at Villa Park.</desc>
+  <programme start="20250821133000 +0530" stop="20250821143000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">GSL 2025: Warriors vs Riders - Final</title>
+    <desc lang="pt">Highlights of all the action from various international cricket tournaments.</desc>
   </programme>
-  <programme start="20250818140000 +0530" stop="20250818150000 +0530" channel="3625">
-    <title lang="en">Inside Serie A: Season Preview</title>
-    <desc lang="en">We preview the 2025/26 Serie A season, as Antonio Conte looks to lead Napoli to another Scudetto. And, there are new eras at Chivu's Inter, Tudor's Juventus and Allegri's Milan.</desc>
+  <programme start="20250821143000 +0530" stop="20250821153000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">PSL 2025: United vs Kings</title>
+    <desc lang="pt">30th Match, Highlights.</desc>
   </programme>
-  <programme start="20250818150000 +0530" stop="20250818153000 +0530" channel="3625">
-    <title lang="en">Barcelona v PSG 2016/17</title>
-    <desc lang="en">We revisit the extraordinary UEFA Champions League last 16 second leg clash between Barcelona and Paris Saint-Germain, featuring one of the competition's greatest ever comebacks.</desc>
+  <programme start="20250821153000 +0530" stop="20250821163000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">The Hundred Women 2025: Rockets vs Originals - 20th Match</title>
+    <desc lang="pt">Cricket action and highlights from around the world.</desc>
   </programme>
-  <programme start="20250818153000 +0530" stop="20250818160000 +0530" channel="3625">
-    <title lang="en">Manchester City v Spurs</title>
-    <desc lang="en">Relive Man City and Spurs' 2018/19 Champions League quarter-final. Seven goals, five of them coming in 17 pulsating minutes, and late VAR drama, made this a classic.</desc>
+  <programme start="20250821163000 +0530" stop="20250821173000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">MLC 2025: Freedom vs New York - Final</title>
+    <desc lang="pt">Cricket action and highlights from around the world.</desc>
   </programme>
-  <programme start="20250818160000 +0530" stop="20250818163000 +0530" channel="3625">
-    <title lang="en">Ajax v Spurs 2018/19</title>
-    <desc lang="en">Revisit Spurs' sensational UEFA Champions League semi-final second leg with Ajax at the Amsterdam Arena. Spurs' final hopes hung in the balance after a 1-0 first-leg defeat.</desc>
+  <programme start="20250821173000 +0530" stop="20250821183000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">England vs India: 4th Test, Day 5</title>
+    <desc lang="pt">Cricket action and highlights from around the world.</desc>
   </programme>
-  <programme start="20250818163000 +0530" stop="20250818173000 +0530" channel="3625">
-    <title lang="en">Rylan: Football, Homophobia and Me</title>
-    <desc lang="en">TV personality Rylan examines the place of homosexuality within football. He takes a look at his own personal experiences and interviews numerous figures from the beautiful game.</desc>
+  <programme start="20250821183000 +0530" stop="20250821190000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">The Hundred Women 2025: Spirit vs Superchargers - 22nd Match</title>
+    <desc lang="pt">Cricket action and highlights from around the world.</desc>
   </programme>
-  <programme start="20250818173000 +0530" stop="20250818183000 +0530" channel="3625">
-    <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (18.08)</desc>
+  <programme start="20250821190000 +0530" stop="20250821192000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">Cricket Filler</title>
+    <desc lang="pt">Filler cricket programming.</desc>
   </programme>
-  <programme start="20250818183000 +0530" stop="20250818193000 +0530" channel="3625">
-    <title lang="en">Sign Up - Into Football</title>
-    <desc lang="en">Watch our favourite interviews and moments from last season, all featuring British Sign Language and subtitles. Guests include Arne Slot, Phil Foden, John McGinn and Eberechi Eze.</desc>
+  <programme start="20250821192000 +0530" stop="20250821193000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">The Hundred Women 2025: Invincibles vs Rockets - 23rd Match</title>
+    <desc lang="pt">A preview of an upcoming cricket match.</desc>
   </programme>
-  <programme start="20250818193000 +0530" stop="20250818203000 +0530" channel="3625">
-    <title lang="en">Australia v South Africa - 3rd T20</title>
-    <desc lang="en">Action from the third T20 between Australia and South Africa at Cazalys Stadium in Cairns. Can the Proteas upset the Aussies against and win this series-deciding contest?</desc>
+  <programme start="20250821193000 +0530" stop="20250821220000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">Oval Invincibles vs. Trent Rockets</title>
+    <desc lang="pt">Coverage of the women's professional 100-ball cricket tournament.</desc>
   </programme>
-  <programme start="20250818203000 +0530" stop="20250818220000 +0530" channel="3625">
-    <title lang="en">After The Roar</title>
-    <desc lang="en">Former Leinster, Ireland and Lions rugby captain Brian O'Driscoll goes on a discovery to better understand the mental health struggles elite sportsmen face following retirement.</desc>
+  <programme start="20250821220000 +0530" stop="20250821223000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">The Hundred Women 2025: Invincibles vs Rockets - 23rd Match</title>
+    <desc lang="pt">Action from cricket matches around the world.</desc>
   </programme>
-  <programme start="20250818220000 +0530" stop="20250818223000 +0530" channel="3625">
-    <title lang="en">Liverpool v Barcelona 2018/19</title>
-    <desc lang="en">Relive one of the greatest European comebacks of all time as Liverpool entertained Barcelona at Anfield in the second leg of their 2018/19 UEFA Champions League semi-final tie.</desc>
+  <programme start="20250821223000 +0530" stop="20250821230000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">Cricket Filler</title>
+    <desc lang="pt">Filler cricket programming.</desc>
   </programme>
-  <programme start="20250818223000 +0530" stop="20250819020000 +0530" channel="3625">
-    <title lang="en">Live: Ultimate Pool</title>
-    <desc lang="en">Ultimate Pool action from Group 12 of the Pairs Cup, featuring Neil Raybone and Andy Blurton, Kyle Cope and Cohen Bradford, and Ian Eldridge and Mikey Mancini.</desc>
+  <programme start="20250821230000 +0530" stop="20250821233000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">The Hundred Women 2025: Fire vs Brave - 21st Match</title>
+    <desc lang="pt">Cricket action and highlights from around the world.</desc>
   </programme>
-  <programme start="20250819020000 +0530" stop="20250819023000 +0530" channel="3625">
-    <title lang="en">Fight Week: UFC 319 Review Show</title>
-    <desc lang="en">We review the best action from UFC 319 at the United Center in Chicago, as Dricus du Plessis put his middleweight title on the line against Khamzat Chimaev.</desc>
+  <programme start="20250821233000 +0530" stop="20250822003000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">England vs West Indies: 3rd T20I</title>
+    <desc lang="pt">Cricket action and highlights from around the world.</desc>
   </programme>
-  <programme start="20250819023000 +0530" stop="20250819030000 +0530" channel="3625">
-    <title lang="en">Golden Trail World Series</title>
-    <desc lang="en">Action from the Golden Trail World Series in Sierre Zinal in Switzerland. This is the oldest race of its kind in Europe.</desc>
+  <programme start="20250822003000 +0530" stop="20250822013000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">Tata Ipl 2025: GT vs CSK - 67th Match</title>
+    <desc lang="pt">Cricket action and highlights from around the world.</desc>
   </programme>
-  <programme start="20250819030000 +0530" stop="20250819031500 +0530" channel="3625">
-    <title lang="en">The Gruppetto</title>
-    <desc lang="en">Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+  <programme start="20250822013000 +0530" stop="20250822023000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">England Women vs India Women - 1st ODI</title>
+    <desc lang="pt">Highlights of the first Women's ODI match between England and India.</desc>
   </programme>
-  <programme start="20250819031500 +0530" stop="20250819034500 +0530" channel="3625">
-    <title lang="en">What I Wore: Best Of</title>
-    <desc lang="en">We revisit our best conversations with some of the biggest names in football, focusing on classic football shirts and kit culture in the UK.</desc>
+  <programme start="20250822023000 +0530" stop="20250822033000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">England vs India: 5th Test, Day 1</title>
+    <desc lang="pt">Cricket action and highlights from around the world.</desc>
   </programme>
-  <programme start="20250819034500 +0530" stop="20250819040000 +0530" channel="3625">
-    <title lang="en">MLB Classic: All Star 1973</title>
-    <desc lang="en">Highlights from the 1973 MLB All-Star Game at the Royals Stadium in Kansas City, featuring Johnny Bench, Joe Morgan, Pete Rose and Hank Aaron.</desc>
+  <programme start="20250822033000 +0530" stop="20250822043000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">The Hundred Women 2025: Invincibles vs Rockets - 23rd Match</title>
+    <desc lang="pt">Cricket action and highlights from around the world.</desc>
   </programme>
-  <programme start="20250819040000 +0530" stop="20250819050000 +0530" channel="3625">
-    <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (18.08)</desc>
+  <programme start="20250822043000 +0530" stop="20250822053000 +0530" channel="66fbf9cf128ab3f65b259bcb">
+    <title lang="pt">Game On with Grace Hayden</title>
   </programme>
   <programme start="20250819081500 +0530" stop="20250819084500 +0530" channel="3625">
     <title lang="en">MLB Plays of the Week</title>
@@ -979,101 +876,101 @@
     <title lang="en">MLB Highlights</title>
     <desc lang="en">Highlights from Major League Baseball. (20.08)</desc>
   </programme>
-  <programme start="20250818081500 +0530" stop="20250818091500 +0530" channel="3627">
-    <title lang="en">MotoGP: Grand Prix of Austria</title>
-    <desc lang="en">Race action from the 2025 MotoGP Grand Prix of Austria. Can Marc Marquez end his nine-year wait for a win at the Red Bull Ring?</desc>
+  <programme start="20250821081500 +0530" stop="20250821084500 +0530" channel="3625">
+    <title lang="en">MLB Plays of the Week</title>
+    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
   </programme>
-  <programme start="20250818091500 +0530" stop="20250818101500 +0530" channel="3627">
-    <title lang="en">MotoGP Chequered Flag</title>
-    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the 2025 Grand Prix of Austria at the Red Bull Ring.</desc>
+  <programme start="20250821084500 +0530" stop="20250821091500 +0530" channel="3625">
+    <title lang="en">Fight Week: UFC 319 Review Show</title>
+    <desc lang="en">We review the best action from UFC 319 at the United Center in Chicago, as Dricus du Plessis put his middleweight title on the line against Khamzat Chimaev.</desc>
   </programme>
-  <programme start="20250818101500 +0530" stop="20250818103000 +0530" channel="3627">
-    <title lang="en">In My Blood</title>
-    <desc lang="en">The latest episode of In My Blood, as rock band Blossoms and defender Rico Lewis share their love of Manchester City.</desc>
+  <programme start="20250821091500 +0530" stop="20250821094500 +0530" channel="3625">
+    <title lang="en">Golden Trail World Series</title>
+    <desc lang="en">Action from the Golden Trail World Series in Sierre Zinal in Switzerland. This is the oldest race of its kind in Europe.</desc>
   </programme>
-  <programme start="20250818103000 +0530" stop="20250818113000 +0530" channel="3627">
-    <title lang="en">Moto3: Grand Prix of Austria</title>
-    <desc lang="en">Race action from the 2025 Moto3 Grand Prix of Austria at the Red Bull Ring. Can Jose Antonio Rueda pick up his eighth win of the season?</desc>
+  <programme start="20250821094500 +0530" stop="20250821101500 +0530" channel="3625">
+    <title lang="en">European Rally Highlights</title>
+    <desc lang="en">Highlights from the Rally Czech, part of the 2025 European Rally Championship.</desc>
   </programme>
-  <programme start="20250818113000 +0530" stop="20250818123000 +0530" channel="3627">
-    <title lang="en">Moto2: Grand Prix of Austria</title>
-    <desc lang="en">Race action from the 2025 Moto2 Grand Prix of Austria at the Red Bull Ring. Can Jake Dixon and other riders close the gap on standings leader Manuel Gonzalez?</desc>
+  <programme start="20250821101500 +0530" stop="20250821103000 +0530" channel="3625">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
   </programme>
-  <programme start="20250818123000 +0530" stop="20250818130000 +0530" channel="3627">
-    <title lang="en">MotoGP: Austria Sprint Race</title>
-    <desc lang="en">Action from the Sprint Race at the 2025 MotoGP Grand Prix of Austria at the Red Bull Ring in Spielberg. Francesco Bagnaia was triumphant in this race last year.</desc>
+  <programme start="20250821103000 +0530" stop="20250821113000 +0530" channel="3625">
+    <title lang="en">UCL: Celtic v Kairat Almaty</title>
+    <desc lang="en">Action from Celtic Park as Brendan Rodgers' Celtic face Kazakh champions Kairat Almaty in the first leg of the UEFA Champions League play-offs.</desc>
   </programme>
-  <programme start="20250818130000 +0530" stop="20250818140000 +0530" channel="3627">
-    <title lang="en">MotoGP: Grand Prix of Austria</title>
-    <desc lang="en">Race action from the 2025 MotoGP Grand Prix of Austria. Can Marc Marquez end his nine-year wait for a win at the Red Bull Ring?</desc>
+  <programme start="20250821113000 +0530" stop="20250821123000 +0530" channel="3625">
+    <title lang="en">UCL: Fenerbahce v Benfica</title>
+    <desc lang="en">Action from the first leg of the UEFA Champions League play-off between Jose Mourinho's Fenerbahce and Benfica at Chobani Stadium Fenerbahce Sukru Saracoglu Sports Complex.</desc>
   </programme>
-  <programme start="20250818140000 +0530" stop="20250818150000 +0530" channel="3627">
-    <title lang="en">MotoGP Chequered Flag</title>
-    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the 2025 Grand Prix of Austria at the Red Bull Ring.</desc>
+  <programme start="20250821123000 +0530" stop="20250821133000 +0530" channel="3625">
+    <title lang="en">UCL: Basel v Copenhagen</title>
+    <desc lang="en">Action from the first leg of the UEFA Champions League play-off between Swiss champions Basel and Danish Superliga title holders Copenhagen at St. Jakob-Park.</desc>
   </programme>
-  <programme start="20250818150000 +0530" stop="20250818154500 +0530" channel="3627">
-    <title lang="en">Motocross World Championship</title>
-    <desc lang="en">Motocross World Championship action from MX2 race one at Uddevalla circuit in Sweden.</desc>
+  <programme start="20250821133000 +0530" stop="20250821143000 +0530" channel="3625">
+    <title lang="en">UCL: Bodo/Glimt v Sturm Graz</title>
+    <desc lang="en">Action from the first leg of the UEFA Champions League play-off between Norway's Bodo/Glimt and Austrian champions Sturm Graz at Aspmyra Stadion.</desc>
   </programme>
-  <programme start="20250818154500 +0530" stop="20250818163000 +0530" channel="3627">
-    <title lang="en">Motocross World Championship</title>
-    <desc lang="en">Motocross World Championship action from MX2 race two at Uddevalla circuit in Sweden.</desc>
+  <programme start="20250821143000 +0530" stop="20250821144500 +0530" channel="3625">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from the opening weekend of the 2025/26 Premier League season, featuring Aston Villa v Newcastle, Liverpool v Bournemouth and Man United v Arsenal.</desc>
   </programme>
-  <programme start="20250818163000 +0530" stop="20250818171500 +0530" channel="3627">
-    <title lang="en">Motocross World Championship</title>
-    <desc lang="en">Motocross World Championship action from MXGP race one at Uddevalla circuit in Sweden.</desc>
+  <programme start="20250821144500 +0530" stop="20250821180000 +0530" channel="3625">
+    <title lang="en">Live AFL: Essendon v Carlton</title>
+    <desc lang="en">Action from the Australian Football League as Essendon face Carlton.</desc>
   </programme>
-  <programme start="20250818171500 +0530" stop="20250818180000 +0530" channel="3627">
-    <title lang="en">Motocross World Championship</title>
-    <desc lang="en">Motocross World Championship action from MXGP race two at Uddevalla circuit in Sweden.</desc>
+  <programme start="20250821180000 +0530" stop="20250821183000 +0530" channel="3625">
+    <title lang="en">CPL Highlights</title>
+    <desc lang="en">Highlights from the Caribbean Premier League showdown between Antigua &amp; Barbuda Falcons and Trinbago Knight Riders at Sir Vivian Richards Stadium.</desc>
   </programme>
-  <programme start="20250818180000 +0530" stop="20250818183000 +0530" channel="3627">
-    <title lang="en">Onboard</title>
-    <desc lang="en">A special onboard look at the Ocean Race Europe 2025, as the teams race towards the finish of leg one in Portsmouth.</desc>
+  <programme start="20250821183000 +0530" stop="20250821184500 +0530" channel="3625">
+    <title lang="en">No Filter Cycling</title>
+    <desc lang="en">A special behind the scenes look at the 2025 Tour of Flanders, as Tadej Pogacar rode to victory in this historic one-day road race held in Belgium.</desc>
   </programme>
-  <programme start="20250818183000 +0530" stop="20250818193000 +0530" channel="3627">
-    <title lang="en">Supercars Championship Highlights</title>
-    <desc lang="en">Highlights from the Supercars Championship and day one of the 2025 Century Batteries Ipswich Super 440 at Queensland Raceway.</desc>
-  </programme>
-  <programme start="20250818193000 +0530" stop="20250818203000 +0530" channel="3627">
-    <title lang="en">Supercars Championship Highlights</title>
-    <desc lang="en">Highlights from the Supercars Championship and day two of the 2025 Century Batteries Ipswich Super 440 at Queensland Raceway.</desc>
-  </programme>
-  <programme start="20250818203000 +0530" stop="20250818213000 +0530" channel="3627">
-    <title lang="en">WNBA: Wings @ Aces</title>
-    <desc lang="en">Action from the Women's National Basketball Association as Las Vegas Aces host Dallas Wings at Michelob ULTRA Arena.</desc>
-  </programme>
-  <programme start="20250818213000 +0530" stop="20250818223000 +0530" channel="3627">
-    <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (18.08)</desc>
-  </programme>
-  <programme start="20250818223000 +0530" stop="20250819003000 +0530" channel="3627">
-    <title lang="en">Snooker Saudi Masters</title>
-    <desc lang="en">Highlights from the 2025 Snooker Saudi Masters final between Ronnie O'Sullivan and Neil Robertson. Who would claim the £500,000 winner's prize?</desc>
-  </programme>
-  <programme start="20250819003000 +0530" stop="20250819004500 +0530" channel="3627">
+  <programme start="20250821184500 +0530" stop="20250821190000 +0530" channel="3625">
     <title lang="en">The Gruppetto</title>
     <desc lang="en">Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
   </programme>
-  <programme start="20250819004500 +0530" stop="20250819010000 +0530" channel="3627">
-    <title lang="en">Playing For Our Future - Cycling</title>
-    <desc lang="en">What does the future hold for cycling in the battle against global warming? Reshmin Chowdhury meets people at all levels to discuss how cycling can be a positive force for change.</desc>
+  <programme start="20250821190000 +0530" stop="20250821204500 +0530" channel="3625">
+    <title lang="en">Live: Renewi Tour - Stage 2</title>
+    <desc lang="en">Men's Cycling World Tour action from stage two of the 2025 Renewi Tour. Who will make their mark on the 169km route from the coastal town of Blankenberge to Ardooie?</desc>
   </programme>
-  <programme start="20250819010000 +0530" stop="20250819013000 +0530" channel="3627">
-    <title lang="en">Onboard</title>
-    <desc lang="en">A special onboard look at the Ocean Race Europe 2025, as the teams race towards the finish of leg one in Portsmouth.</desc>
+  <programme start="20250821204500 +0530" stop="20250821210000 +0530" channel="3625">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
   </programme>
-  <programme start="20250819013000 +0530" stop="20250819023000 +0530" channel="3627">
-    <title lang="en">Fishing: On the Bank</title>
-    <desc lang="en">Hughesy heads up to the River Trent in search of carp and barbel, We look at sediment issues in River Keepers Diary, and the lads go head to head in a floater v fly challenge.</desc>
+  <programme start="20250821210000 +0530" stop="20250821213000 +0530" channel="3625">
+    <title lang="en">The Football Archives: UCL 2018/19</title>
+    <desc lang="en">This episode of The Football Archives takes a look at the 2018/19 UEFA Champions League season. Tottenham would enjoy a memorable run in the competition.</desc>
   </programme>
-  <programme start="20250819023000 +0530" stop="20250819033000 +0530" channel="3627">
-    <title lang="en">Australia v South Africa - 3rd T20</title>
-    <desc lang="en">Action from the third T20 between Australia and South Africa at Cazalys Stadium in Cairns. Can the Proteas upset the Aussies against and win this series-deciding contest?</desc>
+  <programme start="20250821213000 +0530" stop="20250821220000 +0530" channel="3625">
+    <title lang="en">Premier League Netbusters</title>
+    <desc lang="en">A unique and fast-paced look at all the best action from the opening weekend of the 2025/26 Premier League season, including Aston Villa v Newcastle and Man United v Arsenal.</desc>
   </programme>
-  <programme start="20250819033000 +0530" stop="20250819063000 +0530" channel="3627">
-    <title lang="en">UFC 319 - Du Plessis vs Chimaev</title>
-    <desc lang="en">Action from UFC 319 at United Center in Chicago, featuring the main event showdown between middleweight champion Dricus du Plessis and undefeated contender Khamzat Chimaev.</desc>
+  <programme start="20250821220000 +0530" stop="20250821223000 +0530" channel="3625">
+    <title lang="en">The Big Interview: Sol Campbell</title>
+    <desc lang="en">Sol Campbell speaks about his legendary Premier League career, including his controversial move across the North London divide and becoming an 'Invincible' with Arsenal.</desc>
+  </programme>
+  <programme start="20250821223000 +0530" stop="20250821233000 +0530" channel="3625">
+    <title lang="en">MLB Highlights</title>
+    <desc lang="en">Highlights from Major League Baseball. (21.08)</desc>
+  </programme>
+  <programme start="20250821233000 +0530" stop="20250822024500 +0530" channel="3625">
+    <title lang="en">Live MLB: Rangers @ Royals</title>
+    <desc lang="en">Major League Baseball action as Texas Rangers take on Kansas City Royals.</desc>
+  </programme>
+  <programme start="20250822024500 +0530" stop="20250822031500 +0530" channel="3625">
+    <title lang="en">MLB: Off The Bat</title>
+    <desc lang="en">All the latest action from Major League Baseball wrapped up, featuring the league's top hitters and pitchers.</desc>
+  </programme>
+  <programme start="20250822031500 +0530" stop="20250822033000 +0530" channel="3625">
+    <title lang="en">MLB Classic: All Star 1973</title>
+    <desc lang="en">Highlights from the 1973 MLB All-Star Game at the Royals Stadium in Kansas City, featuring Johnny Bench, Joe Morgan, Pete Rose and Hank Aaron.</desc>
+  </programme>
+  <programme start="20250822033000 +0530" stop="20250822043000 +0530" channel="3625">
+    <title lang="en">MLB Highlights</title>
+    <desc lang="en">Highlights from Major League Baseball. (21.08)</desc>
   </programme>
   <programme start="20250819063000 +0530" stop="20250819090000 +0530" channel="3627">
     <title lang="en">UFC Reloaded</title>
@@ -1279,109 +1176,105 @@
     <title lang="en">Live CPL: Falcons v Knight Riders</title>
     <desc lang="en">Action from the Caribbean Premier League clash between Antigua &amp; Barbuda Falcons and Trinbago Knight Riders at Sir Vivian Richards Stadium.</desc>
   </programme>
-  <programme start="20250818054500 +0530" stop="20250818064500 +0530" channel="3629">
-    <title lang="en">ADAC Cyclassics Hamburg</title>
-    <desc lang="en">Men's Cycling World Tour action from the 2025 ADAC Cyclassics Hamburg, which is Germany's biggest cycling event.</desc>
+  <programme start="20250821081500 +0530" stop="20250821083000 +0530" channel="3627">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from the opening weekend of the 2025/26 Premier League season, featuring Aston Villa v Newcastle, Liverpool v Bournemouth and Man United v Arsenal.</desc>
   </programme>
-  <programme start="20250818064500 +0530" stop="20250818074500 +0530" channel="3629">
-    <title lang="en">Tour of Czech Republic - Stage 4</title>
-    <desc lang="en">Men's Cycling Pro Series action from fourth and final stage of the 2025 Tour of Czech Republic, as the riders journey 179km from Kromeriz to a finish in Pustevny.</desc>
+  <programme start="20250821083000 +0530" stop="20250821100000 +0530" channel="3627">
+    <title lang="en">Ultimate Pool</title>
+    <desc lang="en">Ultimate Pool action from Group 12 of the Pairs Cup, featuring Neil Raybone and Andy Blurton, Kyle Cope and Cohen Bradford, and Ian Eldridge and Mikey Mancini.</desc>
   </programme>
-  <programme start="20250818074500 +0530" stop="20250818084500 +0530" channel="3629">
+  <programme start="20250821100000 +0530" stop="20250821103000 +0530" channel="3627">
+    <title lang="en">MLB Plays of the Week</title>
+    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
+  </programme>
+  <programme start="20250821103000 +0530" stop="20250821113000 +0530" channel="3627">
+    <title lang="en">MotoGP Highlights</title>
+    <desc lang="en">Highlights from the 2025 MotoGP Grand Prix of Austria at Red Bull Ring in Spielberg.</desc>
+  </programme>
+  <programme start="20250821113000 +0530" stop="20250821123000 +0530" channel="3627">
+    <title lang="en">Renewi Tour - Stage 1</title>
+    <desc lang="en">Men's Cycling World Tour action from stage one of the 2025 Renewi Tour, as the peloton departs from Terneuzen on a flat 182km journey to the harbour town of Breskens.</desc>
+  </programme>
+  <programme start="20250821123000 +0530" stop="20250821130000 +0530" channel="3627">
+    <title lang="en">Mass Participation World</title>
+    <desc lang="en">The Santa Eularia Ibiza Marathon 2025 promises to break participation records with over 4,500 runners from more than 50 countries.</desc>
+  </programme>
+  <programme start="20250821130000 +0530" stop="20250821133000 +0530" channel="3627">
+    <title lang="en">Mass Participation World</title>
+    <desc lang="en">The 2025 Marathon des Sables will challenge runners with a gruelling 250km trek across the Sahara Desert, testing their endurance and self-sufficiency.</desc>
+  </programme>
+  <programme start="20250821133000 +0530" stop="20250821143000 +0530" channel="3627">
+    <title lang="en">Fishing: On the Bank</title>
+    <desc lang="en">Hughesy heads up to the River Trent in search of carp and barbel, We look at sediment issues in River Keepers Diary, and the lads go head to head in a floater v fly challenge.</desc>
+  </programme>
+  <programme start="20250821143000 +0530" stop="20250821150000 +0530" channel="3627">
+    <title lang="en">What I Wore: Best Of</title>
+    <desc lang="en">We revisit our best conversations with some of the biggest names in football, focusing on classic football shirts and kit culture in the UK.</desc>
+  </programme>
+  <programme start="20250821150000 +0530" stop="20250821153000 +0530" channel="3627">
+    <title lang="en">Premier League Netbusters</title>
+    <desc lang="en">A unique and fast-paced look at all the best action from the opening weekend of the 2025/26 Premier League season, including Aston Villa v Newcastle and Man United v Arsenal.</desc>
+  </programme>
+  <programme start="20250821153000 +0530" stop="20250821160000 +0530" channel="3627">
+    <title lang="en">European Rally Highlights</title>
+    <desc lang="en">Highlights from the Rally Czech, part of the 2025 European Rally Championship.</desc>
+  </programme>
+  <programme start="20250821160000 +0530" stop="20250821163000 +0530" channel="3627">
+    <title lang="en">Discovery Golf</title>
+    <desc lang="en">We look ahead to the TOUR Championship and the battle for the FedExCup, review iconic wins by Scottie Scheffler and Tiger Woods, and join Viktor Hovland on the range.</desc>
+  </programme>
+  <programme start="20250821163000 +0530" stop="20250821173000 +0530" channel="3627">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best action from the opening weekend of the 2025/26 Premier League season, including Liverpool v Bournemouth, Aston Villa v Newcastle and Man United v Arsenal.</desc>
+  </programme>
+  <programme start="20250821173000 +0530" stop="20250821183000 +0530" channel="3627">
+    <title lang="en">MLB Highlights</title>
+    <desc lang="en">Highlights from Major League Baseball. (21.08)</desc>
+  </programme>
+  <programme start="20250821183000 +0530" stop="20250821193000 +0530" channel="3627">
+    <title lang="en">MotoGP Highlights</title>
+    <desc lang="en">Highlights from the 2025 MotoGP Grand Prix of Austria at Red Bull Ring in Spielberg.</desc>
+  </programme>
+  <programme start="20250821193000 +0530" stop="20250821210000 +0530" channel="3627">
+    <title lang="en">Ultimate Pool</title>
+    <desc lang="en">Ultimate Pool action from Group 12 of the Pairs Cup, featuring Neil Raybone and Andy Blurton, Kyle Cope and Cohen Bradford, and Ian Eldridge and Mikey Mancini.</desc>
+  </programme>
+  <programme start="20250821210000 +0530" stop="20250821220000 +0530" channel="3627">
+    <title lang="en">Saudi Masters: Tournament Review</title>
+    <desc lang="en">A review of the biggest stories and best action from the 2025 Saudi Masters, which would feature an epic final between Neil Robertson and Ronnie O'Sullivan.</desc>
+  </programme>
+  <programme start="20250821220000 +0530" stop="20250821230000 +0530" channel="3627">
+    <title lang="en">UCL: Celtic v Kairat Almaty</title>
+    <desc lang="en">Action from Celtic Park as Brendan Rodgers' Celtic face Kazakh champions Kairat Almaty in the first leg of the UEFA Champions League play-offs.</desc>
+  </programme>
+  <programme start="20250821230000 +0530" stop="20250822000000 +0530" channel="3627">
+    <title lang="en">UCL: Fenerbahce v Benfica</title>
+    <desc lang="en">Action from the first leg of the UEFA Champions League play-off between Jose Mourinho's Fenerbahce and Benfica at Chobani Stadium Fenerbahce Sukru Saracoglu Sports Complex.</desc>
+  </programme>
+  <programme start="20250822000000 +0530" stop="20250822010000 +0530" channel="3627">
+    <title lang="en">UCL: Basel v Copenhagen</title>
+    <desc lang="en">Action from the first leg of the UEFA Champions League play-off between Swiss champions Basel and Danish Superliga title holders Copenhagen at St. Jakob-Park.</desc>
+  </programme>
+  <programme start="20250822010000 +0530" stop="20250822020000 +0530" channel="3627">
+    <title lang="en">UCL: Bodo/Glimt v Sturm Graz</title>
+    <desc lang="en">Action from the first leg of the UEFA Champions League play-off between Norway's Bodo/Glimt and Austrian champions Sturm Graz at Aspmyra Stadion.</desc>
+  </programme>
+  <programme start="20250822020000 +0530" stop="20250822030000 +0530" channel="3627">
     <title lang="en">Hard Knocks</title>
-    <desc lang="en">Mitchell Trubisky and Mike White continue their tussle to be back-up quarterback to Josh Allen. And, head coach Sean McDermott opens up about his battle with skin cancer.</desc>
+    <desc lang="en">An inside look at NFL training camps and what it takes, professionally and personally, for the players and staff to make it all the way.</desc>
   </programme>
-  <programme start="20250818084500 +0530" stop="20250818091500 +0530" channel="3629">
-    <title lang="en">Premier League Stories</title>
-    <desc lang="en">Following Arne Slot's title-winning first season at Anfield, we explore Liverpool's rich legacy of managerial transitions.</desc>
+  <programme start="20250822030000 +0530" stop="20250822033000 +0530" channel="3627">
+    <title lang="en">Premier League Netbusters</title>
+    <desc lang="en">A unique and fast-paced look at all the best action from the opening weekend of the 2025/26 Premier League season, including Aston Villa v Newcastle and Man United v Arsenal.</desc>
   </programme>
-  <programme start="20250818091500 +0530" stop="20250818093000 +0530" channel="3629">
-    <title lang="en">Training Day</title>
-    <desc lang="en">Former pros Shay Given and Steve Sidwell spend the day training with Newcastle United's academy. How will Sidwell handle a high-intensity pre-season experience?</desc>
-  </programme>
-  <programme start="20250818093000 +0530" stop="20250818103000 +0530" channel="3629">
-    <title lang="en">T100 Triathlon World Tour Hlts</title>
-    <desc lang="en">Highlights from the T100 Triathlon World Tour in London. Brits Lucy Charles-Barclay and Kate Waugh would battle for glory in the thrilling Women's race.</desc>
-  </programme>
-  <programme start="20250818103000 +0530" stop="20250818113000 +0530" channel="3629">
-    <title lang="en">Tour of Romandie - Stage 3</title>
-    <desc lang="en">Women's Cycling World Tour action from the third and final stage of the 2025 Tour of Romandie, as the riders tackle a course around the historic town of Aigle.</desc>
-  </programme>
-  <programme start="20250818113000 +0530" stop="20250818123000 +0530" channel="3629">
-    <title lang="en">ADAC Cyclassics Hamburg</title>
-    <desc lang="en">Men's Cycling World Tour action from the 2025 ADAC Cyclassics Hamburg, which is Germany's biggest cycling event.</desc>
-  </programme>
-  <programme start="20250818123000 +0530" stop="20250818133000 +0530" channel="3629">
-    <title lang="en">Tour of Czech Republic - Stage 4</title>
-    <desc lang="en">Men's Cycling Pro Series action from fourth and final stage of the 2025 Tour of Czech Republic, as the riders journey 179km from Kromeriz to a finish in Pustevny.</desc>
-  </programme>
-  <programme start="20250818133000 +0530" stop="20250818153000 +0530" channel="3629">
-    <title lang="en">Snooker Saudi Masters</title>
-    <desc lang="en">Highlights from the 2025 Snooker Saudi Masters final between Ronnie O'Sullivan and Neil Robertson. Who would claim the £500,000 winner's prize?</desc>
-  </programme>
-  <programme start="20250818153000 +0530" stop="20250818163000 +0530" channel="3629">
-    <title lang="en">Supercars Championship Highlights</title>
-    <desc lang="en">Highlights from the Supercars Championship and day one of the 2025 Century Batteries Ipswich Super 440 at Queensland Raceway.</desc>
-  </programme>
-  <programme start="20250818163000 +0530" stop="20250818173000 +0530" channel="3629">
-    <title lang="en">Supercars Championship Highlights</title>
-    <desc lang="en">Highlights from the Supercars Championship and day two of the 2025 Century Batteries Ipswich Super 440 at Queensland Raceway.</desc>
-  </programme>
-  <programme start="20250818173000 +0530" stop="20250818180000 +0530" channel="3629">
+  <programme start="20250822033000 +0530" stop="20250822040000 +0530" channel="3627">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Antigua &amp; Barbuda Falcons meet Barbados Royals at Sir Vivian Richards Stadium.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League showdown between Antigua &amp; Barbuda Falcons and Trinbago Knight Riders at Sir Vivian Richards Stadium.</desc>
   </programme>
-  <programme start="20250818180000 +0530" stop="20250818183000 +0530" channel="3629">
-    <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as St Kitts &amp; Nevis Patriots face-off against Trinbago Knight Riders at Warner Park.</desc>
-  </programme>
-  <programme start="20250818183000 +0530" stop="20250818193000 +0530" channel="3629">
-    <title lang="en">Tour of Romandie - Stage 3</title>
-    <desc lang="en">Women's Cycling World Tour action from the third and final stage of the 2025 Tour of Romandie, as the riders tackle a course around the historic town of Aigle.</desc>
-  </programme>
-  <programme start="20250818193000 +0530" stop="20250818203000 +0530" channel="3629">
-    <title lang="en">ADAC Cyclassics Hamburg</title>
-    <desc lang="en">Men's Cycling World Tour action from the 2025 ADAC Cyclassics Hamburg, which is Germany's biggest cycling event.</desc>
-  </programme>
-  <programme start="20250818203000 +0530" stop="20250818213000 +0530" channel="3629">
-    <title lang="en">Tour of Czech Republic - Stage 4</title>
-    <desc lang="en">Men's Cycling Pro Series action from fourth and final stage of the 2025 Tour of Czech Republic, as the riders journey 179km from Kromeriz to a finish in Pustevny.</desc>
-  </programme>
-  <programme start="20250818213000 +0530" stop="20250818223000 +0530" channel="3629">
-    <title lang="en">Moto3: Grand Prix of Austria</title>
-    <desc lang="en">Race action from the 2025 Moto3 Grand Prix of Austria at the Red Bull Ring. Can Jose Antonio Rueda pick up his eighth win of the season?</desc>
-  </programme>
-  <programme start="20250818223000 +0530" stop="20250818233000 +0530" channel="3629">
-    <title lang="en">Moto2: Grand Prix of Austria</title>
-    <desc lang="en">Race action from the 2025 Moto2 Grand Prix of Austria at the Red Bull Ring. Can Jake Dixon and other riders close the gap on standings leader Manuel Gonzalez?</desc>
-  </programme>
-  <programme start="20250818233000 +0530" stop="20250819000000 +0530" channel="3629">
-    <title lang="en">MotoGP: Austria Sprint Race</title>
-    <desc lang="en">Action from the Sprint Race at the 2025 MotoGP Grand Prix of Austria at the Red Bull Ring in Spielberg. Francesco Bagnaia was triumphant in this race last year.</desc>
-  </programme>
-  <programme start="20250819000000 +0530" stop="20250819010000 +0530" channel="3629">
-    <title lang="en">MotoGP: Grand Prix of Austria</title>
-    <desc lang="en">Race action from the 2025 MotoGP Grand Prix of Austria. Can Marc Marquez end his nine-year wait for a win at the Red Bull Ring?</desc>
-  </programme>
-  <programme start="20250819010000 +0530" stop="20250819020000 +0530" channel="3629">
-    <title lang="en">MotoGP Chequered Flag</title>
-    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the 2025 Grand Prix of Austria at the Red Bull Ring.</desc>
-  </programme>
-  <programme start="20250819020000 +0530" stop="20250819024500 +0530" channel="3629">
-    <title lang="en">Motocross World Championship</title>
-    <desc lang="en">Motocross World Championship action from MX2 race one at Uddevalla circuit in Sweden.</desc>
-  </programme>
-  <programme start="20250819024500 +0530" stop="20250819033000 +0530" channel="3629">
-    <title lang="en">Motocross World Championship</title>
-    <desc lang="en">Motocross World Championship action from MX2 race two at Uddevalla circuit in Sweden.</desc>
-  </programme>
-  <programme start="20250819033000 +0530" stop="20250819041500 +0530" channel="3629">
-    <title lang="en">Motocross World Championship</title>
-    <desc lang="en">Motocross World Championship action from MXGP race one at Uddevalla circuit in Sweden.</desc>
-  </programme>
-  <programme start="20250819041500 +0530" stop="20250819050000 +0530" channel="3629">
-    <title lang="en">Motocross World Championship</title>
-    <desc lang="en">Motocross World Championship action from MXGP race two at Uddevalla circuit in Sweden.</desc>
+  <programme start="20250822040000 +0530" stop="20250822081500 +0530" channel="3627">
+    <title lang="en">Live CPL: Patriots v Royals</title>
+    <desc lang="en">Action from the Caribbean Premier League as St Kitts &amp; Nevis Patriots take on Barbados Royals at Warner Park.</desc>
   </programme>
   <programme start="20250819053000 +0530" stop="20250819060000 +0530" channel="3629">
     <title lang="en">What I Wore: Best Of</title>
@@ -1591,77 +1484,97 @@
     <title lang="en">Renewi Tour - Stage 1</title>
     <desc lang="en">Men's Cycling World Tour action from stage one of the 2025 Renewi Tour, as the peloton departs from Terneuzen on a flat 182km journey to the harbour town of Breskens.</desc>
   </programme>
-  <programme start="20250818073000 +0530" stop="20250818083000 +0530" channel="4002">
-    <title lang="en">Sky Sports Catch-Up</title>
-    <desc lang="en">Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
+  <programme start="20250821053000 +0530" stop="20250821063000 +0530" channel="3629">
+    <title lang="en">UCL: Celtic v Kairat Almaty</title>
+    <desc lang="en">Action from Celtic Park as Brendan Rodgers' Celtic face Kazakh champions Kairat Almaty in the first leg of the UEFA Champions League play-offs.</desc>
   </programme>
-  <programme start="20250818083000 +0530" stop="20250818093000 +0530" channel="4002">
-    <title lang="en">Sky Sports Catch-Up</title>
-    <desc lang="en">Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
+  <programme start="20250821063000 +0530" stop="20250821073000 +0530" channel="3629">
+    <title lang="en">UCL: Fenerbahce v Benfica</title>
+    <desc lang="en">Action from the first leg of the UEFA Champions League play-off between Jose Mourinho's Fenerbahce and Benfica at Chobani Stadium Fenerbahce Sukru Saracoglu Sports Complex.</desc>
   </programme>
-  <programme start="20250818093000 +0530" stop="20250818103000 +0530" channel="4002">
-    <title lang="en">Sky Sports Catch-Up</title>
-    <desc lang="en">Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
+  <programme start="20250821073000 +0530" stop="20250821083000 +0530" channel="3629">
+    <title lang="en">UCL: Basel v Copenhagen</title>
+    <desc lang="en">Action from the first leg of the UEFA Champions League play-off between Swiss champions Basel and Danish Superliga title holders Copenhagen at St. Jakob-Park.</desc>
   </programme>
-  <programme start="20250818103000 +0530" stop="20250818113000 +0530" channel="4002">
-    <title lang="en">Sky Sports Catch-Up</title>
-    <desc lang="en">Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
+  <programme start="20250821083000 +0530" stop="20250821093000 +0530" channel="3629">
+    <title lang="en">UCL: Bodo/Glimt v Sturm Graz</title>
+    <desc lang="en">Action from the first leg of the UEFA Champions League play-off between Norway's Bodo/Glimt and Austrian champions Sturm Graz at Aspmyra Stadion.</desc>
   </programme>
-  <programme start="20250818113000 +0530" stop="20250818120000 +0530" channel="4002">
-    <title lang="en">Sky Sports Breakfast</title>
-    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+  <programme start="20250821093000 +0530" stop="20250821100000 +0530" channel="3629">
+    <title lang="en">Deportivo v AC Milan 2003/04</title>
+    <desc lang="en">We revisit the second leg of the 2003/04 UEFA Champions League quarter-final between Deportivo La Coruna and AC Milan at the Riazor Stadium. Milan led 4-0 from the first leg.</desc>
   </programme>
-  <programme start="20250818120000 +0530" stop="20250818123000 +0530" channel="4002">
-    <title lang="en">Sky Sports Breakfast</title>
-    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+  <programme start="20250821100000 +0530" stop="20250821103000 +0530" channel="3629">
+    <title lang="en">Rangers v Porto 2005/06</title>
+    <desc lang="en">We revisit this 2005/06 UEFA Champions League group stage epic at Ibrox between Rangers and 2004 champions Porto. A tough group also included Inter Milan and Artmedia Bratislava.</desc>
   </programme>
-  <programme start="20250818123000 +0530" stop="20250818130000 +0530" channel="4002">
-    <title lang="en">Sky Sports Breakfast</title>
-    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+  <programme start="20250821103000 +0530" stop="20250821113000 +0530" channel="3629">
+    <title lang="en">Saudi Masters: Tournament Review</title>
+    <desc lang="en">A review of the biggest stories and best action from the 2025 Saudi Masters, which would feature an epic final between Neil Robertson and Ronnie O'Sullivan.</desc>
   </programme>
-  <programme start="20250818130000 +0530" stop="20250818133000 +0530" channel="4002">
-    <title lang="en">Sky Sports Breakfast</title>
-    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+  <programme start="20250821113000 +0530" stop="20250821123000 +0530" channel="3629">
+    <title lang="en">SailGP Highlights: Sassnitz</title>
+    <desc lang="en">Highlights from one of the biggest events on the sailing calendar, as Germany hosts SailGP for the first time in the popular seaside resort of Sassnitz.</desc>
   </programme>
-  <programme start="20250818133000 +0530" stop="20250818143000 +0530" channel="4002">
-    <title lang="en">Ref Watch</title>
-    <desc lang="en">The Sky Sports team analyse some of the big refereeing decisions from the weekend's games. Did the officials get it right?</desc>
+  <programme start="20250821123000 +0530" stop="20250821133000 +0530" channel="3629">
+    <title lang="en">Como v Inter</title>
+    <desc lang="en">Action from the final day of the 2024/25 Serie A season as Como welcome reigning champions Inter to Stadio Giuseppe Sinigaglia. Can Inter overhaul their title rivals Napoli?</desc>
   </programme>
-  <programme start="20250818143000 +0530" stop="20250818153000 +0530" channel="4002">
-    <title lang="en">Sky Sports FC</title>
-    <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
+  <programme start="20250821133000 +0530" stop="20250821143000 +0530" channel="3629">
+    <title lang="en">Napoli v Cagliari</title>
+    <desc lang="en">Action from the final day of the 2024/25 Serie A season as Napoli face Cagliari at Stadio Diego Armando Maradona. A win for Napoli would seal their fourth Scudetto.</desc>
   </programme>
-  <programme start="20250818153000 +0530" stop="20250818163000 +0530" channel="4002">
-    <title lang="en">Sky Sports FC</title>
-    <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
+  <programme start="20250821143000 +0530" stop="20250821153000 +0530" channel="3629">
+    <title lang="en">Inside Serie A: Season Preview</title>
+    <desc lang="en">We preview the 2025/26 Serie A season, as Antonio Conte looks to lead Napoli to another Scudetto. And, there are new eras at Chivu's Inter, Tudor's Juventus and Allegri's Milan.</desc>
   </programme>
-  <programme start="20250818163000 +0530" stop="20250818173000 +0530" channel="4002">
-    <title lang="en">Transfer Talk</title>
-    <desc lang="en">The Sky Sports team break down all the latest talking points from the summer transfer window, with analysis and discussion of the major headlines.</desc>
+  <programme start="20250821153000 +0530" stop="20250821163000 +0530" channel="3629">
+    <title lang="en">Renewi Tour - Stage 1</title>
+    <desc lang="en">Men's Cycling World Tour action from stage one of the 2025 Renewi Tour, as the peloton departs from Terneuzen on a flat 182km journey to the harbour town of Breskens.</desc>
   </programme>
-  <programme start="20250818173000 +0530" stop="20250818183000 +0530" channel="4002">
-    <title lang="en">Lunchtime Live</title>
-    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+  <programme start="20250821163000 +0530" stop="20250821173000 +0530" channel="3629">
+    <title lang="en">Tour of Germany Prologue</title>
+    <desc lang="en">Men's Cycling Pro Series action from the Prologue of the 2025 Tour of Germany, which takes the riders on a 3km route around Essen.</desc>
   </programme>
-  <programme start="20250818183000 +0530" stop="20250818193000 +0530" channel="4002">
-    <title lang="en">Sports Desk</title>
-    <desc lang="en">A breakdown of the stories hitting the news desk this afternoon, with live analysis and comment plus extended interviews with the headline makers.</desc>
+  <programme start="20250821173000 +0530" stop="20250821203000 +0530" channel="3629">
+    <title lang="en">Live: Tour of Germany - Stage 1</title>
+    <desc lang="en">Men's Cycling Pro Series action from stage one of the 2025 Tour of Germany, as the riders embark on a 202km journey from Essen to Herford.</desc>
   </programme>
-  <programme start="20250818193000 +0530" stop="20250818223000 +0530" channel="4002">
-    <title lang="en">Live The Hundred</title>
-    <desc lang="en">In the Women's Hundred, Southern Brave take on Oval Invincibles. It's now four wins out of four for Southern Brave and skipper Georgia Adams, with the latest coming against Trent Rockets.</desc>
+  <programme start="20250821203000 +0530" stop="20250821213000 +0530" channel="3629">
+    <title lang="en">Fishing: On the Bank</title>
+    <desc lang="en">Hughesy heads up to the River Trent in search of carp and barbel, We look at sediment issues in River Keepers Diary, and the lads go head to head in a floater v fly challenge.</desc>
   </programme>
-  <programme start="20250818223000 +0530" stop="20250818230000 +0530" channel="4002">
-    <title lang="en">The Premier League Show</title>
-    <desc lang="en">Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
+  <programme start="20250821213000 +0530" stop="20250821220000 +0530" channel="3629">
+    <title lang="en">European Rally Highlights</title>
+    <desc lang="en">Highlights from the Rally Czech, part of the 2025 European Rally Championship.</desc>
   </programme>
-  <programme start="20250818230000 +0530" stop="20250819033000 +0530" channel="4002">
-    <title lang="en">Live MNF: Leeds v Everton</title>
-    <desc lang="en">The first Monday Night Football of the season comes from Elland Road, where Daniel Farke's Leeds United play host to David Moyes and Everton on their Premier League return.</desc>
+  <programme start="20250821220000 +0530" stop="20250821223000 +0530" channel="3629">
+    <title lang="en">Formula E Flashback - Season 1</title>
+    <desc lang="en">We revisit the chaos and drama of the 2017 Mexico City ePrix at Autodromo Hermanos Rodriguez. The race would feature an unforgettable performance by Lucas di Grassi.</desc>
   </programme>
-  <programme start="20250819033000 +0530" stop="20250819053000 +0530" channel="4002">
-    <title lang="en">Live: WTA Cincinnati Final</title>
-    <desc lang="en">Six-time Grand Slam champion Iga Swiatek faces seventh seed Jasmine Paolini for the Cincinnati title. In what will be Swiatek's 13th WTA 1000 final, Paolini is competing in just her third.</desc>
+  <programme start="20250821223000 +0530" stop="20250821230000 +0530" channel="3629">
+    <title lang="en">UIM F1H2O World Championship</title>
+    <desc lang="en">A preview of the 2025 UIM F1H20 World Championship season, which kicks off with the Grand Prix of Indonesia at Lake Toba in Balige.</desc>
+  </programme>
+  <programme start="20250821230000 +0530" stop="20250822000000 +0530" channel="3629">
+    <title lang="en">Australia v South Africa - 1st ODI</title>
+    <desc lang="en">Action from the first One Day International between Australia and South Africa at Cazalys Stadium. This is the first ODI meeting between these sides since the 2023 World Cup.</desc>
+  </programme>
+  <programme start="20250822000000 +0530" stop="20250822013000 +0530" channel="3629">
+    <title lang="en">AFL: Essendon v Carlton</title>
+    <desc lang="en">Action from the Australian Football League as Essendon face Carlton.</desc>
+  </programme>
+  <programme start="20250822013000 +0530" stop="20250822030000 +0530" channel="3629">
+    <title lang="en">Ultimate Pool</title>
+    <desc lang="en">Ultimate Pool action from Group 12 of the Pairs Cup, featuring Neil Raybone and Andy Blurton, Kyle Cope and Cohen Bradford, and Ian Eldridge and Mikey Mancini.</desc>
+  </programme>
+  <programme start="20250822030000 +0530" stop="20250822033000 +0530" channel="3629">
+    <title lang="en">Onboard</title>
+    <desc lang="en">A special onboard look at the Ocean Race Europe 2025, as the teams face a unique route from the Baltic Sea to a finish in Boka Bay, Montenegro.</desc>
+  </programme>
+  <programme start="20250822033000 +0530" stop="20250822043000 +0530" channel="3629">
+    <title lang="en">Renewi Tour - Stage 2</title>
+    <desc lang="en">Men's Cycling World Tour action from stage two of the 2025 Renewi Tour. Who will make their mark on the 169km route from the coastal town of Blankenberge to Ardooie?</desc>
   </programme>
   <programme start="20250819053000 +0530" stop="20250819083000 +0530" channel="4002">
     <title lang="en">Live: ATP/WTA Tennis</title>
@@ -1799,81 +1712,73 @@
     <title lang="en">Live: ATP/WTA Tennis</title>
     <desc lang="en">Enjoy live action from the WTA and ATP Tours.</desc>
   </programme>
-  <programme start="20250818060000 +0530" stop="20250818063000 +0530" channel="4040">
-    <title lang="en">UFC Connected</title>
-    <desc lang="en">Malcolm Wellmaker details leaving his blue-collar job for a full-time career in MMA. And, we join Brandon Moreno front row at UFC 317 for the flyweight title fight.</desc>
+  <programme start="20250821073000 +0530" stop="20250821080000 +0530" channel="4002">
+    <title lang="en">Live: ATP/WTA Tennis</title>
+    <desc lang="en">Enjoy live action from the WTA and ATP Tours.</desc>
   </programme>
-  <programme start="20250818063000 +0530" stop="20250818083000 +0530" channel="4040">
-    <title lang="en">Snooker Saudi Masters</title>
-    <desc lang="en">Highlights from the 2025 Snooker Saudi Masters final between Ronnie O'Sullivan and Neil Robertson. Who would claim the £500,000 winner's prize?</desc>
+  <programme start="20250821080000 +0530" stop="20250821103000 +0530" channel="4002">
+    <title lang="en">Live: WTA Monterrey</title>
+    <desc lang="en">Enjoy live action from the WTA and ATP Tours.</desc>
   </programme>
-  <programme start="20250818083000 +0530" stop="20250818093000 +0530" channel="4040">
-    <title lang="en">Supercars Championship Highlights</title>
-    <desc lang="en">Highlights from the Supercars Championship and day one of the 2025 Century Batteries Ipswich Super 440 at Queensland Raceway.</desc>
+  <programme start="20250821103000 +0530" stop="20250821110000 +0530" channel="4002">
+    <title lang="en">Live Tennis: WTA Monterrey</title>
+    <desc lang="en">Enjoy live action from the WTA and ATP Tours.</desc>
   </programme>
-  <programme start="20250818093000 +0530" stop="20250818103000 +0530" channel="4040">
-    <title lang="en">Supercars Championship Highlights</title>
-    <desc lang="en">Highlights from the Supercars Championship and day two of the 2025 Century Batteries Ipswich Super 440 at Queensland Raceway.</desc>
+  <programme start="20250821110000 +0530" stop="20250821113000 +0530" channel="4002">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
   </programme>
-  <programme start="20250818103000 +0530" stop="20250818120000 +0530" channel="4040">
-    <title lang="en">AFL: Essendon v St Kilda</title>
-    <desc lang="en">Action from the Australian Football League as Essendon face St Kilda at Marvel Stadium. Can the Bombers end their 10-game losing streak?</desc>
+  <programme start="20250821113000 +0530" stop="20250821120000 +0530" channel="4002">
+    <title lang="en">Sky Sports Breakfast</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
   </programme>
-  <programme start="20250818120000 +0530" stop="20250818133000 +0530" channel="4040">
-    <title lang="en">AFL: Fremantle v Brisbane Lions</title>
-    <desc lang="en">Action from the Australian Football League as Fremantle play Brisbane Lions at Optus Stadium. Can the Lions get their finals push back on track?</desc>
+  <programme start="20250821120000 +0530" stop="20250821123000 +0530" channel="4002">
+    <title lang="en">Sky Sports Breakfast</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
   </programme>
-  <programme start="20250818133000 +0530" stop="20250818150000 +0530" channel="4040">
-    <title lang="en">AFL: Gold Coast Suns v GWS Giants</title>
-    <desc lang="en">Action from the Australian Football League as Gold Coast Suns face GWS Giants at People First Stadium. The Giants have won 14 of their past 15 clashes with the Suns.</desc>
+  <programme start="20250821123000 +0530" stop="20250821130000 +0530" channel="4002">
+    <title lang="en">Sky Sports Breakfast</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
   </programme>
-  <programme start="20250818150000 +0530" stop="20250818163000 +0530" channel="4040">
-    <title lang="en">AFL: Carlton v Port Adelaide</title>
-    <desc lang="en">Action from the Australian Football League as Carlton host Port Adelaide at Marvel Stadium. The Power are looking to end a run of four consecutive defeats.</desc>
+  <programme start="20250821130000 +0530" stop="20250821133000 +0530" channel="4002">
+    <title lang="en">Sky Sports Breakfast</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
   </programme>
-  <programme start="20250818163000 +0530" stop="20250818180000 +0530" channel="4040">
-    <title lang="en">AFL: Hawthorn v Melbourne</title>
-    <desc lang="en">Action from the Australian Football League as Hawthorn face Melbourne at the MCG. The Hawks cannot afford a slip up ahead of their crunch clash with the Lions next week.</desc>
+  <programme start="20250821133000 +0530" stop="20250821143000 +0530" channel="4002">
+    <title lang="en">Good Morning Transfers</title>
+    <desc lang="en">Join Sky Sports News for all the latest updates and news from around the transfer market, with analysis of the big talking points.</desc>
   </programme>
-  <programme start="20250818180000 +0530" stop="20250818190000 +0530" channel="4040">
-    <title lang="en">Juventus v Atalanta</title>
-    <desc lang="en">Serie A action as Juventus take on Atalanta at the Allianz Stadium. A crucial battle for the top four-can Juve assert dominance, or will Atalanta strike in Turin?</desc>
+  <programme start="20250821143000 +0530" stop="20250821153000 +0530" channel="4002">
+    <title lang="en">Sky Sports FC</title>
+    <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
   </programme>
-  <programme start="20250818190000 +0530" stop="20250818200000 +0530" channel="4040">
-    <title lang="en">Fiorentina v Juventus</title>
-    <desc lang="en">Serie A showdown as Fiorentina host Juventus at the Stadio Artemio Franchi. Can Fiorentina rise to the challenge, or will Juve take control in Florence?</desc>
+  <programme start="20250821153000 +0530" stop="20250821163000 +0530" channel="4002">
+    <title lang="en">Sky Sports FC</title>
+    <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
   </programme>
-  <programme start="20250818200000 +0530" stop="20250818210000 +0530" channel="4040">
-    <title lang="en">Inside Serie A: Season Preview</title>
-    <desc lang="en">We preview the 2025/26 Serie A season, as Antonio Conte looks to lead Napoli to another Scudetto. And, there are new eras at Chivu's Inter, Tudor's Juventus and Allegri's Milan.</desc>
+  <programme start="20250821163000 +0530" stop="20250821170000 +0530" channel="4002">
+    <title lang="en">Transfer Talk</title>
+    <desc lang="en">The Sky Sports team break down all the latest talking points from the summer transfer window, with analysis and discussion of the major headlines.</desc>
   </programme>
-  <programme start="20250818210000 +0530" stop="20250818213000 +0530" channel="4040">
-    <title lang="en">The Big Interview: Sean Longstaff</title>
-    <desc lang="en">Sean Longstaff discusses his near decade spell at Newcastle United, winning the EFL Cup with his boyhood club, and his decision to take on an exciting new project at Leeds United.</desc>
+  <programme start="20250821170000 +0530" stop="20250821191500 +0530" channel="4002">
+    <title lang="en">Live DP World Tour Golf</title>
+    <desc lang="en">The opening day of play at the Belfry for the 2025 Betfred British Masters, a DP World Tour event hosted by Sir Nick Faldo. Denmark's Niklas Norgaard Moller claimed the win last season.</desc>
   </programme>
-  <programme start="20250818213000 +0530" stop="20250818223000 +0530" channel="4040">
-    <title lang="en">Washington S v Racing Louisville</title>
-    <desc lang="en">Action from the National Women's Soccer League as Washington Spirit face Racing Louisville FC at Audi Field. The Spirit were 2-0 winners when these sides met in April.</desc>
+  <programme start="20250821191500 +0530" stop="20250821223000 +0530" channel="4002">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">In the Women's Hundred, Oval Invincibles face Trent Rockets.</desc>
   </programme>
-  <programme start="20250818223000 +0530" stop="20250818233000 +0530" channel="4040">
-    <title lang="en">Kansas City v Orlando Pride</title>
-    <desc lang="en">Action from the National Women's Soccer League as league leaders Kansas City Current take on Seb Hines' Orlando Pride at CPKC Stadium.</desc>
+  <programme start="20250821223000 +0530" stop="20250822020000 +0530" channel="4002">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">In the Men's Hundred, Oval Invincibles collide with Trent Rockets.</desc>
   </programme>
-  <programme start="20250818233000 +0530" stop="20250819010000 +0530" channel="4040">
-    <title lang="en">AFL: Essendon v St Kilda</title>
-    <desc lang="en">Action from the Australian Football League as Essendon face St Kilda at Marvel Stadium. Can the Bombers end their 10-game losing streak?</desc>
+  <programme start="20250822020000 +0530" stop="20250822033000 +0530" channel="4002">
+    <title lang="en">Live PGA Tour Golf</title>
+    <desc lang="en">Once more, East Lake Golf Club in Atlanta, Georgia, sets the stage for round one of the season-ending Tour Championship as the top 30 compete at the FedExCup Playoffs finale.</desc>
   </programme>
-  <programme start="20250819010000 +0530" stop="20250819023000 +0530" channel="4040">
-    <title lang="en">AFL: Fremantle v Brisbane Lions</title>
-    <desc lang="en">Action from the Australian Football League as Fremantle play Brisbane Lions at Optus Stadium. Can the Lions get their finals push back on track?</desc>
-  </programme>
-  <programme start="20250819023000 +0530" stop="20250819040000 +0530" channel="4040">
-    <title lang="en">AFL: Gold Coast Suns v GWS Giants</title>
-    <desc lang="en">Action from the Australian Football League as Gold Coast Suns face GWS Giants at People First Stadium. The Giants have won 14 of their past 15 clashes with the Suns.</desc>
-  </programme>
-  <programme start="20250819040000 +0530" stop="20250819053000 +0530" channel="4040">
-    <title lang="en">AFL: Carlton v Port Adelaide</title>
-    <desc lang="en">Action from the Australian Football League as Carlton host Port Adelaide at Marvel Stadium. The Power are looking to end a run of four consecutive defeats.</desc>
+  <programme start="20250822033000 +0530" stop="20250822043000 +0530" channel="4002">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
   </programme>
   <programme start="20250819053000 +0530" stop="20250819070000 +0530" channel="4040">
     <title lang="en">AFL: Hawthorn v Melbourne</title>
@@ -2051,77 +1956,117 @@
     <title lang="en">UFC 319 - Du Plessis vs Chimaev</title>
     <desc lang="en">Action from UFC 319 at United Center in Chicago, featuring the main event showdown between middleweight champion Dricus du Plessis and undefeated contender Khamzat Chimaev.</desc>
   </programme>
-  <programme start="20250818065001 +0530" stop="20250818070001 +0530" channel="4081">
-    <title lang="en">Ashes Greats: Gilchrist 2001</title>
-    <desc lang="en">Remember some of the most incredible individual performances in Ashes history. Here, a look at Adam Gilchrist's excellent performances with the bat in the 2001 series.</desc>
+  <programme start="20250821060000 +0530" stop="20250821063000 +0530" channel="4040">
+    <title lang="en">Fight Week: UFC 319 Review Show</title>
+    <desc lang="en">We review the best action from UFC 319 at the United Center in Chicago, as Dricus du Plessis put his middleweight title on the line against Khamzat Chimaev.</desc>
   </programme>
-  <programme start="20250818070001 +0530" stop="20250818103000 +0530" channel="4081">
-    <title lang="en">The Hundred</title>
-    <desc lang="en">With just one win to their name so far this season, Jos Buttler's Manchester Originals take on Northern Superchargers in the Men's Hundred at Old Trafford.</desc>
+  <programme start="20250821063000 +0530" stop="20250821073000 +0530" channel="4040">
+    <title lang="en">MotoGP Highlights</title>
+    <desc lang="en">Highlights from the 2025 MotoGP Grand Prix of Austria at Red Bull Ring in Spielberg.</desc>
   </programme>
-  <programme start="20250818103000 +0530" stop="20250818134500 +0530" channel="4081">
-    <title lang="en">The Hundred</title>
-    <desc lang="en">As the Women's Hundred continues to hot up, Beth Mooney's Manchester Originals search for a second consecutive win in a clash with Northern Superchargers at Old Trafford.</desc>
+  <programme start="20250821073000 +0530" stop="20250821080000 +0530" channel="4040">
+    <title lang="en">MotoE Highlights</title>
+    <desc lang="en">All the best action from the 2025 MotoE Grand Prix of Austria at Red Bull Ring in Spielberg.</desc>
   </programme>
-  <programme start="20250818134500 +0530" stop="20250818140000 +0530" channel="4081">
-    <title lang="en">THE HUNDRED Men's - M14 Hlts</title>
-    <desc lang="en">Birmingham Phoenix go to Leeds in pursuit of some momentum as Liam Livingstone's side take on the Superchargers and Graham Clark, who performed final-ball heroics last time out. (15.08)</desc>
+  <programme start="20250821080000 +0530" stop="20250821090000 +0530" channel="4040">
+    <title lang="en">Renewi Tour - Stage 1</title>
+    <desc lang="en">Men's Cycling World Tour action from stage one of the 2025 Renewi Tour, as the peloton departs from Terneuzen on a flat 182km journey to the harbour town of Breskens.</desc>
   </programme>
-  <programme start="20250818140000 +0530" stop="20250818141500 +0530" channel="4081">
-    <title lang="en">THE HUNDRED Men's - M16 Hlts</title>
-    <desc lang="en">Having waved goodbye to their unbeaten record, the back-to-back champions look to avoid back-to-back defeats as Oval Invincibles face the Fire's Steve Smith and Jonny Bairstow. (16.08)</desc>
+  <programme start="20250821090000 +0530" stop="20250821100000 +0530" channel="4040">
+    <title lang="en">Tour of Germany Prologue</title>
+    <desc lang="en">Men's Cycling Pro Series action from the Prologue of the 2025 Tour of Germany, which takes the riders on a 3km route around Essen.</desc>
   </programme>
-  <programme start="20250818141500 +0530" stop="20250818143000 +0530" channel="4081">
-    <title lang="en">THE HUNDRED Women's - M16 Hlts</title>
-    <desc lang="en">Downing Birmingham for the Invincibles' first win of the campaign, can Alice Capsey inspire the Invincibles once more in a Women's Hundred contest at the Oval against Welsh Fire? (16.08)</desc>
+  <programme start="20250821100000 +0530" stop="20250821103000 +0530" channel="4040">
+    <title lang="en">Discovery Golf</title>
+    <desc lang="en">We look ahead to the TOUR Championship and the battle for the FedExCup, review iconic wins by Scottie Scheffler and Tiger Woods, and join Viktor Hovland on the range.</desc>
   </programme>
-  <programme start="20250818143000 +0530" stop="20250818144500 +0530" channel="4081">
-    <title lang="en">THE HUNDRED Men's - M18 Hlts</title>
-    <desc lang="en">In the Men's Hundred, Birmingham Phoenix compete with London Spirit. England red-ball star Jamie Smith came to the fore with a knock of 52 in Sprit's latest win. (17.08)</desc>
+  <programme start="20250821103000 +0530" stop="20250821120000 +0530" channel="4040">
+    <title lang="en">Ultimate Pool</title>
+    <desc lang="en">Ultimate Pool action from Group 12 of the Pairs Cup.</desc>
   </programme>
-  <programme start="20250818144500 +0530" stop="20250818150000 +0530" channel="4081">
-    <title lang="en">THE HUNDRED Women's - M18 Hlts</title>
-    <desc lang="en">In the Women's Hundred, Birmingham Phoenix face Charlie Dean's London Spirit, who lost their first game in four to a Nat Sciver-Brunt-inspired Trent Rockets. (17.08)</desc>
+  <programme start="20250821120000 +0530" stop="20250821123000 +0530" channel="4040">
+    <title lang="en">Formula E Flashback - Season 1</title>
+    <desc lang="en">We revisit 2015 and the thrilling race at Battersea Park Street Circuit in London. Nelson Piquet Jr. had an opportunity to claim his first Formula E title.</desc>
   </programme>
-  <programme start="20250818150000 +0530" stop="20250818183000 +0530" channel="4081">
-    <title lang="en">The Hundred</title>
-    <desc lang="en">In the Men's Hundred, Birmingham Phoenix compete with London Spirit. England red-ball star Jamie Smith came to the fore with a knock of 52 in Sprit's latest win.</desc>
+  <programme start="20250821123000 +0530" stop="20250821130000 +0530" channel="4040">
+    <title lang="en">Formula E Flashback - Season 1</title>
+    <desc lang="en">We look back at the action-packed 2016 Buenos Aires ePrix at the Puerto Madero Street Circuit. Could Sebastien Buemi fight his way through the field to catch Sam Bird?</desc>
   </programme>
-  <programme start="20250818183000 +0530" stop="20250818184500 +0530" channel="4081">
-    <title lang="en">THE HUNDRED Women's - M7 Hlts</title>
-    <desc lang="en">In the Women's Hundred, Georgia Adams' Southern Brave - who got off to a winning start in their opening game - compete with Ellyse Perry's Birmingham Phoenix in Southampton. (10.08)</desc>
+  <programme start="20250821130000 +0530" stop="20250821140000 +0530" channel="4040">
+    <title lang="en">Supercars Championship Highlights</title>
+    <desc lang="en">Highlights from the Supercars Championship and day one of the 2025 Century Batteries Ipswich Super 440 at Queensland Raceway.</desc>
   </programme>
-  <programme start="20250818184500 +0530" stop="20250818190000 +0530" channel="4081">
-    <title lang="en">THE HUNDRED Women's - M18 Hlts</title>
-    <desc lang="en">In the Women's Hundred, Birmingham Phoenix face Charlie Dean's London Spirit, who lost their first game in four to a Nat Sciver-Brunt-inspired Trent Rockets. (17.08)</desc>
+  <programme start="20250821140000 +0530" stop="20250821150000 +0530" channel="4040">
+    <title lang="en">Supercars Championship Highlights</title>
+    <desc lang="en">Highlights from the Supercars Championship and day two of the 2025 Century Batteries Ipswich Super 440 at Queensland Raceway.</desc>
   </programme>
-  <programme start="20250818190000 +0530" stop="20250818191500 +0530" channel="4081">
-    <title lang="en">THE HUNDRED Men's - M17 Hlts</title>
-    <desc lang="en">With just one win to their name so far this season, Jos Buttler's Manchester Originals take on Northern Superchargers in the Men's Hundred at Old Trafford. (17.08)</desc>
+  <programme start="20250821150000 +0530" stop="20250821153000 +0530" channel="4040">
+    <title lang="en">Liverpool v Arsenal 2007/08</title>
+    <desc lang="en">We revisit a thrilling night at Anfield as Liverpool faced Arsenal in the quarter-final second leg of the 2007/08 UEFA Champions League. The first leg at the Emirates finished 1-1.</desc>
   </programme>
-  <programme start="20250818191500 +0530" stop="20250818223000 +0530" channel="4081">
-    <title lang="en">Live The Hundred</title>
-    <desc lang="en">In the Women's Hundred, Southern Brave take on Oval Invincibles. It's now four wins out of four for Southern Brave and skipper Georgia Adams, with the latest coming against Trent Rockets.</desc>
+  <programme start="20250821153000 +0530" stop="20250821160000 +0530" channel="4040">
+    <title lang="en">Chelsea v Liverpool 2007/08</title>
+    <desc lang="en">A look back at the semi-final second leg from the 2007/08 UEFA Champions League between Chelsea and Liverpool at Stamford Bridge. A tense first leg at Anfield had finished 1-1.</desc>
   </programme>
-  <programme start="20250818223000 +0530" stop="20250819020000 +0530" channel="4081">
-    <title lang="en">Live The Hundred</title>
-    <desc lang="en">In the Men's Hundred, Southern Brave take on back-to-back champions Oval Invincibles. On the weekend, the Invincibles put 226 on the board - the highest total in tournament history.</desc>
+  <programme start="20250821160000 +0530" stop="20250821170000 +0530" channel="4040">
+    <title lang="en">UCL: Celtic v Kairat Almaty</title>
+    <desc lang="en">Action from Celtic Park as Brendan Rodgers' Celtic face Kazakh champions Kairat Almaty in the first leg of the UEFA Champions League play-offs.</desc>
   </programme>
-  <programme start="20250819020000 +0530" stop="20250819021500 +0530" channel="4081">
-    <title lang="en">THE HUNDRED Men's - M19 Hlts</title>
-    <desc lang="en">In the Men's Hundred, Southern Brave take on back-to-back champions Oval Invincibles. On the weekend, the Invincibles put 226 on the board - the highest total in tournament history. (18.08)</desc>
+  <programme start="20250821170000 +0530" stop="20250821180000 +0530" channel="4040">
+    <title lang="en">UCL: Fenerbahce v Benfica</title>
+    <desc lang="en">Action from the first leg of the UEFA Champions League play-off between Jose Mourinho's Fenerbahce and Benfica at Chobani Stadium Fenerbahce Sukru Saracoglu Sports Complex.</desc>
   </programme>
-  <programme start="20250819021500 +0530" stop="20250819023000 +0530" channel="4081">
-    <title lang="en">THE HUNDRED Women's - M19 Hlts</title>
-    <desc lang="en">In the Women's Hundred, Southern Brave take on Oval Invincibles. It's now four wins out of four for Brave and skipper Georgia Adams, with the latest coming against Trent Rockets. (18.08)</desc>
+  <programme start="20250821180000 +0530" stop="20250821190000 +0530" channel="4040">
+    <title lang="en">UCL: Basel v Copenhagen</title>
+    <desc lang="en">Action from the first leg of the UEFA Champions League play-off between Swiss champions Basel and Danish Superliga title holders Copenhagen at St. Jakob-Park.</desc>
   </programme>
-  <programme start="20250819023000 +0530" stop="20250819024500 +0530" channel="4081">
-    <title lang="en">THE HUNDRED Men's - M19 Hlts</title>
-    <desc lang="en">In the Men's Hundred, Southern Brave take on back-to-back champions Oval Invincibles. On the weekend, the Invincibles put 226 on the board - the highest total in tournament history. (18.08)</desc>
+  <programme start="20250821190000 +0530" stop="20250821200000 +0530" channel="4040">
+    <title lang="en">UCL: Bodo/Glimt v Sturm Graz</title>
+    <desc lang="en">Action from the first leg of the UEFA Champions League play-off between Norway's Bodo/Glimt and Austrian champions Sturm Graz at Aspmyra Stadion.</desc>
   </programme>
-  <programme start="20250819024500 +0530" stop="20250819060000 +0530" channel="4081">
-    <title lang="en">The Hundred</title>
-    <desc lang="en">In the Women's Hundred, Southern Brave take on Oval Invincibles. It's now four wins out of four for Southern Brave and skipper Georgia Adams, with the latest coming against Trent Rockets.</desc>
+  <programme start="20250821200000 +0530" stop="20250821204500 +0530" channel="4040">
+    <title lang="en">Motocross World Championship</title>
+    <desc lang="en">Motocross World Championship action from MX2 race one at Uddevalla circuit in Sweden.</desc>
+  </programme>
+  <programme start="20250821204500 +0530" stop="20250821213000 +0530" channel="4040">
+    <title lang="en">Motocross World Championship</title>
+    <desc lang="en">Motocross World Championship action from MX2 race two at Uddevalla circuit in Sweden.</desc>
+  </programme>
+  <programme start="20250821213000 +0530" stop="20250821221500 +0530" channel="4040">
+    <title lang="en">Motocross World Championship</title>
+    <desc lang="en">Motocross World Championship action from MXGP race one at Uddevalla circuit in Sweden.</desc>
+  </programme>
+  <programme start="20250821221500 +0530" stop="20250821230000 +0530" channel="4040">
+    <title lang="en">Motocross World Championship</title>
+    <desc lang="en">Motocross World Championship action from MXGP race two at Uddevalla circuit in Sweden.</desc>
+  </programme>
+  <programme start="20250821230000 +0530" stop="20250822000000 +0530" channel="4040">
+    <title lang="en">MotoGP Highlights</title>
+    <desc lang="en">Highlights from the 2025 MotoGP Grand Prix of Austria at Red Bull Ring in Spielberg.</desc>
+  </programme>
+  <programme start="20250822000000 +0530" stop="20250822003000 +0530" channel="4040">
+    <title lang="en">MotoE Highlights</title>
+    <desc lang="en">All the best action from the 2025 MotoE Grand Prix of Austria at Red Bull Ring in Spielberg.</desc>
+  </programme>
+  <programme start="20250822003000 +0530" stop="20250822010000 +0530" channel="4040">
+    <title lang="en">eSports Show</title>
+    <desc lang="en">Coverage of the latest news and events from the world of eSports, including the eSports World Cup 2025 being held in Riyadh, Saudi Arabia.</desc>
+  </programme>
+  <programme start="20250822010000 +0530" stop="20250822013000 +0530" channel="4040">
+    <title lang="en">UIM F1H2O World Championship</title>
+    <desc lang="en">A preview of the 2025 UIM F1H20 World Championship season, which kicks off with the Grand Prix of Indonesia at Lake Toba in Balige.</desc>
+  </programme>
+  <programme start="20250822013000 +0530" stop="20250822020000 +0530" channel="4040">
+    <title lang="en">CPL Highlights</title>
+    <desc lang="en">Highlights from the Caribbean Premier League showdown between Antigua &amp; Barbuda Falcons and Trinbago Knight Riders at Sir Vivian Richards Stadium.</desc>
+  </programme>
+  <programme start="20250822020000 +0530" stop="20250822023000 +0530" channel="4040">
+    <title lang="en">The Big Interview: Sol Campbell</title>
+    <desc lang="en">Sol Campbell speaks about his legendary Premier League career, including his controversial move across the North London divide and becoming an 'Invincible' with Arsenal.</desc>
+  </programme>
+  <programme start="20250822023000 +0530" stop="20250822053000 +0530" channel="4040">
+    <title lang="en">UFC 319 - Du Plessis vs Chimaev</title>
+    <desc lang="en">Action from UFC 319 at United Center in Chicago, featuring the main event showdown between middleweight champion Dricus du Plessis and undefeated contender Khamzat Chimaev.</desc>
   </programme>
   <programme start="20250819060000 +0530" stop="20250819061500 +0530" channel="4081">
     <title lang="en">THE HUNDRED Men's - M16 Hlts</title>
@@ -2303,129 +2248,97 @@
     <title lang="en">THE HUNDRED Women's - M21 Hlts</title>
     <desc lang="en">In the Women's Hundred, Welsh Fire take on Southern Brave. (20.08)</desc>
   </programme>
-  <programme start="20250818053000 +0530" stop="20250818073000 +0530" channel="4090">
-    <title lang="en">PL Retro: Sheffield Utd v Wigan 07</title>
-    <desc lang="en">Look back at a pivotal clash from the Premier League as Sheffield United meet Wigan Athletic in a relegation six-pointer in May 2007. Wigan knew that only victory would assure survival.</desc>
+  <programme start="20250821053000 +0530" stop="20250821054500 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Women's - M22 Hlts</title>
+    <desc lang="en">In the Women's Hundred, London Spirit take on Northern Superchargers. (20.08)</desc>
   </programme>
-  <programme start="20250818073000 +0530" stop="20250818074500 +0530" channel="4090">
-    <title lang="en">EFL 08/09: Millwall v Scunthorpe</title>
-    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Millwall face Scunthorpe at Wembley Stadium in the League 1 play-off final in 2009.</desc>
+  <programme start="20250821054500 +0530" stop="20250821060000 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Men's - M22 Hlts</title>
+    <desc lang="en">In the Men's Hundred, London Spirit take on Northern Superchargers. (20.08)</desc>
   </programme>
-  <programme start="20250818074500 +0530" stop="20250818080000 +0530" channel="4090">
-    <title lang="en">EFL 09/10: Sheff Utd v Sheff Weds</title>
-    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Sheffield United and Sheffield Wednesday meet in a thrilling Steel City derby in September 2009.</desc>
+  <programme start="20250821060000 +0530" stop="20250821061500 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Men's - M19 Hlts</title>
+    <desc lang="en">In the Men's Hundred, Southern Brave take on back-to-back champions Oval Invincibles. On the weekend, the Invincibles put 226 on the board - the highest total in tournament history. (18.08)</desc>
   </programme>
-  <programme start="20250818080000 +0530" stop="20250818081500 +0530" channel="4090">
-    <title lang="en">EFL 10/11: Peterborough v So'ton</title>
-    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Peterborough and Southampton meet in an eight-goal thriller in League 1 in February 2011.</desc>
+  <programme start="20250821061500 +0530" stop="20250821063000 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Men's - M20 Hlts</title>
+    <desc lang="en">In the Men's Hundred, Trent Rockets host Manchester Originals. (19.08)</desc>
   </programme>
-  <programme start="20250818081500 +0530" stop="20250818083000 +0530" channel="4090">
-    <title lang="en">EFL 12/13: Watford v Leicester</title>
-    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Watford meet Leicester City in the famous second leg of their Championship play-off semi-final in May 2013.</desc>
+  <programme start="20250821063000 +0530" stop="20250821100000 +0530" channel="4081">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the Men's Hundred, London Spirit take on Northern Superchargers.</desc>
   </programme>
-  <programme start="20250818083000 +0530" stop="20250818093000 +0530" channel="4090">
-    <title lang="en">BMW Championship 2024 Highlights</title>
-    <desc lang="en">Tournament highlights from the BMW Championship, held Castle Pines Golf Club. This is the second event of the FedEx Cup Playoffs and features a progressive cut as 50 stars compete.</desc>
+  <programme start="20250821100000 +0530" stop="20250821101500 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Men's - M20 Hlts</title>
+    <desc lang="en">In the Men's Hundred, Trent Rockets host Manchester Originals. (19.08)</desc>
   </programme>
-  <programme start="20250818093000 +0530" stop="20250818100000 +0530" channel="4090">
-    <title lang="en">Nick Dougherty's Tee Time Tips</title>
-    <desc lang="en">Hear from former professional Nick Dougherty as he shares his Tee Time Tips to help you improve your game out on the golf course.</desc>
+  <programme start="20250821101500 +0530" stop="20250821103000 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Women's - M20 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Trent Rockets meet Manchester Originals. (19.08)</desc>
   </programme>
-  <programme start="20250818100000 +0530" stop="20250818103000 +0530" channel="4090">
-    <title lang="en">Nick Dougherty's Tee Time Tips</title>
-    <desc lang="en">In a winter special, Nick Dougherty shares his Tee Time Tips to help you improve your game out on the golf course.</desc>
+  <programme start="20250821103000 +0530" stop="20250821134500 +0530" channel="4081">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the Women's Hundred, Welsh Fire take on Southern Brave.</desc>
   </programme>
-  <programme start="20250818103000 +0530" stop="20250818104500 +0530" channel="4090">
-    <title lang="en">EFL 13/14: Sheff Weds v Leeds Utd</title>
-    <desc lang="en">Relive a classic match from the Football League. Here, Yorkshire rivals Sheffield Wednesday and Leeds United meet at Hillsborough in January 2014 in a memorable game for the Owls.</desc>
+  <programme start="20250821134500 +0530" stop="20250821140000 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Men's - M19 Hlts</title>
+    <desc lang="en">In the Men's Hundred, Southern Brave take on back-to-back champions Oval Invincibles. On the weekend, the Invincibles put 226 on the board - the highest total in tournament history. (18.08)</desc>
   </programme>
-  <programme start="20250818104500 +0530" stop="20250818110000 +0530" channel="4090">
-    <title lang="en">EFL 13/14: Derby County v N.Forest</title>
-    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Derby County meet Nottingham Forest in the Sky Bet Championship.</desc>
+  <programme start="20250821140000 +0530" stop="20250821141500 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Men's - M20 Hlts</title>
+    <desc lang="en">In the Men's Hundred, Trent Rockets host Manchester Originals. (19.08)</desc>
   </programme>
-  <programme start="20250818110000 +0530" stop="20250818111500 +0530" channel="4090">
-    <title lang="en">EFL 13/14: QPR v N. Forest</title>
-    <desc lang="en">Relive a classic match from the English Football League. Here, QPR host Nottingham Forest at Loftus Road in the 2013-14 season in a seven-goal thriller.</desc>
+  <programme start="20250821141500 +0530" stop="20250821143000 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Women's - M20 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Trent Rockets meet Manchester Originals. (19.08)</desc>
   </programme>
-  <programme start="20250818111500 +0530" stop="20250818113000 +0530" channel="4090">
-    <title lang="en">EFL 14/15: Brentford v Fulham</title>
-    <desc lang="en">Relive some classic action from the English Football League. Here, a west London derby in the Sky Bet Championship between Brentford and Fulham at Griffin Park in November 2014.</desc>
+  <programme start="20250821143000 +0530" stop="20250821144500 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Men's - M21 Hlts</title>
+    <desc lang="en">In the Men's Hundred, Welsh Fire take on Southern Brave. (20.08)</desc>
   </programme>
-  <programme start="20250818113000 +0530" stop="20250818123000 +0530" channel="4090">
-    <title lang="en">US Open '24: Evans v Khachanov</title>
-    <desc lang="en">Britain's Dan Evans challenges the 2022 US Open semi-finalist Karen Khachanov as the pair compete for a spot in the second round of the men's singles at the New York Slam.</desc>
+  <programme start="20250821144500 +0530" stop="20250821150000 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Women's - M21 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Welsh Fire take on Southern Brave. (20.08)</desc>
   </programme>
-  <programme start="20250818123000 +0530" stop="20250818133000 +0530" channel="4090">
-    <title lang="en">US Open '24: Paolini v Andreescu</title>
-    <desc lang="en">Jasmine Paolini entered the 2024 US Open a Roland Garros and Wimbledon finalist in the same season, as the Italian got underway in New York against former champion Bianca Andreescu.</desc>
+  <programme start="20250821150000 +0530" stop="20250821183000 +0530" channel="4081">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the Men's Hundred, Welsh Fire take on Southern Brave.</desc>
   </programme>
-  <programme start="20250818133000 +0530" stop="20250818134500 +0530" channel="4090">
-    <title lang="en">THE HUNDRED Men's - M17 Hlts</title>
-    <desc lang="en">With just one win to their name so far this season, Jos Buttler's Manchester Originals take on Northern Superchargers in the Men's Hundred at Old Trafford. (17.08)</desc>
+  <programme start="20250821183000 +0530" stop="20250821184500 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Men's - M16 Hlts</title>
+    <desc lang="en">Having waved goodbye to their unbeaten record, the back-to-back champions look to avoid back-to-back defeats as Oval Invincibles face the Fire's Steve Smith and Jonny Bairstow. (16.08)</desc>
   </programme>
-  <programme start="20250818134500 +0530" stop="20250818140000 +0530" channel="4090">
-    <title lang="en">THE HUNDRED Women's - M17 Hlts</title>
-    <desc lang="en">As the Women's Hundred continues to hot up, Beth Mooney's Manchester Originals search for a second consecutive win in a clash with Northern Superchargers at Old Trafford. (17.08)</desc>
+  <programme start="20250821184500 +0530" stop="20250821190000 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Women's - M21 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Welsh Fire take on Southern Brave. (20.08)</desc>
   </programme>
-  <programme start="20250818140000 +0530" stop="20250818141500 +0530" channel="4090">
-    <title lang="en">THE HUNDRED Men's - M18 Hlts</title>
-    <desc lang="en">In the Men's Hundred, Birmingham Phoenix compete with London Spirit. England red-ball star Jamie Smith came to the fore with a knock of 52 in Sprit's latest win. (17.08)</desc>
+  <programme start="20250821190000 +0530" stop="20250821191500 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Women's - M20 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Trent Rockets meet Manchester Originals. (19.08)</desc>
   </programme>
-  <programme start="20250818141500 +0530" stop="20250818143000 +0530" channel="4090">
-    <title lang="en">THE HUNDRED Women's - M18 Hlts</title>
-    <desc lang="en">In the Women's Hundred, Birmingham Phoenix face Charlie Dean's London Spirit, who lost their first game in four to a Nat Sciver-Brunt-inspired Trent Rockets. (17.08)</desc>
+  <programme start="20250821191500 +0530" stop="20250821223000 +0530" channel="4081">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">In the Women's Hundred, Oval Invincibles face Trent Rockets.</desc>
   </programme>
-  <programme start="20250818143000 +0530" stop="20250818163000 +0530" channel="4090">
-    <title lang="en">PL Retro: West Ham v Spurs 2007</title>
-    <desc lang="en">In this classic encounter from the 2006-07 campaign, West Ham welcome rivals Tottenham Hotspur to Upton Park for a thrilling, end-to-end London derby in the Premier League.</desc>
+  <programme start="20250821223000 +0530" stop="20250822020000 +0530" channel="4081">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">In the Men's Hundred, Oval Invincibles collide with Trent Rockets.</desc>
   </programme>
-  <programme start="20250818163000 +0530" stop="20250818164500 +0530" channel="4090">
-    <title lang="en">THE HUNDRED Men's - M17 Hlts</title>
-    <desc lang="en">With just one win to their name so far this season, Jos Buttler's Manchester Originals take on Northern Superchargers in the Men's Hundred at Old Trafford. (17.08)</desc>
+  <programme start="20250822020000 +0530" stop="20250822021500 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Men's - M23 Hlts</title>
+    <desc lang="en">In the Men's Hundred, Oval Invincibles collide with Trent Rockets. (21.08)</desc>
   </programme>
-  <programme start="20250818164500 +0530" stop="20250818170000 +0530" channel="4090">
-    <title lang="en">THE HUNDRED Women's - M17 Hlts</title>
-    <desc lang="en">As the Women's Hundred continues to hot up, Beth Mooney's Manchester Originals search for a second consecutive win in a clash with Northern Superchargers at Old Trafford. (17.08)</desc>
+  <programme start="20250822021500 +0530" stop="20250822023000 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Women's - M23 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Oval Invincibles face Trent Rockets. (21.08)</desc>
   </programme>
-  <programme start="20250818170000 +0530" stop="20250818171500 +0530" channel="4090">
-    <title lang="en">THE HUNDRED Men's - M18 Hlts</title>
-    <desc lang="en">In the Men's Hundred, Birmingham Phoenix compete with London Spirit. England red-ball star Jamie Smith came to the fore with a knock of 52 in Sprit's latest win. (17.08)</desc>
+  <programme start="20250822023000 +0530" stop="20250822024500 +0530" channel="4081">
+    <title lang="en">THE HUNDRED Men's - M23 Hlts</title>
+    <desc lang="en">In the Men's Hundred, Oval Invincibles collide with Trent Rockets. (21.08)</desc>
   </programme>
-  <programme start="20250818171500 +0530" stop="20250818173000 +0530" channel="4090">
-    <title lang="en">THE HUNDRED Women's - M18 Hlts</title>
-    <desc lang="en">In the Women's Hundred, Birmingham Phoenix face Charlie Dean's London Spirit, who lost their first game in four to a Nat Sciver-Brunt-inspired Trent Rockets. (17.08)</desc>
-  </programme>
-  <programme start="20250818173000 +0530" stop="20250818180000 +0530" channel="4090">
-    <title lang="en">PDC Classics 2023</title>
-    <desc lang="en">Out to retain the same title he won in the year previous, Gary Anderson went toe to toe with Michael van Gerwen in the 2017 final of the Dubai Duty Free Masters. Contains flashing images.</desc>
-  </programme>
-  <programme start="20250818180000 +0530" stop="20250818183000 +0530" channel="4090">
-    <title lang="en">PDC Classics 2023</title>
-    <desc lang="en">Revisit the final of the 1997 PDC World Darts Championship, when Phil Taylor and Dennis Priestley met for the third time in four years at this stage. Contains flashing images.</desc>
-  </programme>
-  <programme start="20250818183000 +0530" stop="20250818184500 +0530" channel="4090">
-    <title lang="en">PL Greatest Games: Chelsea/Arsenal</title>
-    <desc lang="en">Remember a classic match from the Premier League. Here, Chelsea and Arsenal go head-to-head in an eight-goal thriller at Stamford Bridge back in 2011.</desc>
-  </programme>
-  <programme start="20250818184500 +0530" stop="20250818190000 +0530" channel="4090">
-    <title lang="en">PL Greatest: Norwich/M'boro 2005</title>
-    <desc lang="en">A chance to relive a classic Premier League match. Here, Norwich City meet Middlesbrough at Carrow Road in 2005, with the Canaries making a stunning comeback.</desc>
-  </programme>
-  <programme start="20250818190000 +0530" stop="20250818191500 +0530" channel="4090">
-    <title lang="en">PL Greatest: Bolton v M'boro 2003</title>
-    <desc lang="en">A chance to relive a classic Premier League match. Here, Bolton Wanderers fight for their top-flight survival against Middlesbrough on the final day of the 2002-03 season.</desc>
-  </programme>
-  <programme start="20250818191500 +0530" stop="20250818193000 +0530" channel="4090">
-    <title lang="en">PL Greatest Liverpool/Arsenal 2004</title>
-    <desc lang="en">A chance to relive a classic Premier League match. Here, Liverpool take on Arsenal back in 2004 at Anfield in a match that saw some late, late drama.</desc>
-  </programme>
-  <programme start="20250818193000 +0530" stop="20250818203000 +0530" channel="4090">
-    <title lang="en">US Open '24: Evans v Khachanov</title>
-    <desc lang="en">Britain's Dan Evans challenges the 2022 US Open semi-finalist Karen Khachanov as the pair compete for a spot in the second round of the men's singles at the New York Slam.</desc>
-  </programme>
-  <programme start="20250818203000 +0530" stop="20250819063000 +0530" channel="4090">
-    <title lang="en">Live: US Open Qualifying Day 1</title>
-    <desc lang="en">All the action from day one of qualifying for the 2025 US Open, as Brits Jodie Burrage and Dan Evans feature alongside seeds James Duckworth and Varvara Gracheva in the first round.</desc>
+  <programme start="20250822024500 +0530" stop="20250822060000 +0530" channel="4081">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the Women's Hundred, Oval Invincibles face Trent Rockets.</desc>
   </programme>
   <programme start="20250819063000 +0530" stop="20250819064500 +0530" channel="4090">
     <title lang="en">PL Greatest Games:Leics/Everton'16</title>
@@ -2647,105 +2560,101 @@
     <title lang="en">Live: US Open Qualifying Day 3</title>
     <desc lang="en">Qualifying for the 2025 US Open gets continues as 16 places in each of the men's and women's singles draws are up for grabs at Flushing Meadows in New York.</desc>
   </programme>
-  <programme start="20250818074000 +0530" stop="20250818081000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Review</title>
-    <desc lang="es">Action from cricket matches around the world.</desc>
+  <programme start="20250821063000 +0530" stop="20250821064500 +0530" channel="4090">
+    <title lang="en">THE HUNDRED Men's - M21 Hlts</title>
+    <desc lang="en">In the Men's Hundred, Welsh Fire take on Southern Brave. (20.08)</desc>
   </programme>
-  <programme start="20250818081000 +0530" stop="20250818083000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Filler</title>
-    <desc lang="es">Filler cricket programming.</desc>
+  <programme start="20250821064500 +0530" stop="20250821070000 +0530" channel="4090">
+    <title lang="en">THE HUNDRED Women's - M21 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Welsh Fire take on Southern Brave. (20.08)</desc>
   </programme>
-  <programme start="20250818083000 +0530" stop="20250818093000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821070000 +0530" stop="20250821071500 +0530" channel="4090">
+    <title lang="en">THE HUNDRED Men's - M22 Hlts</title>
+    <desc lang="en">In the Men's Hundred, London Spirit take on Northern Superchargers. (20.08)</desc>
   </programme>
-  <programme start="20250818093000 +0530" stop="20250818103000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821071500 +0530" stop="20250821073000 +0530" channel="4090">
+    <title lang="en">THE HUNDRED Women's - M22 Hlts</title>
+    <desc lang="en">In the Women's Hundred, London Spirit take on Northern Superchargers. (20.08)</desc>
   </programme>
-  <programme start="20250818103000 +0530" stop="20250818113000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821073000 +0530" stop="20250821083000 +0530" channel="4090">
+    <title lang="en">US Open '24: Dimitrov v Rublev</title>
+    <desc lang="en">Without dropping a set, Grigor Dimitrov arrived at the last-16 of the 2024 US Open where the veteran Bulgarian would stand across the net from a sixth-seeded Andrey Rublev.</desc>
   </programme>
-  <programme start="20250818113000 +0530" stop="20250818123000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821083000 +0530" stop="20250821093000 +0530" channel="4090">
+    <title lang="en">US Open '24: Navarro v Gauff</title>
+    <desc lang="en">2023 women's singles champion Coco Gauff looks to keep her title defence alive as she meets compatriot Emma Navarro, who defeated her Olympic teammate Gauff at Wimbledon.</desc>
   </programme>
-  <programme start="20250818123000 +0530" stop="20250818133000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821093000 +0530" stop="20250821103000 +0530" channel="4090">
+    <title lang="en">British Masters 2019 Highlights</title>
+    <desc lang="en">Day four of the British Masters hosted by Tommy Fleetwood from Hillside Golf Club in Southport. England's Matt Wallace and Sweden's Marcus Kinhult lead on 14 under heading into today.</desc>
   </programme>
-  <programme start="20250818133000 +0530" stop="20250818143000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821103000 +0530" stop="20250821104500 +0530" channel="4090">
+    <title lang="en">EFL 12/13: Bradford v Arsenal</title>
+    <desc lang="en">A look at some of the greatest matches from English football. Here, League 2 side Bradford City take on Premier League giants Arsenal in the Football League Cup in December 2012.</desc>
   </programme>
-  <programme start="20250818143000 +0530" stop="20250818153000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821104500 +0530" stop="20250821110000 +0530" channel="4090">
+    <title lang="en">EFL 17/18: Derby County v Cardiff</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, Derby County take on Cardiff City at Pride Park in the 2017-18 campaign in a match with implications in the play-off race.</desc>
   </programme>
-  <programme start="20250818153000 +0530" stop="20250818163000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821110000 +0530" stop="20250821111500 +0530" channel="4090">
+    <title lang="en">EFL 17/18: Derby County v Leeds</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, Derby County take on Marcelo Bielsa's Leeds United at Pride Park in a Championship match that saw five goals.</desc>
   </programme>
-  <programme start="20250818163000 +0530" stop="20250818173000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821111500 +0530" stop="20250821113000 +0530" channel="4090">
+    <title lang="en">EFL 17/18: West Brom v Leeds Utd</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, West Brom take on Leeds United at The Hawthorns in a high-scoring Championship match that saw one side dominate.</desc>
   </programme>
-  <programme start="20250818173000 +0530" stop="20250818183000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821113000 +0530" stop="20250821123000 +0530" channel="4090">
+    <title lang="en">US Open '24: Fritz v Tiafoe</title>
+    <desc lang="en">With the Arthur Ashe stage set, one man would realise the dream of a maiden Grand Slam final, as the American pair of Taylor Fritz and Frances Tiafoe clashed in the 2024 US Open semi-final.</desc>
   </programme>
-  <programme start="20250818183000 +0530" stop="20250818190000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821123000 +0530" stop="20250821133000 +0530" channel="4090">
+    <title lang="en">US Open '24: Pegula v Muchova</title>
+    <desc lang="en">With a memorable win over the top seed under her belt, Jessica Pegula was a win away from a first Grand Slam final appearance as the American star fought Karolina Muchova at the US Open.</desc>
   </programme>
-  <programme start="20250818190000 +0530" stop="20250818192000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Filler</title>
-    <desc lang="es">Filler cricket programming.</desc>
+  <programme start="20250821133000 +0530" stop="20250821153000 +0530" channel="4090">
+    <title lang="en">LPGA Tour Golf</title>
+    <desc lang="en">The final day of the Standard Portland Classic, an LPGA Tour event taking place at Columbia Edgewater Country Club. Japanese golfer Akie Iwai leads heading into the final day.</desc>
   </programme>
-  <programme start="20250818192000 +0530" stop="20250818193000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Preview</title>
-    <desc lang="es">A preview of an upcoming cricket match.</desc>
+  <programme start="20250821153000 +0530" stop="20250821163000 +0530" channel="4090">
+    <title lang="en">PGA Tour Champions Highlights</title>
+    <desc lang="en">Highlights from the Rogers Charity Classic, a 2025 PGA Tour Champions event held at Canyon Meadows Golf and Country Club in Calgary, Alberta, Canada.</desc>
   </programme>
-  <programme start="20250818193000 +0530" stop="20250818220000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Women's The Hundred</title>
-    <desc lang="es">Coverage of the women's professional 100-ball cricket tournament.</desc>
+  <programme start="20250821163000 +0530" stop="20250821173000 +0530" channel="4090">
+    <title lang="en">PGA Tour Golf Highlights</title>
+    <desc lang="en">Tournament highlights from the 2025 BMW Championship at Caves Valley Golf Club in Maryland. Here, the top 50 in the FedExCup standings compete to advance to the Tour Championship.</desc>
   </programme>
-  <programme start="20250818220000 +0530" stop="20250818223000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Review</title>
-    <desc lang="es">Action from cricket matches around the world.</desc>
+  <programme start="20250821173000 +0530" stop="20250821174500 +0530" channel="4090">
+    <title lang="en">THE HUNDRED Men's - M21 Hlts</title>
+    <desc lang="en">In the Men's Hundred, Welsh Fire take on Southern Brave. (20.08)</desc>
   </programme>
-  <programme start="20250818223000 +0530" stop="20250818225000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Filler</title>
-    <desc lang="es">Filler cricket programming.</desc>
+  <programme start="20250821174500 +0530" stop="20250821180000 +0530" channel="4090">
+    <title lang="en">THE HUNDRED Women's - M21 Hlts</title>
+    <desc lang="en">In the Women's Hundred, Welsh Fire take on Southern Brave. (20.08)</desc>
   </programme>
-  <programme start="20250818225000 +0530" stop="20250818230000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Preview</title>
-    <desc lang="es">A preview of an upcoming cricket match.</desc>
+  <programme start="20250821180000 +0530" stop="20250821181500 +0530" channel="4090">
+    <title lang="en">THE HUNDRED Men's - M22 Hlts</title>
+    <desc lang="en">In the Men's Hundred, London Spirit take on Northern Superchargers. (20.08)</desc>
   </programme>
-  <programme start="20250818230000 +0530" stop="20250819013000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Men's The Hundred</title>
-    <desc lang="es">Coverage of the men's professional 100-ball cricket tournament.</desc>
+  <programme start="20250821181500 +0530" stop="20250821183000 +0530" channel="4090">
+    <title lang="en">THE HUNDRED Women's - M22 Hlts</title>
+    <desc lang="en">In the Women's Hundred, London Spirit take on Northern Superchargers. (20.08)</desc>
   </programme>
-  <programme start="20250819013000 +0530" stop="20250819020000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Review</title>
-    <desc lang="es">Action from cricket matches around the world.</desc>
+  <programme start="20250821183000 +0530" stop="20250821190000 +0530" channel="4090">
+    <title lang="en">WTA Cincinnati 2025 Review</title>
+    <desc lang="en">A review of the women's singles at the Cincinnati Open, a WTA Tour 1000 hard-court event.</desc>
   </programme>
-  <programme start="20250819020000 +0530" stop="20250819023000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821190000 +0530" stop="20250821200000 +0530" channel="4090">
+    <title lang="en">ATP Cincinnati 2025 Review</title>
+    <desc lang="en">A review of the men's singles at the Cincinnati Open, an ATP Tour Masters 1000 hard-court event.</desc>
   </programme>
-  <programme start="20250819023000 +0530" stop="20250819033000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821200000 +0530" stop="20250821203000 +0530" channel="4090">
+    <title lang="en">Jack Draper's US Open</title>
+    <desc lang="en">Revisit the story of Jack Draper's breakthrough tournament at the 2024 US Open, as the rising British star went all the way to the men's singles semi-finals at the New York Grand Slam.</desc>
   </programme>
-  <programme start="20250819033000 +0530" stop="20250819043000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-  </programme>
-  <programme start="20250819043000 +0530" stop="20250819053000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821203000 +0530" stop="20250822073000 +0530" channel="4090">
+    <title lang="en">Live: US Open Qualifying Day 4</title>
+    <desc lang="en">Qualifying for the 2025 US Open gets concludes as 16 places in each of the men's and women's singles draws are up for grabs at Flushing Meadows in New York.</desc>
   </programme>
   <programme start="20250819053000 +0530" stop="20250819063000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
     <title lang="es">Game On with Grace Hayden</title>
@@ -2833,99 +2742,109 @@
     <title lang="es">CPL T20 Cricket</title>
     <desc lang="es">Twenty20 Cricket action from multiple venues in the Caribbean.</desc>
   </programme>
-  <programme start="20250818053000 +0530" stop="20250818063000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
-    <title lang="es">Game On with Grace Hayden</title>
+  <programme start="20250820074000 +0530" stop="20250820081000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Cricket Review</title>
+    <desc lang="es">Action from cricket matches around the world.</desc>
   </programme>
-  <programme start="20250818063000 +0530" stop="20250818073000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+  <programme start="20250820081000 +0530" stop="20250820083000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Cricket Filler</title>
+    <desc lang="es">Filler cricket programming.</desc>
+  </programme>
+  <programme start="20250820083000 +0530" stop="20250820093000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
     <title lang="es">Cricket Highlights</title>
     <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
   </programme>
-  <programme start="20250818073000 +0530" stop="20250818083000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+  <programme start="20250820093000 +0530" stop="20250820103000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
     <title lang="es">Cricket Highlights</title>
     <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
   </programme>
-  <programme start="20250818083000 +0530" stop="20250818093000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+  <programme start="20250820103000 +0530" stop="20250820113000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
     <title lang="es">Cricket Highlights</title>
     <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
   </programme>
-  <programme start="20250818093000 +0530" stop="20250818103000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+  <programme start="20250820113000 +0530" stop="20250820123000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
     <title lang="es">Cricket Highlights</title>
     <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
   </programme>
-  <programme start="20250818103000 +0530" stop="20250818113000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+  <programme start="20250820123000 +0530" stop="20250820133000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
     <title lang="es">Cricket Highlights</title>
     <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
   </programme>
-  <programme start="20250818113000 +0530" stop="20250818123000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+  <programme start="20250820133000 +0530" stop="20250820143000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
     <title lang="es">Cricket Highlights</title>
     <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
   </programme>
-  <programme start="20250818123000 +0530" stop="20250818133000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of the second ODI match between England and West Indies, where they compete to emerge victorious.</desc>
-  </programme>
-  <programme start="20250818133000 +0530" stop="20250818143000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+  <programme start="20250820143000 +0530" stop="20250820153000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
     <title lang="es">Cricket Highlights</title>
     <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
   </programme>
-  <programme start="20250818143000 +0530" stop="20250818153000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+  <programme start="20250820153000 +0530" stop="20250820155000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Cricket Filler</title>
+    <desc lang="es">Filler cricket programming.</desc>
+  </programme>
+  <programme start="20250820155000 +0530" stop="20250820160000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Cricket Preview</title>
+    <desc lang="es">A preview of an upcoming cricket match.</desc>
+  </programme>
+  <programme start="20250820160000 +0530" stop="20250820183000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Women's The Hundred</title>
+    <desc lang="es">Coverage of the women's professional 100-ball cricket tournament.</desc>
+  </programme>
+  <programme start="20250820183000 +0530" stop="20250820190000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Cricket Review</title>
+    <desc lang="es">Action from cricket matches around the world.</desc>
+  </programme>
+  <programme start="20250820190000 +0530" stop="20250820192000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Cricket Filler</title>
+    <desc lang="es">Filler cricket programming.</desc>
+  </programme>
+  <programme start="20250820192000 +0530" stop="20250820193000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Cricket Preview</title>
+    <desc lang="es">A preview of an upcoming cricket match.</desc>
+  </programme>
+  <programme start="20250820193000 +0530" stop="20250820220000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Men's The Hundred</title>
+    <desc lang="es">Coverage of the men's professional 100-ball cricket tournament.</desc>
+  </programme>
+  <programme start="20250820220000 +0530" stop="20250820223000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Cricket Review</title>
+    <desc lang="es">Action from cricket matches around the world.</desc>
+  </programme>
+  <programme start="20250820223000 +0530" stop="20250820225000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Cricket Filler</title>
+    <desc lang="es">Filler cricket programming.</desc>
+  </programme>
+  <programme start="20250820225000 +0530" stop="20250820230000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Cricket Preview</title>
+    <desc lang="es">A preview of an upcoming cricket match.</desc>
+  </programme>
+  <programme start="20250820230000 +0530" stop="20250821013000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Men's The Hundred</title>
+    <desc lang="es">Coverage of the men's professional 100-ball cricket tournament.</desc>
+  </programme>
+  <programme start="20250821013000 +0530" stop="20250821020000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Cricket Review</title>
+    <desc lang="es">Action from cricket matches around the world.</desc>
+  </programme>
+  <programme start="20250821020000 +0530" stop="20250821023000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
     <title lang="es">Cricket Highlights</title>
     <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
   </programme>
-  <programme start="20250818153000 +0530" stop="20250818163000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+  <programme start="20250821023000 +0530" stop="20250821033000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
     <title lang="es">Cricket Highlights</title>
     <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
   </programme>
-  <programme start="20250818163000 +0530" stop="20250818173000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+  <programme start="20250821033000 +0530" stop="20250821040000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
     <title lang="es">Cricket Highlights</title>
     <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
   </programme>
-  <programme start="20250818173000 +0530" stop="20250818183000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821040000 +0530" stop="20250821043000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">Cricket Preview</title>
+    <desc lang="es">A preview of an upcoming cricket match.</desc>
   </programme>
-  <programme start="20250818183000 +0530" stop="20250818193000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-  </programme>
-  <programme start="20250818193000 +0530" stop="20250818203000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-  </programme>
-  <programme start="20250818203000 +0530" stop="20250818213000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of the first Women's T20I match between England and West Indies, where both teams compete to emerge victorious.</desc>
-  </programme>
-  <programme start="20250818213000 +0530" stop="20250818223000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-  </programme>
-  <programme start="20250818223000 +0530" stop="20250818233000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
-    <title lang="es">Game On with Grace Hayden</title>
-  </programme>
-  <programme start="20250818233000 +0530" stop="20250819003000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of the third Women's T20I match between England and India, where both teams compete to emerge victorious.</desc>
-  </programme>
-  <programme start="20250819003000 +0530" stop="20250819013000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-  </programme>
-  <programme start="20250819013000 +0530" stop="20250819023000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-  </programme>
-  <programme start="20250819023000 +0530" stop="20250819033000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
-  </programme>
-  <programme start="20250819033000 +0530" stop="20250819043000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of the third ODI match between England and West Indies, where both teams compete to emerge victorious.</desc>
-  </programme>
-  <programme start="20250819043000 +0530" stop="20250819053000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
-    <title lang="es">Cricket Highlights</title>
-    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  <programme start="20250821043000 +0530" stop="20250821074000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">
+    <title lang="es">CPL T20 Cricket</title>
+    <desc lang="es">Twenty20 Cricket action from multiple venues in the Caribbean.</desc>
   </programme>
   <programme start="20250819053000 +0530" stop="20250819063000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
     <title lang="es">Cricket Highlights</title>
@@ -3020,5 +2939,102 @@
   <programme start="20250820043000 +0530" stop="20250820053000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
     <title lang="es">Cricket Highlights</title>
     <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250820053000 +0530" stop="20250820063000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250820063000 +0530" stop="20250820073000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Game On with Grace Hayden</title>
+  </programme>
+  <programme start="20250820073000 +0530" stop="20250820083000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250820083000 +0530" stop="20250820093000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250820093000 +0530" stop="20250820103000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250820103000 +0530" stop="20250820113000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of the third ODI match between England and West Indies, where both teams compete to emerge victorious.</desc>
+  </programme>
+  <programme start="20250820113000 +0530" stop="20250820123000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250820123000 +0530" stop="20250820133000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250820133000 +0530" stop="20250820143000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250820143000 +0530" stop="20250820153000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250820153000 +0530" stop="20250820163000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250820163000 +0530" stop="20250820173000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250820173000 +0530" stop="20250820183000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250820183000 +0530" stop="20250820190000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of the third Women's T20I match between England and West Indies, where both teams compete to emerge victorious.</desc>
+  </programme>
+  <programme start="20250820190000 +0530" stop="20250820192000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Filler</title>
+    <desc lang="es">Filler cricket programming.</desc>
+  </programme>
+  <programme start="20250820192000 +0530" stop="20250820193000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Preview</title>
+    <desc lang="es">A preview of an upcoming cricket match.</desc>
+  </programme>
+  <programme start="20250820193000 +0530" stop="20250820220000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Women's The Hundred</title>
+    <desc lang="es">Coverage of the women's professional 100-ball cricket tournament.</desc>
+  </programme>
+  <programme start="20250820220000 +0530" stop="20250820223000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Review</title>
+    <desc lang="es">Action from cricket matches around the world.</desc>
+  </programme>
+  <programme start="20250820223000 +0530" stop="20250820233000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250820233000 +0530" stop="20250821003000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Game On with Grace Hayden</title>
+  </programme>
+  <programme start="20250821003000 +0530" stop="20250821013000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250821013000 +0530" stop="20250821023000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from various cricket tournaments, where top-performing teams from different countries compete against each other to win the coveted title.</desc>
+  </programme>
+  <programme start="20250821023000 +0530" stop="20250821033000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights from the fifth day of the first Test match between England and India, where both teams compete to emerge victorious.</desc>
+  </programme>
+  <programme start="20250821033000 +0530" stop="20250821043000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Cricket Highlights</title>
+    <desc lang="es">Highlights of all the action from international cricket tournaments, where teams compete to win the prestigious title.</desc>
+  </programme>
+  <programme start="20250821043000 +0530" stop="20250821060000 +0530" channel="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">
+    <title lang="es">Countdown to the World Cup</title>
   </programme>
 </tv>
