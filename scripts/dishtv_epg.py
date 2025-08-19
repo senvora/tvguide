@@ -24,28 +24,29 @@ root = tree.getroot()
 if "date" in root.attrib:
     root.set("date", relabel_as_ist(root.attrib["date"]))
 
-# Loop through all programme elements
+# Collect all programmes
+programmes = []
 for programme in root.findall("programme"):
     # Relabel start/stop attributes to +0530
     for attr in ("start", "stop"):
         if attr in programme.attrib:
             programme.set(attr, relabel_as_ist(programme.attrib[attr]))
 
-    # Keep only English titles if multiple exist
+    # Keep only English titles
     titles = programme.findall("title")
     if len(titles) > 1:
         for t in titles:
             if t.attrib.get("lang") != "en":
                 programme.remove(t)
 
-    # Keep only English descriptions if multiple exist
+    # Keep only English descriptions
     descs = programme.findall("desc")
     if len(descs) > 1:
         for d in descs:
             if d.attrib.get("lang") != "en":
                 programme.remove(d)
 
-    # Remove any other unwanted tags
+    # Remove other tags (like <icon>, <url>)
     for child in list(programme):
         if child.tag not in ("title", "desc"):
             programme.remove(child)
@@ -56,12 +57,30 @@ for programme in root.findall("programme"):
         if element is not None and (element.text is None or element.text.strip() == ""):
             programme.remove(element)
 
+    programmes.append(programme)
+
+# Remove existing programmes from tree
+for p in root.findall("programme"):
+    root.remove(p)
+
+# Sort by channel, then by start time
+def sort_key(p):
+    channel = p.attrib.get("channel", "").lower()
+    start = p.attrib.get("start", "")
+    return (channel, start)
+
+programmes.sort(key=sort_key)
+
+# Re-attach sorted programmes
+for p in programmes:
+    root.append(p)
+
 # Pretty print XML with indentation
 xml_str = ET.tostring(root, encoding="utf-8")
 parsed = minidom.parseString(xml_str)
 pretty_xml_as_str = parsed.toprettyxml(indent="  ", encoding="utf-8")
 
-# Remove ALL blank lines
+# Remove blank lines
 pretty_xml_as_str = b"\n".join(
     line for line in pretty_xml_as_str.splitlines() if line.strip()
 )
@@ -75,4 +94,4 @@ with open(output_file, "rb") as f_in:
     with gzip.open(gzip_file, "wb") as f_out:
         shutil.copyfileobj(f_in, f_out)
 
-print(f"Cleaned EPG saved to {output_file} and {gzip_file}")
+print(f"Cleaned + sorted EPG saved to {output_file} and {gzip_file}")
