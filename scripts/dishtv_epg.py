@@ -24,7 +24,7 @@ root = tree.getroot()
 if "date" in root.attrib:
     root.set("date", relabel_as_ist(root.attrib["date"]))
 
-# Collect all programmes
+# --- Collect and clean programmes ---
 programmes = []
 for programme in root.findall("programme"):
     # Relabel start/stop attributes to +0530
@@ -59,11 +59,27 @@ for programme in root.findall("programme"):
 
     programmes.append(programme)
 
-# Remove existing programmes from tree
-for p in root.findall("programme"):
-    root.remove(p)
+# --- Collect channels ---
+channels = root.findall("channel")
 
-# Sort by channel, then by start time
+# --- Remove existing channels and programmes ---
+for elem in channels + root.findall("programme"):
+    root.remove(elem)
+
+# --- Sort channels alphabetically ---
+def channel_key(c):
+    name_elem = c.find("display-name")
+    if name_elem is not None and name_elem.text:
+        return name_elem.text.lower()
+    return c.attrib.get("id", "").lower()
+
+channels.sort(key=channel_key)
+
+# --- Re-attach sorted channels ---
+for c in channels:
+    root.append(c)
+
+# --- Sort programmes by channel then start ---
 def sort_key(p):
     channel = p.attrib.get("channel", "").lower()
     start = p.attrib.get("start", "")
@@ -71,11 +87,11 @@ def sort_key(p):
 
 programmes.sort(key=sort_key)
 
-# Re-attach sorted programmes
+# --- Re-attach sorted programmes ---
 for p in programmes:
     root.append(p)
 
-# Pretty print XML with indentation
+# --- Pretty print XML with indentation ---
 xml_str = ET.tostring(root, encoding="utf-8")
 parsed = minidom.parseString(xml_str)
 pretty_xml_as_str = parsed.toprettyxml(indent="  ", encoding="utf-8")
@@ -85,13 +101,13 @@ pretty_xml_as_str = b"\n".join(
     line for line in pretty_xml_as_str.splitlines() if line.strip()
 )
 
-# Save cleaned XML
+# --- Save cleaned XML ---
 with open(output_file, "wb") as f:
     f.write(pretty_xml_as_str)
 
-# Create gzipped version
+# --- Create gzipped version ---
 with open(output_file, "rb") as f_in:
     with gzip.open(gzip_file, "wb") as f_out:
         shutil.copyfileobj(f_in, f_out)
 
-print(f"Cleaned + sorted EPG saved to {output_file} and {gzip_file}")
+print(f"✅ Cleaned + sorted EPG saved to {output_file} and {gzip_file}")
