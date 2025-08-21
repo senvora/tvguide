@@ -130,7 +130,7 @@ def process_and_save(input_url, output_gz_file, provider):
 if __name__ == "__main__":
     all_jobs = [
         # (url, filename, provider)
-        ("https://gitlab.com/anbuchelva/epg/-/raw/main/epg.xml.gz", "jiotv.xml.gz", "jiotv"),
+        ("https://www.tsepg.cf/jio.xml.gz", "jiotv.xml.gz", "jiotv"),
         ("https://github.com/azimabid00/epg/raw/refs/heads/main/astro_epg.xml", "astro.xml.gz", "astro"),
     ]
 
