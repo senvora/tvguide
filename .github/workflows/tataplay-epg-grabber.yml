@@ -25,26 +25,30 @@ jobs:
     - name: Run Tempest script
       run: php epg-grabber/tempest.php --epg config=tataplay.config.xml
 
-    # Step 4: Save Tempest EPG
+    # Step 4: Save Tempest EPG (with debug)
     - name: Save Tempest EPG
       run: |
-        if [ -f epg-grabber/epg/tataplay.xml ]; then
+        echo "🔎 Listing directories to locate tataplay.xml..."
+        ls -R epg-grabber || true
+        ls -R /tmp || true
+
+        if [ -f epg-grabber/tempest_config/epg/tataplay.xml ]; then
           mkdir -p epg
-          cp epg-grabber/epg/tataplay.xml epg/tataplay.xml
+          cp epg-grabber/tempest_config/epg/tataplay.xml epg/tataplay.xml
+          echo "✅ Copied tataplay.xml into repo/epg/"
+        else
+          echo "❌ Tempest did not generate tataplay.xml at epg-grabber/tempest_config/epg/"
+          exit 1
         fi
 
-    # Step 5: Run TataPlay EPG Python generator
-    - name: Run TataPlay EPG Python script
-      run: python3 scripts/tataplay-epg.py
-
-    # Step 6: Get current date in IST
+    # Step 5: Get current date in IST
     - name: Get current date in IST
       id: get_date
       env:
         TZ: Asia/Kolkata
       run: echo "current_date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
 
-    # Step 7: Commit and push updated files
+    # Step 6: Commit and push updated files
     - name: Commit and push updated files
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
