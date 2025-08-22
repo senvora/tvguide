@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="foxsports.com.au" lang="en" xmltv_id="foxcricket.au" site_id="14">FOX Cricket</channel>
-  <channel site="plex.tv" lang="pt" xmltv_id="willowsports.plex" site_id="5e20b730f2f8d5003d739db7-66fbf9cf128ab3f65b259bcb">Willow Sports</channel>
-  <channel site="sky.com" lang="en" xmltv_id="skyspcrickethd.uk" site_id="4081">SkySpCricket HD</channel>
-  <channel site="sky.com" lang="en" xmltv_id="skyspmainevhd.uk" site_id="4002">SkySpMainEvHD</channel>
-  <channel site="sky.com" lang="en" xmltv_id="skyspmixhd.uk" site_id="4090">SkySp Mix HD</channel>
-  <channel site="sky.com" lang="en" xmltv_id="tntsports1hd.uk" site_id="3625">TNTSports1 HD</channel>
-  <channel site="sky.com" lang="en" xmltv_id="tntsports2hd.uk" site_id="3627">TNTSports2 HD</channel>
-  <channel site="sky.com" lang="en" xmltv_id="tntsports3hd.uk" site_id="3629">TNTSports3 HD</channel>
-  <channel site="sky.com" lang="en" xmltv_id="tntsports4hd.uk" site_id="4040">TNTSports4 HD</channel>
-  <channel site="xumo.tv" lang="en" xmltv_id="sonykal.us" site_id="250#99951184">Sony KAL</channel>
+  <channel site="content.astro.com.my" lang="ms" xmltv_id="490" site_id="490">Zee Cinema</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="131" site_id="131">AXN HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="251" site_id="251">BOO HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="337" site_id="337">CINEMAX HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="365" site_id="365">Colors Hindi HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="449" site_id="449">HBO Hits</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="454" site_id="454">SHOWCASE</channel>
+  <channel site="foxsports.com.au" lang="en" xmltv_id="14" site_id="14">FOX Cricket</channel>
+  <channel site="plex.tv" lang="pt" xmltv_id="5e20b730f2f8d5003d739db7-66fbf9cf128ab3f65b259bcb" site_id="5e20b730f2f8d5003d739db7-66fbf9cf128ab3f65b259bcb">Willow Sports</channel>
+  <channel site="sky.com" lang="en" xmltv_id="4081" site_id="4081">SkySpCricket HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="4002" site_id="4002">SkySpMainEvHD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="4090" site_id="4090">SkySp Mix HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="3625" site_id="3625">TNTSports1 HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="3627" site_id="3627">TNTSports2 HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="3629" site_id="3629">TNTSports3 HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="4040" site_id="4040">TNTSports4 HD</channel>
+  <channel site="xumo.tv" lang="en" xmltv_id="250#99951184" site_id="250#99951184">Sony KAL</channel>
 </channels>
