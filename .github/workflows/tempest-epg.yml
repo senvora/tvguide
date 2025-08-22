@@ -1,0 +1,60 @@
+name: EPG Grabber
+
+on:
+  schedule:
+    - cron: '45 22 * * *' # (4:15 AM IST)
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  grab-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Checkout code
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    # Step 2: Set up Git identity
+    - name: Set up Git identity
+      run: |
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "GitHub Actions Bot"
+
+    # Step 3: Install required tools
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y dos2unix xmlstarlet
+
+    # Step 4: Convert line endings of epg.sh to Unix format
+    - name: Convert line endings of epg.sh to Unix format
+      run: dos2unix ./epg-grabber/epg.sh    
+
+    # Step 5: Make the script executable
+    - name: Make the script executable
+      run: chmod +x ./epg-grabber/epg.sh
+    
+    # Step 6: Set up PHP environment
+    - name: Setup PHP
+      uses: shivammathur/setup-php@2.31.1
+      with:
+        php-version: 8.3
+        extensions: xml, imagick, zip, curl
+
+    # Step 7: Run Tempest script
+    - name: Run Tempest script
+      run: ./epg-grabber/epg.sh
+
+    # Step 8: Get current date in IST
+    - name: Get current date in IST
+      id: get_date
+      env:
+        TZ: Asia/Kolkata  # Set timezone to IST
+      run: echo "current_date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+
+    # Step 9: Commit and push updated files (epg/tempest.xml.gz)
+    - name: Commit and push updated files
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "EPG grabbed at ${{ env.current_date }} (IST)"
+        file_pattern: epg/tempest.xml.gz
