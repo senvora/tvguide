@@ -49,7 +49,7 @@ jobs:
       - name: Grab DishTV EPG
         run: |
           cd epg-org
-          npm run grab -- --channels=../sites/dishtv.xml --maxConnections=10 --days=3 --gzip
+          npm run grab -- --channels=../sites/dishtv.xml --maxConnections=10 --days=4 --gzip
           mkdir -p ../epg
           cp guide.xml ../epg/dishtv.xml
           cp guide.xml.gz ../epg/dishtv.xml.gz
@@ -66,7 +66,7 @@ jobs:
       - name: Grab TataPlay EPG
         run: |
           cd epg-org
-          npm run grab -- --channels=../sites/tataplay.xml --maxConnections=10 --days=3 --gzip
+          npm run grab -- --channels=../sites/tataplay.xml --maxConnections=10 --days=4 --gzip
           mkdir -p ../epg
           cp guide.xml ../epg/tataplay.xml
           cp guide.xml.gz ../epg/tataplay.xml.gz
@@ -83,7 +83,7 @@ jobs:
       - name: Grab senvora EPG
         run: |
           cd epg-org
-          npm run grab -- --channels=../sites/senvora.xml --maxConnections=10 --days=3 --gzip
+          npm run grab -- --channels=../sites/senvora.xml --maxConnections=10 --days=4 --gzip
           mkdir -p ../epg
           cp guide.xml ../epg/senvora.xml
           cp guide.xml.gz ../epg/senvora.xml.gz
