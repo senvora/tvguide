@@ -6,7 +6,7 @@
   <logger>on</logger>
   <retry>2</retry>
   <time-out>15</time-out>
-  <timespan>2</timespan>
+  <timespan>3</timespan>
   <proxy/>
   <index-only>on</index-only>
   <fusion>on</fusion>
@@ -28,7 +28,5 @@
   <filler-icon/>
   <logname>epg</logname>
   <channel site="[ENC][EX]dishtv.in[en]_0" site_id="159098" xmltv_id="SONY MAX HD">SONY MAX HD</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="3054" xmltv_id="RDC Movies">RDC Movies</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="632||imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" xmltv_id="Star GOLD HD">Star GOLD HD</channel>
-  <channel site="[ENC][EX]tataplay.com_1" site_id="61" xmltv_id="Colors Cineplex HD">Colors Cineplex HD</channel>
 </configuration>
