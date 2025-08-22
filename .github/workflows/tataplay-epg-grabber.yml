@@ -23,7 +23,7 @@ jobs:
 
     # Step 3: Run Tempest script
     - name: Run Tempest script
-      run: php epg-grabber/tempest.php --epg config=epg-grabber/tataplay.config.xml
+      run: php epg-grabber/tempest.php --epg config=tataplay.config.xml
 
     # Step 4: Save Tempest EPG
     - name: Save Tempest EPG
