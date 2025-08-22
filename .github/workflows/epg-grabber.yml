@@ -44,10 +44,46 @@ jobs:
         run: cd epg-org && npm install --no-audit --no-fund --legacy-peer-deps
 
       # -----------------------------
+      # Step 5: Run Node.js EPG grabbers
+      # -----------------------------
+      - name: Grab DishTV EPG
+        run: |
+          cd epg-org
+          npm run grab -- --channels=../sites/dishtv.xml --maxConnections=10 --days=3 --gzip
+          mkdir -p ../epg
+          cp guide.xml ../epg/dishtv.xml
+          cp guide.xml.gz ../epg/dishtv.xml.gz
+          cd ..
+          python3 scripts/dishtv_epg.py
+
+      - name: Upload DishTV EPG Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: dishtv-epg
+          path: epg/dishtv.xml
+          if-no-files-found: ignore
+
+      - name: Grab TataPlay EPG
+        run: |
+          cd epg-org
+          npm run grab -- --channels=../sites/tataplay.xml --maxConnections=10 --days=3 --gzip
+          mkdir -p ../epg
+          cp guide.xml ../epg/tataplay.xml
+          cp guide.xml.gz ../epg/tataplay.xml.gz
+          cd ..
+          python3 scripts/tataplay_epg.py
+
+      - name: Upload TataPlay EPG Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: tataplay-epg
+          path: epg/tataplay.xml
+          if-no-files-found: ignore
+
       - name: Grab senvora EPG
         run: |
           cd epg-org
-          npm run grab -- --channels=../sites/senvora.xml --maxConnections=10 --days=4 --gzip
+          npm run grab -- --channels=../sites/senvora.xml --maxConnections=10 --days=3 --gzip
           mkdir -p ../epg
           cp guide.xml ../epg/senvora.xml
           cp guide.xml.gz ../epg/senvora.xml.gz
