@@ -6,7 +6,7 @@ from datetime import datetime, timedelta, timezone
 IST = timezone(timedelta(hours=5, minutes=30))
 UTC = timezone.utc
 
-input_file = "epg/tataplay.xml"
+input_file = "epg-grabber/tempest_config/epg/tataplay.xml"
 gzip_file = "epg/tataplay.xml.gz"
 
 # --- Helper: convert UTC datetime string to IST ---
