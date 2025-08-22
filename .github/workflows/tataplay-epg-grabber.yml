@@ -1,0 +1,58 @@
+name: TataPlay EPG Grabber
+
+on:
+  schedule:
+    - cron: '45 22 * * *' # (4:15 AM IST)
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  grab-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Checkout code
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    # Step 2: Set up Git identity
+    - name: Set up Git identity
+      run: |
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "GitHub Actions Bot"
+
+    # Step 3: Set up PHP environment
+    - name: Setup PHP
+      uses: shivammathur/setup-php@2.31.1
+      with:
+        php-version: 8.3
+        extensions: xml, imagick, zip, curl
+
+    # Step 4: Run Tempest script
+    - name: Run Tempest script
+      run: php /tmp/epg-grabber/tempest.php --epg config=tataplay.config.xml
+
+    # Step 5: Save Tempest EPG (move from /tmp to repo)
+    - name: Save Tempest EPG
+      run: |
+        if [ -f /tmp/epg-grabber/tempest_config/epg/tataplay.xml ]; then
+          mkdir -p epg
+          cp /tmp/epg-grabber/tempest_config/epg/tataplay.xml epg/tataplay.xml
+        fi
+
+    # Step 6: Run TataPlay EPG Python generator
+    - name: Run TataPlay EPG Python script
+      run: python3 scripts/tataplay_epg.py
+
+    # Step 9: Get current date in IST
+    - name: Get current date in IST
+      id: get_date
+      env:
+        TZ: Asia/Kolkata
+      run: echo "current_date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+
+    # Step 10: Commit and push updated files
+    - name: Commit and push updated files
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "EPG grabbed at ${{ env.current_date }} (IST)"
+        file_pattern: epg/*
