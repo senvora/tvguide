@@ -36,12 +36,12 @@ jobs:
       run: |
         if [ -f /tmp/epg-grabber/tempest_config/epg/tataplay.xml ]; then
           mkdir -p epg
-          cp /tmp/epg-grabber/tempest_config/epg/tataplay.xml epg/tataplay.xml
+          cp /epg-grabber/tempest_config/epg/tataplay.xml epg/tataplay.xml
         fi
 
     # Step 6: Run TataPlay EPG Python generator
     - name: Run TataPlay EPG Python script
-      run: python3 scripts/tataplay_epg.py
+      run: python3 scripts/tataplay-epg.py
 
     # Step 9: Get current date in IST
     - name: Get current date in IST
