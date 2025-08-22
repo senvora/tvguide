@@ -1,0 +1,30 @@
+﻿[                   ]
+[                   ]-------------------------------------
+[                   ]        Tempest EPG Generator
+[                   ]
+[                   ]   The Most Advanced Programmable
+[                   ]       GUI XMLTV EPG Generator
+[                   ]     by Kivanc Altug aka "Kvanc"
+[                   ]-------------------------------------
+[                   ]
+[22-08-2025 06:37:52] Tempest Version : rv2.4.0.0-2503100836
+[22-08-2025 06:37:52] System Info : Linux pkrvmqc4gcfdwos 6.11.0-1018-azure #18~24.04.1-Ubuntu SMP Sat Jun 28 04:46:03 UTC 2025 x86_64
+[22-08-2025 06:37:52] PHP Version : 8.3.24
+[22-08-2025 06:37:52] Server Info : Command Line Interface (Cli)
+[22-08-2025 06:37:52] Initializing...
+[22-08-2025 06:37:52] Checking required modules...
+[22-08-2025 06:37:52] Time converter enabled...
+[22-08-2025 06:37:52] Fusion mode (Level 0) enabled...
+[22-08-2025 06:37:52] tataplay.xml generated...
+[22-08-2025 06:37:52] Grabbing started for 5 days
+[                   ]
+[22-08-2025 06:37:52] (1/1) Site: [ENC][EX]tataplay.com_0
+[22-08-2025 06:37:52] Channel id: 632
+[22-08-2025 06:37:52] Xmltv id: Star GOLD HD
+[22-08-2025 06:37:55] 40 shows grabbed in 2.90 seconds
+[                   ]
+[22-08-2025 06:37:55] Grabbing completed...
+[22-08-2025 06:37:55] 40 shows grabbed in 2.93 seconds
+[     Completed     ]
+[22-08-2025 06:37:55] Tempest Overall Memory Usage: 6278KB
+[22-08-2025 06:37:55] Tempest Peak Memory Usage: 13231KB

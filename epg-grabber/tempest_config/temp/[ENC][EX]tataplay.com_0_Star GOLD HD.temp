@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="Star GOLD HD">
+    <display-name lang="en">Star GOLD HD</display-name>
+    <icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png"/>
+  </channel>
+  <programme start="20250822002800 +0530" stop="20250822030200 +0530" channel="Star GOLD HD">
+    <title lang="en">A Gentleman</title>
+    <desc lang="en">Gaurav, a young man living in Miami, USA, wishes to settle down and marry his girlfriend. However, his plans are put on hold when he travels to Mumbai and is mistaken for a spy.</desc>
+    <credits>
+      <actor>Sidharth Malhotra</actor>
+      <actor>Jacqueline Fernandez</actor>
+      <actor>Sunil Veerappa Shetty</actor>
+      <actor>Darshan Kumaar</actor>
+      <actor>Hussain Dalal</actor>
+      <actor>Rajit Kapoor</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p14353404_b_h8_ad.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250822030200 +0530" stop="20250822043300 +0530" channel="Star GOLD HD">
+    <title lang="en">Grand Masti</title>
+    <desc lang="en">Friends Amar, Meet and Prem, who are unhappy with their married lives, decide to go for their college reunion to have fun. However, they get in trouble with the principal and a student.</desc>
+    <credits>
+      <actor>Riteish Deshmukh</actor>
+      <actor>Vivek Oberoi</actor>
+      <actor>Aftab Shivdasani</actor>
+      <actor>Bruna Abdullah</actor>
+      <actor>Maryam Zakaria</actor>
+      <actor>Manjari Phadnis</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p10204813_v_h10_ab.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250822043300 +0530" stop="20250822051600 +0530" channel="Star GOLD HD">
+    <title lang="en">Copy</title>
+    <desc lang="en">Sid always tries to fulfil what society expects of him to avoid the stigma of being an outcast. However, he is conflicted between choosing what others expect out of him and what he wants to be.</desc>
+    <credits>
+      <actor>Vikrant Massey</actor>
+      <actor>Surveen Chawla</actor>
+      <actor>Anupriya Goenka</actor>
+    </credits>
+    <category lang="en">Mystery</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p15822168_v_h11_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250822051600 +0530" stop="20250822064400 +0530" channel="Star GOLD HD">
+    <title lang="en">Saptagiri Express</title>
+    <desc lang="en">A happy-go-lucky actor is forced to do his father's job after his unexpected demise. However, when he realises his father was murdered, he sets out to exact vengeance.</desc>
+    <credits>
+      <actor>Sapthagiri</actor>
+      <actor>Roshini Prakash</actor>
+      <actor>Mohammad Ali</actor>
+      <actor>Shakalaka Shankar</actor>
+      <actor>Posani Krishna Murali</actor>
+      <actor>Sayaji Shinde</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p13644922_v_h11_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250822064400 +0530" stop="20250822082300 +0530" channel="Star GOLD HD">
+    <title lang="en">Aksar</title>
+    <desc lang="en">Rajveer cannot divorce his possessive wife Sheena due to an expensive pre-nuptial agreement. However, when he hires Ricky to seduce and get rid of her, his plan backfires.</desc>
+    <credits>
+      <actor>Udita Goswami</actor>
+      <actor>Emraan Hashmi</actor>
+      <actor>Dino Morea</actor>
+      <actor>Tara Sharma</actor>
+      <actor>Suresh Menon</actor>
+      <actor>Firdosh Mewawala</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p168516_b_h8_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250822082300 +0530" stop="20250822102600 +0530" channel="Star GOLD HD">
+    <title lang="en">Darna Mana Hai</title>
+    <desc lang="en">Six friends relate spooky tales to one another while stranded on a highway. Each story turns out to be scarier than the next one but the biggest horror strikes when some of the friends go missing.</desc>
+    <credits>
+      <actor>Vivek Oberoi</actor>
+      <actor>Saif Ali Khan</actor>
+      <actor>Boman Irani</actor>
+      <actor>Nana Patekar</actor>
+      <actor>Shilpa Shetty Kundra</actor>
+      <actor>Isha Koppikar</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p81963_v_h11_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250822102600 +0530" stop="20250822132400 +0530" channel="Star GOLD HD">
+    <title lang="en">Taarzan: The Wonder Car</title>
+    <desc lang="en">Raj revamps his deceased father's car into a wonderful car named Taarzan and the car comes alive as it is possessed by his father's spirit. Soon, it also starts killing his father's murderers.</desc>
+    <credits>
+      <actor>Vatsal Seth</actor>
+      <actor>Ayesha Takia</actor>
+      <actor>Ajay Devgan</actor>
+      <actor>Farida Jalal</actor>
+      <actor>Pankaj Dheer</actor>
+      <actor>Sadashiv Amrapurkar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p9378568_b_h8_ac.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250822132400 +0530" stop="20250822163800 +0530" channel="Star GOLD HD">
+    <title lang="en">Salaar Part 1: Ceasefire</title>
+    <desc lang="en">Just when the prince of Khansaar is about to rise to the throne, a plan of overthrowing him is exercised and only one man can help him retrieve power.</desc>
+    <credits>
+      <actor>Prabhas</actor>
+      <actor>Prithviraj Sukumaran</actor>
+      <actor>Jagapathi Babu</actor>
+      <actor>Bobby Simha</actor>
+      <actor>Easwari Rao</actor>
+      <actor>Shruti K. Haasan</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p25408380_v_h10_ae.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250822163800 +0530" stop="20250822195000 +0530" channel="Star GOLD HD">
+    <title lang="en">Action Jackson</title>
+    <desc lang="en">After falling love with a clumsy girl, a small-time goon comes in contact with his doppelganger, AJ, before setting off on a romantic journey with his ladylove.</desc>
+    <credits>
+      <actor>Ajay Devgan</actor>
+      <actor>Sonakshi Sinha</actor>
+      <actor>Yami Gautam</actor>
+      <actor>Kunaal Roy Kapur</actor>
+      <actor>Manasvi Mamgai</actor>
+      <actor>Anandaraj</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p11312638_b_h8_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250822195000 +0530" stop="20250822223300 +0530" channel="Star GOLD HD">
+    <title lang="en">Shiddat</title>
+    <desc lang="en">After falling madly in love, a man tries to convey his feelings. However, the object of his affections is betrothed to another and asks him to prove his love.</desc>
+    <credits>
+      <actor>Sunny Kaushal</actor>
+      <actor>Radhika Madan</actor>
+      <actor>Mohit Raina</actor>
+      <actor>Diana Penty</actor>
+      <actor>Babrak Akbari</actor>
+      <actor>Floriane Anderson</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p20775014_v_h10_aa.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250822223300 +0530" stop="20250823010400 +0530" channel="Star GOLD HD">
+    <title lang="en">Bhagavanth Kesari</title>
+    <desc lang="en">A former prisoner is adamant about training his adoptive daughter to join the Indian Army. However, his mission is interrupted by a conflict with a ruthless businessman.</desc>
+    <credits>
+      <actor>Nandamuri Balakrishna</actor>
+      <actor>Kajal Aggarwal</actor>
+      <actor>Sreeleela</actor>
+      <actor>Arjun Rampal</actor>
+      <actor>R. Sarathkumar</actor>
+      <actor>Sriram Reddy Polasane</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p25741743_b_h10_ab.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250823000000 +0530" stop="20250823030000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250823030000 +0530" stop="20250823060000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250823060000 +0530" stop="20250823090000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250823090000 +0530" stop="20250823120000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250823120000 +0530" stop="20250823150000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250823150000 +0530" stop="20250823180000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250823180000 +0530" stop="20250823210000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250823210000 +0530" stop="20250824000000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250824000000 +0530" stop="20250824030000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250824030000 +0530" stop="20250824060000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250824060000 +0530" stop="20250824090000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250824090000 +0530" stop="20250824120000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250824120000 +0530" stop="20250824150000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250824150000 +0530" stop="20250824180000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250824180000 +0530" stop="20250824210000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250824210000 +0530" stop="20250825000000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250825000000 +0530" stop="20250825030000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250825030000 +0530" stop="20250825060000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250825060000 +0530" stop="20250825090000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250825090000 +0530" stop="20250825120000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250825120000 +0530" stop="20250825150000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250825150000 +0530" stop="20250825180000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250825180000 +0530" stop="20250825210000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250825210000 +0530" stop="20250826000000 +0530" channel="Star GOLD HD">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Others</category>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h8_al.jpg?lock=1280x720"/>
+  </programme>
+  <programme start="20250826000000 +0530" stop="20250826020000 +0530" channel="Star GOLD HD">
+    <title lang="en">Program Info Not Available</title>
+    <desc lang="en">Program information is currently unavailable for this channel.</desc>
+  </programme>
+  <programme start="20250826020000 +0530" stop="20250826040000 +0530" channel="Star GOLD HD">
+    <title lang="en">Program Info Not Available</title>
+    <desc lang="en">Program information is currently unavailable for this channel.</desc>
+  </programme>
+  <programme start="20250826040000 +0530" stop="20250826060000 +0530" channel="Star GOLD HD">
+    <title lang="en">Program Info Not Available</title>
+    <desc lang="en">Program information is currently unavailable for this channel.</desc>
+  </programme>
+  <programme start="20250826060000 +0530" stop="20250826080000 +0530" channel="Star GOLD HD">
+    <title lang="en">Program Info Not Available</title>
+    <desc lang="en">Program information is currently unavailable for this channel.</desc>
+  </programme>
+  <programme start="20250826080000 +0530" stop="20250826100000 +0530" channel="Star GOLD HD">
+    <title lang="en">Program Info Not Available</title>
+    <desc lang="en">Program information is currently unavailable for this channel.</desc>
+  </programme>
+</tv>
