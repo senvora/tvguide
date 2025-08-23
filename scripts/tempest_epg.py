@@ -5,7 +5,7 @@ from datetime import datetime, timedelta, timezone
 
 IST = timezone(timedelta(hours=5, minutes=30))
 
-input_file = "epg-grabber/tempest_config/epg/epg.xml"
+input_file = "temp_epg/tempest_config/epg/epg.xml"
 gzip_file = "epg/epg.xml.gz"
 
 # --- Parse XML ---
