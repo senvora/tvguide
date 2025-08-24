@@ -2,17 +2,16 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import gzip
 import shutil
-import os
 from datetime import datetime, timedelta, timezone
 
 IST = timezone(timedelta(hours=5, minutes=30))
 UTC = timezone.utc
 
 input_file = "epg/senvora.xml"
-backup_file = "epg/senvora_backup.xml.gz"
-final_file = "epg/senvora.xml.gz"
+output_file = "epg/senvora.xml"
+gzip_file = "epg/senvora.xml.gz"
 
-# --- Helper: convert UTC string to IST ---
+# --- Helper: convert UTC string to IST without shifting the original time ---
 def to_ist(dt_str):
     try:
         dt_utc = datetime.strptime(dt_str[:14], "%Y%m%d%H%M%S").replace(tzinfo=UTC)
@@ -21,125 +20,98 @@ def to_ist(dt_str):
     except ValueError:
         return dt_str
 
-# --- Parse grabbed file ---
-tree_today = ET.parse(input_file)
-root_today = tree_today.getroot()
+# Parse XML
+tree = ET.parse(input_file)
+root = tree.getroot()
 
-# Fix <tv> date
-if "date" in root_today.attrib:
-    root_today.set("date", to_ist(root_today.attrib["date"]))
+# Convert <tv> date to IST if present
+if "date" in root.attrib:
+    root.set("date", to_ist(root.attrib["date"]))
 
-# Collect channels + programmes (cleaned)
-def clean_programmes(root):
-    progs = []
-    for p in root.findall("programme"):
-        # Convert start/stop to IST
-        for attr in ("start", "stop"):
-            if attr in p.attrib:
-                p.set(attr, to_ist(p.attrib[attr]))
+# --- Collect and clean programmes ---
+programmes = []
+for programme in root.findall("programme"):
+    # Convert start/stop attributes to IST
+    for attr in ("start", "stop"):
+        if attr in programme.attrib:
+            programme.set(attr, to_ist(programme.attrib[attr]))
 
-        # Keep only English title/desc
-        for t in list(p.findall("title")):
+    # Keep only English titles
+    titles = programme.findall("title")
+    if len(titles) > 1:
+        for t in titles:
             if t.attrib.get("lang") != "en":
-                p.remove(t)
-        for d in list(p.findall("desc")):
+                programme.remove(t)
+
+    # Keep only English descriptions
+    descs = programme.findall("desc")
+    if len(descs) > 1:
+        for d in descs:
             if d.attrib.get("lang") != "en":
-                p.remove(d)
+                programme.remove(d)
 
-        # Remove unwanted tags
-        for child in list(p):
-            if child.tag not in ("title", "desc"):
-                p.remove(child)
+    # Remove unwanted tags
+    for child in list(programme):
+        if child.tag not in ("title", "desc"):
+            programme.remove(child)
 
-        # Drop empty title/desc
-        for tag in ("title", "desc"):
-            el = p.find(tag)
-            if el is not None and (el.text is None or el.text.strip() == ""):
-                p.remove(el)
+    # Remove empty title/desc
+    for tag in ("title", "desc"):
+        element = programme.find(tag)
+        if element is not None and (element.text is None or element.text.strip() == ""):
+            programme.remove(element)
 
-        progs.append(p)
-    return progs
+    programmes.append(programme)
 
-channels_today = root_today.findall("channel")
-progs_today = clean_programmes(root_today)
+# --- Collect channels ---
+channels = root.findall("channel")
 
-# --- Load yesterday's backup (if exists) ---
-channels_prev, progs_prev = [], []
-if os.path.exists(backup_file):
-    with gzip.open(backup_file, "rb") as f:
-        tree_prev = ET.parse(f)
-        root_prev = tree_prev.getroot()
-        channels_prev = root_prev.findall("channel")
-        progs_prev = clean_programmes(root_prev)
+# --- Remove old channels and programmes ---
+for elem in channels + root.findall("programme"):
+    root.remove(elem)
 
-# --- Merge: keep today's channels/programmes, fill missing from yesterday ---
-channels_map = {c.attrib.get("id"): c for c in channels_today}
-progs_map = {}
+# --- Sort channels alphabetically ---
+def channel_key(c):
+    name_elem = c.find("display-name")
+    if name_elem is not None and name_elem.text:
+        return name_elem.text.lower()
+    return c.attrib.get("id", "").lower()
 
-for p in progs_today:
-    cid = p.attrib.get("channel")
-    progs_map.setdefault(cid, []).append(p)
+channels.sort(key=channel_key)
 
-# Fill missing channels/programmes from yesterday
-for c in channels_prev:
-    cid = c.attrib.get("id")
-    if cid not in channels_map:
-        channels_today.append(c)
-for p in progs_prev:
-    cid = p.attrib.get("channel")
-    if cid not in progs_map:
-        progs_today.append(p)
+# --- Re-attach sorted channels ---
+for c in channels:
+    root.append(c)
 
-# --- Rebuild <tv> root ---
-root_new = ET.Element("tv")
-for k, v in root_today.attrib.items():
-    root_new.set(k, v)
+# --- Sort programmes by channel then start ---
+def programme_key(p):
+    channel = p.attrib.get("channel", "").lower()
+    start = p.attrib.get("start", "")
+    return (channel, start)
 
-# Sort channels alphabetically
-channels_today.sort(key=lambda c: (c.find("display-name").text or c.attrib.get("id", "")).lower())
-for c in channels_today:
-    root_new.append(c)
+programmes.sort(key=programme_key)
 
-# Sort programmes by channel + start
-progs_today.sort(key=lambda p: (p.attrib.get("channel", "").lower(), p.attrib.get("start", "")))
-for p in progs_today:
-    root_new.append(p)
+# --- Re-attach sorted programmes ---
+for p in programmes:
+    root.append(p)
 
-# --- Save backup (full, today+future) ---
-xml_str = ET.tostring(root_new, encoding="utf-8")
+# --- Pretty print XML ---
+xml_str = ET.tostring(root, encoding="utf-8")
 parsed = minidom.parseString(xml_str)
-pretty_xml = parsed.toprettyxml(indent="  ", encoding="utf-8")
-pretty_xml = b"\n".join(line for line in pretty_xml.splitlines() if line.strip())
+pretty_xml_as_str = parsed.toprettyxml(indent="  ", encoding="utf-8")
 
-with gzip.open(backup_file, "wb") as f:
-    f.write(pretty_xml)
+# Remove blank lines
+pretty_xml_as_str = b"\n".join(
+    line for line in pretty_xml_as_str.splitlines() if line.strip()
+)
 
-# --- Save trimmed file (today + tomorrow only) ---
-now_ist = datetime.now(IST).replace(hour=0, minute=0, second=0, microsecond=0)
-tomorrow_ist = now_ist + timedelta(days=2)
+# --- Save cleaned XML ---
+with open(output_file, "wb") as f:
+    f.write(pretty_xml_as_str)
 
-root_trim = ET.Element("tv")
-for k, v in root_new.attrib.items():
-    root_trim.set(k, v)
+# --- Save gzipped version ---
+with open(output_file, "rb") as f_in:
+    with gzip.open(gzip_file, "wb") as f_out:
+        shutil.copyfileobj(f_in, f_out)
 
-for c in channels_today:
-    root_trim.append(c)
-
-for p in progs_today:
-    try:
-        start = datetime.strptime(p.attrib["start"][:14], "%Y%m%d%H%M%S").replace(tzinfo=IST)
-        if now_ist <= start < tomorrow_ist:
-            root_trim.append(p)
-    except Exception:
-        pass
-
-xml_str = ET.tostring(root_trim, encoding="utf-8")
-parsed = minidom.parseString(xml_str)
-pretty_xml = parsed.toprettyxml(indent="  ", encoding="utf-8")
-pretty_xml = b"\n".join(line for line in pretty_xml.splitlines() if line.strip())
-
-with gzip.open(final_file, "wb") as f:
-    f.write(pretty_xml)
-
-print(f"✅ Backup saved: {backup_file}")
-print(f"✅ Final 2-day EPG saved: {final_file}")
+print(f"✅ Cleaned + sorted EPG saved to {output_file} and {gzip_file}")
