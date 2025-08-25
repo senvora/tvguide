@@ -1,0 +1,55 @@
+name: EPG Downloader
+
+on:
+  schedule:
+    - cron: '45 21 * * *' # 21:45 UTC / 03:15 IST
+  workflow_dispatch:
+
+jobs:
+  epg:
+    name: Run EPG Downloader
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up Git identity
+      - name: Configure Git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions Bot"
+
+      # Step 3: Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Python dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests
+          fi
+
+      # Step 4: Run EPG Downloader Script
+      - name: Run XML Organizer Script
+        run: python scripts/epg-downloader.py
+
+      # Step 5: Get current IST date
+      - name: Get current date in IST
+        id: get_date
+        env:
+          TZ: Asia/Kolkata
+        run: echo "current_date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+
+      # Step 6: Commit & push updated EPG files
+      - name: Commit & push updated EPG files
+        run: |
+          git add epg/*.xml.gz
+          git commit -m "EPG updated at ${{ env.current_date }} (IST)" || echo "No changes to commit"
+          git pull --rebase origin main || true
+          git push
