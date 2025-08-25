@@ -132,6 +132,7 @@ if __name__ == "__main__":
         # (url, filename, provider)
         ("https://www.tsepg.cf/jio.xml.gz", "jiotv.xml.gz", "jiotv"),
         ("https://github.com/azimabid00/epg/raw/refs/heads/main/astro_epg.xml", "astro.xml.gz", "astro"),
+        ("https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz", "jio.xml.gz", "jio"),
     ]
 
     for url, filename, provider in all_jobs:
