@@ -3,8 +3,12 @@ import gzip
 import xml.etree.ElementTree as ET
 import requests
 import io
+from datetime import datetime, timedelta, timezone
 
-# Output folder
+# --- Timezone definitions ---
+IST = timezone(timedelta(hours=5, minutes=30))
+
+# --- Output folder ---
 output_dir = "epg"
 os.makedirs(output_dir, exist_ok=True)
 
@@ -27,7 +31,8 @@ def beautify_element(element, level=0):
 def normalize_channels_and_programmes(root, provider):
     """
     Update channel IDs based on display-name (lowercase, no spaces + suffix).
-    Remove unwanted tags. Return mapping old->new IDs.
+    Keep only <display-name> for channels.
+    Keep only <title> + <desc> for programmes.
     """
     suffix = ".my" if provider == "astro" else ".in"
     id_map = {}
@@ -39,14 +44,14 @@ def normalize_channels_and_programmes(root, provider):
 
         if display_name_elem is not None:
             name = (display_name_elem.text or "").strip()
-            # normalize name into xmltv_id
-            new_id = name.lower().replace(" ", "") + suffix
-            id_map[old_id] = new_id
-            channel.set("id", new_id)
+            if name:
+                new_id = name.lower().replace(" ", "") + suffix
+                id_map[old_id] = new_id
+                channel.set("id", new_id)
 
         # Keep only <display-name>
         for child in list(channel):
-            if child.tag not in ("display-name",):
+            if child.tag != "display-name":
                 channel.remove(child)
 
     # Update programmes
@@ -61,6 +66,24 @@ def normalize_channels_and_programmes(root, provider):
                 prog.remove(child)
 
     return id_map
+
+
+def convert_programme_times(root):
+    """Convert all programme start/stop times into IST (+0530), skip if already +0530."""
+    for prog in root.findall("programme"):
+        for attr in ("start", "stop"):
+            val = prog.attrib.get(attr)
+            if not val:
+                continue
+            try:
+                if val.endswith("+0530"):  # already IST
+                    continue
+                dt = datetime.strptime(val, "%Y%m%d%H%M%S %z")
+                dt_ist = dt.astimezone(IST)
+                prog.attrib[attr] = dt_ist.strftime("%Y%m%d%H%M%S %z")
+            except Exception:
+                # Leave invalid as-is
+                pass
 
 
 def sort_elements(root):
@@ -84,10 +107,10 @@ def sort_elements(root):
         root.append(pr)
 
 
-def process_and_save(input_url, output_gz_file, provider):
+def process_and_save(input_url, output_file, provider):
     """
-    Download XML or XML.GZ, normalize channels/programmes,
-    sort, beautify, and save as gzipped XML.
+    Download XML or XML.GZ, normalize, convert times, sort, beautify,
+    and save as both .xml and .xml.gz.
     """
     try:
         print(f"Downloading: {input_url}")
@@ -110,18 +133,26 @@ def process_and_save(input_url, output_gz_file, provider):
         # Normalize
         normalize_channels_and_programmes(root, provider)
 
-        # Sort
-        sort_elements(root)
+        # Convert times
+        convert_programme_times(root)
 
-        # Beautify
+        # Sort & Beautify
+        sort_elements(root)
         beautify_element(root)
 
-        # Write gzipped XML
-        with gzip.open(output_gz_file, "wt", encoding="utf-8") as gz_out:
+        # Save plain XML
+        xml_path = os.path.join(output_dir, output_file.replace(".gz", ""))
+        with open(xml_path, "w", encoding="utf-8") as f:
+            f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+            f.write(ET.tostring(root, encoding="unicode"))
+
+        # Save gzipped XML
+        gz_path = os.path.join(output_dir, output_file)
+        with gzip.open(gz_path, "wt", encoding="utf-8") as gz_out:
             gz_out.write('<?xml version="1.0" encoding="UTF-8"?>\n')
             gz_out.write(ET.tostring(root, encoding="unicode"))
 
-        print(f"✅ Saved gzipped beautified XML: {output_gz_file}")
+        print(f"✅ Saved: {xml_path}, {gz_path}")
 
     except Exception as e:
         print(f"❌ Error processing {input_url}: {e}")
@@ -136,5 +167,4 @@ if __name__ == "__main__":
     ]
 
     for url, filename, provider in all_jobs:
-        output_path = os.path.join(output_dir, filename)
-        process_and_save(url, output_path, provider)
+        process_and_save(url, filename, provider)
