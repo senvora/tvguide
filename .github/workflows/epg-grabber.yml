@@ -1,4 +1,4 @@
-name: EPG Downloader & Grabber
+name: EPG Grabber
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   epg:
-    name: EPG Grab & Download
+    name: Grab EPG
     runs-on: ubuntu-latest
     steps:
       # -----------------------------
