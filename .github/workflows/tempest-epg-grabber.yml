@@ -27,7 +27,7 @@ jobs:
     - name: Unzip epg-grabber
       run: |
         mkdir -p temp_epg
-        unzip -o epg-grabber.zip -d temp_epg
+        unzip -o epg-grabber.zip -d temp_epg/ || true
 
     # Step 4: Run Tempest PHP grabber (force IST timezone)
     - name: Run Tempest script
