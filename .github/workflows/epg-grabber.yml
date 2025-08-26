@@ -2,7 +2,7 @@ name: EPG Downloader & Grabber
 
 on:
   schedule:
-    - cron: '45 21 * * *' # 21:45 UTC / 03:15 IST
+    - cron: '30 19 * * *' # 07:30 UTC / 01:00 IST
   workflow_dispatch:
 
 jobs:
@@ -98,29 +98,7 @@ jobs:
           if-no-files-found: ignore
 
       # -----------------------------
-      # Step 6: Setup Python
-      # -----------------------------
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
-
-      - name: Install Python dependencies
-        run: |
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          else
-            pip install requests
-          fi
-
-      # -----------------------------
-      # Step 7: Run Python EPG Downloader
-      # -----------------------------
-      - name: Run XML Organizer Script
-        run: python scripts/epg-downloader.py
-
-      # -----------------------------
-      # Step 8: Get current IST date
+      # Step 6: Get current IST date
       # -----------------------------
       - name: Get current date in IST
         id: get_date
@@ -129,7 +107,7 @@ jobs:
         run: echo "current_date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
 
       # -----------------------------
-      # Step 9: Commit and push all EPG files
+      # Step 7: Commit and push all EPG files
       # -----------------------------
       - name: Commit & push updated EPG files
         run: |
