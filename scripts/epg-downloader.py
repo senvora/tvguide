@@ -64,6 +64,24 @@ def normalize_channels_and_programmes(root, provider):
     return id_map
 
 
+# --- NEW: robust timestamp parser ---
+def parse_time(ts: str):
+    """
+    Parse EPG timestamps:
+    - Jio style: 'YYYYMMDDHHMMSS' (assumed UTC)
+    - With timezone: 'YYYYMMDDHHMMSS +ZZZZ'
+    """
+    try:
+        if len(ts) == 14:
+            return datetime.strptime(ts, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
+        elif len(ts) >= 15:
+            return datetime.strptime(ts[:15], "%Y%m%d%H%M%S %z")
+        else:
+            raise ValueError(f"Unrecognized timestamp: {ts}")
+    except Exception as e:
+        raise ValueError(f"Failed to parse timestamp '{ts}': {e}")
+
+
 def convert_and_filter_programmes(root):
     """Convert times to IST and filter programmes to only today + tomorrow (IST)."""
     now = datetime.now(IST)
@@ -73,8 +91,8 @@ def convert_and_filter_programmes(root):
     keep_progs = []
     for prog in root.findall("programme"):
         try:
-            start = datetime.strptime(prog.attrib["start"][:15], "%Y%m%d%H%M%S %z").astimezone(IST)
-            stop = datetime.strptime(prog.attrib["stop"][:15], "%Y%m%d%H%M%S %z").astimezone(IST)
+            start = parse_time(prog.attrib["start"]).astimezone(IST)
+            stop = parse_time(prog.attrib["stop"]).astimezone(IST)
 
             # Convert attrs to IST
             prog.attrib["start"] = start.strftime("%Y%m%d%H%M%S %z")
@@ -83,7 +101,8 @@ def convert_and_filter_programmes(root):
             # Keep if any overlap with [today, tomorrow]
             if stop > start_day and start < end_day:
                 keep_progs.append(prog)
-        except Exception:
+        except Exception as e:
+            print("⚠️ Time parse failed:", prog.attrib.get("start"), e)
             continue
 
     # Remove old programmes and re-attach kept ones
