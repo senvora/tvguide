@@ -29,11 +29,7 @@ def beautify_element(element, level=0):
 
 
 def normalize_channels_and_programmes(root, provider):
-    """
-    Update channel IDs based on display-name (lowercase, no spaces + suffix).
-    Keep only <display-name> for channels.
-    Keep only <title> + <desc> for programmes.
-    """
+    """Normalize channel IDs and clean metadata."""
     suffix = ".my" if provider == "astro" else ".in"
     id_map = {}
 
@@ -68,29 +64,40 @@ def normalize_channels_and_programmes(root, provider):
     return id_map
 
 
-def convert_programme_times(root):
-    """Convert all programme start/stop times into IST (+0530), skip if already +0530."""
+def convert_and_filter_programmes(root):
+    """Convert times to IST and filter programmes to only today + tomorrow (IST)."""
+    now = datetime.now(IST)
+    start_day = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    end_day = (start_day + timedelta(days=2))  # exclusive (till 00:00 day after tomorrow)
+
+    keep_progs = []
     for prog in root.findall("programme"):
-        for attr in ("start", "stop"):
-            val = prog.attrib.get(attr)
-            if not val:
-                continue
-            try:
-                if val.endswith("+0530"):  # already IST
-                    continue
-                dt = datetime.strptime(val, "%Y%m%d%H%M%S %z")
-                dt_ist = dt.astimezone(IST)
-                prog.attrib[attr] = dt_ist.strftime("%Y%m%d%H%M%S %z")
-            except Exception:
-                # Leave invalid as-is
-                pass
+        try:
+            start = datetime.strptime(prog.attrib["start"][:15], "%Y%m%d%H%M%S %z").astimezone(IST)
+            stop = datetime.strptime(prog.attrib["stop"][:15], "%Y%m%d%H%M%S %z").astimezone(IST)
+
+            # Convert attrs to IST
+            prog.attrib["start"] = start.strftime("%Y%m%d%H%M%S %z")
+            prog.attrib["stop"] = stop.strftime("%Y%m%d%H%M%S %z")
+
+            # Keep if any overlap with [today, tomorrow]
+            if stop > start_day and start < end_day:
+                keep_progs.append(prog)
+        except Exception:
+            continue
+
+    # Remove old programmes and re-attach kept ones
+    for prog in list(root.findall("programme")):
+        root.remove(prog)
+    for prog in keep_progs:
+        root.append(prog)
+
+    # Also fix <tv date>
+    root.set("date", now.strftime("%Y%m%d%H%M%S %z"))
 
 
 def sort_elements(root):
-    """
-    Sort <channel> alphabetically,
-    Sort <programme> by channel + start time.
-    """
+    """Sort <channel> alphabetically, <programme> by channel + start."""
     channels = sorted(root.findall("channel"), key=lambda c: c.attrib.get("id", ""))
 
     def prog_sort_key(p):
@@ -108,10 +115,7 @@ def sort_elements(root):
 
 
 def process_and_save(input_url, output_file, provider):
-    """
-    Download XML or XML.GZ, normalize, convert times, sort, beautify,
-    and save as both .xml and .xml.gz.
-    """
+    """Download XML/XML.GZ, normalize, convert times, filter, sort, beautify, and save as .xml.gz only."""
     try:
         print(f"Downloading: {input_url}")
         response = requests.get(input_url, stream=True, timeout=60)
@@ -130,29 +134,23 @@ def process_and_save(input_url, output_file, provider):
         tree = ET.parse(xml_stream)
         root = tree.getroot()
 
-        # Normalize
+        # Normalize channels/programmes
         normalize_channels_and_programmes(root, provider)
 
-        # Convert times
-        convert_programme_times(root)
+        # Convert times & filter to today + tomorrow IST
+        convert_and_filter_programmes(root)
 
         # Sort & Beautify
         sort_elements(root)
         beautify_element(root)
 
-        # Save plain XML
-        xml_path = os.path.join(output_dir, output_file.replace(".gz", ""))
-        with open(xml_path, "w", encoding="utf-8") as f:
-            f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-            f.write(ET.tostring(root, encoding="unicode"))
-
-        # Save gzipped XML
+        # Save gzipped XML only
         gz_path = os.path.join(output_dir, output_file)
         with gzip.open(gz_path, "wt", encoding="utf-8") as gz_out:
             gz_out.write('<?xml version="1.0" encoding="UTF-8"?>\n')
             gz_out.write(ET.tostring(root, encoding="unicode"))
 
-        print(f"✅ Saved: {xml_path}, {gz_path}")
+        print(f"✅ Saved: {gz_path}")
 
     except Exception as e:
         print(f"❌ Error processing {input_url}: {e}")
@@ -160,10 +158,7 @@ def process_and_save(input_url, output_file, provider):
 
 if __name__ == "__main__":
     all_jobs = [
-        # (url, filename, provider)
         ("https://www.tsepg.cf/jio.xml.gz", "jiotv.xml.gz", "jiotv"),
-        ("https://github.com/azimabid00/epg/raw/refs/heads/main/astro_epg.xml", "astro.xml.gz", "astro"),
-        ("https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz", "jio.xml.gz", "jio"),
     ]
 
     for url, filename, provider in all_jobs:

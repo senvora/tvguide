@@ -2,37 +2,29 @@ name: EPG Grabber
 
 on:
   schedule:
-    - cron: '30 19 * * *' # 07:30 UTC / 01:00 IST
+    - cron: '0 22 * * *' # 22:00 UTC / 03:30 IST
   workflow_dispatch:
 
 jobs:
-  epg:
-    name: Grab EPG
+  grabber:
+    name: EPG Grabber
     runs-on: ubuntu-latest
     steps:
-      # -----------------------------
       # Step 1: Checkout repository
-      # -----------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # -----------------------------
       # Step 2: Set up Git identity
-      # -----------------------------
       - name: Configure Git
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions Bot"
 
-      # -----------------------------
       # Step 3: Clone EPG repo
-      # -----------------------------
       - name: Clone iptv-org EPG repo
         run: git clone --depth 1 -b master https://github.com/iptv-org/epg.git epg-org
 
-      # -----------------------------
       # Step 4: Setup Node.js
-      # -----------------------------
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -43,9 +35,7 @@ jobs:
       - name: Install Node.js dependencies
         run: cd epg-org && npm install --no-audit --no-fund --legacy-peer-deps
 
-      # -----------------------------
-      # Step 5: Run Node.js EPG grabbers (IST)
-      # -----------------------------
+      # Step 5: Run Node.js EPG grabbers
       - name: Grab DishTV EPG
         run: |
           cd epg-org
@@ -54,14 +44,8 @@ jobs:
           cp guide.xml ../epg/dishtv.xml
           cp guide.xml.gz ../epg/dishtv.xml.gz
           cd ..
+          export TZ=Asia/Kolkata
           python3 scripts/dishtv_epg.py
-
-      - name: Upload DishTV EPG Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: dishtv-epg
-          path: epg/dishtv.xml
-          if-no-files-found: ignore
 
       - name: Grab TataPlay EPG
         run: |
@@ -71,47 +55,70 @@ jobs:
           cp guide.xml ../epg/tataplay.xml
           cp guide.xml.gz ../epg/tataplay.xml.gz
           cd ..
+          export TZ=Asia/Kolkata
           python3 scripts/tataplay_epg.py
 
-      - name: Upload TataPlay EPG Artifact
+      # Save epg/ folder for the next job
+      - name: Upload EPG folder
         uses: actions/upload-artifact@v4
         with:
-          name: tataplay-epg
-          path: epg/tataplay.xml
-          if-no-files-found: ignore
+          name: epg-files
+          path: epg/
 
-      - name: Grab senvora EPG
+  downloader:
+    name: EPG Downloader
+    runs-on: ubuntu-latest
+    needs: grabber
+    steps:
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up Git identity
+      - name: Configure Git
         run: |
-          cd epg-org
-          TZ=Asia/Kolkata npm run grab -- --channels=../sites/senvora.xml --maxConnections=10 --days=3 --gzip
-          mkdir -p ../epg
-          cp guide.xml ../epg/senvora.xml
-          cp guide.xml.gz ../epg/senvora.xml.gz
-          cd ..
-          python3 scripts/senvora_epg.py
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions Bot"
 
-      - name: Upload senvora EPG Artifact
-        uses: actions/upload-artifact@v4
+      # Step 3: Download artifacts from grabber
+      - name: Download EPG artifacts
+        uses: actions/download-artifact@v4
         with:
-          name: senvora-epg
-          path: epg/senvora.xml
-          if-no-files-found: ignore
+          name: epg-files
+          path: epg/
 
-      # -----------------------------
+      # Step 4: Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Python dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests
+          fi
+
+      # Step 5: Run EPG Downloader Script
+      - name: Run XML Organizer Script
+        run: |
+          export TZ=Asia/Kolkata
+          date  # just to confirm current timezone in logs
+          python scripts/epg-downloader.py
+          
       # Step 6: Get current IST date
-      # -----------------------------
       - name: Get current date in IST
         id: get_date
         env:
           TZ: Asia/Kolkata
         run: echo "current_date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
 
-      # -----------------------------
-      # Step 7: Commit and push all EPG files
-      # -----------------------------
+      # Step 7: Commit & push all updated EPG files (one commit only)
       - name: Commit & push updated EPG files
         run: |
-          git add epg/*.xml.gz
+          git add epg/*.xml.gz epg/*.xml || true
           git commit -m "EPG updated at ${{ env.current_date }} (IST)" || echo "No changes to commit"
           git pull --rebase origin main || true
           git push

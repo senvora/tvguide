@@ -1,14 +1,14 @@
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import gzip
-import shutil
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 input_file = "epg/dishtv.xml"
-output_file = "epg/dishtv.xml"
 gzip_file = "epg/dishtv.xml.gz"
 
-# Helper: just relabel to +0530 without shifting
+IST = timezone(timedelta(hours=5, minutes=30))
+
+# --- Helper: relabel as +0530 (IST) ---
 def relabel_as_ist(dt_str):
     try:
         dt = datetime.strptime(dt_str[:14], "%Y%m%d%H%M%S")
@@ -16,7 +16,20 @@ def relabel_as_ist(dt_str):
     except ValueError:
         return dt_str
 
-# Parse XML
+# --- Helper: parse string to datetime in IST ---
+def parse_dt_ist(dt_str):
+    try:
+        dt = datetime.strptime(dt_str[:14], "%Y%m%d%H%M%S")
+        return dt.replace(tzinfo=IST)
+    except ValueError:
+        return None
+
+# --- Get IST today and tomorrow range ---
+now = datetime.now(IST)
+today_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
+tomorrow_end = (today_start + timedelta(days=2)) - timedelta(seconds=1)
+
+# --- Parse XML ---
 tree = ET.parse(input_file)
 root = tree.getroot()
 
@@ -31,6 +44,18 @@ for programme in root.findall("programme"):
     for attr in ("start", "stop"):
         if attr in programme.attrib:
             programme.set(attr, relabel_as_ist(programme.attrib[attr]))
+
+    # Convert start/stop to datetime for filtering
+    start_dt = parse_dt_ist(programme.attrib.get("start", ""))
+    stop_dt = parse_dt_ist(programme.attrib.get("stop", ""))
+
+    # Skip programme if no valid time
+    if not start_dt or not stop_dt:
+        continue
+
+    # Keep only if overlaps today/tomorrow
+    if stop_dt < today_start or start_dt > tomorrow_end:
+        continue
 
     # Keep only English titles
     titles = programme.findall("title")
@@ -101,13 +126,8 @@ pretty_xml_as_str = b"\n".join(
     line for line in pretty_xml_as_str.splitlines() if line.strip()
 )
 
-# --- Save cleaned XML ---
-with open(output_file, "wb") as f:
-    f.write(pretty_xml_as_str)
+# --- Save ONLY gzipped version ---
+with gzip.open(gzip_file, "wb") as f_out:
+    f_out.write(pretty_xml_as_str)
 
-# --- Create gzipped version ---
-with open(output_file, "rb") as f_in:
-    with gzip.open(gzip_file, "wb") as f_out:
-        shutil.copyfileobj(f_in, f_out)
-
-print(f"✅ Cleaned + sorted EPG saved to {output_file} and {gzip_file}")
+print(f"✅ Cleaned, filtered (today + tomorrow IST) & gzipped EPG saved to {gzip_file}")
