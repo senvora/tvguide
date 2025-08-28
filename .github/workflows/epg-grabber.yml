@@ -39,7 +39,7 @@ jobs:
       - name: Grab DishTV EPG
         run: |
           cd epg-org
-          TZ=Asia/Kolkata npm run grab -- --channels=../sites/dishtv.xml --maxConnections=10 --days=3 --gzip
+          TZ=Asia/Kolkata npm run grab -- --channels=../sites/dishtv.xml --maxConnections=10 --days=2 --gzip
           mkdir -p ../epg
           cp guide.xml ../epg/dishtv.xml
           cp guide.xml.gz ../epg/dishtv.xml.gz
@@ -50,7 +50,7 @@ jobs:
       - name: Grab TataPlay EPG
         run: |
           cd epg-org
-          TZ=Asia/Kolkata npm run grab -- --channels=../sites/tataplay.xml --maxConnections=10 --days=3 --gzip
+          TZ=Asia/Kolkata npm run grab -- --channels=../sites/tataplay.xml --maxConnections=10 --days=2 --gzip
           mkdir -p ../epg
           cp guide.xml ../epg/tataplay.xml
           cp guide.xml.gz ../epg/tataplay.xml.gz
