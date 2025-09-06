@@ -1,0 +1,66 @@
+name: Tempest EPG Grabber
+
+on:
+  schedule:
+    - cron: "30 21 * * *"  # 03:00 IST
+  workflow_dispatch:
+
+jobs:
+  grab-epg:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kolkata   # ✅ Force IST timezone for all steps
+      ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}   # 🔐 Store password in GitHub Secrets
+
+    steps:
+    # Step 1: Checkout code
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    # Step 2: Setup PHP
+    - name: Setup PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: 8.4
+        extensions: xml, imagick, zip, curl
+
+    # Step 3: Unzip tempest-epg-grabber (with 7-Zip + password)
+    - name: Unzip tempest-epg-grabber
+      run: |
+        sudo apt-get update && sudo apt-get install -y p7zip-full
+        mkdir -p temp_epg
+        7z x tempest-epg-grabber.zip -p"$ZIP_PASSWORD" -otemp_epg
+
+    # Step 4: Run Tempest PHP grabber (silent)
+    - name: Run Tempest script
+      run: |
+        export TZ=Asia/Kolkata
+        php -d date.timezone=Asia/Kolkata temp_epg/tempest.php --epg config=tempest.config.xml > tempest.log 2>&1
+        echo "✅ Tempest grabber finished."
+
+    # Step 5: Run Tempest EPG Python generator (silent)
+    - name: Run tempest EPG Python script
+      run: |
+        export TZ=Asia/Kolkata
+        python3 -u scripts/personal/tempest_epg.py > tempest_epg.log 2>&1
+        echo "✅ Tempest EPG Python finished."
+
+    # Step 6: Remove raw XML file
+    - name: Cleanup raw XML
+      run: rm -f temp_epg/tempest_config/epg/epg.xml
+
+    # Step 7: Repack tempest-epg-grabber (with 7-Zip + password)
+    - name: Repack tempest-epg-grabber
+      run: |
+        rm -f tempest-epg-grabber.zip
+        7z a -tzip -p"$ZIP_PASSWORD" tempest-epg-grabber.zip ./temp_epg/*
+
+    # Step 8: Remove temporary folder
+    - name: Remove temporary folder
+      run: rm -rf temp_epg
+
+    # Step 10: Commit and push updated files
+    - name: Commit and push updated files
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "🔄 Automatically updated EPG"

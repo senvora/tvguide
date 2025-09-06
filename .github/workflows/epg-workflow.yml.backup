@@ -1,0 +1,280 @@
+name: Unified EPG Workflow
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 21 * * *'
+    - cron: "0 */3 * * *"
+
+concurrency:
+  group: epg-jobs
+  cancel-in-progress: true
+
+jobs:
+  ###############################
+  # EPG Grabber Job
+  ###############################
+  epg-grabber:
+    name: EPG Grabber
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kolkata
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions Bot"
+
+      - name: Cache Node.js
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-npm-
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Node.js dependencies
+        run: npm install --no-audit --no-fund --legacy-peer-deps
+
+      - name: Create Guide folder
+        run: mkdir -p guide
+
+      - name: Grab all EPG in parallel
+        run: |
+          set -e
+          grab_provider() {
+            PROVIDER=$1
+            echo "::group::EPG Grab - $PROVIDER"
+
+            case "$PROVIDER" in
+              distrotv)
+                CHANNELS=sites/distro.tv/distrotv.xml
+                OUTFILE=guide/distrotv.xml
+                ;;
+              tataplay)
+                CHANNELS=sites/tataplay.com/tataplay.xml
+                OUTFILE=guide/tataplay.xml
+                ;;
+            esac
+
+            mkdir -p guide
+            echo "[$PROVIDER] Grabbing EPG..."
+            if npm run grab -- --channels="$CHANNELS" --maxConnections=10 --days=2 --output="$OUTFILE"; then
+              echo "[$PROVIDER] Grab successful: $OUTFILE"
+            else
+              echo "[$PROVIDER] Grab failed, trying fallback copy..."
+              [ -f "$CHANNELS" ] && cp "$CHANNELS" "$OUTFILE" || echo "[$PROVIDER] No file to copy"
+            fi
+
+            if [ -f scripts/personal/epg-grabber.py ]; then
+              echo "::group::Cleaning EPG for $PROVIDER"
+              python3 scripts/personal/epg-grabber.py "$OUTFILE" || echo "[$PROVIDER] Cleaning failed"
+              echo "::endgroup::"
+            fi
+
+            echo "::endgroup::"
+            echo "==== Finished grabber for $PROVIDER ===="
+          }
+
+          grab_provider distrotv &
+          grab_provider tataplay &
+          wait
+          echo "::group::All providers completed"
+          echo "==== All grabbers completed ===="
+          echo "::endgroup::"
+
+      - name: Commit & push EPG files
+        run: |
+          DEFAULT_BRANCH=$(git remote show origin | awk '/HEAD branch/ {print $NF}')
+          git add guide/*.xml.gz || true
+          git diff --cached --quiet || git commit -m "epg updated at $(date +'%Y-%m-%d %H:%M:%S') IST"
+          git pull --rebase --autostash origin "$DEFAULT_BRANCH" || true
+          git push origin "$DEFAULT_BRANCH"
+
+      - name: Upload EPG artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: epg-files
+          path: guide/*.xml.gz
+
+###############################
+# EPG Downloader Job
+###############################
+  epg-downloader:
+    name: EPG Downloader
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kolkata
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions Bot"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Cache pip
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install Python dependencies
+        run: |
+          echo "::group::Installing Python dependencies"
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install --no-cache-dir -r requirements.txt
+          else
+            pip install --no-cache-dir requests
+          fi
+          echo "::endgroup::"
+
+      - name: Download all EPG artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: guide/
+          merge-multiple: true
+
+      - name: Run XML Organizer Script
+        run: |
+          echo "::group::Running XML Organizer"
+          python scripts/personal/epg-downloader.py
+          echo "::endgroup::"
+
+      - name: Commit & push updated EPG files
+        run: |
+          DEFAULT_BRANCH=$(git remote show origin | awk '/HEAD branch/ {print $NF}')
+          git add guide/*.xml.gz || true
+          git diff --cached --quiet || git commit -m "epg updated at $(date +'%Y-%m-%d %H:%M:%S') IST"
+          git pull --rebase --autostash origin "$DEFAULT_BRANCH" || true
+          git push origin "$DEFAULT_BRANCH"
+
+###############################
+# Tempest EPG Grabber Job
+###############################
+  tempest-epg-grabber:
+    name: Tempest EPG Grabber
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kolkata
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions Bot"
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 8.3
+          extensions: xml, imagick, zip, curl
+
+      - name: Unzip EPG Grabber
+        run: |
+          echo "::group::Unzipping EPG Grabber"
+          mkdir -p temp_epg
+          unzip -o epg-grabber.zip -d temp_epg
+          echo "::endgroup::"
+
+      - name: Run Tempest PHP grabber
+        run: |
+          echo "::group::Running Tempest PHP Grabber"
+          export TZ=Asia/Kolkata
+          php -d date.timezone=Asia/Kolkata temp_epg/tempest.php --epg config=tempest.config.xml
+          echo "::endgroup::"
+
+      - name: Run Tempest Python grabber
+        run: |
+          echo "::group::Running Tempest Python Grabber"
+          export TZ=Asia/Kolkata
+          python3 -u scripts/personal/tempest-epg-grabber.py
+          echo "::endgroup::"
+
+      - name: Cleanup raw XML
+        run: |
+          echo "::group::Cleaning up raw XML"
+          rm -f temp_epg/tempest_config/epg/tempest.xml
+          echo "::endgroup::"
+
+      - name: Repack EPG Grabber
+        run: |
+          echo "::group::Repacking EPG Grabber"
+          rm -f epg-grabber.zip
+          cd temp_epg
+          zip -r ../epg-grabber.zip .
+          cd ..
+          rm -rf temp_epg
+          echo "::endgroup::"
+
+      - name: Commit & push updated files
+        run: |
+          DEFAULT_BRANCH=$(git remote show origin | awk '/HEAD branch/ {print $NF}')
+          git add guide/*.xml.gz || true
+          git diff --cached --quiet || git commit -m "epg updated at $(date +'%Y-%m-%d %H:%M:%S') IST"
+          git pull --rebase --autostash origin "$DEFAULT_BRANCH" || true
+          git push origin "$DEFAULT_BRANCH"
+
+###############################
+# EPG Merger Job
+###############################
+  epg-merger:
+    name: EPG Merger
+    runs-on: ubuntu-latest
+    needs: [epg-downloader, tempest-epg-grabber, epg-grabber]
+    env:
+      TZ: Asia/Kolkata
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions Bot"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Cache pip
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Merge EPG XML
+        run: |
+          echo "::group::Merging EPG XML"
+          python3 scripts/personal/epg-merger.py
+          echo "::endgroup::"
+
+      - name: Commit & push merged EPG
+        run: |
+          DEFAULT_BRANCH=$(git remote show origin | awk '/HEAD branch/ {print $NF}')
+          git add guide/*.xml.gz || true
+          git diff --cached --quiet || git commit -m "epg updated at $(date +'%Y-%m-%d %H:%M:%S') IST"
+          git pull --rebase --autostash origin "$DEFAULT_BRANCH" || true
+          git push origin "$DEFAULT_BRANCH"

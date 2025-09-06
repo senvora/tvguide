@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000001">RCTI</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000002">MNCTV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000003">GTV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000004">iNews</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000005">SindoNews</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000006">Trans TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000007">Trans 7</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000010">ANTV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000011">RTV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000012">TVOne</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000013">Kompas TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000014">Metro TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000015">BTV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000016">TVRI</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000018">DAAI TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000023">MDTV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000024">JTV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000025">JAK TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000026">Bali TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000027">Bandung TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000028">TV 9</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000029">DMI TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000030">TV MU</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000036">Originals</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000037">Buddy Star</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000038">Uniques</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000039">Superrix</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000040">Cineedge</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000041">Thrill</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000042">Hits Movies</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000044">Celestial Movies</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000045">CCM</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000046">TVN Movies</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000047">Zee Bioskop</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000048">GALAXY PREMIUM</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000049">GALAXY</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000050">IMC (Indonesia Movie Channel)</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000054">Studio Universal</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000056">Kids TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000057">Moonbug</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000058">Cbeebies</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000060">Nick Jr</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000063">Zoo Moo</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000064">Nick</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000065">Animax</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000067">Dream Works</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000071">Food Travel</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000072">Entertainment</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000073">TVN</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000074">One</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000075">Kix</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000076">NHK World Premium</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000077">Hits</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000079">AXN</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000080">Lifetime</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000087">Vision Prime</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000088">Celebrities TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000089">Hanacaraka TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000092">Rock Entertainment</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000093">Rock Action</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000095">Crime Investigation</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000101">Outdoor Channel</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000102">BBC Earth</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000103">Global Trekker</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000104">History</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000105">Love Nature</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000112">Sportstars</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000113">Sportstars 2</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000115">Soccer Channel</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000119">SpoTV 1</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000120">SpoTV 2</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000121">Fight Sports</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000122">beIN SPORTS</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000123">beIN SPORTS 2</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000124">beIN SPORTS 3</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000125">beIN SPORTS 4</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000126">beIN SPORTS 5</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000130">BBC World news</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000131">CNBC Asia</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000132">FOX News</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000133">Bloomberg</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000134">IDX</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000137">Muslim TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000138">LIFE</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000139">Reformed 21</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000142">Music TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000146">DW</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000147">France 24</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000148">TRT World</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000149">Aljazeera</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000150">RT</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000151">EURONEWS</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000152">Channel News Asia</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000153">Al Quran Al Kareem</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000154">EWTN</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000155">CGTN Documentary</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000156">CGTN</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000157">Anhui</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000158">Xing kong TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000159">Shanghai Dragon</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000160">Hunan TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000161">Jiangsu TV</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000162">NHK</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000163">TV5Monde</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000164">Arirang</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000165">ABC</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000201">RCTI World</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000202">GTV World</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000203">MNCTV World</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000251">DENS Food Channel</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000252">DENSPLAY Channel</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000000253">DENS Showbizz Channel</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000001002">V+ LIVE</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000001008">R+ LIVE</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000001010">V+ LIVE 2</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000001011">V+ Sports</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000001012">V+ LIVE 3</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000001013">V+ LIVE 4</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="" site_id="00000000000000001014">V+ LIVE 5</channel>
+</channels>

@@ -1,0 +1,41 @@
+name: Reset Repository to Single Commit
+
+on:
+  workflow_dispatch:   # Run manually
+
+jobs:
+  reset-repo:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout full repo
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history required
+
+      # Step 2: Configure Git identity
+      - name: Set Git identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Step 3: Remove old branches (except main)
+      - name: Delete old branches
+        run: |
+          git fetch --all
+          for branch in $(git branch -r | grep -v "origin/main" | sed 's|origin/||'); do
+            git push origin --delete $branch || true
+          done
+
+      # Step 4: Create orphan branch and commit current state
+      - name: Create orphan branch
+        run: |
+          git checkout --orphan temp-branch
+          git add -A
+          git commit -m "Initial commit"
+          git branch -M main
+
+      # Step 5: Push single commit to GitHub
+      - name: Force push main
+        run: git push origin main --force

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="content.astro.com.my" lang="ms" xmltv_id="zeecinema.my" site_id="490">Zee Cinema</channel>
+  <channel site="distro.tv" lang="en"  xmltv_id="bollywoodhd.in" site_id="87418">Bollywood HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="rdcmovies.in" site_id="IN1#RDC.Movies.in">RDC Movies</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="themovieclub" site_id="SamsungTVPlus/in#IN38000072R">IN38000072R</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="foxcricket.au" site_id="Kayo/epg#53208">FOX CRICKET</channel>
+  <channel site="sky.com" lang="en" xmltv_id="tntsports1hd.uk" site_id="3625">TNTSports1 HD</channel>
+  <channel site="tataplay.com" lang="en" xmltv_id="indiatoday.in" site_id="1">INDIA TODAY</channel>
+  <channel site="visionplus.id" lang="en" xmltv_id="rockentertainment.id" site_id="00000000000000000092">Rock Entertainment</channel>
+</channels>
