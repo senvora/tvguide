@@ -2,11 +2,15 @@ name: Tempest EPG Grabber
 
 on:
   schedule:
-    - cron: "30 21 * * *"  # 03:00 IST
+    - cron: "0 */2 * * *"   # every 2 hours
   workflow_dispatch:
 
 permissions:
   contents: write   # allow commits to tvguide repo
+
+concurrency:
+  group: tempest-epg
+  cancel-in-progress: true
 
 jobs:
   grab-epg:
@@ -27,52 +31,57 @@ jobs:
         php-version: 8.4
         extensions: xml, imagick, zip, curl
 
-    # Step 3: Unzip tempest-epg-grabber (with password)
-    - name: Unzip tempest-epg-grabber
+    # Step 3: Install 7zip
+    - name: Install 7-Zip
       run: |
         sudo apt-get update && sudo apt-get install -y p7zip-full
+
+    # Step 4: Unzip tempest-epg-grabber (with password)
+    - name: Unzip tempest-epg-grabber
+      run: |
         mkdir -p temp_epg
         7z x tempest-epg-grabber.zip -p"$ZIP_PASSWORD" -otemp_epg
 
-    # Step 4: Run Tempest PHP grabber
+    # Step 5: Run Tempest PHP grabber
     - name: Run Tempest script
       run: |
-        export TZ=Asia/Kolkata
         php -d date.timezone=Asia/Kolkata temp_epg/tempest.php --epg config=tempest.config.xml > tempest.log 2>&1
         echo "✅ Tempest grabber finished."
 
-    # Step 5: Run Tempest EPG Python generator
+    # Step 6: Run Tempest EPG Python generator
     - name: Run tempest EPG Python script
       run: |
-        export TZ=Asia/Kolkata
         python3 -u scripts/personal/tempest_epg.py > tempest_epg.log 2>&1
         echo "✅ Tempest EPG Python finished."
 
-    # Step 6: Remove raw XML file
+    # Step 7: Remove raw XML file
     - name: Cleanup raw XML
       run: rm -f temp_epg/tempest_config/epg/epg.xml
 
-    # Step 7: Repack tempest-epg-grabber
+    # Step 8: Repack tempest-epg-grabber
     - name: Repack tempest-epg-grabber
       run: |
         rm -f tempest-epg-grabber.zip
         7z a -tzip -p"$ZIP_PASSWORD" tempest-epg-grabber.zip ./temp_epg/*
 
-    # Step 8: Remove temporary folder
+    # Step 9: Remove temporary folder
     - name: Remove temporary folder
       run: rm -rf temp_epg
 
-    # Step 9: Commit & push updated files to tvguide repo
+    # Step 10: Commit & push updated files to tvguide repo
     - name: Commit and push updated files
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: "🔄 Automatically updated EPG"
+      run: |
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "GitHub Actions Bot"
+        git add .
+        git diff --cached --quiet || git commit -m "🔄 Automatically updated EPG"
+        git pull --rebase --autostash origin "$(git rev-parse --abbrev-ref HEAD)" || true
+        git push origin "$(git rev-parse --abbrev-ref HEAD)"
 
-    # Step 10: Push EPG to public folder in private repo
-    - name: Push EPG to public folder in private repo
-      if: success()
+    # Step 11: Push EPG to public folder in private repo
+    - name: Push EPG to senvora/iptv (public folder)
       env:
-        GITHUB_TOKEN: ${{ secrets.IPTV_TOKEN }}   # Personal Access Token with repo scope
+        GITHUB_TOKEN: ${{ secrets.IPTV_TOKEN }}
       run: |
         REPO="https://x-access-token:${GITHUB_TOKEN}@github.com/senvora/iptv.git"
         TARGET_BRANCH="main"
@@ -84,15 +93,32 @@ jobs:
           exit 1
         fi
 
-        # Clone the private repo
-        git clone --depth 1 --branch "$TARGET_BRANCH" "$REPO" tmp_repo
+        # Compute file checksum to skip clone if unchanged
+        HASH_NEW=$(sha256sum "$FILE_SRC" | awk '{print $1}')
+        echo "New file hash: $HASH_NEW"
+
+        git clone --depth 1 --filter=blob:none --branch "$TARGET_BRANCH" "$REPO" tmp_repo
         cd tmp_repo
 
-        # Copy the EPG file
+        if [ -f "$FILE_DEST" ]; then
+          HASH_OLD=$(sha256sum "$FILE_DEST" | awk '{print $1}')
+        else
+          HASH_OLD="none"
+        fi
+
+        echo "Old file hash: $HASH_OLD"
+
+        if [ "$HASH_NEW" = "$HASH_OLD" ]; then
+          echo "⚡ No change in EPG file, skipping commit."
+          exit 0
+        fi
+
         mkdir -p public
         cp "../$FILE_SRC" "$FILE_DEST"
 
-        # Commit & push if changed
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "GitHub Actions Bot"
         git add "$FILE_DEST"
-        git diff --cached --quiet || git commit -m "📺 Update EPG: $(date +'%Y-%m-%d %H:%M:%S') IST"
+        git commit -m "🔄 Automatically updated EPG"
+        git pull --rebase --autostash origin "$TARGET_BRANCH" || true
         git push "$REPO" "$TARGET_BRANCH"
