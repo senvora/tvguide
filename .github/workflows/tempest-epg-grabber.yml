@@ -5,15 +5,18 @@ on:
     - cron: "30 21 * * *"  # 03:00 IST
   workflow_dispatch:
 
+permissions:
+  contents: write   # allow commits to tvguide repo
+
 jobs:
   grab-epg:
     runs-on: ubuntu-latest
     env:
-      TZ: Asia/Kolkata   # ✅ Force IST timezone for all steps
-      ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}   # 🔐 Store password in GitHub Secrets
+      TZ: Asia/Kolkata
+      ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}
 
     steps:
-    # Step 1: Checkout code
+    # Step 1: Checkout tvguide repo
     - name: Checkout code
       uses: actions/checkout@v4
 
@@ -24,21 +27,21 @@ jobs:
         php-version: 8.4
         extensions: xml, imagick, zip, curl
 
-    # Step 3: Unzip tempest-epg-grabber (with 7-Zip + password)
+    # Step 3: Unzip tempest-epg-grabber (with password)
     - name: Unzip tempest-epg-grabber
       run: |
         sudo apt-get update && sudo apt-get install -y p7zip-full
         mkdir -p temp_epg
         7z x tempest-epg-grabber.zip -p"$ZIP_PASSWORD" -otemp_epg
 
-    # Step 4: Run Tempest PHP grabber (silent)
+    # Step 4: Run Tempest PHP grabber
     - name: Run Tempest script
       run: |
         export TZ=Asia/Kolkata
         php -d date.timezone=Asia/Kolkata temp_epg/tempest.php --epg config=tempest.config.xml > tempest.log 2>&1
         echo "✅ Tempest grabber finished."
 
-    # Step 5: Run Tempest EPG Python generator (silent)
+    # Step 5: Run Tempest EPG Python generator
     - name: Run tempest EPG Python script
       run: |
         export TZ=Asia/Kolkata
@@ -49,7 +52,7 @@ jobs:
     - name: Cleanup raw XML
       run: rm -f temp_epg/tempest_config/epg/epg.xml
 
-    # Step 7: Repack tempest-epg-grabber (with 7-Zip + password)
+    # Step 7: Repack tempest-epg-grabber
     - name: Repack tempest-epg-grabber
       run: |
         rm -f tempest-epg-grabber.zip
@@ -59,8 +62,37 @@ jobs:
     - name: Remove temporary folder
       run: rm -rf temp_epg
 
-    # Step 10: Commit and push updated files
+    # Step 9: Commit & push updated files to tvguide repo
     - name: Commit and push updated files
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: "🔄 Automatically updated EPG"
+
+    # Step 10: Push EPG to public folder in private repo
+    - name: Push EPG to public folder in private repo
+      if: success()
+      env:
+        GITHUB_TOKEN: ${{ secrets.IPTV_TOKEN }}   # Personal Access Token with repo scope
+      run: |
+        REPO="https://x-access-token:${GITHUB_TOKEN}@github.com/senvora/iptv.git"
+        TARGET_BRANCH="main"
+        FILE_SRC="guide/epg.xml.gz"
+        FILE_DEST="public/epg.xml.gz"
+
+        if [ ! -f "$FILE_SRC" ]; then
+          echo "❌ EPG file not found: $FILE_SRC"
+          exit 1
+        fi
+
+        # Clone the private repo
+        git clone --depth 1 --branch "$TARGET_BRANCH" "$REPO" tmp_repo
+        cd tmp_repo
+
+        # Copy the EPG file
+        mkdir -p public
+        cp "../$FILE_SRC" "$FILE_DEST"
+
+        # Commit & push if changed
+        git add "$FILE_DEST"
+        git diff --cached --quiet || git commit -m "📺 Update EPG: $(date +'%Y-%m-%d %H:%M:%S') IST"
+        git push "$REPO" "$TARGET_BRANCH"
