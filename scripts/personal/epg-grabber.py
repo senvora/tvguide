@@ -29,6 +29,23 @@ def pretty_xml(root):
     parsed = minidom.parseString(xml_str)
     return b"\n".join(line for line in parsed.toprettyxml(indent="  ", encoding="utf-8").splitlines() if line.strip())
 
+def clean_xml(path):
+    """Read raw XML, strip problematic characters, return new path."""
+    with open(path, "r", encoding="utf-8", errors="ignore") as f:
+        data = f.read()
+
+    # Fix bare ampersands
+    data = re.sub(r'&(?!amp;|lt;|gt;|quot;|apos;)', '&amp;', data)
+
+    # Remove ASCII control chars (except \t \n \r)
+    data = re.sub(r'[\x00-\x08\x0B-\x0C\x0E-\x1F]', '', data)
+
+    cleaned_path = path + ".cleaned"
+    with open(cleaned_path, "w", encoding="utf-8") as f:
+        f.write(data)
+
+    return cleaned_path
+
 def clean_programmes(root):
     cleaned = []
     for p in root.findall("programme"):
@@ -65,7 +82,13 @@ def clean_programmes(root):
 # --- Main processing ---
 def process_xml(path):
     print(f"Processing: {path}")
-    tree = ET.parse(path)
+    try:
+        tree = ET.parse(path)
+    except ET.ParseError:
+        print(f"⚠️ Parse error in {path}, attempting clean...")
+        cleaned_path = clean_xml(path)
+        tree = ET.parse(cleaned_path)
+
     root = tree.getroot()
 
     channels = root.findall("channel")
@@ -80,11 +103,13 @@ def process_xml(path):
         root.remove(e)
 
     channels.sort(key=lambda c: alphanum_sort_key(c.attrib.get("id","")))
-    for c in channels: root.append(c)
+    for c in channels: 
+        root.append(c)
 
     order = {c.attrib["id"]: i for i,c in enumerate(channels)}
     programmes.sort(key=lambda p: (order.get(p.attrib.get("channel",""),9999), p.attrib.get("start","")))
-    for p in programmes: root.append(p)
+    for p in programmes: 
+        root.append(p)
 
     root.attrib.clear()
     root.set("date", now.strftime("%Y%m%d%H%M%S") + offset)
