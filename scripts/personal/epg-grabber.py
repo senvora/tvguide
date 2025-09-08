@@ -40,11 +40,32 @@ def clean_xml(path):
     # Remove ASCII control chars (except \t \n \r)
     data = re.sub(r'[\x00-\x08\x0B-\x0C\x0E-\x1F]', '', data)
 
+    # Remove illegal XML 1.0 chars
+    data = re.sub(r'[^\x09\x0A\x0D\x20-\uD7FF\uE000-\uFFFD]', '', data)
+
     cleaned_path = path + ".cleaned"
     with open(cleaned_path, "w", encoding="utf-8") as f:
         f.write(data)
 
     return cleaned_path
+
+def safe_parse(path):
+    """Try parsing with ET, fallback to lxml if needed."""
+    try:
+        return ET.parse(path)
+    except ET.ParseError:
+        print(f"⚠️ Parse error in {path}, cleaning and retrying...")
+        cleaned = clean_xml(path)
+        try:
+            return ET.parse(cleaned)
+        except ET.ParseError:
+            print("⚠️ Still failing, falling back to lxml (recover mode)...")
+            try:
+                from lxml import etree
+                parser = etree.XMLParser(recover=True, encoding="utf-8")
+                return etree.parse(cleaned, parser)
+            except ImportError:
+                raise RuntimeError("❌ lxml not installed, cannot recover broken XML")
 
 def clean_programmes(root):
     cleaned = []
@@ -82,13 +103,7 @@ def clean_programmes(root):
 # --- Main processing ---
 def process_xml(path):
     print(f"Processing: {path}")
-    try:
-        tree = ET.parse(path)
-    except ET.ParseError:
-        print(f"⚠️ Parse error in {path}, attempting clean...")
-        cleaned_path = clean_xml(path)
-        tree = ET.parse(cleaned_path)
-
+    tree = safe_parse(path)
     root = tree.getroot()
 
     channels = root.findall("channel")
