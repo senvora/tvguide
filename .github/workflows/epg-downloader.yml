@@ -23,7 +23,8 @@ jobs:
           node-version: 20
 
       - name: Install Node.js dependencies
-        run: npm install --no-audit --no-fund --legacy-peer-deps
+        run: |
+          npm install --no-audit --no-fund --legacy-peer-deps
 
       # --- Grab EPG ---
       - name: Grab EPG
@@ -52,6 +53,7 @@ jobs:
             pip install --no-cache-dir -r requirements.txt
           else
             pip install --no-cache-dir requests
+          fi
 
       # --- Run EPG Organizer Script ---
       - name: Clean & Organize EPG
