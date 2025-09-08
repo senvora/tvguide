@@ -40,6 +40,16 @@ jobs:
             [ -f "$CHANNELS" ] && cp "$CHANNELS" "$OUTFILE"
           fi
 
+      # --- Pre-clean XML (prevent parse errors) ---
+      - name: Pre-clean XML
+        run: |
+          if [ -f guide/guide.xml ]; then
+            echo "🧹 Pre-cleaning guide.xml..."
+            sed -i 's/&\([^amp;lt;gt;quot;apos;]\)/\&amp;\1/g' guide/guide.xml || true
+            tr -d '\000-\010\013\014\016-\037' < guide/guide.xml > guide/guide.xml.tmp || true
+            mv guide/guide.xml.tmp guide/guide.xml
+          fi
+
       # --- Python Setup ---
       - name: Setup Python
         uses: actions/setup-python@v5
