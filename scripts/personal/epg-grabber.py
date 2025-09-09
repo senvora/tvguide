@@ -9,13 +9,17 @@ import re
 # --- Input/Output folder ---
 folder = "guide/"
 
+# --- Config: how many days of EPG to keep ---
+DAYS_TO_KEEP = 3  # change this to 1, 2, 3... etc.
+
 # --- Local time ---
 now = datetime.now()
 today_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
-tomorrow_end = today_start + timedelta(days=2) - timedelta(seconds=1)
+end_time = today_start + timedelta(days=DAYS_TO_KEEP) - timedelta(seconds=1)
 offset_str = " +0530"
 
 print("🕒 Current runtime:", now.strftime("%Y-%m-%d %H:%M:%S") + offset_str)
+print(f"📺 Keeping programmes from {today_start} to {end_time}")
 
 # --- Helper: parse & filter programmes ---
 def clean_programmes(root):
@@ -30,10 +34,12 @@ def clean_programmes(root):
             stop_dt = datetime.strptime(stop_str[:14], "%Y%m%d%H%M%S")
         except ValueError:
             continue
-        # Skip if outside today + tomorrow
-        if stop_dt < today_start or start_dt > tomorrow_end:
+
+        # Skip if outside desired range
+        if stop_dt < today_start or start_dt > end_time:
             continue
-        # Update start/stop
+
+        # Update start/stop with timezone offset
         programme.set("start", start_dt.strftime("%Y%m%d%H%M%S") + offset_str)
         programme.set("stop", stop_dt.strftime("%Y%m%d%H%M%S") + offset_str)
 
@@ -47,10 +53,10 @@ def clean_programmes(root):
                         if e not in eng:
                             programme.remove(e)
                 else:
-                    # keep first language
                     first = elements[0]
                     for e in elements[1:]:
                         programme.remove(e)
+
             # Remove empty tags
             element = programme.find(tag)
             if element is not None and (element.text is None or element.text.strip() == ""):
