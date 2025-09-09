@@ -1,0 +1,67 @@
+name: Tempest Channel Generator
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write   # allow commits to tvguide repo
+
+jobs:
+  grab-epg:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kolkata
+      ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}
+
+    steps:
+    # Step 1: Checkout tvguide repo
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    # Step 2: Setup PHP
+    - name: Setup PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: 8.4
+        extensions: xml, imagick, zip, curl
+
+    # Step 3: Install 7zip
+    - name: Install 7-Zip
+      run: |
+        sudo apt-get update && sudo apt-get install -y p7zip-full
+
+    # Step 4: Unzip tempest-epg-grabber (with password)
+    - name: Unzip tempest-epg-grabber
+      run: |
+        mkdir -p temp_epg
+        7z x tempest-epg-grabber.zip -p"$ZIP_PASSWORD" -otemp_epg
+
+    # Step 5: Run Tempest PHP grabber (skip on error per channel)
+    - name: Run Tempest script
+      run: |
+        php temp_epg/tempest.php --channel config=[ENC][EX]foxtel.com.au_1 ukey=XXX dpid dpnm || echo "⚠️ Skipping Foxtel due to error"
+        php temp_epg/tempest.php --channel config=[ENC][EX]sky.com_0 dpid dpnm || echo "⚠️ Skipping Sky due to error"
+        php temp_epg/tempest.php --channel config=[ENC][EX]tvtv.us_0 ukey=10001 dpid dpnm || echo "⚠️ Skipping TVTV due to error"
+        php temp_epg/tempest.php --channel config=[ENC]app.plex.tv_0 dpid dpnm || echo "⚠️ Skipping Plex due to error"
+        php temp_epg/tempest.php --channel config=[ENC]distro.tv_0 dpid dpnm || echo "⚠️ Skipping DistroTV due to error"
+        php temp_epg/tempest.php --channel config=[ENC]zee5.com_0 dpid dpnm || echo "⚠️ Skipping Zee5 due to error"
+
+    # Step 8: Repack tempest-epg-grabber
+    - name: Repack tempest-epg-grabber
+      run: |
+        rm -f tempest-epg-grabber.zip
+        7z a -tzip -p"$ZIP_PASSWORD" tempest-epg-grabber.zip ./temp_epg/*
+
+    # Step 9: Remove temporary folder
+    - name: Remove temporary folder
+      run: rm -rf temp_epg
+
+    # Step 10: Commit & push updated files to tvguide repo
+    - name: Commit and push updated files
+      run: |
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "GitHub Actions Bot"
+        git add .
+        git diff --cached --quiet || git commit -m "🔄 Automatically updated EPG"
+        git pull --rebase --autostash origin "$(git rev-parse --abbrev-ref HEAD)" || true
+        git push origin "$(git rev-parse --abbrev-ref HEAD)"
