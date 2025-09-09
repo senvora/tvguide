@@ -32,17 +32,13 @@ jobs:
         run: |
           npm run channels:parse -- --config=./sites/epgshare01.online/epgshare01.online.config.js --output=./sites/epgshare01.online/epgshare01.online_IN1.channels.xml --set=tag:IN1
 
-      - name: Parse epgshare01.online-IN4
+      - name: Parse foxtel.com.au
         run: |
-          npm run channels:parse -- --config=./sites/epgshare01.online/epgshare01.online.config.js --output=./sites/epgshare01.online/epgshare01.online_IN4.channels.xml --set=tag:IN4
+          npm run channels:parse -- --config=./sites/foxtel.com.au/foxtel.com.au.config.js --output=./foxtel.com.au/foxtel.com.au.channels.xml
 
       - name: Parse i.mjh.nz-samsung
         run: |
           npm run channels:parse -- --config=./sites/i.mjh.nz/i.mjh.nz.config.js --output=./sites/i.mjh.nz/i.mjh.nz_samsung.channels.xml --set=provider:samsung
-
-      - name: Parse jiotv.com
-        run: |
-          npm run channels:parse -- --config=./sites/jiotv.com/jiotv.com.config.js --output=./sites/jiotv.com/jiotv.com.channels.xml --set=tag:jio
 
       - name: Parse sky.com
         run: |
@@ -55,6 +51,10 @@ jobs:
       - name: Parse visionplus.id-en
         run: |
           npm run channels:parse -- --config=./sites/visionplus.id/visionplus.id.config.js --output=./sites/visionplus.id/visionplus.id_en.channels.xml --set=lang:en
+
+      - name: Parse xumo.tv
+        run: |
+          npm run channels:parse -- --config=./sites/xumo.tv/xumo.tv.config.js --output=./sites/xumo.tv/xumo.tv.channels.xml
 
       # Commit changes after all sites processed
       - name: Commit and push changes
