@@ -3,7 +3,7 @@ name: EPG Downloader
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 22 * * *"  # 3:30 AM IST
+    - cron: "45 21 * * *"  # 3:15 AM IST
 
 jobs:
   epg-downloader:
