@@ -19,7 +19,8 @@ def parse_time(timestr: str):
         if " " in timestr:
             offset_str = timestr.split(" ")[1]
             sign = 1 if offset_str[0] == '+' else -1
-            hh = int(offset_str[1:3]); mm = int(offset_str[3:5])
+            hh = int(offset_str[1:3])
+            mm = int(offset_str[3:5])
             offset = timezone(sign * timedelta(hours=hh, minutes=mm))
             dt = dt.replace(tzinfo=offset)
         else:
@@ -52,7 +53,7 @@ for programme in list(root.findall("programme")):
         continue
 
     for child in list(programme):
-        if child.tag not in ("title", "desc"):
+        if child.tag not in ("title", "sub-title", "desc"):  # ✅ keep subtitle also
             programme.remove(child)
 
 # Apply indentation before writing
@@ -62,4 +63,4 @@ os.makedirs(os.path.dirname(gzip_file), exist_ok=True)
 with gzip.open(gzip_file, "wb") as f_out:
     tree.write(f_out, encoding="utf-8", xml_declaration=True)
 
-print(f"✅ EPG saved to {gzip_file} (IST today & tomorrow only, no blank lines)")
+print(f"✅ EPG saved to {gzip_file} (IST today & tomorrow only, keeps title/sub-title/desc, no blank lines)")
