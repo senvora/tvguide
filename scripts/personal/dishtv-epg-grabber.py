@@ -1,6 +1,7 @@
+import os
+import gzip
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
-import gzip
 from datetime import datetime, timedelta, timezone
 
 input_file = "guide/dishtv.xml"
@@ -57,32 +58,35 @@ for programme in root.findall("programme"):
     if stop_dt < today_start or start_dt > tomorrow_end:
         continue
 
-    # Keep only English titles
-    titles = programme.findall("title")
-    if len(titles) > 1:
-        for t in titles:
-            if t.attrib.get("lang") != "en":
-                programme.remove(t)
+    # Keep only English title/sub-title/desc
+    for tag in ("title", "sub-title", "desc"):
+        elems = programme.findall(tag)
+        if len(elems) > 1:
+            # Keep only English if available
+            eng = [e for e in elems if e.attrib.get("lang") == "en"]
+            if eng:
+                for e in elems:
+                    if e not in eng:
+                        programme.remove(e)
+            else:
+                # Keep only the first one
+                first = elems[0]
+                for e in elems[1:]:
+                    programme.remove(e)
 
-    # Keep only English descriptions
-    descs = programme.findall("desc")
-    if len(descs) > 1:
-        for d in descs:
-            if d.attrib.get("lang") != "en":
-                programme.remove(d)
-
-    # Remove other tags (like <icon>, <url>)
+    # Remove other tags (like <icon>, <url>, etc.)
     for child in list(programme):
-        if child.tag not in ("title", "desc"):
+        if child.tag not in ("title", "sub-title", "desc"):
             programme.remove(child)
 
-    # Remove empty title/desc
-    for tag in ("title", "desc"):
+    # Remove empty title/sub-title/desc
+    for tag in ("title", "sub-title", "desc"):
         element = programme.find(tag)
         if element is not None and (element.text is None or element.text.strip() == ""):
             programme.remove(element)
 
-    programmes.append(programme)
+    if programme.findall("title") or programme.findall("sub-title") or programme.findall("desc"):
+        programmes.append(programme)
 
 # --- Collect channels ---
 channels = root.findall("channel")
@@ -91,7 +95,7 @@ channels = root.findall("channel")
 for elem in channels + root.findall("programme"):
     root.remove(elem)
 
-# --- Sort channels alphabetically ---
+# --- Sort channels alphabetically by display-name (fallback to id) ---
 def channel_key(c):
     name_elem = c.find("display-name")
     if name_elem is not None and name_elem.text:
@@ -130,4 +134,4 @@ pretty_xml_as_str = b"\n".join(
 with gzip.open(gzip_file, "wb") as f_out:
     f_out.write(pretty_xml_as_str)
 
-print(f"✅ Cleaned, filtered (today + tomorrow IST) & gzipped EPG saved to {gzip_file}")
+print(f"✅ Cleaned, filtered (today + tomorrow IST, keeps title/sub-title/desc) & gzipped EPG saved to {gzip_file}")
