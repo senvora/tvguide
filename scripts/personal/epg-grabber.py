@@ -43,16 +43,18 @@ def clean_programmes(root):
         programme.set("start", start_dt.strftime("%Y%m%d%H%M%S") + offset_str)
         programme.set("stop", stop_dt.strftime("%Y%m%d%H%M%S") + offset_str)
 
-        # Keep only title + desc
-        for tag in ("title", "desc"):
+        # Keep only title + sub-title + desc
+        for tag in ("title", "sub-title", "desc"):
             elements = programme.findall(tag)
             if elements:
+                # Prefer English entries
                 eng = [e for e in elements if e.attrib.get("lang") == "en"]
                 if eng:
                     for e in elements:
                         if e not in eng:
                             programme.remove(e)
                 else:
+                    # Keep only the first one
                     first = elements[0]
                     for e in elements[1:]:
                         programme.remove(e)
@@ -64,11 +66,16 @@ def clean_programmes(root):
 
         # Remove other child tags
         for child in list(programme):
-            if child.tag not in ("title", "desc"):
+            if child.tag not in ("title", "sub-title", "desc"):
                 programme.remove(child)
 
-        if programme.find("title") is None and programme.find("desc") is None:
+        if (
+            programme.find("title") is None
+            and programme.find("sub-title") is None
+            and programme.find("desc") is None
+        ):
             continue
+
         programmes.append(programme)
     return programmes
 
