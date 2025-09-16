@@ -15,11 +15,13 @@
   <channel site="distro.tv" lang="en" xmltv_id="bollywoodclassic.in" site_id="87417">Bollywood Classic</channel>  
   <channel site="distro.tv" lang="en"  xmltv_id="bollywoodhd.in" site_id="87418">Bollywood HD</channel>
   <channel site="distro.tv" lang="en" xmltv_id="zeebollyworld.in" site_id="126290">Zee BollyWorld</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="foxcricket.au" site_id="Foxtel/epg#FS1">FOX CRICKET</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="foxsports503.au" site_id="Foxtel/epg#FS3">Fox Sports 503</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="foxsports505.au" site_id="Foxtel/epg#FSP">Fox Sports 505</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="foxsports506.au" site_id="Foxtel/epg#SPS">Fox Sports 506</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="foxsportsmoreplus.au" site_id="Foxtel/epg#FSS">Fox Sports More+</channel>
+  <channel site="foxsports.com.au" lang="en" xmltv_id="foxcricket.au" site_id="14">FOX Cricket</channel>
+  <channel site="foxsports.com.au" lang="en" xmltv_id="foxfooty.au" site_id="10">FOX Footy</channel>
+  <channel site="foxsports.com.au" lang="en" xmltv_id="foxleague.au" site_id="2">FOX League</channel>
+  <channel site="foxsports.com.au" lang="en" xmltv_id="foxsports503.au" site_id="3">FOX Sports 503</channel>
+  <channel site="foxsports.com.au" lang="en" xmltv_id="foxsports505.au" site_id="11">FOX Sports 505</channel>
+  <channel site="foxsports.com.au" lang="en" xmltv_id="foxsports506.au" site_id="12">FOX Sports 506</channel>
+  <channel site="foxsports.com.au" lang="en" xmltv_id="foxsportsmoreplus.au" site_id="13">FOX Sports More</channel>
   <channel site="plex.tv" lang="en" xmltv_id="shemaroobollywood.us" site_id="5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d">Shemaroo Bollywood</channel>
   <channel site="plex.tv" lang="en" xmltv_id="willowsports.us" site_id="5e20b730f2f8d5003d739db7-66fbf9cf128ab3f65b259bcb">Willow Sports</channel>
   <channel site="sky.com" lang="en" xmltv_id="SkySportsCrickethd.uk" site_id="4081">SkySpCricket HD</channel>
@@ -29,18 +31,19 @@
   <channel site="sky.com" lang="en" xmltv_id="tntsports2hd.uk" site_id="3627">TNTSports2 HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="tntsports3hd.uk" site_id="3629">TNTSports3 HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="tntsports4hd.uk" site_id="4040">TNTSports4 HD</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="skysport1.nz" site_id="SkyGo/epg#sky.51">Sky Sport 1</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="skysport2.nz" site_id="SkyGo/epg#sky.52">Sky Sport 2</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="skysport3.nz" site_id="SkyGo/epg#sky.53">Sky Sport 3</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="skysport4.nz" site_id="SkyGo/epg#sky.54">Sky Sport 4</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="skysport5.nz" site_id="SkyGo/epg#sky.55">Sky Sport 5</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="skysport6.nz" site_id="SkyGo/epg#sky.56">Sky Sport 6</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="skysport7.nz" site_id="SkyGo/epg#sky.57">Sky Sport 7</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="skysport9.nz" site_id="SkyGo/epg#sky.59">Sky Sport 9</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="skysportpremierleague.nz" site_id="SkyGo/epg#sky.58">Sky Sport Premier League</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="skysportselect.nz" site_id="SkyGo/epg#sky.50">Sky Sport Select</channel>
+  <channel site="nzxmltv.com" lang="en" xmltv_id="skysport1.nz" site_id="sky/guide#51">Sky Sport 1</channel>
+  <channel site="nzxmltv.com" lang="en" xmltv_id="skysport2.nz" site_id="sky/guide#52">Sky Sport 2</channel>
+  <channel site="nzxmltv.com" lang="en" xmltv_id="skysport3.nz" site_id="sky/guide#53">Sky Sport 3</channel>
+  <channel site="nzxmltv.com" lang="en" xmltv_id="skysport4.nz" site_id="sky/guide#54">Sky Sport 4</channel>
+  <channel site="nzxmltv.com" lang="en" xmltv_id="skysport5.nz" site_id="sky/guide#55">Sky Sport 5</channel>
+  <channel site="nzxmltv.com" lang="en" xmltv_id="skysport6.nz" site_id="sky/guide#56">Sky Sport 6</channel>
+  <channel site="nzxmltv.com" lang="en" xmltv_id="skysport7.nz" site_id="sky/guide#57">Sky Sport 7</channel>
+  <channel site="nzxmltv.com" lang="en" xmltv_id="skysport9.nz" site_id="sky/guide#59">Sky Sport 9</channel>
+  <channel site="nzxmltv.com" lang="en" xmltv_id="skysportpremierleague.nz" site_id="sky/guide#58">Sky Sport Premier League</channel>
+  <channel site="nzxmltv.com" lang="en" xmltv_id="skysportselect.nz" site_id="sky/guide#50">Sky Sport Select</channel>
   <channel site="visionplus.id" lang="en" xmltv_id="rockentertainment.id" site_id="00000000000000000092">Rock Entertainment</channel>
   <channel site="visionplus.id" lang="en" xmltv_id="rockaction.id" site_id="00000000000000000093">Rock Action</channel>
   <channel site="zap2it.com" lang="es" xmltv_id="willow.us" site_id="X/USA-DITV-DEFAULT/DITV/USA/12084/80621">WLLOHD</channel>
   <channel site="zap2it.com" lang="es" xmltv_id="willow2.us" site_id="X/USA-DITV-DEFAULT/DITV/USA/12084/100316">WILLOW2</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Willow.tvtv" site_id="68605">Willow</channel>
 </channels>
