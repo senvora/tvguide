@@ -43,8 +43,8 @@ def convert_and_filter_programmes(root):
 
             # Keep if any overlap with [today, tomorrow]
             if stop > start_day and start < end_day:
-                # Keep only English title/desc (or fallback)
-                for tag in ("title", "desc"):
+                # Keep only English title/sub-title/desc (or fallback)
+                for tag in ("title", "sub-title", "desc"):
                     elements = prog.findall(tag)
                     en_elements = [e for e in elements if e.attrib.get("lang") == "en" and e.text and e.text.strip()]
                     if en_elements:
@@ -56,12 +56,12 @@ def convert_and_filter_programmes(root):
                             if not e.text or not e.text.strip():
                                 prog.remove(e)
 
-                # Remove everything except title/desc
+                # Remove everything except title/sub-title/desc
                 for child in list(prog):
-                    if child.tag not in ("title", "desc"):
+                    if child.tag not in ("title", "sub-title", "desc"):
                         prog.remove(child)
 
-                if prog.findall("title") or prog.findall("desc"):
+                if prog.findall("title") or prog.findall("sub-title") or prog.findall("desc"):
                     keep_progs.append(prog)
         except Exception as e:
             print("⚠️ Time parse failed:", prog.attrib.get("start"), e)
