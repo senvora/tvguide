@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#3.0.TV.in">3.0 TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#4.TV.in">4 TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#6.TV.in">6 TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#7X.Music.in">7X Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#9.Bharat.Samachar.in">9 Bharat Samachar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#9X.Jalwa.in">9X Jalwa</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#9x.Jhakaas.in">9x Jhakaas</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#9X.Tashan.in">9X Tashan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#9XM.in">9XM</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#10.TV.in">10 TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#22Scope.News.in">22Scope News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#24Hrs.TV.in">24Hrs TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#35mm.in">35mm</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#99.TV.in">99 TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#&amp;TV.HD.in">&amp;amp;TV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#&amp;Xplor.HD.in">&amp;amp;Xplor HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#A1.TV.Rajasthan.in">A1 TV Rajasthan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Aadinath.TV.in">Aadinath TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Aaj.Ki.Khabar.in">Aaj Ki Khabar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Aaj.Tak.in">Aaj Tak</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Aakash.Aath.in">Aakash Aath</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Aaryaa.Bhakti.in">Aaryaa Bhakti</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Aaryaa.Cinema.in">Aaryaa Cinema</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Aaryaa.News.in">Aaryaa News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Aastha.Bhajan.in">Aastha Bhajan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Aastha.Gujarati.in">Aastha Gujarati</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Aastha.in">Aastha</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Aastha.Kannada.in">Aastha Kannada</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Aastha.Telugu.in">Aastha Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#AB.News.in">AB News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#AB.Star.News.in">AB Star News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ABC.Australia.in">ABC Australia</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ABC.News.in">ABC News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ABN.Andhra.Jyothi.in">ABN Andhra Jyothi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ABP.Ananda.in">ABP Ananda</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ABP.Asmita.in">ABP Asmita</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ABP.Ganga.in">ABP Ganga</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ABP.Majha.in">ABP Majha</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ABP.News.India.in">ABP News India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ABP.Sanjha.in">ABP Sanjha</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Action.Cinema.in">Action Cinema</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Adhyatam.TV.in">Adhyatam TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Adithya.TV.in">Adithya TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#AL.Jazeera.in">AL Jazeera</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Alankar.TV.in">Alankar TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ALL.Time.MOVIES.in">ALL Time MOVIES</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#All.Women's.Sports.Network.in">All Women&apos;s Sports Network</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Amar.Bangla.TV.in">Amar Bangla TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Amar.Digital.TV.in">Amar Digital TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#AMMA.TV.in">AMMA TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Amrita.TV.in">Amrita TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Amritwani.TV.in">Amritwani TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#AMV.in">AMV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Anaadi.TV.in">Anaadi TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Anand.TV.in">Anand TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ananda.Barta.in">Ananda Barta</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ANB.News.in">ANB News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#And.Flix.in">And Flix</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#And.Pictures.HD.in">And Pictures HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#And.Pictures.in">And Pictures</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#And.Prive.HD.in">And Prive HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#AndFlix.HD.in">AndFlix HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Angel.TV.HD.in">Angel TV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Animal.Planet.English.in">Animal Planet English</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Animal.Planet.HD.in">Animal Planet HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Animal.Planet.HD.Tamil.in">Animal Planet HD Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Animal.Planet.HD.Telugu.in">Animal Planet HD Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Animal.Planet.HD.World.in">Animal Planet HD World</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Animal.Planet.Hindi.in">Animal Planet Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Animal.Planet.Telugu.in">Animal Planet Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Animax.in">Animax</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Anjan.TV.in">Anjan TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ANN.News.in">ANN News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#AOne.News.in">AOne News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#AP-BIE-ARTS.in">AP-BIE-ARTS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#AP-BIE-SCIENCE.in">AP-BIE-SCIENCE</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#AP-CIE-SIVE.in">AP-CIE-SIVE</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Apex.Entertainment.in">Apex Entertainment</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Apex.News.India.in">Apex News India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Aradhana.TV.in">Aradhana TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Argus.News.in">Argus News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Arjun.Kanungo.in">Arjun Kanungo</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Arre.HD.in">Arre HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Artist.Aloud.in">Artist Aloud</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Arya.Sandesh.TV.in">Arya Sandesh TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Aryan.TV.National.in">Aryan TV National</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ashtavinayak.Ranjangaon.in">Ashtavinayak Ranjangaon</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Asian.News.in">Asian News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Asianet.in">Asianet</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Asianet.Movies.HD.in">Asianet Movies HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Asianet.News.in">Asianet News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Assam.Talks.in">Assam Talks</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Atmadarshan.TV.in">Atmadarshan TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ATN.Samachar.in">ATN Samachar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ATV.India.News.in">ATV India News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Auroville.TV.in">Auroville TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Awakening.in">Awakening</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ayush.TV.in">Ayush TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#B4U.Bhojpuri.in">B4U Bhojpuri</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#B4U.Kadak.in">B4U Kadak</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#B4U.Movies.in">B4U Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#B4U.Music.in">B4U Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Babulnaath.Mumbai.in">Babulnaath Mumbai</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Badakhabar.in">Badakhabar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Balle.Balle.TV.in">Balle Balle TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bangla.Bhakti.in">Bangla Bhakti</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bangla.Jago.in">Bangla Jago</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bansal.News.in">Bansal News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#BBC.World.in">BBC World</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#BBS.News.Network.in">BBS News Network</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Best.of.Aahat.in">Best of Aahat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Best.of.Kapil.Sharma.in">Best of Kapil Sharma</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bflix.Movies.in">Bflix Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#BH.Style.Icon.Awards.in">BH Style Icon Awards</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bhakthi.Siri.in">Bhakthi Siri</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bhakti.Dhara.in">Bhakti Dhara</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bhakti.Sagar.TV.in">Bhakti Sagar TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bhakti.Sandesh.in">Bhakti Sandesh</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bhakti.TV.in">Bhakti TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bharat.24.in">Bharat 24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bharat.AtoZ.in">Bharat AtoZ</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bharat.Express.in">Bharat Express</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bharat.Nation.in">Bharat Nation</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bharat.News.TV.in">Bharat News TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bharat.Samachar.in">Bharat Samachar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bharat.Times.News.Gujarati.in">Bharat Times News Gujarati</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bharat.Times.News.in">Bharat Times News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bharat.TV24.in">Bharat TV24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bharat.Update.in">Bharat Update</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#BHI.Channel.in">BHI Channel</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bhojpuri.Cinema.in">Bhojpuri Cinema</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bhojpuri.Junction.in">Bhojpuri Junction</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#BHOOMI.24x7.in">BHOOMI 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#BHP.News.in">BHP News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Big.Magic.in">Big Magic</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Big.TV.in">Big TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Birla.Brainiacs.in">Birla Brainiacs</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bollywood.Hungama.in">Bollywood Hungama</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Bollywood.Masala.in">Bollywood Masala</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Boogle.Bangla.in">Boogle Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Boogle.Bollywood.in">Boogle Bollywood</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#BRAVE.TV.in">BRAVE TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Brit.Asia.in">Brit Asia</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#BS9.News.in">BS9 News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#BSTV.in">BSTV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Buletin.India.in">Buletin India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#BVG.in">BVG</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#BVTV.in">BVTV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#C.News.Bharat.in">C News Bharat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Calcutta.News.in">Calcutta News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Calvary.in">Calvary</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Cartoon.Network.HD+.in">Cartoon Network HD+</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Cartoon.Network.Hindi.in">Cartoon Network Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Cartoon.Network.in">Cartoon Network</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Cartoon.Network.Tamil.in">Cartoon Network Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Cartoon.Network.Telugu.in">Cartoon Network Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CBeeBies.in">CBeeBies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CENTA.TV.in">CENTA TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Chanakya.News.India.Rajasthan.in">Chanakya News India Rajasthan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Chanakya.News.Jharkhand.in">Chanakya News Jharkhand</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Chanakya.News.National.in">Chanakya News National</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Chanakya.News.UPUK.in">Chanakya News UPUK</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Channel.News.Asia.International.in">Channel News Asia International</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Channel.Vision.in">Channel Vision</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Channel.Win.in">Channel Win</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Chardikla.Time.TV.in">Chardikla Time TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Chintu.TV.in">Chintu TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Chumbak.TV.in">Chumbak TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Chutti.TV.in">Chutti TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#City.Music.in">City Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CN.HD+.English.in">CN HD+ English</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CN.HD+.Tamil.in">CN HD+ Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CN.HD+.Telugu.in">CN HD+ Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CNBC.Awaaz.in">CNBC Awaaz</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CNBC.Bajar.in">CNBC Bajar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CNBC.TV18.in">CNBC TV18</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CNBC.TV18.Prime.HD.in">CNBC TV18 Prime HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CNBC.TV18.Prime.in">CNBC TV18 Prime</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CNN.in">CNN</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CNN.NEWS.18.in">CNN NEWS 18</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Bangla.Cinema.in">Colors Bangla Cinema</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Bangla.HD.in">Colors Bangla HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Bangla.in">Colors Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Bangla.SD.in">Colors Bangla SD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Bengali.HD.in">Colors Bengali HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Cineplex.Bollywood.in">Colors Cineplex Bollywood</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Cineplex.HD.in">Colors Cineplex HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Cineplex.in">Colors Cineplex</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Cineplex.Superhit.in">Colors Cineplex Superhit</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Cineplex.Superhits.in">Colors Cineplex Superhits</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Gujarati.Cinema.in">Colors Gujarati Cinema</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Gujarati.in">Colors Gujarati</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.HD.in">Colors HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.in">Colors</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Infinity.HD.in">Colors Infinity HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Infinity.in">Colors Infinity</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Infinity.SD.in">Colors Infinity SD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Kannada.Cinema.in">Colors Kannada Cinema</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Kannada.HD.in">Colors Kannada HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Kannada.SD.in">Colors Kannada SD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Marathi.HD.in">Colors Marathi HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Marathi.SD.in">Colors Marathi SD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Rishtey.in">Colors Rishtey</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.SD.in">Colors SD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Super.in">Colors Super</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Colors.Tamil.in">Colors Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ctvn.Akd.Plus.in">Ctvn Akd Plus</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CVR.English.in">CVR English</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CVR.Health.in">CVR Health</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CVR.News.in">CVR News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CVR.OM.Spiritual.in">CVR OM Spiritual</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#CyberPeace.TV.in">CyberPeace TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#D.Tamil.in">D Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DA.News.Plus.in">DA News Plus</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Dabangg.in">Dabangg</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Dada.Bhagwan.Foundation.Gujarati.in">Dada Bhagwan Foundation Gujarati</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Dada.Bhagwan.Foundation.in">Dada Bhagwan Foundation</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Dagdusheth.Ganpati.-.Pune.in">Dagdusheth Ganpati - Pune</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Daijiworld.TV.24x7.in">Daijiworld TV 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Daily.Post.PHH.in">Daily Post PHH</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Dangal.2.in">Dangal 2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Dangal.in">Dangal</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Darshan.24.in">Darshan 24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD5.Podhigai.in">DD5 Podhigai</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD9.chandana.(kannada).in">DD9 chandana (kannada)</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Arunprabha.in">DD Arunprabha</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Bangla.in">DD Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.bharati.in">DD bharati</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Bihar.in">DD Bihar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Girnar.in">DD Girnar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Gyandarshan.in">DD Gyandarshan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.India.in">DD India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Kashir.in">DD Kashir</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Kisan.in">DD Kisan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Madhya.Pradesh.in">DD Madhya Pradesh</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Malayalam.in">DD Malayalam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.National.in">DD National</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.News.in">DD News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.North.East.in">DD North East</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Oriya.in">DD Oriya</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Punjabi.in">DD Punjabi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Rajasthan.(Jaipur).in">DD Rajasthan (Jaipur)</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Sahayadri.in">DD Sahayadri</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Saptagiri.in">DD Saptagiri</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Sports.HD.in">DD Sports HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Sports.in">DD Sports</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.urdu.in">DD urdu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DD.Uttar.Pradesh.in">DD Uttar Pradesh</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Desh.News.in">Desh News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Desi.Channel.in">Desi Channel</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Desi.Music.Station.in">Desi Music Station</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Desi.Tashan.TV.in">Desi Tashan TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Desika.daya.in">Desika daya</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Dhamaal.TV.in">Dhamaal TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Dharm.Granth.TV.in">Dharm Granth TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Dharma.Sandesh.in">Dharma Sandesh</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Dhoom.Music.Bangla.in">Dhoom Music Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Digishala.in">Digishala</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Discovery.Bengali.in">Discovery Bengali</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Discovery.HD.World.in">Discovery HD World</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Discovery.Hindi.in">Discovery Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Discovery.in">Discovery</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Discovery.Kids.2.in">Discovery Kids 2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Discovery.Kids.in">Discovery Kids</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Discovery.Kids.Tamil.in">Discovery Kids Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Discovery.Science.in">Discovery Science</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Discovery.Telugu.in">Discovery Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Discovery.Turbo.in">Discovery Turbo</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Disha.tv.in">Disha tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Disney.in">Disney</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Disney.International.HD.in">Disney International HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Disney.Junior.in">Disney Junior</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Divya.TV.in">Divya TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Divya.Vani.in">Divya Vani</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Divyalok.TV.in">Divyalok TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Divyang.News.in">Divyang News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DKP.News.in">DKP News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DNN.in">DNN</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#dw.in">dw</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#DY.365.in">DY 365</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#E.24.in">E 24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#E.News79.in">E News79</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ekamra.Bharat.Odia.in">Ekamra Bharat Odia</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ekamra.Cinema.in">Ekamra Cinema</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ekamra.Manoranjan.in">Ekamra Manoranjan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ekamra.Musiq.in">Ekamra Musiq</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ekamra.Nilach.akra.in">Ekamra Nilach akra</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Enterr10.Movies.in">Enterr10 Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Epic.in">Epic</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#EPIC.in">EPIC</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ESG.TV.in">ESG TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ET.Now.in">ET Now</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ET.Now.Swadesh.in">ET Now Swadesh</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ETV.Abhiruchi.in">ETV Abhiruchi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ETV.Andhra.Pradesh.in">ETV Andhra Pradesh</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ETV.Cinema.in">ETV Cinema</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ETV.Plus.in">ETV Plus</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ETV.Telangana.in">ETV Telangana</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ETV.Telugu.in">ETV Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Euro.News.in">Euro News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Eurosport.in">Eurosport</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Express.News.Bharat.in">Express News Bharat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Express.News.in">Express News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Fakt.Marathi.in">Fakt Marathi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Fashion.India.in">Fashion India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Fateh.TV.in">Fateh TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Filamchi.Bhojpuri.in">Filamchi Bhojpuri</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#First.India.News.in">First India News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Firstpost.in">Firstpost</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Flexibility.Yoga.in">Flexibility Yoga</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Flower.TV.in">Flower TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Flowers.in">Flowers</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#FM.News.in">FM News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Food.Food.in">Food Food</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Foodxp.in">Foodxp</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Football.Blockbusters.24x7.in">Football Blockbusters 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#France.24.in">France 24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Friends.TV.in">Friends TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#FTV.HD.in">FTV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ganga.Darshan.Varanasi.in">Ganga Darshan Varanasi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gangaur.in">Gangaur</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Garv.Punjabi.Gurbani.in">Garv Punjabi Gurbani</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Garvi.Gujarat.Gujarati.in">Garvi Gujarat Gujarati</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Garvi.Gujarat.in">Garvi Gujarat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#GBN24.in">GBN24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gemini.Comedy.in">Gemini Comedy</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gemini.Life.in">Gemini Life</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gemini.Movies.HD.in">Gemini Movies HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gemini.Movies.in">Gemini Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gemini.Music.HD.in">Gemini Music HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gemini.TV.HD.in">Gemini TV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gemini.TV.in">Gemini TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ghaint.Punjab.in">Ghaint Punjab</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Global.India.in">Global India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Global.Punjab.in">Global Punjab</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Global.Sanjh.in">Global Sanjh</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Globe.TV.in">Globe TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#GOA.365.in">GOA 365</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Goldmines.Bollywood.in">Goldmines Bollywood</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Goldmines.in">Goldmines</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Goldmines.Movies.in">Goldmines Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Good.News.Today.in">Good News Today</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#GOOD.TiMES.in">GOOD TiMES</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Goodness.in">Goodness</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#GoodNews.Channel.in">GoodNews Channel</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Grace.TV.in">Grace TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gramin.Drishti.in">Gramin Drishti</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Green.Chillies.in">Green Chillies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#GS.TV.in">GS TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Guided.Meditation.in">Guided Meditation</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gujarat.1st.24x7.in">Gujarat 1st 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gulistan.News.in">Gulistan News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gurkibani.in">Gurkibani</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gurukul.in">Gurukul</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Guruvayur.Devaswom.in">Guruvayur Devaswom</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gusto.TV.in">Gusto TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gyan.Brikshya.in">Gyan Brikshya</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gyanvani.1.in">Gyanvani 1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Gyanvani.2.in">Gyanvani 2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Har.Khabar.in">Har Khabar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Hare.krsna.in">Hare krsna</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Hare.Krsna.Music.in">Hare Krsna Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Hare.Krsna.Pravachan.in">Hare Krsna Pravachan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Harvest.TV.24x7.in">Harvest TV 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Haryana.Beats.in">Haryana Beats</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Haryana.Buzz.in">Haryana Buzz</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Haryana.Tashan.Music.in">Haryana Tashan Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Haryanvi.Hits.in">Haryanvi Hits</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Headline.News.in">Headline News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#HHDL.in">HHDL</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Hi.Dost!.in">Hi Dost!</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Hiff.Movies.in">Hiff Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Highbrow.in">Highbrow</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Himshiksha.Elementary.in">Himshiksha Elementary</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Himshiksha.Higher.in">Himshiksha Higher</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Himshiksha.Vocational.in">Himshiksha Vocational</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Hindi.Khabar.in">Hindi Khabar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Hindu.Dharmam.in">Hindu Dharmam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#History.TV18.HD.Hindi.in">History TV18 HD Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#History.TV18.HD.in">History TV18 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#History.TV18.HD.Tamil.in">History TV18 HD Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#History.TV18.HD.Telugu.in">History TV18 HD Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#History.TV18.SD.in">History TV18 SD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#HM.TV.in">HM TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#HNN.24x7.in">HNN 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#HooplaKidz.TV.in">HooplaKidz TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Hornbill.TV.in">Hornbill TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Hosanna.TV.in">Hosanna TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Hungama.in">Hungama</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#I.News.in">I News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#IBC24.in">IBC24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ichhapuran.Balaji.Rajasthan.in">Ichhapuran Balaji Rajasthan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ICMAI-Delhi.in">ICMAI-Delhi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#IN24.Live.in">IN24 Live</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#IN.24.News.in">IN 24 News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#In.Goa.24x7.in">In Goa 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#IND.24.in">IND 24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.24x7.Aap.Tak.TV.in">India 24x7 Aap Tak TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.24x7.in">India 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.Daily.Live.in">India Daily Live</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.News.Gujarat.in">India News Gujarat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.News.Haryana.in">India News Haryana</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.news.in">India news</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.News.MP.in">India News MP</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.News.Punjab.in">India News Punjab</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.News.Rajasthan.in">India News Rajasthan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.News.UP.in">India News UP</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.Prime.News.in">India Prime News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.Science.in">India Science</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.Today.in">India Today</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.TV.Aap.Ki.Adalat.in">India TV Aap Ki Adalat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.TV.in">India TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.TV.Speed.News.in">India TV Speed News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.TV.Yoga.Channel.in">India TV Yoga Channel</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#India.Voice.in">India Voice</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Indian.News.in">Indian News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#INH.24x7.in">INH 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Insync.in">Insync</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Investigation.Discovery.in">Investigation Discovery</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#IPN.News.in">IPN News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ishvani.TV.in">Ishvani TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ishwar.TV.in">Ishwar TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ishwar.Vani.Tv.in">Ishwar Vani Tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ISKCON.Bangalore.in">ISKCON Bangalore</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Iskon.Girgaon.in">Iskon Girgaon</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#J.Movies.in">J Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jai.Maharashtra.in">Jai Maharashtra</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jaihind.tv.in">Jaihind tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jan.Setu.News.in">Jan Setu News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jan.TV.in">Jan TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Janadesh.News.in">Janadesh News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Janam.TV.in">Janam TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Janapriyam.in">Janapriyam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Janta.Darbar.News.in">Janta Darbar News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Janta.TV.in">Janta TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jantantra.in">Jantantra</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jatra.Ekamra.in">Jatra Ekamra</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jay.Jagannath.in">Jay Jagannath</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jaya.Max.in">Jaya Max</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jaya.Plus.in">Jaya Plus</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jaya.TV.HD.in">Jaya TV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jaya.TV.in">Jaya TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jeevan.TV.in">Jeevan TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jeewan.Bhakti.in">Jeewan Bhakti</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jigyasa.TV.in">Jigyasa TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jinvani.TV.in">Jinvani TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jio.Events.HD.in">Jio Events HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jio.Exclusive.HD.in">Jio Exclusive HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jio.Specials.HD.in">Jio Specials HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jio.Sports.HD.in">Jio Sports HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#JioGames.HD.in">JioGames HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#JK.24x7.News.in">JK 24x7 News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jk.Samachar.News.24x7.in">Jk Samachar News 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jonack.in">Jonack</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jothi.TV.in">Jothi TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#JUS.24x7.in">JUS 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#JUSOne.in">JUSOne</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#JUSPunjabi.in">JUSPunjabi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Jyothishavartha.in">Jyothishavartha</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#K.News.India.in">K News India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kairali.News.in">Kairali News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kairali.TV.in">Kairali TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kairali.WE.TV.in">Kairali WE TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kalaignar.Seithigal..in">Kalaignar Seithigal</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kalaignar.TV.in">Kalaignar TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kalinga.TV.in">Kalinga TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kalyan.TV.in">Kalyan TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kanak.News.in">Kanak News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kannada.Naaptol.in">Kannada Naaptol</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kannur.One.in">Kannur One</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kappa.TV.in">Kappa TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Karani.Mata.Rajasthan.in">Karani Mata Rajasthan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kartavya.TV.in">Kartavya TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kashish.News.in">Kashish News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kathaamrut.TV.in">Kathaamrut TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kaumudy.TV.in">Kaumudy TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#KBC.News.in">KBC News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#KCM.in">KCM</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Khabar.24x7.News.in">Khabar 24x7 News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Khabar.70.in">Khabar 70</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Khabar.Fast.in">Khabar Fast</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#KITE.VICTERS.in">KITE VICTERS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#KKD.News.in">KKD News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kochu.TV.in">Kochu TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kolkata.News.in">Kolkata News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kolkata.TV.in">Kolkata TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#KP.News.24x7.in">KP News 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kripa.TV.in">Kripa TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Krishi.Pitaara.in">Krishi Pitaara</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Krishna.Vani.in">Krishna Vani</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#KTV.Gujarati.in">KTV Gujarati</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#KTV.HD.in">KTV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#KTV.in">KTV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Kushi.TV.in">Kushi TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Lairik.in">Lairik</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Lakshya.TV.in">Lakshya TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Lancs.TV.HD.in">Lancs TV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Lifology.in">Lifology</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Live.India.News.24.in">Live India News 24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Live.Punjabi.TV.in">Live Punjabi TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Live.Times.in">Live Times</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Live.Today.in">Live Today</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Live.TV.Kerala.in">Live TV Kerala</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Living.India.News.in">Living India News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Lok.manch.Marathi.in">Lok manch Marathi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Lokshahi.in">Lokshahi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Lokshahi.News.in">Lokshahi News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Lotus.News.in">Lotus News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#M.Nadu.in">M Nadu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Madha.TV.in">Madha TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Madhimugam.TV.in">Madhimugam TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Maha.Movies.in">Maha Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mahaa.Bhakthi.in">Mahaa Bhakthi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mahaa.Max.in">Mahaa Max</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mahaa.News.in">Mahaa News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mahalaxmi.Mumbai.in">Mahalaxmi Mumbai</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mahua.Khabar.in">Mahua Khabar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mahua.Play.in">Mahua Play</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Maiboli.in">Maiboli</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Makkal.TV.in">Makkal TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Malai.Murasu.in">Malai Murasu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Malanadu.TV.in">Malanadu TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Malyalam.Naaptol.in">Malyalam Naaptol</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Manage.Stress.in">Manage Stress</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Manav.Dharam.in">Manav Dharam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mangalmay.Live.in">Mangalmay Live</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Manorama.News.in">Manorama News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Manoranjan.Grand.in">Manoranjan Grand</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mantavya.News.in">Mantavya News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mastiii.in">Mastiii</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mathrubhumi.News.in">Mathrubhumi News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Maya.Tv.in">Maya Tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mazavali.Manorama.HD.in">Mazavali Manorama HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mazhavil.Manorama.HD.in">Mazhavil Manorama HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mazhavil.Manorama.in">Mazhavil Manorama</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#MBC.in">MBC</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Medha.Secondary.in">Medha Secondary</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Media9.in">Media9</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Media.One.TV.in">Media One TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Merchant.Records.in">Merchant Records</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mercy.TV.in">Mercy TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#mh1.(Music).in">mh1 (Music)</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#MH1.Dil.Se.in">MH1 Dil Se</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#mh1.Shraddha.in">mh1 Shraddha</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mh.One.News.in">Mh One News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#MI.TV.in">MI TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Million.Dollar.Listing.in">Million Dollar Listing</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mirror.Now.in">Mirror Now</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#MK.Music.in">MK Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#MK.Six.in">MK Six</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#MK.TV.in">MK TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#MKN.News.in">MKN News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#MN+.HD.in">MN+ HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#MNX.HD.in">MNX HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#MNX.in">MNX</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mon.TV.Bangla.in">Mon TV Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Moon.TV.in">Moon TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Movies.Now.HD.in">Movies Now HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Movies.Now.in">Movies Now</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#MP.News.in">MP News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#MTV.HD.in">MTV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#MTV.in">MTV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Mumbadevi.Mumbai.in">Mumbadevi Mumbai</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Munsif.TV.in">Munsif TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Muscle.Strength.in">Muscle Strength</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Music.India.in">Music India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#N5TV.in">N5TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nakshatra.Digital.TV.in">Nakshatra Digital TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nambikkai.in">Nambikkai</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Namma.Bangalore.in">Namma Bangalore</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nandighosha.in">Nandighosha</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Narikaa.in">Narikaa</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nat.Geo.Wild.HD.in">Nat Geo Wild HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nation.27.in">Nation 27</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nation.Khabar.in">Nation Khabar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nation.NE.in">Nation NE</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nation.Star.News.in">Nation Star News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#National.Geographic.HD.in">National Geographic HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#National.News.in">National News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#National.News.Sattaxpress.in">National News Sattaxpress</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#National.Tv.India.in">National Tv India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Navsarjan.Sanskruti.Gujarati.in">Navsarjan Sanskruti Gujarati</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Navsarjan.Sanskruti.News.in">Navsarjan Sanskruti News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Naxatra.News.Hindi.in">Naxatra News Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NAZARA.in">NAZARA</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NB.News.in">NB News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NBC24.News.in">NBC24 News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NBS.Live.TV.in">NBS Live TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ND.24.in">ND 24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NDTV.24x7.in">NDTV 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NDTV.Good.Times.in">NDTV Good Times</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NDTV.India.in">NDTV India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NDTV.Marathi.in">NDTV Marathi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NDTV.Profit.in">NDTV Profit</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NE.News.in">NE News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nepal.one.in">Nepal one</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Network.10.in">Network 10</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News7.Tamil.in">News7 Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News11.Bharat.in">News11 Bharat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News11.in">News11</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News18.Bangla.News.in">News18 Bangla News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News18.BIHAR.in">News18 BIHAR</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News18.Gujarati.in">News18 Gujarati</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News18.JKLH.in">News18 JKLH</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News18.Kannada.News.in">News18 Kannada News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News18.Lokmat.in">News18 Lokmat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News18.MP.in">News18 MP</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News18.Oriya.in">News18 Oriya</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News18.Punjab.Haryana.in">News18 Punjab Haryana</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News18.RAJASTHAN.in">News18 RAJASTHAN</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News18.UP.in">News18 UP</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.1.India.in">News 1 India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.8.Odia.in">News 8 Odia</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.9.in">News 9</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.18.Assam.in">News 18 Assam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.18.India.in">News 18 India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.18.Kerala.in">News 18 Kerala</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.18.Tamilnadu.in">News 18 Tamilnadu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.21.in">News 21</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.24.Express.in">News 24 Express</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.24.in">News 24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NEWS.24.MPCG.in">NEWS 24 MPCG</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.24.Tass.in">News 24 Tass</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.24x7.in">News 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.80.in">News 80</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.360.in">News 360</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.Book.in">News Book</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.Capital.Gujarat.in">News Capital Gujarat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.First.in">News First</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.Flash.in">News Flash</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.Hour.in">News Hour</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.India.24x7.in">News India 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.India.TV.in">News India TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.J.in">News J</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.Malayalam.in">News Malayalam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.Marathi.24x7.in">News Marathi 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.Nation.81.in">News Nation 81</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.Nation.in">News Nation</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.Only.in">News Only</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.State.Bihar.Jharkhand.in">News State Bihar Jharkhand</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.State.MPCG..in">News State MPCG</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.State.Punjab.Haryana.Himachal.in">News State Punjab Haryana Himachal</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.State.UK.UP.in">News State UK UP</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.Tamil.24x7.in">News Tamil 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.Time.TV.in">News Time TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.UNI.in">News UNI</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.World.India.in">News World India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.X.in">News X</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News.X.World.in">News X World</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#News_Plus_24x7.in">News_Plus_24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Newslive.Bangla.in">Newslive Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Newslive.in">Newslive</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NHK.World.Japan.in">NHK World Japan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nick.Bangla.in">Nick Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nick.HD+.in">Nick HD+</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nick.Hindi.in">Nick Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nick.in">Nick</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nick.Jr.in">Nick Jr</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nick.Junior.in">Nick Junior</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nick.Kannada.in">Nick Kannada</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nick.Malayalam.in">Nick Malayalam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nick.Marathi.in">Nick Marathi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nick.Tamil.in">Nick Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nick.Telugu.in">Nick Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nickelodeon.Jr..in">Nickelodeon Jr.</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Nimbark.TV.in">Nimbark TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NK.TV.Bangla.in">NK TV Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NK.TV.Plus.in">NK TV Plus</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NKTV.Live.in">NKTV Live</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NL.TV.in">NL TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NoFilterNeha.in">NoFilterNeha</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#North.East.Live.in">North East Live</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NSDC.TV.in">NSDC TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NTV.in">NTV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#NTV.Telugu.in">NTV Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Om.Shanti.in">Om Shanti</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#OM.TV.in">OM TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Omnicuris.in">Omnicuris</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#One.Paschima.in">One Paschima</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Only.Music.in">Only Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Oscar.Movies.Bhojpuri.in">Oscar Movies Bhojpuri</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Oscar.Movies.in">Oscar Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#OTV.in">OTV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Oye.Music.in">Oye Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#P.News.in">P News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Panic.TV.in">Panic TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Paramatma.in">Paramatma</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Paras.tv.in">Paras tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Pasand.in">Pasand</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Patnagar.Network.News.in">Patnagar Network News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PEACE.MUSIC.in">PEACE MUSIC</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Peace.of.Mind.in">Peace of Mind</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Pehla.Pyaar.-.Less.Than.1.Percent.Chance.in">Pehla Pyaar - Less Than 1 Percent Chance</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Penta.TV.in">Penta TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Peppers.TV.in">Peppers TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Pickleball.Now.in">Pickleball Now</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Pitaara.in">Pitaara</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PM.e.Vidya.11.in">PM e Vidya 11</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PM.e.Vidya.12.in">PM e Vidya 12</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PMC.Hindi.in">PMC Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PMC.Telugu.in">PMC Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Pocket.Films.in">Pocket Films</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Pogo.Hindi.in">Pogo Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Pogo.in">Pogo</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Pogo.Tamil.in">Pogo Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Pogo.Telugu.in">Pogo Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Polimer.News.in">Polimer News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Polimer.TV.in">Polimer TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Power.Kids.TV.in">Power Kids TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Power.TV.in">Power TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Powervision.TV.in">Powervision TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PR.News.in">PR News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prabhu.Sandesh.in">Prabhu Sandesh</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prabhu.Vani.Tv.in">Prabhu Vani Tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prag.News.in">Prag News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prajatantra.TV.Bharat.in">Prajatantra TV Bharat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prameya.News.7.in">Prameya News 7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prarthana.Bhawan.in">Prarthana Bhawan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prarthana.TV.in">Prarthana TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Pratham.Khabar.24x7.in">Pratham Khabar 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prati.Shirdi.Saibaba.in">Prati Shirdi Saibaba</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Pratidin.Time.in">Pratidin Time</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Pravah.Picture.in">Pravah Picture</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prime.9.News.in">Prime 9 News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prime.Asia.HD.in">Prime Asia HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prime.Bharat.News.in">Prime Bharat News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prime.Media.Goa.in">Prime Media Goa</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prime.News.in">Prime News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prime.TV.in">Prime TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Propex.TV.in">Propex TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Prudent.in">Prudent</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PTC.Chak.De.in">PTC Chak De</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PTC.Music.in">PTC Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PTC.News.in">PTC News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PTC.Punjabi.Gold..in">PTC Punjabi Gold</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PTC.Punjabi.Gold.in">PTC Punjabi Gold</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PTC.Punjabi.in">PTC Punjabi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PTC.Simran.in">PTC Simran</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PTC.VR.in">PTC VR</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#PTD.Chhattisgarrh.in">PTD Chhattisgarrh</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Public.Asia.in">Public Asia</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Public.First.in">Public First</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Public.Movies.in">Public Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Public.Music.in">Public Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Public.TV.in">Public TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Pudhari.News.in">Pudhari News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Pulse.24.in">Pulse 24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Punjab.Plus.in">Punjab Plus</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Punjab.School.TV.in">Punjab School TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Punjabi.Hits.in">Punjabi Hits</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Punjabi.Melodies.in">Punjabi Melodies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Purnima.TV.in">Purnima TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Puthiya.Thalimurai.in">Puthiya Thalimurai</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Puthu.Yugam.in">Puthu Yugam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Q.GameX.in">Q GameX</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Q.Toonz.in">Q Toonz</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#R.Bangla.in">R Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#R.Hindustan.Tv.News.in">R Hindustan Tv News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#R.Kannada.in">R.Kannada</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#R.Plus.in">R Plus</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#R.TV.Bhakthi.in">R TV Bhakthi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raapchik.in">Raapchik</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raatdin.News.in">Raatdin News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#RadheKrishna.TV.in">RadheKrishna TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raftaar.Media.in">Raftaar Media</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raftaar.Samay.in">Raftaar Samay</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raj.Digital.Plus.in">Raj Digital Plus</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raj.Music.Kannada.in">Raj Music Kannada</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raj.Music.Malayalam.in">Raj Music Malayalam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raj.Music.Telugu.in">Raj Music Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raj.Musix.in">Raj Musix</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raj.News 24x7.in">Raj News 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raj.News.Kannada.in">Raj News Kannada</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raj.News.Malayalam.in">Raj News Malayalam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raj.News.Telugu.in">Raj News Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raj.Pariwar.in">Raj Pariwar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raj.TV.in">Raj TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Raj.tv.in">Raj tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Rajya.24.News.in">Rajya 24 News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Rajyoga.TV.in">Rajyoga TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Rajyoga.TV.Kannada.in">Rajyoga TV Kannada</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ramdhenu.in">Ramdhenu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Rang.in">Rang</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Rangamanch.in">Rangamanch</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#RC.Studio.in">RC Studio</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#RDC.Movies.in">RDC Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#RDX.Goa.in">RDX Goa</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Real.News.Kerala.in">Real News Kerala</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Red.Bull.TV.in">Red Bull TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Rengoni.in">Rengoni</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Reporter.TV.in">Reporter TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Republic.Bharat.in">Republic Bharat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Republic.TV.in">Republic TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Restful.Sleep.in">Restful Sleep</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Rishtey.in">Rishtey</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#RKMM.TV.in">RKMM TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Romedy.Now.HD.in">Romedy Now HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Romedy.Now.in">Romedy Now</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Rongeen.TV.in">Rongeen TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Rozana.Spokesman.24x7.in">Rozana Spokesman 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#RS.Bharat.in">RS Bharat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#RT.TV.in">RT TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Rupashi.Bangla.in">Rupashi Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ruposhi.Bangla.in">Ruposhi Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Saam.Tv.in">Saam Tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sacchi.Report.in">Sacchi Report</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#SACH.BEDHADAK.in">SACH BEDHADAK</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sadhguru.Television.Dolby.in">Sadhguru Television Dolby</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sadhna.Gold.in">Sadhna Gold</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sadhna.in">Sadhna</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sadhna.News.MP.CG.in">Sadhna News MP CG</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sadhna.News.Plus.in">Sadhna News Plus</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sadvidya.TV.in">Sadvidya TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Safari.TV..in">Safari TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Saga.Music.Haryanvi.in">Saga Music Haryanvi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Saga.Music.in">Saga Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sai.Leela.in">Sai Leela</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sai.TV.in">Sai TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sai.TV.Telugu.in">Sai TV Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sakshi.tv.in">Sakshi tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Samachar.24.in">Samachar 24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Samachar.Nation.in">Samachar Nation</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Samachar.Plus.in">Samachar Plus</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Samachar.Plus.Jharkhand.Bihar.in">Samachar Plus Jharkhand Bihar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Samachar.Today.in">Samachar Today</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Samara.News.in">Samara News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Samay.Kolkata.in">Samay Kolkata</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Samrat.News.TV.in">Samrat News TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sanatan.Bharat.in">Sanatan Bharat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sanatan.Sandesh.TV.in">Sanatan Sandesh TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sanatan.TV.in">Sanatan TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sandesh.News.in">Sandesh News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sangam.TV.in">Sangam TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sangeet.Bangla.in">Sangeet Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sangeet.Bhojpuri.in">Sangeet Bhojpuri</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sangeet.Marathi.in">Sangeet Marathi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sanjha.TV.in">Sanjha TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sanmarg.Tv.in">Sanmarg Tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sansad.TV.HD.in">Sansad TV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sansad.TV.in">Sansad TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sansad.TV.Rajya.Sabha.in">Sansad TV Rajya Sabha</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sanskar.in">Sanskar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sanskrit.Ganga.in">Sanskrit Ganga</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sanskrit.in">Sanskrit</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sanskriti.24x7.in">Sanskriti 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Santvani.in">Santvani</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Saregama.Hum.Bhojpuri.in">Saregama Hum Bhojpuri</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Saregama.Music.in">Saregama Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Saregama.Telugu.in">Saregama Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sarv.Dharam.Sangam.in">Sarv Dharam Sangam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sathiyam.TV.in">Sathiyam TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Satsang.TV.in">Satsang TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#SB.News.24x7.in">SB News 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#SET.HD.in">SET HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Set.SD.in">Set SD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shalom.in">Shalom</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shark.Tank.India.Season.04.in">Shark Tank India Season 04</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sharnam.TV.in">Sharnam TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shekinah.TV.in">Shekinah TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shemaroo.Bollywood.in">Shemaroo Bollywood</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shemaroo.Filmy.Gaane.in">Shemaroo Filmy Gaane</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shemaroo.MarathiBana.in">Shemaroo MarathiBana</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shemaroo.TV.in">Shemaroo TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shemaroo.Umang.in">Shemaroo Umang</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shemaroo.UMANG.in">Shemaroo UMANG</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shesh.Khabar.in">Shesh Khabar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shiksha.TV.in">Shiksha TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shree.Ganesh.-.Moti.Doongri.Jaipur.in">Shree Ganesh - Moti Doongri Jaipur</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shree.Jagannath.TV.in">Shree Jagannath TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shri.Amarnathji.Shrine.Board.in">Shri Amarnathji Shrine Board</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shri.Hingulambika.Devi.Temple.in">Shri Hingulambika Devi Temple</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shri.Mangal.Dev.Grah.Temple.in">Shri Mangal Dev Grah Temple</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shri.News.in">Shri News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shubh.TV.in">Shubh TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Shubhsandesh.TV.in">Shubhsandesh TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sidharth.Bhakti.in">Sidharth Bhakti</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sidharth.Gold.in">Sidharth Gold</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sidharth.GOLD.in">Sidharth GOLD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sidharth.TV.in">Sidharth TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sidharth.UTSAV.in">Sidharth UTSAV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sikh.Ratnavali.in">Sikh Ratnavali</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Siri.Kannada.in">Siri Kannada</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sky.India.Tv.in">Sky India Tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#SMBC.TV.in">SMBC TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Smriti.Patra.TV.in">Smriti Patra TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Soham.TV.in">Soham TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#SongDew.TV.in">SongDew TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sonic.Bangla.in">Sonic Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sonic.Hindi.in">Sonic Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sonic.Kannada.in">Sonic Kannada</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sonic.Malayalam.in">Sonic Malayalam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sonic.Marathi.in">Sonic Marathi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sonic.Nickelodeon.in">Sonic Nickelodeon</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#sonic.Tamil.in">sonic Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sonic.Telugu.in">Sonic Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.aath.in">Sony aath</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Aath.in">Sony Aath</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#SONY.BBC.Earth.in">SONY BBC Earth</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Entertainment.Television.in">Sony Entertainment Television</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Marathi.in">Sony Marathi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Marathi.SD.in">Sony Marathi SD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.MAX2.in">Sony MAX2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Max.2.in">Sony Max 2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Max.HD.in">Sony Max HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Max.in">Sony Max</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Max.SD.in">Sony Max SD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Pal.in">Sony Pal</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Pix.HD.in">Sony Pix HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#SONY.PIX.in">SONY PIX</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.SAB.HD.in">Sony SAB HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.SAB.in">Sony SAB</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Sports.Ten.1.HD.in">Sony Sports Ten 1 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Sports.Ten.1.in">Sony Sports Ten 1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Sports.Ten.2.HD.in">Sony Sports Ten 2 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Sports.Ten.2.in">Sony Sports Ten 2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Sports.Ten.3.HD.in">Sony Sports Ten 3 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Sports.Ten.4.HD.in">Sony Sports Ten 4 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Sports.Ten.5.in">Sony Sports Ten 5</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Ten.1.HD.in">Sony Ten 1 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Ten.1.in">Sony Ten 1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Ten.2.HD.in">Sony Ten 2 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Ten.3.HD.Hindi.in">Sony Ten 3 HD Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Ten.3.Hindi.in">Sony Ten 3 Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Ten.4.HD.Tamil.in">Sony Ten 4 HD Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Ten.4.HD.Telugu.in">Sony Ten 4 HD Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Ten.4.Tamil.in">Sony Ten 4 Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Ten.4.Telugu.in">Sony Ten 4 Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Ten.5.HD.in">Sony Ten 5 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Ten.5.in">Sony Ten 5</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Wah.in">Sony Wah</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#SONY.YAY!.in">SONY YAY!</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Yay.Hindi.in">Sony Yay Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Yay.Tamil.in">Sony Yay Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sony.Yay.Telugu.in">Sony Yay Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Soochna.India.in">Soochna India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Spondon.in">Spondon</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sports.18.2.in">Sports 18 2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sports.18.-.1.in">Sports 18 - 1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sri.Krishna.Matha.Udupi.in">Sri Krishna Matha Udupi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sri.Naga.Sai.Mandir.in">Sri Naga Sai Mandir</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sri.Sankara.in">Sri Sankara</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sri.Venkateshwar.Bhakti.in">Sri Venkateshwar Bhakti</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sristi.TV.in">Sristi TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#SRS.Bhakti.TV.in">SRS Bhakti TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Bharat.in">Star Bharat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Gold.2.HD.in">Star Gold 2 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Gold.2.in">Star Gold 2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Gold.in">Star Gold</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Gold.Romance.in">Star Gold Romance</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Gold.Select.in">Star Gold Select</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Gold.Thrills.in">Star Gold Thrills</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Jalsha.in">Star Jalsha</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Jalsha.Movies.in">Star Jalsha Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Kiran.in">Star Kiran</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Maa.Movies.in">Star Maa Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Movies.in">Star Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Movies.Select.HD.in">Star Movies Select HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Plus.HD.in">Star Plus HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Plus.in">Star Plus</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Pravah.in">Star Pravah</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Sports.1.in">Star Sports 1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Sports.1.Kannada.in">Star Sports 1 Kannada</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Sports.1.Tamil.in">Star Sports 1 Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Sports.2.HD.in">Star Sports 2 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Sports.2.Hindi.HD.in">Star Sports 2 Hindi HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Sports.2.Hindi.in">Star Sports 2 Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Sports.2.Tamil.in">Star Sports 2 Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Sports.2.Telugu.in">Star Sports 2 Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Sports.First.in">Star Sports First</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Sports.Hindi.1.in">Star Sports Hindi 1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Sports.Khel.in">Star Sports Khel</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Sports.Select.1.in">Star Sports Select 1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Sports.Select.2.in">Star Sports Select 2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Suvarna.HD.in">Star Suvarna HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Utsav.in">Star Utsav</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Utsav.Movies.in">Star Utsav Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Star.Vijay.HD.in">Star Vijay HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Steelbird.Music.in">Steelbird Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Studio.One.in">Studio One</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Studio.Yuva.Alpha.in">Studio Yuva Alpha</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#STV24.News.in">STV24 News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#STV.Haryana.News.in">STV Haryana News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Subharti.in">Subharti</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Subhavartha.TV.in">Subhavartha TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sudarshan.in">Sudarshan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sugran.in">Sugran</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sun.Bangla.in">Sun Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sun.Life.in">Sun Life</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sun.Marathi.in">Sun Marathi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sun.Music.HD.in">Sun Music HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sun.Neo.HD.in">Sun Neo HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sun.Neo.in">Sun Neo</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sun.News.in">Sun News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sun.TV.HD.in">Sun TV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sun.Tv.in">Sun Tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Sundrani.TV.in">Sundrani TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Super.Hungama.in">Super Hungama</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Surya.Comedy.in">Surya Comedy</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Surya.HD.in">Surya HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Surya.Movies.in">Surya Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Surya.Music.in">Surya Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Surya.Samachar.in">Surya Samachar</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Surya.TV.in">Surya TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Suvarna.News.in">Suvarna News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#SVBC2.in">SVBC2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#SVBC3.in">SVBC3</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#SVBC4.in">SVBC4</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#SVBC.in">SVBC</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Swadesh.News.in">Swadesh News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Swaralasika.Sangeetalaya.in">Swaralasika Sangeetalaya</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Swatantra.News.in">Swatantra News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#T.News.in">T News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#T.SAT.Nipuna.in">T SAT Nipuna</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#T.TV.in">T TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Taaza.TV.in">Taaza TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Tabbar.Hits.in">Tabbar Hits</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Taiwan.Plus.in">Taiwan Plus</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Tamil.Janam.in">Tamil Janam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Tamil.Naaptol.in">Tamil Naaptol</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Tamilan.Television.in">Tamilan Television</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Tar.TV.in">Tar TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Tara.TV.in">Tara TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Tata.Play.Classic.Cinema.in">Tata Play Classic Cinema</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Tata.Play.Romance.in">Tata Play Romance</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Tehzeeb.TV.in">Tehzeeb TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Telugu.Naaptol.in">Telugu Naaptol</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Ten.2.in">Ten 2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#testa.in">testa</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#testii.in">testii</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Thanthi.One.in">Thanthi One</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Thanthi.TV.in">Thanthi TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#The.Book.Channel.in">The Book Channel</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#The.Q.in">The Q</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#The.Q.India.in">The Q India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#The.Q.Kahaniyan.in">The Q Kahaniyan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#The.Unmute.in">The Unmute</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TIME8.in">TIME8</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Times.NOW.in">Times NOW</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Times.Now.Navbharat.in">Times Now Navbharat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Times.Now.World.in">Times Now World</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TLC.English.in">TLC English</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TLC.HD.in">TLC HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TLC.HD.World.in">TLC HD World</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TLC.Hindi.in">TLC Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TNI24.in">TNI24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TNI.Awaaz.in">TNI Awaaz</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TNP.News.in">TNP News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Today.24.News.in">Today 24 News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Today.24.News.UPUK.in">Today 24 News UPUK</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Today.India.News.in">Today India News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Top.News.Marathi.in">Top News Marathi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Top.Tutor.in">Top Tutor</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Total.Tv.Haryana.in">Total Tv Haryana</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Total.TV.in">Total TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Travel.XP.HD.in">Travel XP HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Travelxp.HD.Hindi.in">Travelxp HD Hindi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Travelxp.HD.in">Travelxp HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Travelxp.Tamil.in">Travelxp Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Tribe.TV.in">Tribe TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TTN24.in">TTN24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Tulja.Bhavani.in">Tulja Bhavani</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Tunes.6.in">Tunes 6</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Tute.in">Tute</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TV5.Monde.in">TV5 Monde</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TV9.Bangla.in">TV9 Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TV9.Bharatvarsh.in">TV9 Bharatvarsh</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TV9.Karnataka.in">TV9 Karnataka</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TV9.Maharashtra.in">TV9 Maharashtra</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TV9.Telugu.News.in">TV9 Telugu News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TV24.in">TV24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TV27.News.in">TV27 News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TV45.in">TV45</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TV.5.Kannada.in">TV 5 Kannada</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TV.5.News.in">TV 5 News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Tv.9.Gujarat.in">Tv 9 Gujarat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TV.100.in">TV 100</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TV.Asia.Powered.by.Shemaroo.in">TV Asia Powered by Shemaroo</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#TV.Teacher.in">TV Teacher</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Twenty.Four.News.in">Twenty Four News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#U.Bangla.in">U Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Udaya.Comedy.in">Udaya Comedy</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Udaya.HD.in">Udaya HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Udaya.Movies.in">Udaya Movies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Udaya.Music.in">Udaya Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Udaya.TV.in">Udaya TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Unique.Tv.in">Unique Tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Update.India.in">Update India</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#V6.News.in">V6 News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Vaanavil.TV.in">Vaanavil TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#VACC.24.News.in">VACC 24 News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Valam.TV.in">Valam TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Vande.Bharat.News.in">Vande Bharat News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Vanitha.in">Vanitha</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Vasanth.TV.in">Vasanth TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Vedant.Ras.Swar.Shree.in">Vedant Ras Swar Shree</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Vedic.TV.in">Vedic TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Velicham.Tv.in">Velicham Tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Velukkudi.Discourses.in">Velukkudi Discourses</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Vendhar.TV.in">Vendhar TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Vertent.Samachar.Plus.24x7.in">Vertent Samachar Plus 24x7</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Vignesh.TV.in">Vignesh TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#VIP.News.in">VIP News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Visionary.TV.in">Visionary TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Vissa.TV.in">Vissa TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Vistaar.News.in">Vistaar News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#VISVAS.in">VISVAS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#VNM.TV.in">VNM TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Voice.TV.Urdu.in">Voice TV Urdu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#VR.Live.in">VR Live</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#VST.India.News.in">VST India News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#VTV.Gujarati.in">VTV Gujarati</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Vyasa.TV.in">Vyasa TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Wah.Punjabi.in">Wah Punjabi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#We.TV.in">We TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Weight.Loss.Yoga.in">Weight Loss Yoga</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Wellness.in">Wellness</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Wild.Earth.in">Wild Earth</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Win.TV.in">Win TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Wion.in">Wion</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Wow.Cinema.One.in">Wow Cinema One</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#WPN.World.Punjabi.News.in">WPN World Punjabi News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Yeshuaa.TV.in">Yeshuaa TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Yoga.for.Beginners.in">Yoga for Beginners</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#YRF.Music.in">YRF Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Z10.TV.in">Z10 TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.24.Ghanta.in">Zee 24 Ghanta</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.24.Kalak.in">Zee 24 Kalak</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.24.Taas.in">Zee 24 Taas</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Anmol.Cinema.2.in">Zee Anmol Cinema 2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Anmol.Cinema.in">Zee Anmol Cinema</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Anmol.in">Zee Anmol</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Bangla.Cinema.in">Zee Bangla Cinema</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Bangla.in">Zee Bangla</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Bharat.in">Zee Bharat</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Bihar.Jharkhand.in">Zee Bihar Jharkhand</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Biskope.in">Zee Biskope</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Bollywood.in">Zee Bollywood</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Business.in">Zee Business</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Cafe.HD.in">Zee Cafe HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Cinema.HD.in">Zee Cinema HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Cinema.in">Zee Cinema</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Cinemalu.HD.in">Zee Cinemalu HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Classic.in">Zee Classic</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Delhi.NCR.Haryana.in">Zee Delhi NCR Haryana</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Ganga.in">Zee Ganga</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Kannada.in">Zee Kannada</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Kannada.News.in">Zee Kannada News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Keralam.in">Zee Keralam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Marathi.in">Zee Marathi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.MP.Chattisgarh.in">Zee MP Chattisgarh</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.News.in">Zee News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Punjab.Haryana.HP.in">Zee Punjab Haryana HP</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Rajasthan.in">Zee Rajasthan</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Salaam.in">Zee Salaam</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Sarthak.in">Zee Sarthak</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Talkies.in">Zee Talkies</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Tamil.in">Zee Tamil</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Telugu.in">Zee Telugu</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Telugu.News.in">Zee Telugu News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Thirai.in">Zee Thirai</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.TV.HD.in">Zee TV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.TV.in">Zee TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.UP.UK.in">Zee UP UK</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Yuva.in">Zee Yuva</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#Zee.Zest.HD.in">Zee Zest HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN1#ZOOM.in">ZOOM</channel>
+</channels>

@@ -1,0 +1,3 @@
+# Ignore Tempest logs
+tempest.log
+tempest_epg.log

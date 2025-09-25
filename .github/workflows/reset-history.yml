@@ -1,0 +1,70 @@
+name: Reset Repo
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: "Type ERASE to confirm wiping repo history"
+        required: true
+        default: "NO"
+
+jobs:
+  reset-repo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check confirmation
+        run: |
+          if [ "${{ github.event.inputs.confirm }}" != "ERASE" ]; then
+            echo "⚠️ Confirmation failed. Type ERASE to proceed."
+            exit 1
+          fi
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history required
+
+      - name: Set Git identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Delete old branches
+        run: |
+          git fetch --all
+          for branch in $(git branch -r | grep -vE "origin/(main|HEAD)" | sed 's|origin/||'); do
+            git push origin --delete $branch || true
+          done
+
+      - name: Create orphan branch (wipe history but keep files)
+        run: |
+          git checkout --orphan temp-branch
+          git add -A
+          git commit -m "Initial commit"
+          git branch -M main
+
+      - name: Force push main
+        run: git push origin main --force
+
+  cleanup-deployments:
+    runs-on: ubuntu-latest
+    needs: reset-repo
+    env:
+      GITHUB_TOKEN: ${{ secrets.Delete_Old_Deployment }}
+      REPO: ${{ github.repository }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run cleanup script
+        run: python scripts/personal/cleanup-deployments.py
