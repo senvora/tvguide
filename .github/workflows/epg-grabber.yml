@@ -71,7 +71,7 @@ jobs:
         run: python3 -u scripts/personal/epg-grabber.py > /dev/null 2>&1 && echo "✅ Merged XMLs"
 
       - name: Run EPG Downloader
-        if: github.event.schedule == '30 16 * * *'
+        if: github.event.schedule == '00 22 * * *'
         env:
           JIO_EPG_URL: ${{ secrets.JIO_EPG_URL }}
         run: python3 -u scripts/personal/epg-downloader.py > /dev/null 2>&1 && echo "✅ EPG Downloader finished"
