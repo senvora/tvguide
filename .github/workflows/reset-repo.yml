@@ -1,0 +1,78 @@
+name: Full Repo Reset (Keep Latest Deployment)
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: "Type ERASE to confirm wiping repo completely"
+        required: true
+        default: "NO"
+
+jobs:
+  reset-repo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check confirmation
+        run: |
+          if [ "${{ github.event.inputs.confirm }}" != "ERASE" ]; then
+            echo "⚠️ Confirmation failed. Type ERASE to proceed."
+            exit 1
+          fi
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set Git identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Delete all remote branches
+        run: |
+          DEFAULT_BRANCH=$(git symbolic-ref refs/remotes/origin/HEAD | sed 's@^refs/remotes/origin/@@')
+          git fetch --all
+          for branch in $(git branch -r | grep -vE "origin/($DEFAULT_BRANCH|HEAD)" | sed 's|origin/||'); do
+            git push origin --delete $branch || true
+          done
+
+      - name: Delete all tags
+        run: |
+          git fetch --tags
+          for tag in $(git tag); do
+            git push origin --delete tag $tag || true
+          done
+
+      - name: Create orphan branch (wipe history)
+        run: |
+          git checkout --orphan temp-branch
+          git add -A
+          git commit -m "Initial commit"
+          DEFAULT_BRANCH=$(git symbolic-ref refs/remotes/origin/HEAD | sed 's@^refs/remotes/origin/@@')
+          git branch -M $DEFAULT_BRANCH
+
+      - name: Force push
+        run: git push origin $DEFAULT_BRANCH --force
+
+  cleanup-api:
+    runs-on: ubuntu-latest
+    needs: reset-repo
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run cleanup script
+        run: python scripts/personal/reset-repo.py

@@ -1,0 +1,5 @@
+distro.tv/distrotv.xml
+gatotv.com/gatotv.xml
+plex.tv/plextv.xml
+sky.com/sky.xml
+tataplay.com/tataplay.xml

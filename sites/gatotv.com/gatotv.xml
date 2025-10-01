@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="gatotv.com" lang="es" xmltv_id="hbo2latinamerica.us" site_id="hbo_2_latinoamerica">HBO 2 LATAM</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="hbofamilylatinamerica.us" site_id="hbo_family_latinoamerica">HBO Family LATAM</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="hbolatinamerica.us" site_id="hbo_latinoamerica">HBO Latinoamérica</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="hbolatinoeast.us" site_id="hbo_latino_este">HBO Latino Este</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="hbomundilatinamerica.us" site_id="hbo_mundi">HBO Mundi</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="hbopluslatinamerica.us" site_id="hbo_plus">HBO Plus</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="hbopoplatinamerica.us" site_id="hbo_pop">HBO Pop</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="hbosignaturelatinamerica.us" site_id="hbo_signature_latinoamerica">HBO Signature LATAM</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="hboxtremelatinamerica.us" site_id="hbo_xtreme">HBO Xtreme</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="universalcinema.us" site_id="universal_cinema">Universal Cinema</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="universalcomedy.us" site_id="universal_comedy">Universal Comedy</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="universalcrimeeast.us" site_id="universal_crime">Universal Crime</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="universalpremiereeast.us" site_id="universal_premiere">Universal Premiere</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="universalreality.us" site_id="universal_reality">Universal Reality</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="universaltvlatinamericamaxico.us" site_id="universal_tv_mexico">Universal TV México</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="universaltvlatinamericapanregional.us" site_id="universal_tv_panregional">Universal TV Panregional</channel>
+</channels>

@@ -1,0 +1,181 @@
+name: EPG Grabber
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *"       # Every 3 hours
+    - cron: "00 22 * * *"       # Daily at 3:30 IST
+
+concurrency:
+  group: epg-jobs-${{ github.event.schedule || 'manual' }}
+  cancel-in-progress: true
+
+jobs:
+  grab-epg-main:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kolkata
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions Bot"
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Node.js dependencies
+        run: npm install --silent --no-audit --no-fund --legacy-peer-deps
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Python dependencies
+        run: |
+          [ -f requirements.txt ] && pip install -q -r requirements.txt || true
+
+      - name: Grab all EPG in parallel
+        run: |
+          set -e
+          grab_provider() {
+            PROVIDER_PATH=$1
+            BASENAME=$(basename "$PROVIDER_PATH" .xml)
+            OUTFILE="tmp_xml/${BASENAME}.xml"
+            mkdir -p tmp_xml
+            if [ -f "sites/$PROVIDER_PATH" ]; then
+              echo "[$BASENAME] Running grab..."
+              if ! npm run grab --silent -- --channels="sites/$PROVIDER_PATH" --maxConnections=10 --days=2 --output="$OUTFILE" > /dev/null 2>&1; then
+                echo "[$BASENAME] ❌ Failed, creating placeholder..."
+                echo "<?xml version='1.0' encoding='UTF-8'?><tv></tv>" > "$OUTFILE"
+              else
+                echo "[$BASENAME] ✅ Success"
+              fi
+            else
+              echo "[$BASENAME] ⚠️ Channel file not found, creating placeholder XML..."
+              echo "<?xml version='1.0' encoding='UTF-8'?><tv></tv>" > "$OUTFILE"
+            fi
+          }
+          while read PROVIDER_PATH || [ -n "$PROVIDER_PATH" ]; do
+            grab_provider "$PROVIDER_PATH" &
+          done < scripts/personal/sites.txt
+          wait
+
+      - name: Merge XMLs
+        run: python3 -u scripts/personal/epg-grabber.py > /dev/null 2>&1 && echo "✅ Merged XMLs"
+
+      - name: Run EPG Downloader
+        if: github.event.schedule == '00 22 * * *'
+        env:
+          JIO_EPG_URL: ${{ secrets.JIO_EPG_URL }}
+        run: python3 -u scripts/personal/epg-downloader.py > /dev/null 2>&1 && echo "✅ EPG Downloader finished"
+
+      - name: Commit and push updated guide XMLs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🔄 Automatically donloaded EPG"
+          file_pattern: "guide/*.xml.gz"
+          branch: "main"
+
+  tempest-epg:
+    needs: grab-epg-main
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kolkata
+      ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}
+      RAVELYNTH_TOKEN: ${{ secrets.RAVELYNTH_TOKEN }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 8.4
+          extensions: xml, imagick, zip, curl
+
+      - name: Install 7-Zip
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq p7zip-full
+
+      - name: Unzip tempest-epg-grabber
+        run: |
+          mkdir -p temp_epg
+          7z x tempest-epg-grabber.zip -p"$ZIP_PASSWORD" -otemp_epg > /dev/null
+
+      - name: Run Tempest PHP grabber
+        run: |
+          echo "⚡ Running Tempest PHP grabber..."
+          php -d date.timezone=Asia/Kolkata temp_epg/tempest.php --epg config=tempest.config.xml > /dev/null 2>&1 && echo "✅ Tempest PHP grabber done"
+
+      - name: Run Tempest Python generator
+        run: |
+          echo "⚡ Running Tempest Python generator..."
+          python3 -u scripts/personal/tempest-epg.py > /dev/null 2>&1 && echo "✅ Tempest Python generator done"
+
+      - name: Cleanup raw XML
+        run: rm -f temp_epg/tempest_config/epg/epg.xml
+
+      - name: Repack tempest-epg-grabber
+        run: |
+          rm -f tempest-epg-grabber.zip
+          7z a -tzip -p"$ZIP_PASSWORD" tempest-epg-grabber.zip ./temp_epg/* > /dev/null
+
+      - name: Remove temporary folder
+        run: rm -rf temp_epg
+
+      - name: Commit and push updated files
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions Bot"
+          git add .
+          git diff --cached --quiet || git commit -m "🔄 Automatically updated EPG"
+          git pull --rebase --autostash origin "$(git rev-parse --abbrev-ref HEAD)" > /dev/null 2>&1 || true
+          git push origin "$(git rev-parse --abbrev-ref HEAD)" > /dev/null 2>&1
+
+      - name: Push EPG to Ravelynth Repo (public folder)
+        env:
+          RAVELYNTH_TOKEN: ${{ secrets.RAVELYNTH_TOKEN }}
+        run: |
+          FILE_SRC="guide/epg.xml.gz"
+          FILE_DEST="public/epg.xml.gz"
+          TARGET_BRANCH="main"
+          REPO="github.com/senvora/ravelynth.git"  # Hardcoded repo
+
+          if [ ! -f "$FILE_SRC" ]; then
+            echo "❌ EPG file not found: $FILE_SRC"
+            exit 1
+          fi
+
+          HASH_NEW=$(sha256sum "$FILE_SRC" | awk '{print $1}')
+          echo "New file hash: $HASH_NEW"
+
+          git clone --depth 1 --filter=blob:none --branch "$TARGET_BRANCH" "https://x-access-token:${RAVELYNTH_TOKEN}@${REPO}" tmp_repo > /dev/null 2>&1
+          cd tmp_repo
+
+          if [ -f "$FILE_DEST" ]; then
+            HASH_OLD=$(sha256sum "$FILE_DEST" | awk '{print $1}')
+          else
+            HASH_OLD="none"
+          fi
+          echo "Old file hash: $HASH_OLD"
+
+          if [ "$HASH_NEW" = "$HASH_OLD" ]; then
+            echo "⚡ No change in EPG file, skipping commit."
+            exit 0
+          fi
+
+          mkdir -p public
+          cp "../$FILE_SRC" "$FILE_DEST"
+
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions Bot"
+          git add "$FILE_DEST"
+          git commit -m "🔄 Automatically updated EPG"
+          git pull --rebase --autostash origin "$TARGET_BRANCH" > /dev/null 2>&1 || true
+          git push "https://x-access-token:${RAVELYNTH_TOKEN}@${REPO}" "$TARGET_BRANCH" > /dev/null 2>&1

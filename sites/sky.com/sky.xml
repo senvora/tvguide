@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="sky.com" lang="en" xmltv_id="skysportscrickethd.uk" site_id="4081">SkySpCricket HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="skysportsmaineventhd.uk" site_id="4002">SkySpMainEvHD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="skysportsmixhd.uk" site_id="4090">SkySp Mix HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="tntsports1hd.uk" site_id="3625">TNTSports1 HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="tntsports2hd.uk" site_id="3627">TNTSports2 HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="tntsports3hd.uk" site_id="3629">TNTSports3 HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="tntsports4hd.uk" site_id="4040">TNTSports4 HD</channel>
+</channels>
