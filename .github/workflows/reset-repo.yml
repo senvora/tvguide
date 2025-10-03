@@ -1,4 +1,4 @@
-name: Full Repo Reset (Keep Latest Deployment)
+name: Repo Reset
 
 on:
   workflow_dispatch:
