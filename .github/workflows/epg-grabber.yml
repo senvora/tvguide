@@ -143,7 +143,7 @@ jobs:
           RAVELYNTH_TOKEN: ${{ secrets.RAVELYNTH_TOKEN }}
         run: |
           FILE_SRC="guide/epg.xml.gz"
-          FILE_DEST="public/epg.xml.gz"
+          FILE_DEST="public/guide/epg.xml.gz"
           TARGET_BRANCH="main"
           REPO="github.com/senvora/ravelynth.git"  # Hardcoded repo
 
